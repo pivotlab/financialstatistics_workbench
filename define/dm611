@@ -1,0 +1,18 @@
+# Allocation Range Dimension
+
+## identifier
+dm611
+
+## type
+string
+
+## definition
+This dimension classifies information based on the position within the applicable allocation range.
+
+## codes
+| Code   | Description |
+| ------ | ----------- |
+| Target | Target |
+| Lower  | Lower  |
+| Actual | Actual |
+| Upper  | Upper  |

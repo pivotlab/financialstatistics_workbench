@@ -1,0 +1,16 @@
+# Assets Other Intangible Value Type Dimension
+
+## identifier
+dm566
+
+## type
+string
+
+## definition
+This dimension identifies whether or not the item reported is net of other intangible assets, as determined in accordance with relevant accounting standards.
+
+## codes
+| Code  | Description |
+| ----- | ----------- |
+| Net   | Net   |
+| Gross | Gross |

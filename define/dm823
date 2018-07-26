@@ -1,0 +1,18 @@
+# Treatment Services Dimension
+
+## identifier
+dm823
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the type of treatment services provided.
+
+## codes
+| Code                                | Description                             |
+| ----------------------------------- | --------------------------------------- |
+| HospitalAndGeneralTreatmentCombined | Hospital And General Treatment Combined |
+| TreatmentThatIncludesHospital       | Treatment That Includes Hospital        |
+| HospitalTreatmentOnly               | Hospital Treatment Only                 |
+| GeneralTreatmentOnly                | General Treatment Only                  |

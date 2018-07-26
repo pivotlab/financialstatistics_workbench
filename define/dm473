@@ -1,0 +1,18 @@
+# Claim Approval Percentage
+
+## identifier
+dm473
+
+## type
+string
+
+## definition
+This dimension categorises information reported according to its approval percentage.
+
+## codes
+| Code               | Description                  |
+| ------------------ | ---------------------------- |
+| Approved100Pct     | 100% Approved                |
+| Approved75To99p9   | 75% to 99.9% Approved        |
+| ApprovedZerop1To75 | 0.1 % Less Than 75% Approved |
+| Declined           | Declined                     |

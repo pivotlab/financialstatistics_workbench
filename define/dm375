@@ -1,0 +1,15 @@
+# Underlying Asset Quality
+
+## identifier
+dm375
+
+## type
+string
+
+## definition
+This dimension categorises information according to the quality of an asset that is connected to the concept being reported, not the concept itself.
+
+## codes
+| Code     | Description |
+| -------- | ----------- |
+| Impaired | Impaired |

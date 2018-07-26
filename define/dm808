@@ -1,0 +1,19 @@
+# Relative Fee Size Dimension
+
+## identifier
+dm808
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the size of the fee charged relative to the Medicare benefit schedule fee.
+
+## codes
+| Code                                                                                  | Description                                                                                         |
+| ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| LessThanOrEqualToMedicareBenefitScheduleFee                                           | Less Than Or Equal To Medicare Benefit Schedule Fee                                                 |
+| GreaterThanMedicareBenefitScheduleFeeTo125PercentMedicareBenefitScheduleFee           | Greater Than Medicare Benefit Schedule Fee To 125 Percent Medicare Benefit Schedule Fee             |
+| GreaterThan200PercentMedicareBenefitScheduleFee                                       | Greater Than 200 Percent Medicare Benefit Schedule Fee                                              |
+| GreaterThan150PercentMedicareBenefitScheduleFeeTo200PercentMedicareBenefitScheduleFee | Greater Than 150 Percent Medicare Benefit Schedule Fee To 200 Percent Medicare Benefit Schedule Fee |
+| GreaterThan125PercentMedicareBenefitScheduleFeeTo150PercentMedicareBenefitScheduleFee | Greater Than 125 Percent Medicare Benefit Schedule Fee To 150 Percent Medicare Benefit Schedule Fee |

@@ -1,0 +1,16 @@
+# Allowable Income Source Dimension
+
+## identifier
+dm936
+
+## type
+string
+
+## definition
+The information reported refers to allowable income, as defined by the entity's serviceability assessment policy.
+
+## codes
+| Code                  | Description             |
+| --------------------- | ----------------------- |
+| ForeignSourcedIncome  | Foreign Sourced Income  |
+| DomesticSourcedIncome | Domestic Sourced Income |

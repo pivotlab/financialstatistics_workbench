@@ -1,0 +1,82 @@
+# Life Fund Segments Dimension
+
+## identifier
+dm387
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the business segments of the life companies and friendly societies. Life companies and friendly societies are required to segregate their business activities into that which is conducted for life insurance and that which is for internal operations of the company.
+
+## codes
+| Code                    | Description               |
+| ----------------------- | ------------------------- |
+| StatFund1               | Stat Fund 1               |
+| StatFund2               | Stat Fund 2               |
+| StatFunds               | Stat Fund                 |
+| StatFund3               | Stat Fund 3               |
+| StatFund4               | Stat Fund 4               |
+| StatFund5               | Stat Fund 5               |
+| StatFund6               | Stat Fund 6               |
+| StatFund7               | Stat Fund 7               |
+| StatFund8               | Stat Fund 8               |
+| StatFund9               | Stat Fund 9               |
+| StatFund10              | Stat Fund 10              |
+| StatFund11              | Stat Fund 11              |
+| StatFund12              | Stat Fund 12              |
+| StatFund13              | Stat Fund 13              |
+| StatFund14              | Stat Fund 14              |
+| StatFund15              | Stat Fund 15              |
+| StatFund16              | Stat Fund 16              |
+| StatFund17              | Stat Fund 17              |
+| StatFund18              | Stat Fund 18              |
+| StatFund19              | Stat Fund 19              |
+| StatFund20              | Stat Fund 20              |
+| StatFund21              | Stat Fund 21              |
+| StatFund22              | Stat Fund 22              |
+| StatFund23              | Stat Fund 23              |
+| StatFund24              | Stat Fund 24              |
+| StatFund25              | Stat Fund 25              |
+| StatFund26              | Stat Fund 26              |
+| StatFund27              | Stat Fund 27              |
+| StatFund28              | Stat Fund 28              |
+| StatFund29              | Stat Fund 29              |
+| StatFund30              | Stat Fund 30              |
+| StatFund31              | Stat Fund 31              |
+| StatFund32              | Stat Fund 32              |
+| StatFund33              | Stat Fund 33              |
+| StatFund34              | Stat Fund 34              |
+| StatFund35              | Stat Fund 35              |
+| StatFund36              | Stat Fund 36              |
+| StatFund37              | Stat Fund 37              |
+| StatFund38              | Stat Fund 38              |
+| StatFund39              | Stat Fund 39              |
+| StatFund40              | Stat Fund 40              |
+| StatFund41              | Stat Fund 41              |
+| StatFund42              | Stat Fund 42              |
+| StatFund43              | Stat Fund 43              |
+| StatFund44              | Stat Fund 44              |
+| StatFund45              | Stat Fund 45              |
+| StatFund46              | Stat Fund 46              |
+| StatFund47              | Stat Fund 47              |
+| StatFund48              | Stat Fund 48              |
+| StatFund49              | Stat Fund 49              |
+| StatFund50              | Stat Fund 50              |
+| GeneralFund             | General Fund              |
+| GeneralFundEliminations | General Fund Eliminations |
+| StatFund61              | Stat Fund 61              |
+| StatFund60              | Stat Fund 60              |
+| StatFund63              | Stat Fund 63              |
+| StatFund64              | Stat Fund 64              |
+| StatFund58              | Stat Fund 58              |
+| StatFund53              | Stat Fund 53              |
+| StatFund62              | Stat Fund 62              |
+| StatFund54              | Stat Fund 54              |
+| StatFund57              | Stat Fund 57              |
+| StatFund52              | Stat Fund 52              |
+| StatFund65              | Stat Fund 65              |
+| StatFund59              | Stat Fund 59              |
+| StatFund55              | Stat Fund 55              |
+| StatFund56              | Stat Fund 56              |
+| StatFund51              | Stat Fund 51              |

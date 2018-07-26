@@ -1,0 +1,16 @@
+# Liquidity Calculation Approach Dimension
+
+## identifier
+dm742
+
+## type
+string
+
+## definition
+The information reported is categorised according to the calculation approach in accordance with the liquidity prudential standard.
+
+## codes
+| Code                                                       | Description                                                      |
+| ---------------------------------------------------------- | ---------------------------------------------------------------- |
+| MinimumLiquidityHoldingAuthorisedDepositTakingInstitutions | Minimum Liquidity Holding Authorised Deposit Taking Institutions |
+| LiquidityCoverageRatioAuthorisedDepositTakingInstitutions  | Liquidity Coverage Ratio Authorised Deposit Taking Institutions  |

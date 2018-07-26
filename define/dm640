@@ -1,0 +1,11 @@
+# Description Of Fee Rebate Dimension
+
+## identifier
+dm640
+
+## type
+string
+
+## definition
+This dimension provides the description of the fee rebate or discount applied.
+

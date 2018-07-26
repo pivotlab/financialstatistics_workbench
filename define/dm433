@@ -1,0 +1,16 @@
+# Counterparty Credit Risk Charge
+
+## identifier
+dm433
+
+## type
+string
+
+## definition
+This dimension categorises reported information in relation to the requirement to use the potential future exposure add-on factors in the calculation of the counterparty credit risk charge, as determined in accordance with relevant prudential standards.
+
+## codes
+| Code                                    | Description                                  |
+| --------------------------------------- | -------------------------------------------- |
+| CounterpartyCreditRiskChargeNotRequired | Counterparty Credit Risk Charge Not Required |
+| CounterpartyCreditRiskChargeRequired    | Counterparty Credit Risk Charge Required     |

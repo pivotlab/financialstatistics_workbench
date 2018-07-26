@@ -1,0 +1,11 @@
+# Description Of Payment Source Dimension
+
+## identifier
+dm639
+
+## type
+string
+
+## definition
+This dimension provides the description of the source of payment.
+

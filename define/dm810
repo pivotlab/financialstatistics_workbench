@@ -1,0 +1,32 @@
+# Speciality Groupings Dimension
+
+## identifier
+dm810
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the speciality groupings as described in the Medicare Benefits Schedule book.
+
+## codes
+| Code                     | Description                |
+| ------------------------ | -------------------------- |
+| Diagnostic               | Diagnostic                 |
+| AssistAtOperations       | Assist At Operations       |
+| Ophthalmology            | Ophthalmology              |
+| PlasticAndReconstructive | Plastic And Reconstructive |
+| EarNoseAndThroat         | Ear Nose And Throat        |
+| Neurosurgical            | Neurosurgical              |
+| Obstetrics               | Obstetrics                 |
+| Anaesthesia              | Anaesthesia                |
+| Urology                  | Urology                    |
+| IntensiveCareUnit        | Intensive Care Unit        |
+| Specialist               | Specialist                 |
+| Pathology                | Pathology                  |
+| Cardiothoracic           | Cardiothoracic             |
+| Colorectal               | Colorectal                 |
+| Orthopaedic              | Orthopaedic                |
+| Vascular                 | Vascular                   |
+| OtherSpecialties         | Other Specialties          |
+| GeneralSurgical          | General Surgical           |

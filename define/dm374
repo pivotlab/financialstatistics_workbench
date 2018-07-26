@@ -1,0 +1,20 @@
+# Retail Class
+
+## identifier
+dm374
+
+## type
+string
+
+## definition
+This dimension categorises information reported under the internal ratings based approach to credit risk, based on the prescribed retail exposure classes, as determined in accordance with relevant prudential standards.
+
+An exposure is categorised as a retail exposure if it is extended to an individual (that is, a natural person) or individuals and is part of a large pool of exposures that are managed by the ADI on a pooled basis and is not margin lending.
+
+## codes
+| Code                      | Description                 |
+| ------------------------- | --------------------------- |
+| OtherRetail               | Other Retail                |
+| QualifyingRevolvingRetail | Qualifying Revolving Retail |
+| ResidentialMortgages      | Residential Mortgages       |
+| SMERetail                 | SME Retail                  |

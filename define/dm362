@@ -1,0 +1,56 @@
+# Credit Rating IRB
+
+## identifier
+dm362
+
+## type
+string
+
+## definition
+This dimension is used to categorise on-balance sheet assets and off-balance sheet business (both market-related and non-market-related transactions) according to certain risk categories to broadly reflect their credit risk profiles. These weightings are to be determined under the Internal-Ratings-based approach to credit risk in accordance with relevant prudential standards.
+
+## codes
+| Code                                                   | Description                                                       |
+| ------------------------------------------------------ | ----------------------------------------------------------------- |
+| LTG3OrSTG3                                             | LTG3 Or STG3                                                      |
+| LTG2OrSTG2                                             | LTG2 Or STG2                                                      |
+| LTG1OrSTG1                                             | LTG1 Or STG1                                                      |
+| LTG5ToLTG6                                             | LTG5 To LTG6                                                      |
+| LTG6                                                   | LTG6                                                              |
+| LTG4ToLTG5                                             | LTG4 To LTG5                                                      |
+| LTG1                                                   | LTG1                                                              |
+| LTG2ToLTG3                                             | LTG2 To LTG3                                                      |
+| LTG5To6OrSTG4OrUnrated                                 | LTG5 To 6 Or STG4 Or Unrated                                      |
+| LTG1To4OrSTG1To3                                       | LTG1 To 4 Or STG1 To 3                                            |
+| LTG4OrSTG4                                             | LTG4 Or STG4                                                      |
+| LTG5OrLTG6OrSTG4                                       | LTG5 Or LTG6 Or STG4                                              |
+| LTG4                                                   | LTG4                                                              |
+| LTG10                                                  | LTG10                                                             |
+| LTG11                                                  | LTG11                                                             |
+| LTG12OrSTG4OrUnrated                                   | LTG12 Or STG4 Or Unrated                                          |
+| LTG1To11OrSTG1To3                                      | LTG1 To 11 Or STG1 To 3                                           |
+| LTG2                                                   | LTG2                                                              |
+| LTG3                                                   | LTG3                                                              |
+| LTG4OrSTG2                                             | LTG4 Or STG2                                                      |
+| LTG5                                                   | LTG5                                                              |
+| LTG9                                                   | LTG9                                                              |
+| LTG8                                                   | LTG8                                                              |
+| LTG7OrSTG3                                             | LTG7 Or STG3                                                      |
+| GradeIssueSpecific                                     | Grade Issue Specific                                              |
+| GradeConcessional                                      | Grade Concessional                                                |
+| GradeUnratedSubjectToRWFloor                           | Grade Unrated Subject To RW Floor                                 |
+| LTG1OrLTG2OrLTG3                                       | LTG 1 Or LTG 2 Or LTG 3                                           |
+| LTG4OrLTG5OrLTG6OrUnrated                              | LTG 4 Or LTG 5 Or LTG 6 Or Unrated                                |
+| GradeUnrated                                           | Grade Unrated                                                     |
+| DoNotMeetDueDiligenceRequirements                      | Do Not Meet Due Diligence Requirements                            |
+| LTGOrSTGOrUnratedThatDoNotMeetDueDiligenceRequirements | LTG Or STG Or Unrated That Do Not Meet Due Diligence Requirements |
+| LTG4OrUnrated                                          | LTG 4 Or Unrated                                                  |
+| Grade1OrHigher                                         | Grade 1 Or Higher                                                 |
+| STG1                                                   | STG 1                                                             |
+| STG2                                                   | STG 2                                                             |
+| STG3                                                   | STG 3                                                             |
+| LTG                                                    | LTG                                                               |
+| STG4                                                   | STG 4                                                             |
+| STG                                                    | STG                                                               |
+| Grade3OrHigher                                         | Grade 3 Or Higher                                                 |
+| Grade3OrLowerOrUnrated                                 | Grade 3 Or Lower Or Unrated                                       |

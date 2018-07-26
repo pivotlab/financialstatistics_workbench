@@ -1,0 +1,55 @@
+# Category Type Of Security Sought Dimension
+
+## identifier
+dm951
+
+## type
+string
+
+## definition
+This dimension categorises information reported according to the type of security sought.
+
+## codes
+| Code                                                                                          | Description                                                                                                |
+| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| EquitySecuritiesIncludeConvertibleBonds                                                       | Equity Securities Include Convertible Bonds                                                                |
+| SemiGovernmentSecurities                                                                      | Semi Government Securities                                                                                 |
+| LongTermAssetBackedSecuritiesIssuedByResidentSPV                                              | Long Term Asset Backed Securities Issued By Resident SPV                                                   |
+| ShortTermDebtSecuritiesIssuedByResidentRegisteredFinancialCorporation                         | Short Term Debt Securities Issued By Resident Registered Financial Corporation                             |
+| EquitySecuritiesIncludeConvertibleBondsIssuedByOtherResident                                  | Equity Securities Include Convertible Bonds Issued By Other Resident                                       |
+| CommercialPaperAndOtherShortTermDebtIssuedByResidentAuthorisedDepositTakingInstitutions       | Commercial Paper And Other Short Term Debt Issued By Resident Authorised Deposit Taking Institutions       |
+| OtherLongTermSecuritiesIssuedInAustraliaByResidents                                           | Other Long Term Securities Issued In Australia By Residents                                                |
+| OtherDebtSecurities                                                                           | Other Debt Securities                                                                                      |
+| EquitySecuritiesIncludeConvertibleBondsIssuedByResidentPrivateNonFinancialInvestmentFunds     | Equity Securities Include Convertible Bonds Issued By Resident Private Non Financial Investment Funds      |
+| AustralianGovernmentSecurities                                                                | Australian Government Securities                                                                           |
+| EquitySecuritiesIncludeConvertibleBondsIssuedByResidentMoneyMarketFunds                       | Equity Securities Include Convertible Bonds Issued By Resident Money Market Funds                          |
+| OtherShortTermSecuritiesIssuedByNonResidents                                                  | Other Short Term Securities Issued By Non Residents                                                        |
+| LongTermAustralianGovernmentSecurities                                                        | Long Term Australian Government Securities                                                                 |
+| LongTermDebtSecuritiesOtherThanCoveredBondsIssuedResidentAuthorisedDepositTakingInstitutions  | Long Term Debt Securities Other Than Covered Bonds Issued Resident Authorised Deposit Taking Institutions  |
+| EquitySecuritiesIncludeConvertibleBondsIssuedByResidentFinancialInstitutionsOther             | Equity Securities Include Convertible Bonds Issued By Resident Financial Institutions Other                |
+| ShortTermSupraNationalAndForeignAgencyIssuedDebtSecurities                                    | Short Term Supra National And Foreign Agency Issued Debt Securities                                        |
+| ShortTermAustralianGovernmentSecurities                                                       | Short Term Australian Government Securities                                                                |
+| DebtSecuritiesIssuedByResidentPrivateNonFinancialCorporationsOtherThanSPV                     | Debt Securities Issued By Resident Private Non Financial Corporations Other Than SPV                       |
+| EquitySecuritiesIncludeConvertibleBondsIssuedByNonResident                                    | Equity Securities Include Convertible Bonds Issued By Non Resident                                         |
+| NegotiableCertificatesOfDepositResidentAuthorisedDepositTakingInstitutionsIssued              | Negotiable Certificates Of Deposit Resident Authorised Deposit Taking Institutions Issued                  |
+| LongTermSupraNationalAndForeignAgencyIssuedDebtSecurities                                     | Long Term Supra National And Foreign Agency Issued Debt Securities                                         |
+| EquitySecuritiesIncludeConvertibleBondsIssuedByResidentAuthorisedDepositTakingInstitution     | Equity Securities Include Convertible Bonds Issued By Resident Authorised Deposit Taking Institution       |
+| AssetBackedSecuritiesIssuedByResidentSPV                                                      | Asset Backed Securities Issued By Resident SPV                                                             |
+| OtherLongTermSecuritiesIssuedOffshoreByNonResidents                                           | Other Long Term Securities Issued Offshore By Non Residents                                                |
+| ShortTermSemiGovernmentSecurities                                                             | Short Term Semi Government Securities                                                                      |
+| EquitySecuritiesIncludePreferenceShares                                                       | Equity Securities Include Preference Shares                                                                |
+| EquitySecuritiesIncludeConvertibleBondsIssuedByResidentNonMoneyMarketFinancialInvestmentFunds | Equity Securities Include Convertible Bonds Issued By Resident Non Money Market Financial Investment Funds |
+| LongTermDebtSecuritiesIssuedByResidentPrivateNonFinancialCorporationsOtherThanSPV             | Long Term Debt Securities Issued By Resident Private Non Financial Corporations Other Than SPV             |
+| LongTermDebtSecuritiesIssuedByResidentRegisteredFinancialCorporations                         | Long Term Debt Securities Issued By Resident Registered Financial Corporations                             |
+| CoveredBondsIssuedByResidentAuthorisedDepositTakingInstitution                                | Covered Bonds Issued By Resident Authorised Deposit Taking Institution                                     |
+| OtherLongTermSecuritiesIssuedInAustraliaByNonResidents                                        | Other Long Term Securities Issued In Australia By Non Residents                                            |
+| DebtSecuritiesIssuedByResidentFinancialInstitutionsOtherThanSPV                               | Debt Securities Issued By Resident Financial Institutions Other Than SPV                                   |
+| EquitySecuritiesIncludeConvertibleBondsIssuedByResidentOtherPrivateNonFinancialCorporations   | Equity Securities Include Convertible Bonds Issued By Resident Other Private Non Financial Corporations    |
+| OtherAssets                                                                                   | Other Assets                                                                                               |
+| ShortTermDebtSecuritiesIssuedByResidentPrivateNonFinancialCorporationsOtherThanSPV            | Short Term Debt Securities Issued By Resident Private Non Financial Corporations Other Than SPV            |
+| ShortTermAssetBackedSecuritiesIssuedByResidentSPV                                             | Short Term Asset Backed Securities Issued By Resident SPV                                                  |
+| LongTermSemiGovernmentSecurities                                                              | Long Term Semi Government Securities                                                                       |
+| Cash                                                                                          | Cash                                                                                                       |
+| OtherShortTermSecuritiesIssuedByResidents                                                     | Other Short Term Securities Issued By Residents                                                            |
+| SupraNationalAndForeignAgencyIssuedDebtSecurities                                             | Supra National And Foreign Agency Issued Debt Securities                                                   |
+| EquitySecuritiesIncludeConvertibleBondsIssuedByResidentInsuranceCorporations                  | Equity Securities Include Convertible Bonds Issued By Resident Insurance Corporations                      |

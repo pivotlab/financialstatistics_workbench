@@ -1,0 +1,16 @@
+# Reinsurance Offset Dimension
+
+## identifier
+dm573
+
+## type
+string
+
+## definition
+This dimension specifies the valuation scenario, in relation to reinsurance, under which the reported value was calculated.
+
+## codes
+| Code  | Description |
+| ----- | ----------- |
+| Net   | Net   |
+| Gross | Gross |

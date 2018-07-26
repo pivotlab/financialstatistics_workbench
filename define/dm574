@@ -1,0 +1,16 @@
+# Reinsurance Recoveries Value Type Dimension
+
+## identifier
+dm574
+
+## type
+string
+
+## definition
+This dimension identifies the valuation scenario, in relation to expected reinsurance recoveries, under which the reported value was calculated.
+
+## codes
+| Code  | Description |
+| ----- | ----------- |
+| Net   | Net   |
+| Gross | Gross |

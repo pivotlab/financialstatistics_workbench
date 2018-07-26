@@ -1,0 +1,16 @@
+# Asset Concentration Limit Dimension
+
+## identifier
+dm541
+
+## type
+string
+
+## definition
+This dimension categorises information based on the limits set by the prudential standards relating to Asset Concentration Risk Charge.
+
+## codes
+| Code        | Description  |
+| ----------- | ------------ |
+| InExcess    | In Excess    |
+| WithinLimit | Within Limit |

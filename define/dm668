@@ -1,0 +1,17 @@
+# Occupation Coverage Dimension
+
+## identifier
+dm668
+
+## type
+string
+
+## definition
+This dimension represents the types of occupation coverage of insurance cover.
+
+## codes
+| Code          | Description    |
+| ------------- | -------------- |
+| OwnOccupation | Own Occupation |
+| AnyOccupation | Any Occupation |
+| NotApplicable | Not Applicable |

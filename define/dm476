@@ -1,0 +1,19 @@
+# Category Of Beneficiary
+
+## identifier
+dm476
+
+## type
+string
+
+## definition
+This dimension categorises reported information according to the category of the beneficiary.
+
+## codes
+| Code              | Description        |
+| ----------------- | ------------------ |
+| LargeCorporations | Large Corporations |
+| NaturalPersons    | Natural Persons    |
+| Other             | Other              |
+| Partnerships      | Partnerships       |
+| SME               | SME                |

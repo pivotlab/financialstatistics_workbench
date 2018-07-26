@@ -1,0 +1,16 @@
+# Risk Margin Dimension
+
+## identifier
+dm550
+
+## type
+string
+
+## definition
+This dimension relates to the risk margin as determined by the relevant prudential standards.
+
+## codes
+| Code        | Description |
+| ----------- | ----------- |
+| Diversified | Diversified |
+| StandAlone  | Stand Alone |

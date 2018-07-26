@@ -1,0 +1,23 @@
+# Recipient Dimension
+
+## identifier
+dm609
+
+## type
+string
+
+## definition
+The information reported classifies information based on the recipient of the item reported.
+
+## codes
+| Code                                    | Description                                |
+| --------------------------------------- | ------------------------------------------ |
+| Reserve                                 | Reserve                                    |
+| Insurer                                 | Insurer                                    |
+| Other                                   | Other                                      |
+| EmployerSponsor                         | Employer Sponsor                           |
+| RegistrableSuperannuationEntity         | Registrable Superannuation Entity          |
+| NotMemberAccountEmployerSponsor         | Not Member Account Employer Sponsor        |
+| RegistrableSuperannuationEntityLicensee | Registrable Superannuation Entity Licensee |
+| MemberAccount                           | Member Account                             |
+| ActiveEmployer                          | Active Employer                            |

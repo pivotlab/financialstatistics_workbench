@@ -1,0 +1,16 @@
+# Asset Management Dimension
+
+## identifier
+dm614
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to who is managing the assets or investments.
+
+## codes
+| Code                        | Description                   |
+| --------------------------- | ----------------------------- |
+| InternallyManaged           | Internally Managed            |
+| IndividuallyManagedMandates | Individually Managed Mandates |

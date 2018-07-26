@@ -1,0 +1,17 @@
+# Cost Type Dimension
+
+## identifier
+dm669
+
+## type
+string
+
+## definition
+This information represents the types of costs that are charged indirectly to a member of a superannuation fund. They may or may not be disclosed in a product disclosure statement (PDS).
+
+## codes
+| Code           | Description    |
+| -------------- | -------------- |
+| Investment     | Investment     |
+| Advice         | Advice         |
+| Administration | Administration |

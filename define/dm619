@@ -1,0 +1,20 @@
+# Source Of Movement Dimension
+
+## identifier
+dm619
+
+## type
+string
+
+## definition
+This dimension identifies the source of relevant transfer.
+
+## codes
+| Code                     | Description                |
+| ------------------------ | -------------------------- |
+| MembersAccount           | Members Account            |
+| TransfersOther           | Transfers Other            |
+| InsurancePoliciesTrustee | Insurance Policies Trustee |
+| InvestmentActivity       | Investment Activity        |
+| OtherReserves            | Other Reserves             |
+| ServiceProviders         | Service Providers          |

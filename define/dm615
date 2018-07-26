@@ -1,0 +1,25 @@
+# Investment Vehicle Type Dimension
+
+## identifier
+dm615
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the investment vehicle type used.
+
+## codes
+| Code                        | Description                    |
+| --------------------------- | ------------------------------ |
+| WholesaleTrust              | Wholesale Trust                |
+| CashManagementTrust         | Cash Management Trust          |
+| NotApplicable               | Not Applicable                 |
+| OtherInvestment             | Other Investment               |
+| UnlistedRetailTrust         | Unlisted Retail Trust          |
+| PooledSuperannuationTrust   | Pooled Superannuation Trust    |
+| ListedRetailTrust           | Listed Retail Trust            |
+| LifeCompanyGuaranteed       | Life Company Guaranteed        |
+| LifeCompanyInvestmentLinked | Life Company Investment Linked |
+| LifeCompanyOther            | Life Company Other             |
+| RetailTrust                 | Retail Trust                   |

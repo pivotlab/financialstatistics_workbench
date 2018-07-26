@@ -1,0 +1,23 @@
+# Investment Risk Weight
+
+## identifier
+dm447
+
+## type
+string
+
+## definition
+This dimension is used to categorise reported information based on investment risk weights, as determined in accordance with prudential standards.
+
+Investment risk represents the risk of adverse movement in the value of assets due to changes in the general level of market prices or interest rates; credit quality of the issuer; or liquidity risk.
+
+## codes
+| Code     | Description |
+| -------- | ----------- |
+| EightPct | Eight Pct |
+| FourPct  | Four Pct  |
+| HalfPct  | Half Pct  |
+| OnePct   | One Pct   |
+| SixPct   | Six Pct   |
+| TenPct   | Ten Pct   |
+| TwoPct   | Two Pct   |

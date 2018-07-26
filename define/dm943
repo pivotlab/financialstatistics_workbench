@@ -1,0 +1,19 @@
+# Equity Investment Concentration Dimension
+
+## identifier
+dm943
+
+## type
+string
+
+## definition
+The information reported is categorised according to the number of companies that equities are held in.
+
+## codes
+| Code                    | Description                |
+| ----------------------- | -------------------------- |
+| OneCompany              | One Company                |
+| MoreThanTwentyCompanies | More Than Twenty Companies |
+| TwoToFiveCompanies      | Two To Five Companies      |
+| SixToTenCompanies       | Six To Ten Companies       |
+| ElevenToTwentyCompanies | Eleven To Twenty Companies |

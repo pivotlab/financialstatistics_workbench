@@ -1,0 +1,31 @@
+# Probability of Default Band
+
+## identifier
+dm421
+
+## type
+string
+
+## definition
+This dimension segments reported information relating to credit exposures according to the associated probability of default (PD), as determined in accordance with relevant prudential standards.
+
+Where PDs are bucketed and there are multiple assigned PDs within a bucket, assign the exposure weighted average PD of the bucket.
+
+A PD of 100 per cent is to be assigned to all defaulted exposures.
+
+## codes
+| Code                 | Description                                                    |
+| -------------------- | -------------------------------------------------------------- |
+| EGT0.1PctLT0.2Pct    | Equal To Greater Than 0.1 Percent And Less Than 0.2 Percent    |
+| EGT0.2PctLT0.3Pct    | Equal To Greater Than 0.2 Percent And Less Than 0.3 Percent    |
+| EGT0.3PctLT0.5Pct    | Equal To Greater Than 0.3 Percent And Less Than 0.5 Percent    |
+| EGT0.5PctLT0.7Pct    | Equal To Greater Than 0.5 Percent And Less Than 0.7 Percent    |
+| EGT0.7PctLT1.0Pct    | Equal To Greater Than 0.7 Percent And Less Than 1.0 Percent    |
+| EGT0PctLT0.1Pct      | Equal To Greater Than 0 Percent And Less Than 0.1 Percent      |
+| EGT1.0PctLT2.0Pct    | Equal To Greater Than 1.0 Percent And Less Than 2.0 Percent    |
+| EGT10.0PctLT100.0Pct | Equal To Greater Than 10.0 Percent And Less Than 100.0 Percent |
+| EGT100.0Pct          | Equal To Greater Than 100.0 Percent                            |
+| EGT2.0PctLT3.0Pct    | Equal To Greater Than 2.0 Percent And Less Than 3.0 Percent    |
+| EGT3.0PctLT5.0Pct    | Equal To Greater Than 3.0 Percent And Less Than 5.0 Percent    |
+| EGT5.0PctLT7.0Pct    | Equal To Greater Than 5.0 Percent And Less Than 7.0 Percent    |
+| EGT7.0PctLT10.0Pct   | Equal To Greater Than 7.0 Percent And Less Than 10.0 Percent   |

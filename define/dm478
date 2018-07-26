@@ -1,0 +1,17 @@
+# Claim Year
+
+## identifier
+dm478
+
+## type
+string
+
+## definition
+This dimension categorises information according to the period in which the claim was made.
+
+## codes
+| Code            | Description                |
+| --------------- | -------------------------- |
+| PreviousYear    | Previous Year              |
+| SinceInception  | Since Inception            |
+| TwoYrsInception | Inception to 2 Years Prior |

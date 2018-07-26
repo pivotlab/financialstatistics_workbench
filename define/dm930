@@ -1,0 +1,21 @@
+# Future Scheduled Repayment Dimension
+
+## identifier
+dm930
+
+## type
+string
+
+## definition
+This categorises the information according to the number of monthly scheduled repayments that would be covered by the stock of accumulated excess repayments and balances in associated redraw and offset accounts.
+
+## codes
+| Code                                               | Description                                                     |
+| -------------------------------------------------- | --------------------------------------------------------------- |
+| GreaterThanOrEqualTo0MonthsLessThanOrEqualTo1Month | Greater Than Or Equal To 0 Months Less Than Or Equal To 1 Month |
+| GreaterThan12MonthsLessThanOrEqualTo24Months       | Greater Than 12 Months Less Than Or Equal To 24 Months          |
+| GreaterThan9MonthsLessThanOrEqualTo12Months        | Greater Than 9 Months Less Than Or Equal To 12 Months           |
+| GreaterThan1MonthLessThanOrEqualTo3Months          | Greater Than 1 Month Less Than Or Equal To 3 Months             |
+| GreaterThan6MonthsLessThanOrEqualTo9Months         | Greater Than 6 Months Less Than Or Equal To 9 Months            |
+| GreaterThan24Months                                | Greater Than 24 Months                                          |
+| GreaterThan3MonthsLessThanOrEqualTo6Months         | Greater Than 3 Months Less Than Or Equal To 6 Months            |

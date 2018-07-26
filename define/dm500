@@ -1,0 +1,26 @@
+# Loan Type Dimension
+
+## identifier
+dm500
+
+## type
+string
+
+## definition
+A list that identifies loan types.
+
+## codes
+| Code                                      | Description                                      |
+| ----------------------------------------- | ------------------------------------------------ |
+| InterestBearing                           | Interest Bearing                                 |
+| TradeFinance                              | Trade Finance                                    |
+| RevolvingCreditNotMarginLoanNotCreditCard | Revolving Credit Not Margin Loan Not Credit Card |
+| CreditCards                               | Credit Cards                                     |
+| InterestFree                              | Interest Free                                    |
+| Syndicated                                | Syndicated                                       |
+| RevolvingCredit                           | Revolving Credit                                 |
+| MarginLoans                               | Margin Loans                                     |
+| FixedTermLoans                            | Fixed Term Loans                                 |
+| BillAcceptances                           | Bill Acceptances                                 |
+| LeasesFinance                             | Leases Finance                                   |
+| DebitCards                                | Debit Cards                                      |

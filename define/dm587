@@ -1,0 +1,16 @@
+# Claims Expense Period Dimension
+
+## identifier
+dm587
+
+## type
+string
+
+## definition
+This dimension identifies the relevant period under which the reported claims expense value was recognised.
+
+## codes
+| Code                | Description           |
+| ------------------- | --------------------- |
+| NonRecurring        | Non Recurring         |
+| CurrentAccidentYear | Current Accident Year |

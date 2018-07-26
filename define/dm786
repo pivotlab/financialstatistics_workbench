@@ -1,0 +1,17 @@
+# Transaction Channel Dimension
+
+## identifier
+dm786
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the channel by which the transaction was made.
+
+## codes
+| Code                 | Description            |
+| -------------------- | ---------------------- |
+| ChannelB             | Channel B              |
+| NonConformingChannel | Non Conforming Channel |
+| ChannelA             | Channel A              |

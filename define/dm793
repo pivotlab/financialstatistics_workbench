@@ -1,0 +1,17 @@
+# Hospital Type Dimension
+
+## identifier
+dm793
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the type of hospital where the patient was treated.
+
+## codes
+| Code               | Description         |
+| ------------------ | ------------------- |
+| PublicHospital     | Public Hospital     |
+| PrivateHospital    | Private Hospital    |
+| HospitalSubstitute | Hospital Substitute |

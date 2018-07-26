@@ -1,0 +1,11 @@
+# Worker Category Description Dimension
+
+## identifier
+dm680
+
+## type
+string
+
+## definition
+Describes the worker category where an insurance cover is only provided to members in a certain worker category as disclosed in the Product Disclosure Statement (PDS) or other disclosure material.
+

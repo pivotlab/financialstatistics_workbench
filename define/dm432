@@ -1,0 +1,47 @@
+# Age Range Dimension
+
+## identifier
+dm432
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the age of the people to which it relates.
+
+## codes
+| Code            | Description       |
+| --------------- | ----------------- |
+| Between60And65  | Between 60 And 65 |
+| GreaterThan65   | Greater Than 65   |
+| Between50And59  | Between 50 And 59 |
+| Between35And49  | Between 35 And 49 |
+| LessThan35      | Less Than 35      |
+| Between25And34  | Between 25 And 34 |
+| Between35And44  | Between 35 And 44 |
+| Between70And74  | Between 70 And 74 |
+| LessThan25      | Less Than 25      |
+| Between55And59  | Between 55 And 59 |
+| Between60And64  | Between 60 And 64 |
+| Between50And54  | Between 50 And 54 |
+| Between45And49  | Between 45 And 49 |
+| Age30           | Age 30            |
+| Between75And84  | Between 75 And 84 |
+| GreaterThan84   | Greater Than 84   |
+| Age50           | Age 50            |
+| Between65And69  | Between 65 And 69 |
+| AgeNotAvailable | Age Not Available |
+| Between0And4    | Between 0 And 4   |
+| Between75And79  | Between 75 And 79 |
+| Between20And24  | Between 20 And 24 |
+| Between5And9    | Between 5 And 9   |
+| Between85And89  | Between 85 And 89 |
+| Between35And39  | Between 35 And 39 |
+| Between25And29  | Between 25 And 29 |
+| GreaterThan94   | Greater Than 94   |
+| Between40And44  | Between 40 And 44 |
+| Between80And84  | Between 80 And 84 |
+| Between15And19  | Between 15 And 19 |
+| Between90And94  | Between 90 And 94 |
+| Between30And34  | Between 30 And 34 |
+| Between10And14  | Between 10 And 14 |

@@ -1,0 +1,16 @@
+# Balance Sheet Period Classification Dimension
+
+## identifier
+dm770
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to a balance sheet period type.
+
+## codes
+| Code       | Description |
+| ---------- | ----------- |
+| Current    | Current     |
+| NonCurrent | Non Current |

@@ -1,0 +1,16 @@
+# Collateral Location Dimension
+
+## identifier
+dm901
+
+## type
+string
+
+## definition
+This represents the location of the collateral being reported.
+
+## codes
+| Code             | Description       |
+| ---------------- | ----------------- |
+| OutsideAustralia | Outside Australia |
+| InAustralia      | In Australia      |

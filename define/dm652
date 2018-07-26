@@ -1,0 +1,18 @@
+# Types Of Members Interest Movement Dimension
+
+## identifier
+dm652
+
+## type
+string
+
+## definition
+This dimension represents the types of switching activity of member interests.
+
+## codes
+| Code                                     | Description                                    |
+| ---------------------------------------- | ---------------------------------------------- |
+| SwitchFromMySuperProductToMySuperProduct | Switch From MySuper Product To MySuper Product |
+| SwitchFromMySuperProductToChoiceProduct  | Switch From MySuper Product To Choice Product  |
+| SwitchFromChoiceProductToMySuperProduct  | Switch From Choice Product To MySuper Product  |
+| SwitchFromChoiceProductToChoiceProduct   | Switch From Choice Product To Choice Product   |

@@ -1,0 +1,16 @@
+# Allocation
+
+## identifier
+dm415
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to allocation percentages.
+
+## codes
+| Code            | Description       |
+| --------------- | ----------------- |
+| Tier1Allocation | Tier 1 Allocation |
+| Tier2Allocation | Tier 2 Allocation |

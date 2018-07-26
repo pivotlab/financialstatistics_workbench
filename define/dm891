@@ -1,0 +1,11 @@
+# Adjustment Amount Description Dimension
+
+## identifier
+dm891
+
+## type
+string
+
+## definition
+The description of the adjustment amount(s)
+

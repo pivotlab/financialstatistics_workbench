@@ -1,0 +1,20 @@
+# Credit Risk Class
+
+## identifier
+dm330
+
+## type
+string
+
+## definition
+This dimension categorises information reported for credit risk purposes, based on the prescribed classes of exposures, as determined in accordance with relevant prudential standards.
+
+## codes
+| Code                      | Description                   |
+| ------------------------- | ----------------------------- |
+| Bank                      | Bank                          |
+| Corporate                 | Corporate                     |
+| OtherIRBCreditRiskClasses | Other IRB Credit Risk Classes |
+| Retail                    | Retail                        |
+| Securitisation            | Securitisation                |
+| Sovereign                 | Sovereign                     |

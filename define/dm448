@@ -1,0 +1,23 @@
+# Investment Risk Capital Factor
+
+## identifier
+dm448
+
+## type
+string
+
+## definition
+This dimension is used to categorise the reported information based on the applicable investment risk capital factors, as determined in accordance with prudential standards.
+
+## codes
+| Code       | Description                                  |
+| ---------- | -------------------------------------------- |
+| EightPct   | Items with Investment Capital Factor of 8%   |
+| FourPct    | Items with Investment Capital Factor of 4%   |
+| HalfPct    | Items with Investment Capital Factor of 0.5% |
+| OnePct     | Items with Investment Capital Factor of 1%   |
+| SixPct     | Items with Investment Capital Factor of 6%   |
+| SixteenPct | Items with Investment Capital Factor of 16%  |
+| TenPct     | Items with Investment Capital Factor of 10%  |
+| TwentyPct  | Items with Investment Capital Factor of 20%  |
+| TwoPct     | Items with Investment Capital Factor of 2%   |

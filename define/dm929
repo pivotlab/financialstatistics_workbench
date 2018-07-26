@@ -1,0 +1,16 @@
+# Loan Repayment Type Dimension
+
+## identifier
+dm929
+
+## type
+string
+
+## definition
+The information reported is categorised according to the loan repayment type.
+
+## codes
+| Code         | Description   |
+| ------------ | ------------- |
+| Amortising   | Amortising    |
+| InterestOnly | Interest Only |

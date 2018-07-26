@@ -1,0 +1,17 @@
+# Security Classification Dimension
+
+## identifier
+dm335
+
+## type
+string
+
+## definition
+This dimension categorises information according to whether or not arrangements are in place to secure the repayment of amounts due or payable in relation to the reported information.
+
+## codes
+| Code              | Description         |
+| ----------------- | ------------------- |
+| AssetsCentralBank | Assets Central Bank |
+| Unsecured         | Unsecured           |
+| Secured           | Secured             |

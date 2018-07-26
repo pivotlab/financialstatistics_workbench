@@ -1,0 +1,11 @@
+# Organisation Name And Group Or ACNABN Dimension
+
+## identifier
+dm585
+
+## type
+string
+
+## definition
+This dimension allows the organisation name and group name, and where available the Australian Company Number (ACN), Australian Business Number (ABN) or an Australian Registered Business Number (ARBN) of the organisation. The Australian Company Number (ACN) is to be reported where it exists. If no ACN exists the Australian Business Number (ABN) or an Australian Registered Business Number (ARBN) should be reported. Blank if none available. Organisation name refers to the registered business name of the organisation. The group name refers to the registered business name of the group to which the organisation belongs to. If the organisation does not belong to a group, this is to be reported as organisation name.
+

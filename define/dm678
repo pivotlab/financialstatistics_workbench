@@ -1,0 +1,11 @@
+# Return Period Dimension
+
+## identifier
+dm678
+
+## type
+string
+
+## definition
+The information reported shows each period for which the return must be calculated.
+

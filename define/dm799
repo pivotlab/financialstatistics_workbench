@@ -1,0 +1,21 @@
+# Policy Or Person Movement Reason Dimension
+
+## identifier
+dm799
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the reasons for movement of policies or insured persons.
+
+## codes
+| Code                      | Description                  |
+| ------------------------- | ---------------------------- |
+| Discontinued              | Discontinued                 |
+| New                       | New                          |
+| TransferToAnotherPolicy   | Transfer To Another Policy   |
+| TransferFromAnotherFund   | Transfer From Another Fund   |
+| TransferFromAnotherPolicy | Transfer From Another Policy |
+| TransferFromAnotherState  | Transfer From Another State  |
+| TransferToAnotherState    | Transfer To Another State    |

@@ -1,0 +1,18 @@
+# Loan Classification GPS116
+
+## identifier
+dm467
+
+## type
+string
+
+## definition
+This dimension is used to categorise reported loan information according to the classification of the loan, as determined in accordance with Prudential Standard GPS 116.
+
+## codes
+| Code                       | Description                    |
+| -------------------------- | ------------------------------ |
+| CommercialLoan             | Commercial Loan                |
+| NonStandardLoan            | Non Standard Loan              |
+| StandardAndNonStandardLoan | Standard And Non Standard Loan |
+| StandardLoan               | Standard Loan                  |

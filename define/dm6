@@ -1,0 +1,22 @@
+# Tax Obligation Dimension
+
+## identifier
+dm6
+
+## type
+string
+
+## definition
+The categories of tax obligation imposed by government.
+
+## codes
+| Code     | Description |
+| -------- | ----------- |
+| GST      | GST      |
+| FBT      | FBT      |
+| PAYGW    | PAYGW    |
+| PAYGI    | PAYGI    |
+| WET      | WET      |
+| FTC      | FTC      |
+| LCT      | LCT      |
+| PAYGICGH | PAYGICGH |

@@ -1,0 +1,16 @@
+# Interest Bearing Type Dimension
+
+## identifier
+dm915
+
+## type
+string
+
+## definition
+This dimension categorises information based on whether or not the financial product is interest bearing.
+
+## codes
+| Code               | Description          |
+| ------------------ | -------------------- |
+| NonInterestBearing | Non Interest Bearing |
+| InterestBearing    | Interest Bearing     |

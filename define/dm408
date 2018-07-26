@@ -1,0 +1,31 @@
+# Underwriting Year
+
+## identifier
+dm408
+
+## type
+string
+
+## definition
+This dimension is used to categorise reported insurance information based on the underwriting year to which the data relates.
+
+Underwriting year refers to the financial year of the insurer in which the insurance policy incepts, regardless of when the premiums and claims are actually reported, booked or paid. For example, the 2005 underwriting year for an insurer with a 30 June balance date includes premiums and claims (both paid and outstanding) attaching to policies incepting in the period 1 July 2005 to 30 June 2006. For an insurer with a 31 December balance date, the 2005 underwriting year includes premiums and claims (both paid and outstanding) attaching to policies incepting in the period 1 January 2005 to 31 December 2005.
+
+## codes
+| Code          | Description                                     |
+| ------------- | ----------------------------------------------- |
+| CurrentUWYear | Current Underwriting Year                       |
+| UWYr10Prev    | Underwriting Year 10 Years Previous             |
+| UWYr1Prev     | Underwriting Year 1 Year Previous               |
+| UWYr1to3Prev  | Underwriting Year 1 to 3 Years Previous         |
+| UWYr2Prev     | Underwriting Year 2 Years Previous              |
+| UWYr3Prev     | Underwriting Year 3 Years Previous              |
+| UWYr4Prev     | Underwriting Year 4 Years Previous              |
+| UWYr4to5Prev  | Underwriting Year 4 to 5 Years Previous         |
+| UWYr5Prev     | Underwriting Year 5 Years Previous              |
+| UWYr6Prev     | Underwriting Year 6 Years Previous              |
+| UWYr7Prev     | Underwriting Year 7 Years Previous              |
+| UWYr8Prev     | Underwriting Year 8 Years Previous              |
+| UWYr9Prev     | Underwriting Year 9 Years Previous              |
+| UWYrGT10Prev  | Underwriting Year More Than 10 Years Previous   |
+| UWYrGT5Prev   | Underwriting Year Greater Than 5 Years Previous |

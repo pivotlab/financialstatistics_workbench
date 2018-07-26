@@ -1,0 +1,17 @@
+# Maximum Event Retention Economic or Property Downturn Year
+
+## identifier
+dm468
+
+## type
+string
+
+## definition
+The dimension is used to categorise reported information according to the Economic or Property Downturn Year, as determined for Maximum Event Retention (MER) calculation purposes in accordance with Prudential Standard GPS116.
+
+## codes
+| Code  | Description                                 |
+| ----- | ------------------------------------------- |
+| Year1 | Year 1 of MER Economic or Property Downturn |
+| Year2 | Year 2 of MER Economic or Property Downturn |
+| Year3 | Year 3 of MER Economic or Property Downturn |

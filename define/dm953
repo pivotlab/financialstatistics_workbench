@@ -1,0 +1,17 @@
+# Large Exposure Exclusion Category Dimension
+
+## identifier
+dm953
+
+## type
+string
+
+## definition
+This categorises the data according to the reasons for the exposure being excluded from being reported as a large exposure in accordance with APS 221 Large Exposures.
+
+## codes
+| Code               | Description          |
+| ------------------ | -------------------- |
+| SovereignsHeldHQLA | Sovereigns Held HQLA |
+| SettlementExposure | Settlement Exposure  |
+| QCCPClearing       | QCCP Clearing        |

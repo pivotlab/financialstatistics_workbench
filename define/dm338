@@ -1,0 +1,21 @@
+# Calculation Basis Scenario Dimension
+
+## identifier
+dm338
+
+## type
+string
+
+## definition
+The calculation basis on which values are reported.
+
+## codes
+| Code          | Description    |
+| ------------- | -------------- |
+| ValuationLYTY | Valuation LYTY |
+| ValuationTY   | Valuation TY   |
+| Estimate      | Estimate       |
+| ValuationLY   | Valuation LY   |
+| Valuation     | Valuation      |
+| Actual        | Actual         |
+| Forecast      | Forecast       |

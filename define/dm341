@@ -1,0 +1,21 @@
+# Event Type
+
+## identifier
+dm341
+
+## type
+string
+
+## definition
+This dimension is used to categorise information reported according to the event in which it relates.
+
+## codes
+| Code                                  | Description                               |
+| ------------------------------------- | ----------------------------------------- |
+| BusinessDisruption                    | Business Disruption                       |
+| ClientsProductsAndBusinessPractices   | Clients Products And Business Practices   |
+| DamageToPhysicalAssets                | Damage To Physical Assets                 |
+| EmploymentPracticesAndWorkplaceSafety | Employment Practices And Workplace Safety |
+| ExecutionDeliveryAndProcessManagement | Execution Delivery And Process Management |
+| ExternalFraud                         | External Fraud                            |
+| InternalFraud                         | Internal Fraud                            |

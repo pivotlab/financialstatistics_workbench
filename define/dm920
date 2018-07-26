@@ -1,0 +1,16 @@
+# Financial Claims Scheme Balances Dimension
+
+## identifier
+dm920
+
+## type
+string
+
+## definition
+Deposit balances relating to the Financial Claims Scheme.
+
+## codes
+| Code                                          | Description                                         |
+| --------------------------------------------- | --------------------------------------------------- |
+| DepositBalanceAboveFinancialClaimsSchemeLimit | Deposit Balance Above Financial Claims Scheme Limit |
+| MaximumFinancialClaimsSchemeEntitlement       | Maximum Financial Claims Scheme Entitlement         |

@@ -1,0 +1,19 @@
+# Market Risk Measure Method
+
+## identifier
+dm396
+
+## type
+string
+
+## definition
+This dimension categorises information reported based on the market risk measurement method used to calculate capital charge for capital adequacy purposes, as determined in accordance with relevant prudential standards.
+
+## codes
+| Code                 | Description            |
+| -------------------- | ---------------------- |
+| ContingentLossMethod | Contingent Loss Method |
+| DeltaPlusMethod      | Delta Plus Method      |
+| MaturityLadderMethod | Maturity Ladder Method |
+| SimplifiedMethod     | Simplified Method      |
+| ValueAtRiskMethod    | Value At Risk Method   |

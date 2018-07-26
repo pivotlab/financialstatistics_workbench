@@ -1,0 +1,17 @@
+# Transaction Characteristics Dimension
+
+## identifier
+dm958
+
+## type
+string
+
+## definition
+The information reports the characteristics of a transaction.
+
+## codes
+| Code                               | Description                          |
+| ---------------------------------- | ------------------------------------ |
+| SecuritiesLoanCharacteristics      | Securities Loan Characteristics      |
+| CollateralCharacteristics          | Collateral Characteristics           |
+| RepurchaseAgreementCharacteristics | Repurchase Agreement Characteristics |

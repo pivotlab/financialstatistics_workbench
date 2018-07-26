@@ -1,0 +1,70 @@
+# Product Group Dimension
+
+## identifier
+dm423
+
+## type
+string
+
+## definition
+This dimension categorises reported data according to predefined product groups.
+
+## codes
+| Code                                             | Description                                            |
+| ------------------------------------------------ | ------------------------------------------------------ |
+| OtherGRF3101L                                    | Other GRF_310_1_L                                      |
+| HouseownersHouseholders                          | House Owners/House Holders                             |
+| CommercialMotorVehicle                           | Commercial Motor Vehicle                               |
+| DomesticMotorVehicle                             | Domestic Motor Vehicle                                 |
+| Travel                                           | Travel                                                 |
+| FireAndIndustrialSpecialRisks                    | Fire And Industrial Special Risks (ISR)                |
+| Marine                                           | Marine                                                 |
+| Aviation                                         | Aviation                                               |
+| Mortgage                                         | Mortgage                                               |
+| ConsumerCredit                                   | Consumer Credit                                        |
+| OtherAccident                                    | Other Accident                                         |
+| CTPMotorVehicleInsurance                         | Compulsory Third Party (CTP) Motor Vehicle Insurance   |
+| PublicAndProductLiability                        | Public And Product Liability                           |
+| ProfessionalIndemnity                            | Professional Indemnity                                 |
+| EmployersLiability                               | Employers Liability                                    |
+| Property                                         | Property                                               |
+| Casualty                                         | Casualty                                               |
+| MarineAndAviation                                | Marine And Aviation                                    |
+| PolicyOwnersRetainedProfits                      | Policy Owners Retained Profits                         |
+| GroupDisabilityIncomeInsurance                   | Group Disability Income Insurance                      |
+| AnnuityWithLongevityRisk                         | Annuity With Longevity Risk                            |
+| MembersCapitalRetainedProfit                     | Members Capital Retained Profit                        |
+| InvestmentLinked                                 | Investment Linked                                      |
+| Education                                        | Education                                              |
+| ShareholdersCapitalRetainedProfits               | Shareholders Capital Retained Profits                  |
+| Other                                            | Other                                                  |
+| AnnuityWithoutLongevityRisk                      | Annuity Without Longevity Risk                         |
+| NonParInvestmentPolicy                           | Non-Par Investment Policy                              |
+| GroupLumpSumRisk                                 | Group Lump Sum Risk                                    |
+| IndividualDisabilityIncomeInsurance              | Individual Disability Income Insurance                 |
+| IndividualLumpSumRisk                            | Individual Lump Sum Risk                               |
+| ParticipatingInvestmentAccount                   | Participating Investment Account                       |
+| ConventionalParticipating                        | Conventional Participating                             |
+| UnallocatedBenefitFundReserve                    | Unallocated Benefit Fund Reserve                       |
+| AnnuitySuperannuation                            | Annuity Superannuation                                 |
+| InvestmentAccount                                | Investment Account                                     |
+| NonSplit                                         | Non Split                                              |
+| LifeAndContinuousDisability                      | Life And Continuous Disability                         |
+| OtherNonParInvestmentPolicy                      | Other Non Par Investment Policy                        |
+| NonParInvestmentPolicyWithDiscretionaryAdditions | Non Par Investment Policy With Discretionary Additions |
+| CategoryBProportional                            | Category B Proportional                                |
+| CategoryANonProportional                         | Category A Non Proportional                            |
+| CategoryCNonProportional                         | Category C Non Proportional                            |
+| OtherCategoryB                                   | Other Category B                                       |
+| CategoryBNonProportional                         | Category B Non Proportional                            |
+| OtherCategoryA                                   | Other Category A                                       |
+| CategoryAProportional                            | Category A Proportional                                |
+| CategoryB                                        | Category B                                             |
+| OtherCategoryC                                   | Other Category C                                       |
+| CategoryC                                        | Category C                                             |
+| CategoryCProportional                            | Category C Proportional                                |
+| CategoryA                                        | Category A                                             |
+| CapitalGuaranteedDefinedContributionFuneral      | Capital Guaranteed Defined Contribution Funeral        |
+| DefinedBenefitRisk                               | Defined Benefit Risk                                   |
+| StopLossCover                                    | Stop Loss Cover                                        |
+| CatastropheCover                                 | Catastrophe Cover                                      |

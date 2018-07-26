@@ -1,0 +1,16 @@
+# Overseas Cover Types Dimension
+
+## identifier
+dm819
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the type of overseas cover.
+
+## codes
+| Code                       | Description                   |
+| -------------------------- | ----------------------------- |
+| OverseasStudentHealthCover | Overseas Student Health Cover |
+| OverseasVisitorsCover      | Overseas Visitors Cover       |

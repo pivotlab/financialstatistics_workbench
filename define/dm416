@@ -1,0 +1,16 @@
+# Insurance Business Location Dimension
+
+## identifier
+dm416
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the business locations determined in accordance with the relevant prudential standards.
+
+## codes
+| Code                  | Description            |
+| --------------------- | ---------------------- |
+| AustralianBusiness    | Australian Business    |
+| InternationalBusiness | International Business |

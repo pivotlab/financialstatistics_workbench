@@ -1,0 +1,17 @@
+# Credit Value Adjustment Capital Formula Component Dimension
+
+## identifier
+dm559
+
+## type
+string
+
+## definition
+Report the value of the credit value adjustment (CVA) capital formula component in accordance with relevant prudential standards and reporting framework.
+
+## codes
+| Code                        | Description                     |
+| --------------------------- | ------------------------------- |
+| CVACapitalFormulaComponent1 | CVA Capital Formula Component 1 |
+| CVACapitalFormulaComponent3 | CVA Capital Formula Component 3 |
+| CVACapitalFormulaComponent2 | CVA Capital Formula Component 2 |

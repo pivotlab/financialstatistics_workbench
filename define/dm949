@@ -1,0 +1,24 @@
+# Haircut Category Types Dimension
+
+## identifier
+dm949
+
+## type
+string
+
+## definition
+The information categories the haircut, by band, applied to the collateral. This is the difference between the market value of an asset and the purchase price paid at the start of a repo or reverse repo, or securities lending or securities borrowing transaction. It is expressed as the percentage deduction from the market value of collateral.
+
+## codes
+| Code                   | Description                   |
+| ---------------------- | ----------------------------- |
+| GT15LTE25              | GT 15 LTE 25                  |
+| GT50                   | GT 50                         |
+| GTZeroPoint5LTE1Point5 | GT Zero Point 5 LTE 1 Point 5 |
+| GTZeroLTEZeroPoint5    | GT Zero LTE Zero Point 5      |
+| GT3LTE4                | GT 3 LTE 4                    |
+| GT1Point5LTE3          | GT 1 Point 5 LTE 3            |
+| GT25LTE50              | GT 25 LTE 50                  |
+| GT10LTE15              | GT 10 LTE 15                  |
+| GT4LTE6                | GT 4 LTE 6                    |
+| GT6LTE10               | GT 6 LTE 10                   |

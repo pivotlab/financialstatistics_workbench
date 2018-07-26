@@ -1,0 +1,11 @@
+# Income Description Dimension
+
+## identifier
+dm634
+
+## type
+string
+
+## definition
+This dimension provides the description of income reported.
+

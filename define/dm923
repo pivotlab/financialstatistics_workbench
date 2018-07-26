@@ -1,0 +1,20 @@
+# Name Of Core External Banking System Dimension
+
+## identifier
+dm923
+
+## type
+string
+
+## definition
+Name of the external core banking system.
+
+## codes
+| Code                            | Description                        |
+| ------------------------------- | ---------------------------------- |
+| DataActionCoreBankingSystem     | Data Action Core Banking System    |
+| TemenosCoreBanking              | Temenos Core Banking               |
+| TataConsultancyServicesTCSBANCS | Tata Consultancy Services TCSBANCS |
+| UltradataUltracs                | Ultradata Ultracs                  |
+| OtherCoreBankingSystem          | Other Core Banking System          |
+| FiservSignature                 | Fiserv Signature                   |

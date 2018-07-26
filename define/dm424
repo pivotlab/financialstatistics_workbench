@@ -1,0 +1,27 @@
+# Market Exposure Underlying Asset Type
+
+## identifier
+dm424
+
+## type
+string
+
+## definition
+This dimension categorises information reported according to the nature of the market exposure of the underlying assets.
+
+## codes
+| Code            | Description      |
+| --------------- | ---------------- |
+| Commodities     | Commodities      |
+| SovereignRates  | Sovereign Rates  |
+| Currency        | Currency         |
+| Cash            | Cash             |
+| FixedInterest   | Fixed Interest   |
+| Insurance       | Insurance        |
+| MultiAsset      | Multi Asset      |
+| Equities        | Equities         |
+| Property        | Property         |
+| ConvertibleBond | Convertible Bond |
+| Other           | Other            |
+| RealAsset       | Real Asset       |
+| Infrastructure  | Infrastructure   |

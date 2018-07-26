@@ -1,0 +1,80 @@
+# Standard Economic Sector Classifications Of Australia Dimension
+
+## identifier
+dm906
+
+## type
+string
+
+## definition
+This dimension categorises the reported information according to the Standard Economic Sector Classifications of Australia (SESCA).
+
+## codes
+| Code                                                                             | Description                                                                                 |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| MoneyMarketInvestmentFunds                                                       | Money Market Investment Funds                                                               |
+| SpecialPurposeVehicle                                                            | Special Purpose Vehicle                                                                     |
+| RegisteredFinancialCorporations                                                  | Registered Financial Corporations                                                           |
+| OtherSuperannuationFunds                                                         | Other Superannuation Funds                                                                  |
+| ExchangeTradedFunds                                                              | Exchange Traded Funds                                                                       |
+| Bank                                                                             | Bank                                                                                        |
+| AuthorisedDepositTakingInstitution                                               | Authorised Deposit Taking Institution                                                       |
+| NonResidentBanks                                                                 | Non Resident Banks                                                                          |
+| LifeInsuranceCorporations                                                        | Life Insurance Corporations                                                                 |
+| PublicNonFinancialCorporations                                                   | Public Non Financial Corporations                                                           |
+| StateTerritoryLocalGovernmentNonFinancialCorporations                            | State Territory Local Government Non Financial Corporations                                 |
+| PrivatePublicSectorBusinesses                                                    | Private Public Sector Businesses                                                            |
+| CommunityServiceOrganisations                                                    | Community Service Organisations                                                             |
+| NonResidentSuperannuationFunds                                                   | Non Resident Superannuation Funds                                                           |
+| SelfManagedSuperannuationFund                                                    | Self Managed Superannuation Fund                                                            |
+| FinancialAuxiliaries                                                             | Financial Auxiliaries                                                                       |
+| NotAuthorisedDepositTakingInstitution                                            | Not Authorised Deposit Taking Institution                                                   |
+| RealEstateInvestmentTrusts                                                       | Real Estate Investment Trusts                                                               |
+| FinancialInstitutionNEC                                                          | Financial Institution NEC                                                                   |
+| CentralBorrowingAuthorities                                                      | Central Borrowing Authorities                                                               |
+| NonBankAuthorisedDepositTakingInstitution                                        | Non Bank Authorised Deposit Taking Institution                                              |
+| Securitisers                                                                     | Securitisers                                                                                |
+| NonMoneyMarketFinancialInvestmentFunds                                           | Non Money Market Financial Investment Funds                                                 |
+| GeneralGovernment                                                                | General Government                                                                          |
+| PrivateUnincorporatedBusinesses                                                  | Private Unincorporated Businesses                                                           |
+| FinancialInstitutions                                                            | Financial Institutions                                                                      |
+| PrivateNonFinancialCorporations                                                  | Private Non Financial Corporations                                                          |
+| NonFinancialBusinessesCommunityServiceOrganisations                              | Non Financial Businesses Community Service Organisations                                    |
+| CommonwealthGeneralGovernment                                                    | Commonwealth General Government                                                             |
+| NonFinancialBusinesses                                                           | Non Financial Businesses                                                                    |
+| ClearingHousesCentralCounterparties                                              | Clearing Houses Central Counterparties                                                      |
+| OtherNotHouseholdCSOGeneralGovernmentFinancialInstitutionsNonFinancialBusinesses | Other Not Household CSO General Government Financial Institutions Non Financial Businesses  |
+| OtherInsuranceCorporations                                                       | Other Insurance Corporations                                                                |
+| StateTerritoryLocalGeneralGovernment                                             | State Territory Local General Government                                                    |
+| Households                                                                       | Households                                                                                  |
+| PrivateNonFinancialInvestmentFunds                                               | Private Non Financial Investment Funds                                                      |
+| ReserveBankOfAustralia                                                           | Reserve Bank Of Australia                                                                   |
+| InsuranceCorporations                                                            | Insurance Corporations                                                                      |
+| PrivateNonFinancialBusinesses                                                    | Private Non Financial Businesses                                                            |
+| CommonwealthGovernmentNonFinancialCorporations                                   | Commonwealth Government Non Financial Corporations                                          |
+| SuperannuationFunds                                                              | Superannuation Funds                                                                        |
+| OtherPrivateNonFinancialCorporations                                             | Other Private Non Financial Corporations                                                    |
+| OtherFinancialNotAuthorisedDepositTakingInstitutionNotSuperannuation             | Other Financial Not Authorised Deposit Taking Institution Not Superannuation                |
+| OtherRelatedPartiesNotFinancialInstitutions                                      | Other Related Parties Not Financial Institutions                                            |
+| ResidentHouseholds                                                               | Resident Households                                                                         |
+| ResidentNonRelatedFinancialInstitutions                                          | Resident Non Related Financial Institutions                                                 |
+| ResidentRelatedPartiesFinancialInstitutions                                      | Resident Related Parties Financial Institutions                                             |
+| NonResidentNotRelated                                                            | Non Resident Not Related                                                                    |
+| ResidentNonRelatedNonFinancialBusinessesCommunityServiceOrganisations            | Resident Non Related Non Financial Businesses Community Service Organisations               |
+| ResidentGeneralGovernment                                                        | Resident General Government                                                                 |
+| ResidentAuthorisedDepositTakingInstitution                                       | Resident Authorised Deposit Taking Institution                                              |
+| NonResidentOther                                                                 | Non Resident Other                                                                          |
+| ResidentClearingHousesCentralCounterparties                                      | Resident Clearing Houses Central Counterparties                                             |
+| ResidentRealEstateInvestmentTrusts                                               | Resident Real Estate Investment Trusts                                                      |
+| ResidentRegisteredFinancialCorporations                                          | Resident Registered Financial Corporations                                                  |
+| ResidentOtherPrivateNonFinancialInvestmentFunds                                  | Resident Other Private Non Financial Investment Funds                                       |
+| ResidentExchangeTradedFunds                                                      | Resident Exchange Traded Funds                                                              |
+| ResidentOtherFinancialAuxiliaries                                                | Resident Other Financial Auxiliaries                                                        |
+| ResidentSuperannuationFunds                                                      | Resident Superannuation Funds                                                               |
+| ResidentInsuranceCorporations                                                    | Resident Insurance Corporations                                                             |
+| ResidentOther                                                                    | Resident Other                                                                              |
+| ResidentMoneyMarketInvestmentFunds                                               | Resident Money Market Investment Funds                                                      |
+| ResidentOtherPrivateNonFinancialCorporations                                     | Resident Other Private Non Financial Corporations                                           |
+| ResidentCentralBorrowingAuthorities                                              | Resident Central Borrowing Authorities                                                      |
+| ResidentOtherNonMoneyMarketFinancialInvestmentFundsOtherThanExchangeTradedFunds  | Resident Other Non Money Market Financial Investment Funds Other Than Exchange Traded Funds |
+| ResidentOtherFinancialInstitutions                                               | Resident Other Financial Institutions                                                       |

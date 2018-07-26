@@ -1,0 +1,17 @@
+# MySuper Product Type Dimension
+
+## identifier
+dm613
+
+## type
+string
+
+## definition
+This dimension classifies information based on MySuper product type.
+
+## codes
+| Code                               | Description                            |
+| ---------------------------------- | -------------------------------------- |
+| GenericMySuper                     | Generic MySuper                        |
+| GoodwillMySuper                    | Goodwill MySuper                       |
+| LargeEmployerSponsorMySuperProduct | Large Employer Sponsor MySuper Product |

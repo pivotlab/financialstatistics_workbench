@@ -1,0 +1,16 @@
+# Without Insurance Coverage Dimension
+
+## identifier
+dm605
+
+## type
+string
+
+## definition
+This dimension represents member accounts that do not have insurance coverage.
+
+## codes
+| Code                        | Description                     |
+| --------------------------- | ------------------------------- |
+| WithoutCoverageMemberOptOut | Without Coverage Member Opt Out |
+| WithoutCoverage             | Without Coverage                |

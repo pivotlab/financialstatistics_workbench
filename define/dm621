@@ -1,0 +1,17 @@
+# Insurance Activity Dimension
+
+## identifier
+dm621
+
+## type
+string
+
+## definition
+The information represents the type of insurance activity.
+
+## codes
+| Code                              | Description                           |
+| --------------------------------- | ------------------------------------- |
+| SelfInsurance                     | Self Insurance                        |
+| AcquiredInsurance                 | Acquired Insurance                    |
+| SelfInsuranceAndAcquiredInsurance | Self Insurance And Acquired Insurance |

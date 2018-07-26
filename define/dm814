@@ -1,0 +1,17 @@
+# Unearned Premium And Unexpired Risk Liability Dimension
+
+## identifier
+dm814
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to unearned premium and unexpired risk liability type.
+
+## codes
+| Code                                                              | Description                                                              |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| UnexpiredRiskLiabilityUnclosedComponentAndConstructiveObligations | Unexpired Risk Liability Unclosed Component And Constructive Obligations |
+| UnexpiredRiskLiabilityContributionsInAdvanceComponent             | Unexpired Risk Liability Contributions In Advance Component              |
+| ContributionsInAdvanceLiability                                   | Contributions In Advance Liability                                       |

@@ -1,0 +1,18 @@
+# General Treatment Other Dimension
+
+## identifier
+dm822
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the types of general treatment that does not include ambulance only.
+
+## codes
+| Code                            | Description                        |
+| ------------------------------- | ---------------------------------- |
+| Ancillaries                     | Ancillaries                        |
+| HospitalSubstituteTreatment     | Hospital Substitute Treatment      |
+| ChronicDiseaseManagementProgram | Chronic Disease Management Program |
+| HospitalTreatment               | Hospital Treatment                 |

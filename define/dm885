@@ -1,0 +1,19 @@
+# Securitisation Asset Type Dimension
+
+## identifier
+dm885
+
+## type
+string
+
+## definition
+The reported data is categorised according to the types of securitised assets.
+
+## codes
+| Code                       | Description                   |
+| -------------------------- | ----------------------------- |
+| HousingLoans               | Housing Loans                 |
+| Other                      | Other                         |
+| RepurchaseAgreementWithRBA | Repurchase Agreement With RBA |
+| CommercialLoans            | Commercial Loans              |
+| PersonalLoans              | Personal Loans                |

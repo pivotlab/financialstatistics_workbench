@@ -1,0 +1,19 @@
+# IRB Loss Given Default Categories
+
+## identifier
+dm427
+
+## type
+string
+
+## definition
+This dimension categorises information reported under the internal ratings-based (IRB) approach to credit risk, based on the loss given default category of an exposure, as determined in accordance with relevant prudential standards.
+
+## codes
+| Code                                           | Description                                          |
+| ---------------------------------------------- | ---------------------------------------------------- |
+| ClaimsSecuredByCommercialResidentialRealEstate | Claims Secured By Commercial Residential Real Estate |
+| ClaimsSecuredByEligibleFinancialCollateral     | Claims Secured By Eligible Financial Collateral      |
+| ClaimsSecuredByEligibleFinancialReceivables    | Claims Secured By Eligible Financial Receivables     |
+| SeniorUnsecuredClaims                          | Senior Unsecured Claims                              |
+| SubordinatedClaims                             | Subordinated Claims                                  |

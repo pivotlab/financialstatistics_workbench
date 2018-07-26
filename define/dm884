@@ -1,0 +1,16 @@
+# Transitional Arrangement Types Dimension
+
+## identifier
+dm884
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the type of transitional arrangement that is applicable.
+
+## codes
+| Code                      | Description                 |
+| ------------------------- | --------------------------- |
+| TransitionalArrangements  | Transitional Arrangements   |
+| NoTransitionalArrangement | No Transitional Arrangement |

@@ -1,0 +1,19 @@
+# Member Account Tax Phase Dimension
+
+## identifier
+dm653
+
+## type
+string
+
+## definition
+This dimension represents the tax phase of a member account.
+
+## codes
+| Code                                 | Description                                  |
+| ------------------------------------ | -------------------------------------------- |
+| TaxedUnderBothTaxedAndTaxFreePhase   | Taxed Under Both Taxed And Tax Free Phase    |
+| BothTaxedAndTaxFree                  | Both Taxed And Tax Free                      |
+| TaxFreeUnderBothTaxedAndTaxFreePhase | Tax Free Under Both Taxed And Tax Free Phase |
+| TaxFree                              | Tax Free                                     |
+| Taxed                                | Taxed                                        |

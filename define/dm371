@@ -1,0 +1,17 @@
+# Asset Ownership Dimension
+
+## identifier
+dm371
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to whether or not the assets are owned and managed by the reporting entity.
+
+## codes
+| Code     | Description |
+| -------- | ----------- |
+| Leased   | Leased   |
+| Direct   | Direct   |
+| Indirect | Indirect |

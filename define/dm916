@@ -1,0 +1,46 @@
+# Reporting Consolidation Basis Dimension
+
+## identifier
+dm916
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the consolidation method.
+
+## codes
+| Code                                                               | Description                                                                 |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| AccountingSPV                                                      | Accounting SPV                                                              |
+| Level2ADI                                                          | Level 2 ADI                                                                 |
+| Level1ADI                                                          | Level 1 ADI                                                                 |
+| RFCAust                                                            | RFC Aust                                                                    |
+| LicensedADIOffshore                                                | Licensed ADI Offshore                                                       |
+| Level2GI                                                           | Level 2 GI                                                                  |
+| Level1GI                                                           | Level 1 GI                                                                  |
+| InternationalElimination                                           | International Elimination                                                   |
+| InterRegionElimination                                             | Inter-Region Elimination                                                    |
+| RFCCategoryAust                                                    | RFC Domestic Aust                                                           |
+| Level2GIAust                                                       | Level 2 GI Aust                                                             |
+| Level2GIInt                                                        | Level 2 GI Int                                                              |
+| LicensedADIAust                                                    | Licensed ADI Aust                                                           |
+| Level2GIIntNZ                                                      | Level 2 GI NZ                                                               |
+| Level2GIIntUSA                                                     | Level 2 GI USA                                                              |
+| Level2GIIntSEA                                                     | Level 2 GI South East Asia                                                  |
+| Level2GIIntAP                                                      | Level 2 GI Asia Pacific                                                     |
+| Level2GIIntAmericas                                                | Level 2 GI Americas                                                         |
+| Level2GIIntUKEu                                                    | Level 2 GI UK and Europe                                                    |
+| Level2GIIntOther                                                   | Level 2 GI Other                                                            |
+| ConsolidatedFinancialRFC                                           | Consolidated Financial RFC                                                  |
+| ConsolidatedFinancialADI                                           | Consolidated Financial ADI                                                  |
+| BranchGI                                                           | Branch GI                                                                   |
+| Level1AuthorisedDepositTakingInstitutionPlusSpecialPurposeVehicles | Level 1 Authorised Deposit Taking Institution Plus Special Purpose Vehicles |
+| Level2AuthorisedDepositTakingInstitutionPlusSpecialPurposeVehicles | Level 2 Authorised Deposit Taking Institution Plus Special Purpose Vehicles |
+| LicensedLifeInsurer                                                | Licensed Life Insurer                                                       |
+| Level2                                                             | Level 2                                                                     |
+| Level1                                                             | Level 1                                                                     |
+| LicensedADI                                                        | Licensed ADI                                                                |
+| Level1ADISPVNoCapitalRelief                                        | Level 1 ADISPV No Capital Relief                                            |
+| Level2ADISPVNoCapitalRelief                                        | Level 2 ADISPV No Capital Relief                                            |
+| DomesticBooks                                                      | Domestic Books                                                              |

@@ -1,0 +1,17 @@
+# Fee Charging Basis Dimension
+
+## identifier
+dm665
+
+## type
+string
+
+## definition
+This dimension represents the basis on which fees are charged.
+
+## codes
+| Code          | Description    |
+| ------------- | -------------- |
+| NotApplicable | Not Applicable |
+| PerAnnum      | Per Annum      |
+| PerActivity   | Per Activity   |

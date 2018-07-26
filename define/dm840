@@ -1,0 +1,16 @@
+# Australian Registered Scheme Number Dimension
+
+## identifier
+dm840
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to whether the scheme has an Australian Registered Scheme Number issued. An Australian Registered Scheme Number is a nine digit number issued to Australian managed investment schemes by the Australian Securities and Investments Commission (ASIC).
+
+## codes
+| Code                                    | Description                                 |
+| --------------------------------------- | ------------------------------------------- |
+| WithAustralianRegisteredSchemeNumber    | With Australian Registered Scheme Number    |
+| WithoutAustralianRegisteredSchemeNumber | Without Australian Registered Scheme Number |

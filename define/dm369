@@ -1,0 +1,24 @@
+# Counterparty Domicile Dimension
+
+## identifier
+dm369
+
+## type
+string
+
+## definition
+This dimension categorises reported data according to the residency of the counterparty. Residency is determined by the domicile of the counterparty. Branches are classified as residents of the country in which they operate.
+
+## codes
+| Code          | Description     |
+| ------------- | --------------- |
+| NonAUResident | Non AU Resident |
+| NSWResident   | NSW Resident    |
+| VICResident   | VIC Resident    |
+| QLDResident   | QLD Resident    |
+| SAResident    | SA Resident     |
+| WAResident    | WA Resident     |
+| TASResident   | TAS Resident    |
+| ACTResident   | ACT Resident    |
+| NTResident    | NT Resident     |
+| AUResident    | AU Resident     |

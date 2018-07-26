@@ -1,0 +1,19 @@
+# Types Of Chronic Disease Management Program Dimension
+
+## identifier
+dm803
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the types of Chronic Disease Management Programs.
+
+## codes
+| Code           | Description    |
+| -------------- | -------------- |
+| RiskFactors    | Risk Factors   |
+| Other          | Other          |
+| MentalHealth   | Mental Health  |
+| Diabetes       | Diabetes       |
+| Cardiovascular | Cardiovascular |

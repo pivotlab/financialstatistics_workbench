@@ -1,0 +1,23 @@
+# Types Of Expenses Dimension
+
+## identifier
+dm821
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the different types of expenses.
+
+## codes
+| Code                                | Description                             |
+| ----------------------------------- | --------------------------------------- |
+| ShareOfCorporateOverheads           | Share Of Corporate Overheads            |
+| OperationsAndAdministration         | Operations And Administration           |
+| MarketingAndPublicity               | Marketing And Publicity                 |
+| OtherManagementExpenses             | Other Management Expenses               |
+| CostsOfGoodsServices                | Costs Of Goods Services                 |
+| EmployeeCosts                       | Employee Costs                          |
+| CommissionsAndFees                  | Commissions And Fees                    |
+| DevelopmentAndOtherOnGoingCosts     | Development And Other On Going Costs    |
+| HardwareAndSoftwareApplicationCosts | Hardware And Software Application Costs |

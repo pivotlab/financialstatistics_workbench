@@ -1,0 +1,16 @@
+# Method Of Revaluation Dimension
+
+## identifier
+dm534
+
+## type
+string
+
+## definition
+This dimension categorises the reported information according to the type of accounting method employed to revalue the asset or liability.
+
+## codes
+| Code                                       | Description                                    |
+| ------------------------------------------ | ---------------------------------------------- |
+| RevaluationThroughProfitAndLoss            | Revaluation Through Profit And Loss            |
+| RevaluationThroughOtherComprehensiveIncome | Revaluation Through Other Comprehensive Income |

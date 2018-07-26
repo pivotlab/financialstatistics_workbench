@@ -1,0 +1,52 @@
+# Loss Given Default Band
+
+## identifier
+dm379
+
+## type
+string
+
+## definition
+This dimension categorises information reported in relation to credit exposures, according to it's associated loss given default (LGD) band. LGD estimates are to be determined in accordance with relevant prudential standards. LT
+
+## codes
+| Code              | Description                                                 |
+| ----------------- | ----------------------------------------------------------- |
+| EGT100Pct         | Equal To Greater Than 100 Percent                           |
+| EGT100PctLT110Pct | Equal To Greater Than 100 Percent And Less Than 110 Percent |
+| EGT10PctLT15Pct   | Equal To Greater Than 10 Percent And Less Than 15 Percent   |
+| EGT10PctLT20Pct   | Equal To Greater Than 10 Percent And Less Than 20 Percent   |
+| EGT110Pct         | Equal To Greater Than 110 Percent                           |
+| EGT15PctLT20Pct   | Equal To Greater Than 15 Percent And Less Than 20 Percent   |
+| EGT15PctLT30Pct   | Equal To Greater Than 15 Percent And Less Than 30 Percent   |
+| EGT2.5PctLT5Pct   | Equal To Greater Than 2.5 Percent And Less Than 5 Percent   |
+| EGT20PctLT25Pct   | Equal To Greater Than 20 Percent And Less Than 25 Percent   |
+| EGT20PctLT30Pct   | Equal To Greater Than 20 Percent And Less Than 30 Percent   |
+| EGT25PctLT30Pct   | Equal To Greater Than 25 Percent And Less Than 30 Percent   |
+| EGT30PctLT35Pct   | Equal To Greater Than 30 Percent And Less Than 35 Percent   |
+| EGT30PctLT40Pct   | Equal To Greater Than 30 Percent And Less Than 40 Percent   |
+| EGT30PctLT45Pct   | Equal To Greater Than 30 Percent And Less Than 45 Percent   |
+| EGT35PctLT40Pct   | Equal To Greater Than 35 Percent And Less Than 40 Percent   |
+| EGT40Pct          | Equal To Greater Than 40 Percent                            |
+| EGT40PctLT45Pct   | Equal To Greater Than 40 Percent And Less Than 45 Percent   |
+| EGT40PctLT50Pct   | Equal To Greater Than 40 Percent And Less Than 50 Percent   |
+| EGT45PctLT50Pct   | Equal To Greater Than 45 Percent And Less Than 50 Percent   |
+| EGT45PctLT55Pct   | Equal To Greater Than 45 Percent And Less Than 55 Percent   |
+| EGT50PctLT60Pct   | Equal To Greater Than 50 Percent And Less Than 60 Percent   |
+| EGT55PctLT60Pct   | Equal To Greater Than 55 Percent And Less Than 60 Percent   |
+| EGT5PctLT7.5Pct   | Equal To Greater Than 5 Percent And Less Than 7.5 Percent   |
+| EGT60PctLT65Pct   | Equal To Greater Than 60 Percent And Less Than 65 Percent   |
+| EGT60PctLT70Pct   | Equal To Greater Than 60 Percent And Less Than 70 Percent   |
+| EGT65PctLT70Pct   | Equal To Greater Than 65 Percent And Less Than 70 Percent   |
+| EGT7.5PctLT10Pct  | Equal To Greater Than 7.5 Percent And Less Than 10 Percent  |
+| EGT70PctLT75Pct   | Equal To Greater Than 70 Percent And Less Than 75 Percent   |
+| EGT70PctLT80Pct   | Equal To Greater Than 70 Percent And Less Than 80 Percent   |
+| EGT75PctLT80Pct   | Equal To Greater Than 75 Percent And Less Than 80 Percent   |
+| EGT80PcLT90Pct    | Equal To Greater Than 80 Percent And Less Than 90 Percent   |
+| EGT80PctLT85Pct   | Equal To Greater Than 80 Percent And Less Than 85 Percent   |
+| EGT85PctLT90Pct   | Equal To Greater Than 85 Percent And Less Than 90 Percent   |
+| EGT90Pct          | Equal To Greater Than 90 Percent                            |
+| EGT90PctLT100Pct  | Equal To Greater Than 90 Percent And Less Than 100 Percent  |
+| LT10Pct           | Less Than 10 Percent                                        |
+| LT15Pct           | Less Than 15 Percent                                        |
+| LT2.5Pct          | Less Than 2.5 Percent                                       |

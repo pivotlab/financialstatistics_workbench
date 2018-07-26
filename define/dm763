@@ -1,0 +1,19 @@
+# Commodity Type Dimension
+
+## identifier
+dm763
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the type of commodity contract.
+
+## codes
+| Code                        | Description                    |
+| --------------------------- | ------------------------------ |
+| HardCommodities             | Hard Commodities               |
+| EmergingCommodities         | Emerging Commodities           |
+| MetalCommoditiesNonPrecious | Metal Commodities Non Precious |
+| MetalCommoditiesPrecious    | Metal Commodities Precious     |
+| SoftCommodities             | Soft Commodities               |

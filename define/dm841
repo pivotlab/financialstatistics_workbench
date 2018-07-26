@@ -1,0 +1,17 @@
+# Expense Incurred Type Dimension
+
+## identifier
+dm841
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the type of expense incurred.
+
+## codes
+| Code                                                | Description                                               |
+| --------------------------------------------------- | --------------------------------------------------------- |
+| Interest                                            | Interest                                                  |
+| PropertyMaintenanceInvestment                       | Property Maintenance Investment                           |
+| StaffSalaryCostsRegistrableSuperannuationEntityOnly | Staff Salary Costs Registrable Superannuation Entity Only |

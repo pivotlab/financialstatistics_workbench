@@ -1,0 +1,17 @@
+# Basis Of Preparation Dimension
+
+## identifier
+dm562
+
+## type
+string
+
+## definition
+This dimension represents the basis used for the reported information.
+
+## codes
+| Code        | Description |
+| ----------- | ----------- |
+| Prudential  | Prudential  |
+| Combination | Combination |
+| Accounting  | Accounting  |

@@ -1,0 +1,18 @@
+# Asset Seller
+
+## identifier
+dm406
+
+## type
+string
+
+## definition
+This dimension categorises information reported regarding assets which have been purchased or acquired, based on the selling counterparty.
+
+## codes
+| Code                | Description                                        |
+| ------------------- | -------------------------------------------------- |
+| AssocJV             | Associates and Joint Ventures                      |
+| NotParentSubAssocJV | Not Parent, Subsidiary, Associate or Joint Venture |
+| Parent              | Parent                                             |
+| Subsidiary          | Subsidiary                                         |

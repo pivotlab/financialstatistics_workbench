@@ -1,0 +1,23 @@
+# Business Line
+
+## identifier
+dm346
+
+## type
+string
+
+## definition
+This dimension is used to categorise information reported according to specified business lines.
+
+## codes
+| Code                 | Description            |
+| -------------------- | ---------------------- |
+| AgencyServices       | Agency Services        |
+| AssetManagement      | Asset Management       |
+| CommercialBanking    | Commercial Banking     |
+| CorporateFinance     | Corporate Finance      |
+| OtherBusinessLine    | Other Business Line    |
+| PaymentAndSettlement | Payment And Settlement |
+| RetailBanking        | Retail Banking         |
+| RetailBrokerage      | Retail Brokerage       |
+| TradingAndSales      | Trading And Sales      |

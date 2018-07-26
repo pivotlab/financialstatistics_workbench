@@ -1,0 +1,18 @@
+# Investment Option Type Dimension
+
+## identifier
+dm616
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the superannuation investment option type.
+
+## codes
+| Code                | Description            |
+| ------------------- | ---------------------- |
+| NonMySuperNonSelect | Non MySuper Non Select |
+| MySuperLifecycle    | MySuper Lifecycle      |
+| Select              | Select                 |
+| MySuperSingle       | MySuper Single         |

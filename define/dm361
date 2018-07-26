@@ -1,0 +1,16 @@
+# Operational Classification
+
+## identifier
+dm361
+
+## type
+string
+
+## definition
+This dimension identifies the reported information with the operational classifications used by the reporting party to segment its business.
+
+## codes
+| Code                        | Description                    |
+| --------------------------- | ------------------------------ |
+| PolicyholdersFundsInsurance | Insurance Policyholders' Funds |
+| ShareholdersFunds           | Shareholders' Funds            |

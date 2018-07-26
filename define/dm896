@@ -1,0 +1,17 @@
+# Risk Weights For Residential Mortgages Dimension
+
+## identifier
+dm896
+
+## type
+string
+
+## definition
+This dimension categorises information reported regarding risk-weights for residential mortgages in accordance with Prudential Standard APS 112 - Capital Adequacy: Standardised Approach to Credit Risk, Attachment D Residential mortgages.
+
+## codes
+| Code                                    | Description                                     |
+| --------------------------------------- | ----------------------------------------------- |
+| ThirtyFivePercent                       | Thirty Five Percent                             |
+| ThirtyFivePercentOrLower                | Thirty Five Percent Or Lower                    |
+| DoNotQualifyForThirtyFivePercentOrLower | Do Not Qualify For Thirty Five Percent Or Lower |

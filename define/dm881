@@ -1,0 +1,16 @@
+# Debt Claim Classification Dimension
+
+## identifier
+dm881
+
+## type
+string
+
+## definition
+This dimension categorises information reported in accordance to the debt claim hierarchy which effects the order in which creditors are paid out.
+
+## codes
+| Code      | Description |
+| --------- | ----------- |
+| NonSenior | Non Senior |
+| Senior    | Senior     |

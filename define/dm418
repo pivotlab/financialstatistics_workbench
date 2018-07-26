@@ -1,0 +1,18 @@
+# Capital Adequacy Approach Dimension
+
+## identifier
+dm418
+
+## type
+string
+
+## definition
+This dimension categorises information reported in relation to the capital adequacy approach adopted, as determined in accordance with relevant prudential standards.
+
+## codes
+| Code         | Description  |
+| ------------ | ------------ |
+| IRB          | IRB          |
+| Standardised | Standardised |
+| AMA          | AMA          |
+| Simplified   | Simplified   |

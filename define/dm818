@@ -1,0 +1,17 @@
+# Source Of Operational Revenue Dimension
+
+## identifier
+dm818
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the different types of sources of revenue.
+
+## codes
+| Code                 | Description            |
+| -------------------- | ---------------------- |
+| MajorOtherSource     | Major Other Source     |
+| SecondaryOtherSource | Secondary Other Source |
+| ResidualOtherSource  | Residual Other Source  |

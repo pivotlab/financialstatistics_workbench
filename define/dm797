@@ -1,0 +1,18 @@
+# Policy Treatment Type Dimension
+
+## identifier
+dm797
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the type of treatment covered by a private health insurance policy.
+
+## codes
+| Code                                | Description                             |
+| ----------------------------------- | --------------------------------------- |
+| HospitalAndGeneralTreatmentCombined | Hospital And General Treatment Combined |
+| TreatmentThatIncludesHospital       | Treatment That Includes Hospital        |
+| HospitalTreatmentOnly               | Hospital Treatment Only                 |
+| GeneralTreatmentOnly                | General Treatment Only                  |

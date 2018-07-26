@@ -1,0 +1,16 @@
+# Securitisation Treatment Dimension
+
+## identifier
+dm910
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the accounting treatment of securitisations.
+
+## codes
+| Code                       | Description                   |
+| -------------------------- | ----------------------------- |
+| OnBalanceSheetSecuritised  | On Balance Sheet Securitised  |
+| OffBalanceSheetSecuritised | Off Balance Sheet Securitised |

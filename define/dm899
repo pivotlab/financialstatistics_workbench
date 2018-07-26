@@ -1,0 +1,16 @@
+# Loan To Income Dimension
+
+## identifier
+dm899
+
+## type
+string
+
+## definition
+This dimension categorises the reported information according to the ratio of the credit limit of the loan to the borrower's gross income.
+
+## codes
+| Code      | Description   |
+| --------- | ------------- |
+| GTE4XLT6X | GTE 4 XLT 6 X |
+| GTE6X     | GTE 6 X       |

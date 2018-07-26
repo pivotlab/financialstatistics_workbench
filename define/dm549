@@ -1,0 +1,19 @@
+# Benefit Type Dimension
+
+## identifier
+dm549
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to information based on the type of benefit applicable.
+
+## codes
+| Code                    | Description               |
+| ----------------------- | ------------------------- |
+| NonParticipatingBenefit | Non Participating Benefit |
+| ParticipatingBenefit    | Participating Benefit     |
+| MinimumBenefit          | Minimum Benefit           |
+| AccruedBenefit          | Accrued Benefit           |
+| VestedBenefit           | Vested Benefit            |

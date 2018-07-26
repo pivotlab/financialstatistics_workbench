@@ -1,0 +1,17 @@
+# Market Risk Method
+
+## identifier
+dm350
+
+## type
+string
+
+## definition
+This dimension categorises information reported based on the market risk method used to calculate capital charge for capital adequacy purposes, as determined in accordance with relevant prudential standards.
+
+## codes
+| Code                  | Description             |
+| --------------------- | ----------------------- |
+| AlternativeAPRAMethod | Alternative APRA Method |
+| InternalModelMethod   | Internal Model Method   |
+| StandardMethod        | Standard Method         |

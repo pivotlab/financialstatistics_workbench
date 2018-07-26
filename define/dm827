@@ -1,0 +1,51 @@
+# Liability Relative Size Dimension
+
+## identifier
+dm827
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the relative size of liabilities.
+
+## codes
+| Code                                                    | Description                                                      |
+| ------------------------------------------------------- | ---------------------------------------------------------------- |
+| Top20Value                                              | Top 20 by Value                                                  |
+| TopTen5PctCB                                            | Top Ten by Value plus those exceeding 5% of Capital Base         |
+| TopTen10PctCB                                           | Top Ten by Value plus those exceeding 10% of Capital Base        |
+| GT5PctOfTotalAssets                                     | Over 5% of Total Assets                                          |
+| GT1K                                                    | Greater Than $1000                                               |
+| Top10Value                                              | Top 10 by Value                                                  |
+| LT100K                                                  | Less than $100,000                                               |
+| GTE100KLT500K                                           | $100,000 or more but less than $50,000K                          |
+| GTE500KLT2M                                             | $500,000 or more but less than $2,000,000                        |
+| GTE2M                                                   | Over $2,000,000                                                  |
+| ExposGT10PctCB                                          | Exposures Over 10% of Capital Base                               |
+| Maximum                                                 | Maximum                                                          |
+| Top5Value                                               | Top 5 Value                                                      |
+| GT1Pct                                                  | GT 1 Pct                                                         |
+| GT10Pct                                                 | GT 10 Pct                                                        |
+| RemainingGroupInsurance                                 | Remaining Group Insurance                                        |
+| Top20Accounts                                           | Top 20 Accounts                                                  |
+| LargestGroupInsurance                                   | Largest Group Insurance                                          |
+| GT5PctCapitalCoverage                                   | GT 5 Pct Capital Coverage                                        |
+| GreaterThanOrEqualToTwoPercentOfBalancesheetLiabilities | Greater Than Or Equal To Two Percent Of Balancesheet Liabilities |
+| FourthLargest                                           | Fourth Largest                                                   |
+| LessThanTwoPercentOfBalancesheetLiabilities             | Less Than Two Percent Of Balancesheet Liabilities                |
+| ThirdLargest                                            | Third Largest                                                    |
+| SecondLargest                                           | Second Largest                                                   |
+| HoldsGreaterThan20Percent                               | Holds Greater Than 20 Percent                                    |
+| LiquidityLargeExposure                                  | Liquidity Large Exposure                                         |
+| AboveLimit25PercentCommonEquityTier1Capital             | Above Limit 25 Percent Common Equity Tier 1 Capital              |
+| Limit25PercentCommonEquityTier1Capital                  | Limit 25 Percent Common Equity Tier 1 Capital                    |
+| TwentyLargestPlusAllGreaterThanEqualTo10PercentTier1    | Twenty Largest Plus All Greater Than Equal To 10 Percent Tier 1  |
+| FifthLargest                                            | Fifth Largest                                                    |
+| GreaterThanEqualTo10PercentTier1                        | Greater Than Equal To 10 Percent Tier 1                          |
+| SixthLargest                                            | Sixth Largest                                                    |
+| TenthLargest                                            | Tenth Largest                                                    |
+| SeventhLargest                                          | Seventh Largest                                                  |
+| TwentyLargestPlusAllGreaterThanEqualTo5PercentTier1     | Twenty Largest Plus All Greater Than Equal To 5 Percent Tier 1   |
+| EighthLargest                                           | Eighth Largest                                                   |
+| NinthLargest                                            | Ninth Largest                                                    |

@@ -1,0 +1,17 @@
+# Prescribed Stress Scenario Dimension
+
+## identifier
+dm557
+
+## type
+string
+
+## definition
+This dimension categorises the reported information according to the relevant years of the prescribed stress scenario, which is in the form of economic or property downturn. The probability of maximum loss allocations are based on the year in this downturn scenario.
+
+## codes
+| Code     | Description |
+| -------- | ----------- |
+| PMLYear2 | PML Year 2 |
+| PMLYear1 | PML Year 1 |
+| PMLYear3 | PML Year 3 |

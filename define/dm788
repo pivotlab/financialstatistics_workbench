@@ -1,0 +1,16 @@
+# Excess Type Dimension
+
+## identifier
+dm788
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the amount of money a policy holder agrees to pay before private health insurance benefits are payable.
+
+## codes
+| Code                    | Description                  |
+| ----------------------- | ---------------------------- |
+| NoExcessAndNoCoPayments | No Excess And No Co Payments |
+| ExcessAndCoPayments     | Excess And Co Payments       |

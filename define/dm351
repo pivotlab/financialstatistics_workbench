@@ -1,0 +1,16 @@
+# Security Issuer Relationship Dimension
+
+## identifier
+dm351
+
+## type
+string
+
+## definition
+This dimension categorises information reported in relation to securities held, based on the reporting entity's relationship to the issuing counterparty.
+
+## codes
+| Code          | Description    |
+| ------------- | -------------- |
+| Originated    | Originated     |
+| NotOriginated | Not Originated |

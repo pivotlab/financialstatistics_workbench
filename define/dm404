@@ -1,0 +1,16 @@
+# Reporting Geographical Location
+
+## identifier
+dm404
+
+## type
+string
+
+## definition
+This represents the location of the items being reported.
+
+## codes
+| Code             | Description       |
+| ---------------- | ----------------- |
+| OutsideAustralia | Outside Australia |
+| InAustralia      | In Australia      |

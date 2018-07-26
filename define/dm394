@@ -1,0 +1,15 @@
+# Mathematical Context
+
+## identifier
+dm394
+
+## type
+string
+
+## definition
+This dimension identifies the reported fact value as being either the real number or its absolute equivalent.
+
+## codes
+| Code     | Description        |
+| -------- | ------------------ |
+| Absolute | Absolute (Modulus) |

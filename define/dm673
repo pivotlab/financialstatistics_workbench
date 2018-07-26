@@ -1,0 +1,20 @@
+# Income Protection Cover Length Dimension
+
+## identifier
+dm673
+
+## type
+string
+
+## definition
+This dimension represents periods of income protection cover.
+
+## codes
+| Code                         | Description                         |
+| ---------------------------- | ----------------------------------- |
+| UpTo5Years                   | Up To 5 Years                       |
+| UpTo2Years                   | Up To 2 Years                       |
+| UpTo1Year                    | Up To 1 Year                        |
+| MoreThan5YearsOrNotLimited65 | More Than 5 Years Or Not Limited 65 |
+| UntilAge65                   | Until Age 65                        |
+| NotApplicable                | Not Applicable                      |

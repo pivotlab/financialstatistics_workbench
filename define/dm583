@@ -1,0 +1,11 @@
+# Region Approach Used Insurance Concentration Risk Charge Dimension
+
+## identifier
+dm583
+
+## type
+string
+
+## definition
+This dimension is used to identify the region used to determine the applicable component that produces the highest Insurance Concentration Risk Charge, determined in accordance with relevant prudential standards.
+

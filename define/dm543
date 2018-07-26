@@ -1,0 +1,17 @@
+# Categories Of Insurance Business Dimension
+
+## identifier
+dm543
+
+## type
+string
+
+## definition
+This dimension is used to categorise the reported information into the applicable insurance business, as defined by the relevant prudential standards.
+
+## codes
+| Code                     | Description                |
+| ------------------------ | -------------------------- |
+| InvestmentLinkedBusiness | Investment Linked Business |
+| RiskBusiness             | Risk Business              |
+| OtherBusiness            | Other Business             |

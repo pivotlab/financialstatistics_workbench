@@ -1,0 +1,22 @@
+# Specific Risk Weight Dimension
+
+## identifier
+dm407
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the specific risk weights, as determined in accordance with prudential standards. Specific risk represents the risk that the value of a security will change due to issuer-specific factors.
+
+## codes
+| Code                       | Description                    |
+| -------------------------- | ------------------------------ |
+| TwelvePercent              | Twelve Percent                 |
+| EightPercent               | Eight Percent                  |
+| OnePointSixPercent         | One Point Six Percent          |
+| OnePercent                 | One Percent                    |
+| ZeroPointTwentyFivePercent | Zero Point Twenty Five Percent |
+| ZeroPercent                | Zero Percent                   |
+| TwoPercent                 | Two Percent                    |
+| FourPercent                | Four Percent                   |

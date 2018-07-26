@@ -1,0 +1,16 @@
+# Security Acquired Method Dimension
+
+## identifier
+dm750
+
+## type
+string
+
+## definition
+The information reported classifies the method to which securities are acquired.
+
+## codes
+| Code        | Description  |
+| ----------- | ------------ |
+| ReverseRepo | Reverse Repo |
+| Outright    | Outright     |

@@ -1,0 +1,29 @@
+# Liquid Asset Type Dimension
+
+## identifier
+dm747
+
+## type
+string
+
+## definition
+The information reported is categorised according to the liquid asset type used.
+
+## codes
+| Code                                                     | Description                                                     |
+| -------------------------------------------------------- | --------------------------------------------------------------- |
+| EligibleHighQualityLiquidAssets2                         | Eligible High Quality Liquid Assets 2                           |
+| IneligibleCommittedLiquidityFacilityAssets               | Ineligible Committed Liquidity Facility Assets                  |
+| OtherAssetsAndIneligibleCommittedLiquidityFacilityAssets | Other Assets And Ineligible Committed Liquidity Facility Assets |
+| EligibleLiquidAssetsExceptForEncumbrance                 | Eligible Liquid Assets Except For Encumbrance                   |
+| HighQualityLiquidAssets1                                 | High Quality Liquid Assets 1                                    |
+| MinimumLiquidityHoldings                                 | Minimum Liquidity Holdings                                      |
+| HighQualityLiquidAssets                                  | High Quality Liquid Assets                                      |
+| EligibleReserveBankOfNewZealandSecurities                | Eligible Reserve Bank Of New Zealand Securities                 |
+| EligibleCommittedLiquidityFacilityAssets                 | Eligible Committed Liquidity Facility Assets                    |
+| HighQualityLiquidAssets2B                                | High Quality Liquid Assets 2 B                                  |
+| EligibleHighQualityLiquidAssets2B                        | Eligible High Quality Liquid Assets 2 B                         |
+| HighQualityLiquidAssets2A                                | High Quality Liquid Assets 2 A                                  |
+| HighQualityLiquidAssets2                                 | High Quality Liquid Assets 2                                    |
+| EligibleHighQualityLiquidAssets1                         | Eligible High Quality Liquid Assets 1                           |
+| EligibleHighQualityLiquidAssets2A                        | Eligible High Quality Liquid Assets 2 A                         |

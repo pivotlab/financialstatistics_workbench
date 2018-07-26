@@ -1,0 +1,24 @@
+# Health Benefits Fund Dimension
+
+## identifier
+dm847
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the reporting health benefits fund as defined in the Private Health Insurance Act.
+
+## codes
+| Code                 | Description             |
+| -------------------- | ----------------------- |
+| HealthBenefitsFund1  | Health Benefits Fund 1  |
+| HealthBenefitsFund2  | Health Benefits Fund 2  |
+| HealthBenefitsFund3  | Health Benefits Fund 3  |
+| HealthBenefitsFund4  | Health Benefits Fund 4  |
+| HealthBenefitsFund5  | Health Benefits Fund 5  |
+| HealthBenefitsFund6  | Health Benefits Fund 6  |
+| HealthBenefitsFund7  | Health Benefits Fund 7  |
+| HealthBenefitsFund8  | Health Benefits Fund 8  |
+| HealthBenefitsFund9  | Health Benefits Fund 9  |
+| HealthBenefitsFund10 | Health Benefits Fund 10 |

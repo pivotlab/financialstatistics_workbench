@@ -1,0 +1,17 @@
+# Service Provider Type Dimension
+
+## identifier
+dm599
+
+## type
+string
+
+## definition
+This dimension classifies information by the type of service provider applicable.
+
+## codes
+| Code                                    | Description                                |
+| --------------------------------------- | ------------------------------------------ |
+| AssociateProvider                       | Associate Provider                         |
+| RegistrableSuperannuationEntityLicensee | Registrable Superannuation Entity Licensee |
+| NonAssociateProvider                    | Non Associate Provider                     |

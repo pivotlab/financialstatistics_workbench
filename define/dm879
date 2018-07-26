@@ -1,0 +1,17 @@
+# Exposure Position Classification Dimension
+
+## identifier
+dm879
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the classification of the exposure position.
+
+## codes
+| Code                           | Description                        |
+| ------------------------------ | ---------------------------------- |
+| Local                          | Local                              |
+| CrossBorder                    | Cross Border                       |
+| CrossBorderPlusForeignCurrency | Cross Border Plus Foreign Currency |

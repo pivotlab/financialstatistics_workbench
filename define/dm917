@@ -1,0 +1,16 @@
+# Book Type Financial Institutions Dimension
+
+## identifier
+dm917
+
+## type
+string
+
+## definition
+This dimension categorises a financial institution's holdings of financial instruments based on the 'book type' ('banking book' or 'trading book') to which the instrument belongs.
+
+## codes
+| Code        | Description  |
+| ----------- | ------------ |
+| BankingBook | Banking Book |
+| TradingBook | Trading Book |

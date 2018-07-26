@@ -1,0 +1,16 @@
+# Natural Perils Extent Dimension
+
+## identifier
+dm553
+
+## type
+string
+
+## definition
+This dimension categorises the reported information by the extent/level of loss caused by a natural perils event.
+
+## codes
+| Code | Description |
+| ---- | ----------- |
+| H3 | H3 |
+| H4 | H4 |

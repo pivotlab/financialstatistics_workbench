@@ -1,0 +1,23 @@
+# Property Location Dimension
+
+## identifier
+dm909
+
+## type
+string
+
+## definition
+The location of the property that funds are being used for.
+
+## codes
+| Code                                  | Description                               |
+| ------------------------------------- | ----------------------------------------- |
+| SA                                    | SA                                        |
+| TAS                                   | TAS                                       |
+| WA                                    | WA                                        |
+| OtherAustralianTerritoriesAndOverseas | Other Australian Territories And Overseas |
+| ACT                                   | ACT                                       |
+| NSW                                   | NSW                                       |
+| QLD                                   | QLD                                       |
+| VIC                                   | VIC                                       |
+| NT                                    | NT                                        |

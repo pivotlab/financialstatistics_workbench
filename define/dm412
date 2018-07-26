@@ -1,0 +1,22 @@
+# Class Of Business Dimension
+
+## identifier
+dm412
+
+## type
+string
+
+## definition
+This dimension is used to categorise information according to business activity.
+
+## codes
+| Code                     | Description                |
+| ------------------------ | -------------------------- |
+| DirectBusiness           | Direct Business            |
+| ReinsuranceBusiness      | Reinsurance Business       |
+| SuperannuationBusiness   | Superannuation Business    |
+| OtherBusiness            | Other Business             |
+| MedicalIndemnity         | Medical Indemnity          |
+| NonMedicalIndemnity      | Non Medical Indemnity      |
+| NonDiscretionaryBusiness | Non Discretionary Business |
+| NonReinsuranceBusiness   | Non Reinsurance Business   |

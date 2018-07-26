@@ -1,0 +1,67 @@
+# Claims Admitted Period Dimension
+
+## identifier
+dm631
+
+## type
+string
+
+## definition
+This dimension is used to categorise reported information according to the time period within which a claim is admitted.
+
+## codes
+| Code                  | Description             |
+| --------------------- | ----------------------- |
+| CurrentPeriod         | Current Period          |
+| AfterReportingPeriod  | After Reporting Period  |
+| BeforeReportingPeriod | Before Reporting Period |
+| ReportingPeriod12M    | Reporting Period 12 M   |
+| Prior5Months          | Prior 5 Months          |
+| Prior25Months         | Prior 25 Months         |
+| Prior28Months         | Prior 28 Months         |
+| Prior34Months         | Prior 34 Months         |
+| Prior27Months         | Prior 27 Months         |
+| Prior10Months         | Prior 10 Months         |
+| Prior13Months         | Prior 13 Months         |
+| Prior16Months         | Prior 16 Months         |
+| Prior36Months         | Prior 36 Months         |
+| Prior12Months         | Prior 12 Months         |
+| Prior21Months         | Prior 21 Months         |
+| Prior30Months         | Prior 30 Months         |
+| Prior17Months         | Prior 17 Months         |
+| Prior31Months         | Prior 31 Months         |
+| Prior3Months          | Prior 3 Months          |
+| Prior45Months         | Prior 45 Months         |
+| Prior43Months         | Prior 43 Months         |
+| Prior29Months         | Prior 29 Months         |
+| Prior38Months         | Prior 38 Months         |
+| Prior7Months          | Prior 7 Months          |
+| Prior18Months         | Prior 18 Months         |
+| Prior32Months         | Prior 32 Months         |
+| Prior11Months         | Prior 11 Months         |
+| Prior35Months         | Prior 35 Months         |
+| Prior46Months         | Prior 46 Months         |
+| Prior44Months         | Prior 44 Months         |
+| Prior26Months         | Prior 26 Months         |
+| Prior22Months         | Prior 22 Months         |
+| Prior8Months          | Prior 8 Months          |
+| Prior39Months         | Prior 39 Months         |
+| Prior14Months         | Prior 14 Months         |
+| Prior37Months         | Prior 37 Months         |
+| Prior15Months         | Prior 15 Months         |
+| Prior6Months          | Prior 6 Months          |
+| Prior47Months         | Prior 47 Months         |
+| Prior1Month           | Prior 1 Month           |
+| Prior33Months         | Prior 33 Months         |
+| Prior20Months         | Prior 20 Months         |
+| Prior40Months         | Prior 40 Months         |
+| Prior24Months         | Prior 24 Months         |
+| Prior42Months         | Prior 42 Months         |
+| Prior9Months          | Prior 9 Months          |
+| SameMonth             | Same Month              |
+| Prior23Months         | Prior 23 Months         |
+| Prior48Months         | Prior 48 Months         |
+| Prior19Months         | Prior 19 Months         |
+| Prior41Months         | Prior 41 Months         |
+| Prior2Months          | Prior 2 Months          |
+| Prior4Months          | Prior 4 Months          |

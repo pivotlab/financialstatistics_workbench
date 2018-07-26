@@ -1,0 +1,30 @@
+# Members Benefit Type Dimension
+
+## identifier
+dm618
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the types of movements in members' benefits liability.
+
+## codes
+| Code                                | Description                            |
+| ----------------------------------- | -------------------------------------- |
+| EmployerContributionSuperGuarantee  | Employer Contribution Super Guarantee  |
+| MemberContributionLowIncomeEarners  | Member Contribution Low Income Earners |
+| PensionBenefitPayment               | Pension Benefit Payment                |
+| SuccessorFundTransfer               | Successor Fund Transfer                |
+| MemberGovernmentCoContribution      | Member Government Co Contribution      |
+| Other                               | Other                                  |
+| OtherContribution                   | Other Contribution                     |
+| EmployerContributionSalarySacrifice | Employer Contribution Salary Sacrifice |
+| Rollover                            | Rollover                               |
+| MemberContributionPersonal          | Member Contribution Personal           |
+| KiwiSaver                           | KiwiSaver                              |
+| LumpSumBenefitPayment               | Lump Sum Benefit Payment               |
+| BenefitsPayment                     | Benefits Payment                       |
+| EmployerContribution                | Employer Contribution                  |
+| MemberContribution                  | Member Contribution                    |
+| LowIncomeSuperTaxOffset             | Low Income Super Tax Offset            |

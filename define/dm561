@@ -1,0 +1,20 @@
+# Exposure Ranking Dimension
+
+## identifier
+dm561
+
+## type
+string
+
+## definition
+Report information for counterparty exposures ranked by capital requirement.
+
+## codes
+| Code                              | Description                          |
+| --------------------------------- | ------------------------------------ |
+| SecondLargestCounterpartyExposure | Second Largest Counterparty Exposure |
+| LargestCounterpartyExposure       | Largest Counterparty Exposure        |
+| FifthLargestCounterpartyExposure  | Fifth Largest Counterparty Exposure  |
+| FourthLargestCounterpartyExposure | Fourth Largest Counterparty Exposure |
+| OtherCounterpartyExposures        | Other Counterparty Exposures         |
+| ThirdLargestCounterpartyExposure  | Third Largest Counterparty Exposure  |

@@ -1,0 +1,23 @@
+# Receivable Types Dimension
+
+## identifier
+dm813
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the type of receivable.
+
+## codes
+| Code                                                        | Description                                                         |
+| ----------------------------------------------------------- | ------------------------------------------------------------------- |
+| FromPrivateHealthIndustryContributionRebates                | From Private Health Industry Contribution Rebates                   |
+| FromRiskEqualisationTrustFund                               | From Risk Equalisation Trust Fund                                   |
+| FromAustralianTaxationOfficeExcludingFutureIncomeTaxBenefit | From Australian Taxation Office Excluding Future Income Tax Benefit |
+| FromInsurance                                               | From Insurance                                                      |
+| FromFinancialAuxiliaries                                    | From Financial Auxiliaries                                          |
+| FromInvestments                                             | From Investments                                                    |
+| FromDefinedBenefitContributions                             | From Defined Benefit Contributions                                  |
+| FromOther                                                   | From Other                                                          |
+| FromGovernment                                              | From Government                                                     |

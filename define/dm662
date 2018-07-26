@@ -1,0 +1,16 @@
+# Invests In Investment Vehicles Dimension
+
+## identifier
+dm662
+
+## type
+string
+
+## definition
+This dimension categorises the reported information based on whether or not it invests in other investment vehicles.
+
+## codes
+| Code                                   | Description                                  |
+| -------------------------------------- | -------------------------------------------- |
+| DoesNotInvestInOtherInvestmentVehicles | Does Not Invest In Other Investment Vehicles |
+| InvestsInOtherInvestmentVehicles       | Invests In Other Investment Vehicles         |

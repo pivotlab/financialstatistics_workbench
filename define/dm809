@@ -1,0 +1,28 @@
+# Prostheses Category Dimension
+
+## identifier
+dm809
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the category of prosthesis as defined in the relevant Private Health Insurance (Prostheses) rules.
+
+## codes
+| Code                     | Description                |
+| ------------------------ | -------------------------- |
+| Urogenital               | Urogenital                 |
+| Ophthalmic               | Ophthalmic                 |
+| EarNoseAndThroat         | Ear Nose And Throat        |
+| Hip                      | Hip                        |
+| PlasticAndReconstructive | Plastic And Reconstructive |
+| Other                    | Other                      |
+| SpecialistOrthopaedic    | Specialist Orthopaedic     |
+| GeneralMiscellaneous     | General Miscellaneous      |
+| Neurosurgical            | Neurosurgical              |
+| Knee                     | Knee                       |
+| Spinal                   | Spinal                     |
+| Cardiac                  | Cardiac                    |
+| Cardiothoracic           | Cardiothoracic             |
+| Vascular                 | Vascular                   |

@@ -1,0 +1,16 @@
+# Asset Deduction Value Capital Base Dimension
+
+## identifier
+dm565
+
+## type
+string
+
+## definition
+This dimension identifies whether or not the item reported is net of components already deducted from capital base in accordance with relevant prudential standards.
+
+## codes
+| Code  | Description |
+| ----- | ----------- |
+| Net   | Net   |
+| Gross | Gross |

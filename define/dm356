@@ -1,0 +1,56 @@
+# Loan To Valuation Ratio Dimension
+
+## identifier
+dm356
+
+## type
+string
+
+## definition
+This dimension is used to categorise reported loan information according to the loan-to-valuation ratio (LVR) of the loan product.
+
+## codes
+| Code                                       | Description                                        |
+| ------------------------------------------ | -------------------------------------------------- |
+| LTE60                                      | Less Than or Equal to 60%                          |
+| GTE90                                      | GTE90                                              |
+| GTE80LT90                                  | GTE80LT90                                          |
+| GT100                                      | GT100                                              |
+| GT90LTE100                                 | GT90LTE100                                         |
+| GT80LTE90                                  | GT80LTE90                                          |
+| GT60LTE80                                  | GT60LTE80                                          |
+| GTE60LT80                                  | GTE60LT80                                          |
+| GT70LTE80                                  | Greater Than 70% and Less Than or Equal to 80%     |
+| GT60LTE70                                  | Greater Than 60% and Less Than or Equal to 75%     |
+| GT100LTE1000                               | Greater Than 100% and Less Than or Equal to 1000%  |
+| GT95LTE100                                 | Greater Than 95% and Less Than or Equal to 100%    |
+| GT90LTE95                                  | Greater Than 90% and Less Than or Equal to 95%     |
+| GT85LTE90                                  | Greater Than 85% and Less Than or Equal to 90%     |
+| GT80LTE85                                  | Greater Than 80% and Less Than or Equal to 85%     |
+| LT60                                       | LT 60                                              |
+| GTE85LT90                                  | GTE 85 LT 90                                       |
+| GTE81LT85                                  | GTE 81 LT 85                                       |
+| GTE95                                      | GTE 95                                             |
+| GTE90LT95                                  | GTE 90 LT 95                                       |
+| GTE80LT81                                  | GTE 80 LT 81                                       |
+| GTE80LT85                                  | GTE 80 LT 85                                       |
+| GT35LTE40                                  | GT 35 LTE 40                                       |
+| GT55LTE60                                  | GT 55 LTE 60                                       |
+| GT30LTE35                                  | GT 30 LTE 35                                       |
+| GT20LTE25                                  | GT 20 LTE 25                                       |
+| GT15LTE20                                  | GT 15 LTE 20                                       |
+| GT70LTE75                                  | GT 70 LTE 75                                       |
+| GT5LTE10                                   | GT 5 LTE 10                                        |
+| LessThan40Percent                          | Less Than 40 Percent                               |
+| GT10LTE15                                  | GT 10 LTE 15                                       |
+| GT65LTE70                                  | GT 65 LTE 70                                       |
+| GT0LTE5                                    | GT 0 LTE 5                                         |
+| GreaterThanEqual40PercentLessThan60Percent | Greater Than Equal 40 Percent Less Than 60 Percent |
+| GT45LTE50                                  | GT 45 LTE 50                                       |
+| GT60LTE65                                  | GT 60 LTE 65                                       |
+| UnknownLoanToValuationRatio                | Unknown Loan To Valuation Ratio                    |
+| GT40LTE45                                  | GT 40 LTE 45                                       |
+| GT75LTE80                                  | GT 75 LTE 80                                       |
+| Unsecured                                  | Unsecured                                          |
+| GT50LTE55                                  | GT 50 LTE 55                                       |
+| GT25LTE30                                  | GT 25 LTE 30                                       |

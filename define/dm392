@@ -1,0 +1,17 @@
+# Corporate Class
+
+## identifier
+dm392
+
+## type
+string
+
+## definition
+This dimension categorises information reported under the internal ratings based approach to credit risk, based on the prescribed corporate exposure classes, as determined in accordance with relevant prudential standards.
+
+## codes
+| Code               | Description         |
+| ------------------ | ------------------- |
+| General            | General             |
+| SMECorporate       | SME Corporate       |
+| SpecialisedLending | Specialised Lending |

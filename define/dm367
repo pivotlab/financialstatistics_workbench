@@ -1,0 +1,16 @@
+# Stat Fund Interest
+
+## identifier
+dm367
+
+## type
+string
+
+## definition
+This dimension is used to segment data based on the type of interest in the statutory fund
+
+## codes
+| Code                | Description           |
+| ------------------- | --------------------- |
+| PolicyOwnerInterest | Policy Owner Interest |
+| ShareholderInterest | Shareholder Interest  |

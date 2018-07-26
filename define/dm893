@@ -1,0 +1,16 @@
+# Minimum Notice Period Dimension
+
+## identifier
+dm893
+
+## type
+string
+
+## definition
+The information reported reflects the minimum notice period a reporting entity must be given before it can be replaced.
+
+## codes
+| Code                      | Description                   |
+| ------------------------- | ----------------------------- |
+| AtLeastSixMonthsNotice    | At Least Six Months Notice    |
+| AtLeastTwelveMonthsNotice | At Least Twelve Months Notice |

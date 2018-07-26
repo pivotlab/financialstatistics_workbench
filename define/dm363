@@ -1,0 +1,20 @@
+# Completion Status Dimension
+
+## identifier
+dm363
+
+## type
+string
+
+## definition
+Information in relation to the status of completion of an activity or an asset.
+
+## codes
+| Code          | Description     |
+| ------------- | --------------- |
+| NotInProgress | Not In Progress |
+| InProgress    | In Progress     |
+| Complete      | Complete        |
+| NotApplicable | Not Applicable  |
+| NotComplete   | Not Complete    |
+| InUse         | In Use          |

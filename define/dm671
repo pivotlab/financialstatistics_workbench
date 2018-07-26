@@ -1,0 +1,17 @@
+# Insurance Cover Valuation Basis Type Dimension
+
+## identifier
+dm671
+
+## type
+string
+
+## definition
+This dimension represents the types of insurance cover valuation basis.
+
+## codes
+| Code           | Description     |
+| -------------- | --------------- |
+| IndemnityValue | Indemnity Value |
+| NotApplicable  | Not Applicable  |
+| AgreedValue    | Agreed Value    |

@@ -1,0 +1,11 @@
+# Description Of Administration Fee Dimension
+
+## identifier
+dm676
+
+## type
+string
+
+## definition
+This dimension provides the description of the administration fee.
+

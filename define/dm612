@@ -1,0 +1,19 @@
+# Fixed Income Type Dimension
+
+## identifier
+dm612
+
+## type
+string
+
+## definition
+This dimension categorises information based on the type of debt security that provided fixed income.
+
+## codes
+| Code                  | Description             |
+| --------------------- | ----------------------- |
+| NonGovernment         | Non Government          |
+| MortgageCollateral    | Mortgage Collateral     |
+| NotApplicable         | Not Applicable          |
+| Government            | Government              |
+| NonMortgageCollateral | Non Mortgage Collateral |

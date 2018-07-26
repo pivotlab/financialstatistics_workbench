@@ -1,0 +1,18 @@
+# Health Benefit Types Dimension
+
+## identifier
+dm791
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the types of benefits payable under a private health insurance policy.
+
+## codes
+| Code                            | Description                        |
+| ------------------------------- | ---------------------------------- |
+| Ancillaries                     | Ancillaries                        |
+| HospitalSubstituteTreatment     | Hospital Substitute Treatment      |
+| ChronicDiseaseManagementProgram | Chronic Disease Management Program |
+| HospitalTreatment               | Hospital Treatment                 |

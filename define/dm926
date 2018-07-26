@@ -1,0 +1,17 @@
+# Size Of Business Dimension
+
+## identifier
+dm926
+
+## type
+string
+
+## definition
+This dimension categorises the information in relation to the turnover of the business and the counterparty exposure size.
+
+## codes
+| Code   | Description |
+| ------ | ----------- |
+| Medium | Medium |
+| Small  | Small  |
+| Large  | Large  |

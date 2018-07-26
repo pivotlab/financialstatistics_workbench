@@ -1,0 +1,16 @@
+# Health Related Business Type Dimension
+
+## identifier
+dm820
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the different types of health related businesses.
+
+## codes
+| Code      | Description |
+| --------- | ----------- |
+| Other     | Other     |
+| Insurance | Insurance |

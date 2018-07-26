@@ -1,0 +1,21 @@
+# Waiting Period Dimension
+
+## identifier
+dm672
+
+## type
+string
+
+## definition
+This dimension represents the types of waiting period of insurance cover.
+
+## codes
+| Code            | Description        |
+| --------------- | ------------------ |
+| UpTo365Days     | Up To 365 Days     |
+| UpTo180Days     | Up To 180 Days     |
+| UpTo60Days      | Up To 60 Days      |
+| NotApplicable   | Not Applicable     |
+| LongerThan1Year | Longer Than 1 Year |
+| UpTo90Days      | Up To 90 Days      |
+| UpTo30Days      | Up To 30 Days      |

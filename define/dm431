@@ -1,0 +1,16 @@
+# Exchanges Of Principal
+
+## identifier
+dm431
+
+## type
+string
+
+## definition
+This dimension categorises reported information in relation to the requirement for principal payments (exchanges of principal) to be made under contract.
+
+## codes
+| Code                         | Description                     |
+| ---------------------------- | ------------------------------- |
+| MultipleExchangesOfPrincipal | Multiple Exchanges Of Principal |
+| NoExchangesOfPrincipal       | No Exchanges Of Principal       |

@@ -1,0 +1,24 @@
+# Asset Risk Stress Type Dimension
+
+## identifier
+dm540
+
+## type
+string
+
+## definition
+This dimension categorises the reported information based on the impacts arising from the application of certain asset risk stresses. The reported information is contribution towards the change in capital base under the scenario considered.
+
+## codes
+| Code         | Description   |
+| ------------ | ------------- |
+| Equity       | Equity        |
+| INFDownwards | INF Downwards |
+| RIRDownwards | RIR Downwards |
+| Default      | Default       |
+| CreditSpread | Credit Spread |
+| RIRUpwards   | RIR Upwards   |
+| INFUpwards   | INF Upwards   |
+| CURDownwards | CUR Downwards |
+| Property     | Property      |
+| CURUpwards   | CUR Upwards   |

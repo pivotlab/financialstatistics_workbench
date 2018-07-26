@@ -1,0 +1,21 @@
+# Risk Charge Type Dimension
+
+## identifier
+dm588
+
+## type
+string
+
+## definition
+This dimension identifies information based on the risk charge type applied to the underlying adjustment.
+
+## codes
+| Code                                  | Description                              |
+| ------------------------------------- | ---------------------------------------- |
+| InsurancePremiumsLiabilities          | Insurance Premiums Liabilities           |
+| Insurance                             | Insurance                                |
+| InsuranceOutstandingClaimsLiabilities | Insurance Outstanding Claims Liabilities |
+| InsuranceConcentration                | Insurance Concentration                  |
+| Operational                           | Operational                              |
+| AssetConcentration                    | Asset Concentration                      |
+| Asset                                 | Asset                                    |

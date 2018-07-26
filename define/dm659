@@ -1,0 +1,20 @@
+# Investment Style Type Dimension
+
+## identifier
+dm659
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the applicable investment style type.
+
+## codes
+| Code                     | Description               |
+| ------------------------ | ------------------------- |
+| DiscretionaryUnspecified | Discretionary Unspecified |
+| DiscretionaryTopDown     | Discretionary Top Down    |
+| Systematic               | Systematic                |
+| DiscretionaryBottomUp    | Discretionary Bottom Up   |
+| Multiple                 | Multiple                  |
+| NotApplicable            | Not Applicable            |

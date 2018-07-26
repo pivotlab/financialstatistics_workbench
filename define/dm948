@@ -1,0 +1,16 @@
+# Collateral Management Type Dimension
+
+## identifier
+dm948
+
+## type
+string
+
+## definition
+The information reported classifies the collateral management type.
+
+## codes
+| Code      | Description |
+| --------- | ----------- |
+| Bilateral | Bilateral |
+| TriParty  | Tri Party |

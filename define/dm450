@@ -1,0 +1,16 @@
+# Insurance Cover
+
+## identifier
+dm450
+
+## type
+string
+
+## definition
+This dimension is used to categorise reported insurance information in accordance with the nature of the insurance cover provided.
+
+## codes
+| Code                         | Description                |
+| ---------------------------- | -------------------------- |
+| OneHundredPercentAndTopCover | 100 per cent and Top Cover |
+| PoolCover                    | Pool Cover                 |

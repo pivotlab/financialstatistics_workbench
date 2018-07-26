@@ -1,0 +1,18 @@
+# Receivable Due Period
+
+## identifier
+dm455
+
+## type
+string
+
+## definition
+This dimension is used to categorise reported information according to the time period within which it is expected to be received.
+
+## codes
+| Code     | Description |
+| -------- | ----------- |
+| GT6M     | GT6M     |
+| GT6MLT1Y | GT6MLT1Y |
+| GTE1Y    | GTE1Y    |
+| LTE6M    | LTE6M    |

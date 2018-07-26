@@ -1,0 +1,11 @@
+# Underlying Investment Name Or ABN Dimension
+
+## identifier
+dm677
+
+## type
+string
+
+## definition
+This dimension allows organisation name and where available Australian Business Number (ABN) of underlying investment to be used.
+

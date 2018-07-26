@@ -1,0 +1,16 @@
+# Counterparty Default Status
+
+## identifier
+dm337
+
+## type
+string
+
+## definition
+This dimension is used to segment data based on whether the counterparty has defaulted on its obligation to the reporting party.
+
+## codes
+| Code         | Description   |
+| ------------ | ------------- |
+| Defaulted    | Defaulted     |
+| NotDefaulted | Not Defaulted |

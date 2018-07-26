@@ -1,0 +1,11 @@
+# Other Relationship Type Description Dimension
+
+## identifier
+dm636
+
+## type
+string
+
+## definition
+This dimension provides the description of the type of other relationship reported.
+

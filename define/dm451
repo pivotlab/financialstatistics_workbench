@@ -1,0 +1,20 @@
+# Ultimate Risk Counterparty Type
+
+## identifier
+dm451
+
+## type
+string
+
+## definition
+This dimension categorises the reported information according to the type of entity that is deemed the counterparty which holds the ultimate risk (e.g. guarantor of a loan facility) in whatever transaction is the subject of the reported data.
+
+## codes
+| Code                 | Description             |
+| -------------------- | ----------------------- |
+| Bank                 | Bank                    |
+| CentralBank          | Central Bank            |
+| ECB                  | ECB                     |
+| GCBIO                | GCBIO                   |
+| NonBankPrivateSector | Non Bank Private Sector |
+| Unallocated          | Unallocated             |

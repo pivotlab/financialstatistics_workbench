@@ -1,0 +1,16 @@
+# Liabilities Deferred Tax Value Type Dimension
+
+## identifier
+dm570
+
+## type
+string
+
+## definition
+This dimension identifies the accounting valuation scenario, in relation to deferred tax liabilities, under which the reported value was calculated.
+
+## codes
+| Code  | Description |
+| ----- | ----------- |
+| Net   | Net   |
+| Gross | Gross |

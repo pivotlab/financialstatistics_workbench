@@ -1,0 +1,26 @@
+# Transaction Intent Dimension
+
+## identifier
+dm339
+
+## type
+string
+
+## definition
+The intent of the transaction being entered into by the reporting entity.
+
+## codes
+| Code                      | Description                 |
+| ------------------------- | --------------------------- |
+| Trading                   | Trading                     |
+| Operational               | Operational                 |
+| HeldForSale               | Held For Sale               |
+| NotTrading                | Not Trading                 |
+| NotOperational            | Trading and Investment      |
+| NonCommercial             | Non Commercial              |
+| Commercial                | Commercial                  |
+| OtherPurpose              | Other Purpose               |
+| HedgingUnderlyingExposure | Hedging Underlying Exposure |
+| PortfolioRebalancing      | Portfolio Rebalancing       |
+| InvestmentExposure        | Investment Exposure         |
+| Investment                | Investment                  |

@@ -1,0 +1,20 @@
+# Date Description Dimension
+
+## identifier
+dm607
+
+## type
+string
+
+## definition
+This dimension identifies the nature of the date being reported.
+
+## codes
+| Code             | Description        |
+| ---------------- | ------------------ |
+| MostRecentDate   | Most Recent Date   |
+| StartDate        | Start Date         |
+| EffectiveDate    | Effective Date     |
+| ExpectedDate     | Expected Date      |
+| NextExpectedDate | Next Expected Date |
+| CeasedDate       | Ceased Date        |

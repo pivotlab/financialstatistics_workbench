@@ -1,0 +1,16 @@
+# Origination Source Dimension
+
+## identifier
+dm939
+
+## type
+string
+
+## definition
+The information reported is categorised according to the source of the financial instrument origination.
+
+## codes
+| Code       | Description |
+| ---------- | ----------- |
+| Direct     | Direct      |
+| ThirdParty | Third Party |

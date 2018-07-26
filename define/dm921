@@ -1,0 +1,17 @@
+# Financial Claims Scheme Account Type Dimension
+
+## identifier
+dm921
+
+## type
+string
+
+## definition
+Types of Financial Claims Scheme accounts as prescribed by the Banking Act.
+
+## codes
+| Code                                      | Description                                    |
+| ----------------------------------------- | ---------------------------------------------- |
+| FinancialClaimsSchemeProtectedAccount     | Financial Claims Scheme Protected Account      |
+| FinancialClaimsSchemePrescribedAccount    | Financial Claims Scheme Prescribed Account     |
+| FinancialClaimsSchemeNonPrescribedAccount | Financial Claims Scheme Non Prescribed Account |

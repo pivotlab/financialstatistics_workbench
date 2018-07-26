@@ -1,0 +1,17 @@
+# ADI Book Type
+
+## identifier
+dm372
+
+## type
+string
+
+## definition
+This dimension categorises an Authorised Deposit-taking Institution's holdings of financial instruments based on the 'book type' ('Banking Book' or 'Trading Book') to which the instrument belongs, as determined in accordance with relevant prudential standards.
+
+## codes
+| Code                 | Description            |
+| -------------------- | ---------------------- |
+| BankingBook          | Banking Book           |
+| BankingBookRepricing | Banking Book Repricing |
+| TradingBook          | Trading Book           |

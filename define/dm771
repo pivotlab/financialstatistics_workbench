@@ -1,0 +1,16 @@
+# Committee Type Dimension
+
+## identifier
+dm771
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the sub-committee type of the board of an entity.
+
+## codes
+| Code                  | Description            |
+| --------------------- | ---------------------- |
+| AuditCommittee        | Audit Committee        |
+| RemunerationCommittee | Remuneration Committee |

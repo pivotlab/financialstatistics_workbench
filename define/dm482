@@ -1,0 +1,18 @@
+# Securitisation Risk Categories Dimension
+
+## identifier
+dm482
+
+## type
+string
+
+## definition
+This dimension categorises reported information based on the type of securitisation exposure and its associated risk category, as determined in accordance with relevant prudential standards. Exposures can only be recorded as being within the category of non-securitisation, securitisation, re-securitisation or correlation trading portfolio.
+
+## codes
+| Code               | Description         |
+| ------------------ | ------------------- |
+| Resecuritisation   | Resecuritisation    |
+| CorrelationTrading | Correlation Trading |
+| NonSecuritisation  | Non Securitisation  |
+| Securitisation     | Securitisation      |

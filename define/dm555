@@ -1,0 +1,17 @@
+# Asset Exposure Category After Eligible Credit Support Dimension
+
+## identifier
+dm555
+
+## type
+string
+
+## definition
+This dimension categorises the reported information by category of asset exposure after the application of eligible credit support and is determined in accordance with relevant prudential standards.
+
+## codes
+| Code                        | Description                    |
+| --------------------------- | ------------------------------ |
+| UnrelatedPartyAPRARegulated | Unrelated Party APRA Regulated |
+| RelatedPartyAPRARegulated   | Related Party APRA Regulated   |
+| OtherExposures              | Other Exposures                |

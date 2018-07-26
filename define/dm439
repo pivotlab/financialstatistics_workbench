@@ -1,0 +1,23 @@
+# Supervisory Slotting Category
+
+## identifier
+dm439
+
+## type
+string
+
+## definition
+This dimension categorises information reported in relation to credit exposures, based on internal rating grades and associated prescribed supervisory slotting categories.
+
+These categories are used for capital adequacy purposes and are to be determined under the internal ratings-based supervisory slotting approach to credit risk, in accordance with relevant prudential standards.
+
+Each slotting category is associated with a specific risk-weight for unexpected losses that broadly corresponds to a range of external credit assessments.
+
+## codes
+| Code         | Description  |
+| ------------ | ------------ |
+| Default      | Default      |
+| Good         | Good         |
+| Satisfactory | Satisfactory |
+| Strong       | Strong       |
+| Weak         | Weak         |

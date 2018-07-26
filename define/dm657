@@ -1,0 +1,29 @@
+# Investment Strategy Type Dimension
+
+## identifier
+dm657
+
+## type
+string
+
+## definition
+This dimension categorises information based on the applicable investment strategy type.
+
+## codes
+| Code                                  | Description                               |
+| ------------------------------------- | ----------------------------------------- |
+| GlobalMacro                           | Global Macro                              |
+| EquityLongShort                       | Equity Long Short                         |
+| CreditDistressed                      | Credit Distressed                         |
+| Diversified                           | Diversified                               |
+| MultiStrategy                         | Multi Strategy                            |
+| ConvertibleBondArbitrage              | Convertible Bond Arbitrage                |
+| RiskArbitrage                         | Risk Arbitrage                            |
+| EventDriven                           | Event Driven                              |
+| Activist                              | Activist                                  |
+| Other                                 | Other                                     |
+| VolatilityArbitrage                   | Volatility Arbitrage                      |
+| EquityMarketNeutral                   | Equity Market Neutral                     |
+| ManagedFuturesCommodityTradingAdvisor | Managed Futures Commodity Trading Advisor |
+| FixedIncomeArbitrage                  | Fixed Income Arbitrage                    |
+| CreditLongShort                       | Credit Long Short                         |

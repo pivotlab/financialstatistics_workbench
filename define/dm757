@@ -1,0 +1,20 @@
+# Rollover Transaction Type Dimension
+
+## identifier
+dm757
+
+## type
+string
+
+## definition
+The information reported categorises the transaction types that give rise to a rollover flow.
+
+## codes
+| Code                             | Description                         |
+| -------------------------------- | ----------------------------------- |
+| StandardFormat                   | Standard Format                     |
+| WithinStatutoryTimeframe         | Within Statutory Timeframe          |
+| ExceptionsResolutionWithReceiver | Exceptions Resolution With Receiver |
+| StraightThrough                  | Straight Through                    |
+| ManualHandling                   | Manual Handling                     |
+| ExceptionsResolutionWithSender   | Exceptions Resolution With Sender   |

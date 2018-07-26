@@ -1,0 +1,24 @@
+# Derivative Type Dimension
+
+## identifier
+dm547
+
+## type
+string
+
+## definition
+This dimension identifies what the derivative entitles you to do or obliges you to provide.
+
+## codes
+| Code                    | Description               |
+| ----------------------- | ------------------------- |
+| OptionsCall             | Options Call              |
+| Forwards                | Forwards                  |
+| Swaps                   | Swaps                     |
+| Options                 | Options                   |
+| OptionsPut              | Options Put               |
+| CreditDerivatives       | Credit Derivatives        |
+| Other                   | Other                     |
+| CollateralSwap          | Collateral Swap           |
+| Futures                 | Futures                   |
+| SecuritisationBasisSwap | Securitisation Basis Swap |

@@ -1,0 +1,23 @@
+# Superannuation Member Interest Type Dimension
+
+## identifier
+dm596
+
+## type
+string
+
+## definition
+This dimension classifies information based on the members' interest type.
+
+## codes
+| Code                                                             | Description                                                             |
+| ---------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| DefinedBenefitAndDefinedContributionComponentDefinedContribution | Defined Benefit And Defined Contribution Component Defined Contribution |
+| DefinedContribution                                              | Defined Contribution                                                    |
+| AccruedDefault                                                   | Accrued Default                                                         |
+| DefinedBenefitAndDefinedContribution                             | Defined Benefit And Defined Contribution                                |
+| DefinedBenefitAndDefinedContributionComponentDefinedBenefit      | Defined Benefit And Defined Contribution Component Defined Benefit      |
+| MySuper                                                          | MySuper                                                                 |
+| Unallocated                                                      | Unallocated                                                             |
+| DefinedBenefit                                                   | Defined Benefit                                                         |
+| DefinedBenefitPensionDimension                                   | Defined Benefit Pension Dimension                                       |

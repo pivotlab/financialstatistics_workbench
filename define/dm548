@@ -1,0 +1,19 @@
+# Derivative Financial Instrument Exposure Dimension
+
+## identifier
+dm548
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to what is the type of derivative financial instrument exposure.
+
+## codes
+| Code                                     | Description                                  |
+| ---------------------------------------- | -------------------------------------------- |
+| DebtFundingBorrowingsDerivativeExposures | Debt Funding Borrowings Derivative Exposures |
+| OtherAssetsDerivativeExposures           | Other Assets Derivative Exposures            |
+| ClaimsLiabilitiesDerivativeExposures     | Claims Liabilities Derivative Exposures      |
+| InvestmentPortfolioDerivativeExposures   | Investment Portfolio Derivative Exposures    |
+| AllDerivativeExposures                   | All Derivative Exposures                     |

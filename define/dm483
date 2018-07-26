@@ -1,0 +1,16 @@
+# Stress Testing Change In Credit Spread Dimension
+
+## identifier
+dm483
+
+## type
+string
+
+## definition
+This dimension is used to represent the relevant stress testing scenario to which a change in the current credit spread is applied to the calculation of the reported information.
+
+## codes
+| Code               | Description          |
+| ------------------ | -------------------- |
+| Increase100Percent | Increase 100 Percent |
+| Decrease50Percent  | Decrease 50 Percent  |

@@ -1,0 +1,16 @@
+# Transaction Flow Dimension
+
+## identifier
+dm759
+
+## type
+string
+
+## definition
+The information reported relates to the type of transaction flow.
+
+## codes
+| Code    | Description |
+| ------- | ----------- |
+| Outward | Outward |
+| Inward  | Inward  |

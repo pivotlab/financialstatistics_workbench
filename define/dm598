@@ -1,0 +1,37 @@
+# Role Type Dimension
+
+## identifier
+dm598
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the role of an entity associated with the reported information.
+
+## codes
+| Code                                 | Description                             |
+| ------------------------------------ | --------------------------------------- |
+| RSEAuditor                           | RSE Auditor                             |
+| Auditor                              | Auditor                                 |
+| AssetConsultant                      | Asset Consultant                        |
+| Administrator                        | Administrator                           |
+| Custodian                            | Custodian                               |
+| Promoter                             | Promoter                                |
+| FinancialAdvisorMember               | Financial Advisor Member                |
+| IntrafundAdvice                      | Intrafund Advice                        |
+| RSEActuary                           | RSE Actuary                             |
+| AuditorInternal                      | Auditor Internal                        |
+| AccountantNotAuditor                 | Accountant Not Auditor                  |
+| FinancialAdvisorEmployer             | Financial Advisor Employer              |
+| InvestmentConsultant                 | Investment Consultant                   |
+| Actuary                              | Actuary                                 |
+| InvestmentManager                    | Investment Manager                      |
+| Lawyer                               | Lawyer                                  |
+| ImplementedConsultant                | Implemented Consultant                  |
+| ServiceProvider                      | Service Provider                        |
+| ProfessionalIndemnityInsurer         | Professional Indemnity Insurer          |
+| PlatformProvider                     | Platform Provider                       |
+| InformationTechnologyServiceProvider | Information Technology Service Provider |
+| Other                                | Other                                   |
+| Director                             | Director                                |

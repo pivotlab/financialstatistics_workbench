@@ -1,0 +1,16 @@
+# Cashflow Projection Value Dimension
+
+## identifier
+dm826
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to cashflow projections calculated under the relevant prudential standards.
+
+## codes
+| Code  | Description |
+| ----- | ----------- |
+| Net   | Net   |
+| Gross | Gross |

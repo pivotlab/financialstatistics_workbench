@@ -1,0 +1,21 @@
+# Stage Of Finance Dimension
+
+## identifier
+dm927
+
+## type
+string
+
+## definition
+The information provided relates to the various steps in the provision of finance.
+
+## codes
+| Code                                        | Description                                       |
+| ------------------------------------------- | ------------------------------------------------- |
+| Application                                 | Application                                       |
+| CreditOutstandingNetOfOffsetAccountBalances | Credit Outstanding Net Of Offset Account Balances |
+| BorrowerAcceptedCommitment                  | Borrower Accepted Commitment                      |
+| CreditOutstanding                           | Credit Outstanding                                |
+| Drawdowns                                   | Drawdowns                                         |
+| ApplicationReceived                         | Application Received                              |
+| Funded                                      | Funded                                            |

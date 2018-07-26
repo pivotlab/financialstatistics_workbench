@@ -1,0 +1,19 @@
+# Contribution Status Dimension
+
+## identifier
+dm656
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the status of contributions to a fund.
+
+## codes
+| Code                                            | Description                                            |
+| ----------------------------------------------- | ------------------------------------------------------ |
+| NotifiedIntentToCease                           | Notified Intent To Cease                               |
+| DidNotPayCertifiedMinimumAtRecommendedFrequency | Did Not Pay Certified Minimum At Recommended Frequency |
+| NotPayRecommendedRates                          | Not Pay Recommended Rates                              |
+| ContributionsInArrears                          | Contributions In Arrears                               |
+| ContributionHoliday                             | Contribution Holiday                                   |

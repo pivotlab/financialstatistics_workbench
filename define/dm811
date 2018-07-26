@@ -1,0 +1,16 @@
+# Business Type Dimension
+
+## identifier
+dm811
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the type of business.
+
+## codes
+| Code                    | Description               |
+| ----------------------- | ------------------------- |
+| HealthInsuranceBusiness | Health Insurance Business |
+| HealthRelatedBusiness   | Health Related Business   |

@@ -1,0 +1,21 @@
+# Insurance Risk Stress Type Dimension
+
+## identifier
+dm544
+
+## type
+string
+
+## definition
+This dimension categorises the reported information based on the impacts arising from the application of certain insurance risk stresses.
+
+## codes
+| Code                  | Description             |
+| --------------------- | ----------------------- |
+| InsuranceRiskStressed | Insurance Risk Stressed |
+| MorbidityRandom       | Morbidity Random        |
+| MortalityRandom       | Mortality Random        |
+| MortalityFuture       | Mortality Future        |
+| Event                 | Event                   |
+| MorbidityFuture       | Morbidity Future        |
+| Longevity             | Longevity               |

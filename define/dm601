@@ -1,0 +1,34 @@
+# Fee Type Dimension
+
+## identifier
+dm601
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to types of fees charged to an entity.
+
+## codes
+| Code                                             | Description                                           |
+| ------------------------------------------------ | ----------------------------------------------------- |
+| BuySellSpreadFee                                 | Buy Sell Spread Fee                                   |
+| InvestmentManagementPerformanceBasedFee          | Investment Management Performance Based Fee           |
+| InvestmentManagementBaseFee                      | Investment Management Base Fee                        |
+| OtherFee                                         | Other Fee                                             |
+| AdministrationFeeOtherFeeLevels                  | Administration Fee Other Fee Levels                   |
+| InvestmentFeeHighestLevel                        | Investment Fee Highest Level                          |
+| InvestmentFeeOtherFeeLevels                      | Investment Fee Other Fee Levels                       |
+| AdministrationFeeHighestLevel                    | Administration Fee Highest Level                      |
+| AdviceFee                                        | Advice Fee                                            |
+| InsuranceFee                                     | Insurance Fee                                         |
+| InvestmentFee                                    | Investment Fee                                        |
+| AdministrationFee                                | Administration Fee                                    |
+| ActivityFee                                      | Activity Fee                                          |
+| ExitFee                                          | Exit Fee                                              |
+| SwitchingFee                                     | Switching Fee                                         |
+| OtherManagementFeesExcludingInvestmentManagement | Other Management Fees Excluding Investment Management |
+| TransactionFees                                  | Transaction Fees                                      |
+| AccountServicingFee                              | Account Servicing Fee                                 |
+| ExceptionFees                                    | Exception Fees                                        |
+| BreakFees                                        | Break Fees                                            |

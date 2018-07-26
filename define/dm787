@@ -1,0 +1,16 @@
+# Exclusionary Type Dimension
+
+## identifier
+dm787
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to whether a private health insurance policy has exclusions for certain types of hospital treatment.
+
+## codes
+| Code                    | Description               |
+| ----------------------- | ------------------------- |
+| ExclusionaryPolicies    | Exclusionary Policies     |
+| NonExclusionaryPolicies | Non Exclusionary Policies |

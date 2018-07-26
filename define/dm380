@@ -1,0 +1,18 @@
+# Investment Reporting Basis
+
+## identifier
+dm380
+
+## type
+string
+
+## definition
+This dimension categorises information reported based on the method which determines the details in which an investment is reported. I.e. Look-through or Non-look-through.
+
+## codes
+| Code                | Description            |
+| ------------------- | ---------------------- |
+| LookThrough         | Look Through           |
+| LookThroughTrust    | Look Through Trust     |
+| NonLookThrough      | Non Look Through       |
+| NonLookThroughTrust | Non Look Through Trust |

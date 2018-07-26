@@ -1,0 +1,18 @@
+# Interest Rate Type Dimension
+
+## identifier
+dm365
+
+## type
+string
+
+## definition
+Information in relation to the interest rate type applicable to an interest-bearing agreement.
+
+## codes
+| Code                | Description                             |
+| ------------------- | --------------------------------------- |
+| FixedGTE2Y          | Fixed for at Least 2 Years              |
+| VariableOrFixedLT2Y | Variable or Fixed for less than 2 Years |
+| Variable            | Variable                                |
+| Fixed               | Fixed                                   |

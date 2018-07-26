@@ -1,0 +1,18 @@
+# Contract Arrangement
+
+## identifier
+dm348
+
+## type
+string
+
+## definition
+This dimension is used to categorise reported information according to the arrangements under the contract to which the data relates.
+
+## codes
+| Code                    | Description                |
+| ----------------------- | -------------------------- |
+| FacultativeExcessOfLoss | Facultative Excess Of Loss |
+| FacultativeProportional | Facultative Proportional   |
+| TreatyExcessOfLoss      | Treaty Excess Of Loss      |
+| TreatyProportional      | Treaty Proportional        |

@@ -1,0 +1,18 @@
+# Remaining Period Of Encumbrance Dimension
+
+## identifier
+dm894
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the remaining period of encumbrance.
+
+## codes
+| Code       | Description    |
+| ---------- | -------------- |
+| GTE6MLT12M | GTE 6 MLT 12 M |
+| LT12M      | LT 12 M        |
+| LT6M       | LT 6 M         |
+| GTE12M     | GTE 12 M       |

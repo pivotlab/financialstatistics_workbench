@@ -1,0 +1,18 @@
+# Finance Purpose Dimension
+
+## identifier
+dm908
+
+## type
+string
+
+## definition
+Information in relation to the intended purpose that the finance will be used for.
+
+## codes
+| Code               | Description          |
+| ------------------ | -------------------- |
+| Personal           | Personal             |
+| Housing            | Housing              |
+| Business           | Business             |
+| PersonalAndHousing | Personal And Housing |

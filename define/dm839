@@ -1,0 +1,21 @@
+# Type Of Deposit Dimension
+
+## identifier
+dm839
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the characteristics of the deposit.
+
+## codes
+| Code             | Description       |
+| ---------------- | ----------------- |
+| Transferable     | Transferable      |
+| NonTransferable  | Non Transferable  |
+| Uncleared        | Uncleared         |
+| ElectronicAccess | Electronic Access |
+| NonTransaction   | Non Transaction   |
+| Transaction      | Transaction       |
+| Cleared          | Cleared           |

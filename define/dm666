@@ -1,0 +1,15 @@
+# Hedging Type Dimension
+
+## identifier
+dm666
+
+## type
+string
+
+## definition
+This dimension categorises the reported information based on the specific type of hedging applied. Hedging refers to transactions where the purpose is to offset the risk of changes in the fair value of cash flows of another contract.
+
+## codes
+| Code          | Description    |
+| ------------- | -------------- |
+| CurrencyHedge | Currency Hedge |

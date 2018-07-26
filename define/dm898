@@ -1,0 +1,26 @@
+# Loan Characteristic Dimension
+
+## identifier
+dm898
+
+## type
+string
+
+## definition
+The information reported classifies loans according to specific characteristics.
+
+## codes
+| Code                                      | Description                                  |
+| ----------------------------------------- | -------------------------------------------- |
+| LowDocumentation                          | Low Documentation                            |
+| ThirdPartyOriginated                      | Third Party Originated                       |
+| TemporaryModificationsFinancialDifficulty | Temporary Modifications Financial Difficulty |
+| MortgageeInPossession                     | Mortgagee In Possession                      |
+| ServiceabilityPolicyExceptions            | Serviceability Policy Exceptions             |
+| ReverseMortgage                           | Reverse Mortgage                             |
+| LendersMortgageInsuranceCovered           | Lenders Mortgage Insurance Covered           |
+| InterestOnly                              | Interest Only                                |
+| ImpairedCustomerCreditHistory             | Impaired Customer Credit History             |
+| ServiceabilityVerificationWaivers         | Serviceability Verification Waivers          |
+| ThirtyToEightyNineDaysPastDue             | Thirty To Eighty Nine Days Past Due          |
+| InterestIncurred                          | Interest Incurred                            |

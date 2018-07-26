@@ -1,0 +1,18 @@
+# Superannuation Product Type Dimension
+
+## identifier
+dm606
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the superannuation investment product type.
+
+## codes
+| Code                           | Description                         |
+| ------------------------------ | ----------------------------------- |
+| NonDefinedBenefitAndNonMySuper | Non Defined Benefit And Non MySuper |
+| DefinedBenefitFundOrSubFund    | Defined Benefit Fund Or Sub Fund    |
+| MySuperAndDefinedBenefit       | MySuper And Defined Benefit         |
+| MySuper                        | MySuper                             |
