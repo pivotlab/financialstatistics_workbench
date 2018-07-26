@@ -1,0 +1,25 @@
+# Run Off Rate Dimension
+
+## identifier
+dm745
+
+## type
+string
+
+## definition
+The information reported categorises the percentage run off rate in accordance with the Basel III liquidity reform and the relevant prudential standards where supervisor discretion is allowed.
+
+## codes
+| Code              | Description         |
+| ----------------- | ------------------- |
+| TwentyPercent     | Twenty Percent      |
+| TenPercent        | Ten Percent         |
+| FifteenPercent    | Fifteen Percent     |
+| TwentyFivePercent | Twenty Five Percent |
+| ZeroPercent       | Zero Percent        |
+| ThreePercent      | Three Percent       |
+| FivePercent       | Five Percent        |
+| FortyPercent      | Forty Percent       |
+| OneHundredPercent | One Hundred Percent |
+| FiftyPercent      | Fifty Percent       |
+| ThirtyPercent     | Thirty Percent      |

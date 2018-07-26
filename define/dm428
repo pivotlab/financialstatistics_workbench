@@ -1,0 +1,19 @@
+# Unexpected Loss Risk Weight
+
+## identifier
+dm428
+
+## type
+string
+
+## definition
+This dimension is used to categorise exposures based on their assigned unexpected loss risk weighting, as determined in accordance with relevant prudential standards.
+
+## codes
+| Code                        | Description                     |
+| --------------------------- | ------------------------------- |
+| NinetyPercent               | Ninety Percent                  |
+| OneHundredAndFifteenPercent | One Hundred And Fifteen Percent |
+| SeventyPercent              | Seventy Percent                 |
+| TwoHundredAndFiftyPercent   | Two Hundred And Fifty Percent   |
+| ZeroPercent                 | Zero Percent                    |

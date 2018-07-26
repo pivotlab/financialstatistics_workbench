@@ -1,0 +1,31 @@
+# Accident Year
+
+## identifier
+dm378
+
+## type
+string
+
+## definition
+This dimension is used to categorise reported insurance information based on the accident year to which the data relates.
+
+Accident year refers to the financial year of the insurer that the losses/claims are incurred. For example, the 2007 accident year for an insurer with a balance date of 30 June will relate to claims with dates of loss (regardless of notification date) occurring between 1 July 2006 and 30 June 2007.
+
+## codes
+| Code                | Description                               |
+| ------------------- | ----------------------------------------- |
+| AccidentYr10Prev    | Accident Year 10 Years Previous           |
+| AccidentYr1Prev     | Accident Year 1 Year Previous             |
+| AccidentYr1to3Prev  | Accident Year 1 to 3 Years Previous       |
+| AccidentYr2Prev     | Accident Year 2 Years Previous            |
+| AccidentYr3Prev     | Accident Year 3 Years Previous            |
+| AccidentYr4Prev     | Accident Year 4 Years Previous            |
+| AccidentYr4to5Prev  | Accident Year 4 to 5 Years Previous       |
+| AccidentYr5Prev     | Accident Year 5 Years Previous            |
+| AccidentYr6Prev     | Accident Year 6 Years Previous            |
+| AccidentYr7Prev     | Accident Year 7 Years Previous            |
+| AccidentYr8Prev     | Accident Year 8 Years Previous            |
+| AccidentYr9Prev     | Accident Year 9 Years Previous            |
+| AccidentYrGT10Prev  | Accident Year More Than 10 Years Previous |
+| AccidentYrGT5Prev   | Accident Year More Than 5 Years Previous  |
+| CurrentAccidentYear | Current Accident Year                     |

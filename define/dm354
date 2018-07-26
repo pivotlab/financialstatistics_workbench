@@ -1,0 +1,60 @@
+# Counterparty ANZSIC 2006 Division Dimension
+
+## identifier
+dm354
+
+## type
+string
+
+## definition
+This dimension categorises the reported information according to the ANZSIC division classification of the counterparty to the transaction that gave rise to the reported information.
+
+## codes
+| Code                                               | Description                                             |
+| -------------------------------------------------- | ------------------------------------------------------- |
+| WholesaleRetailTransport                           | Wholesale Retail Transport                              |
+| OtherARF395                                        | Other ARF395                                            |
+| AgricForestryFishing                               | Agric Forestry Fishing                                  |
+| Mining                                             | Mining                                                  |
+| Manufacturing                                      | Manufacturing                                           |
+| Construction                                       | Construction                                            |
+| Wholesale                                          | Wholesale                                               |
+| Retail                                             | Retail                                                  |
+| TransportPostWarehousing                           | Transport Post Warehousing                              |
+| FinanceInsurance                                   | Finance Insurance                                       |
+| PropertyBusinessServices                           | Property Business Services                              |
+| ArtsRecreationOther                                | Arts Recreation Other                                   |
+| PublicAdminSafety                                  | Public Admin Safety                                     |
+| Health                                             | Health                                                  |
+| DivDJHMNP                                          | Div DJHMNP                                              |
+| SheepAndSheepBeef                                  | Sheep And Sheep Beef                                    |
+| OtherLivestockHorsesDeerBeekeepingOtherLivestock   | Other Livestock Horses Deer Beekeeping Other Livestock  |
+| SugarCane                                          | Sugar Cane                                              |
+| NurseryAndFloriculture                             | Nursery And Floriculture                                |
+| Agriculture                                        | Agriculture                                             |
+| OtherCropGrowing                                   | Other Crop Growing                                      |
+| FruitAndNuts                                       | Fruit And Nuts                                          |
+| PoultryMeatAndEggs                                 | Poultry Meat And Eggs                                   |
+| GrainGrowingAndMixedGrainsLivestock                | Grain Growing And Mixed Grains Livestock                |
+| VegetablesIncludingMushrooms                       | Vegetables Including Mushrooms                          |
+| Pigs                                               | Pigs                                                    |
+| Cotton                                             | Cotton                                                  |
+| GrapeGrowing                                       | Grape Growing                                           |
+| BeefCattle                                         | Beef Cattle                                             |
+| Dairy                                              | Dairy                                                   |
+| FinanceInsuranceCentralBorrowingAuthority          | Finance Insurance Central Borrowing Authority           |
+| EducationTraining                                  | Education Training                                      |
+| ConstructionNotBuilding                            | Construction Not Building                               |
+| AdministrativeSupportServices                      | Administrative Support Services                         |
+| FinanceInsuranceOther                              | Finance Insurance Other                                 |
+| FinanceInsuranceReserveBankOfAustralia             | Finance Insurance Reserve Bank Of Australia             |
+| NonResidentialBuildingConstruction                 | Non Residential Building Construction                   |
+| InformationMediaTelecommunications                 | Information Media Telecommunications                    |
+| OtherServices                                      | Other Services                                          |
+| ResidentialBuildingConstruction                    | Residential Building Construction                       |
+| ProfessionalScientificTechnicalServices            | Professional Scientific Technical Services              |
+| FinanceInsuranceAuthorisedDepositTakingInstitution | Finance Insurance Authorised Deposit Taking Institution |
+| ArtsRecreationServices                             | Arts Recreation Services                                |
+| FinanceInsuranceRegisteredFinancialCorporation     | Finance Insurance Registered Financial Corporation      |
+| ElectricityGasWaterSupply                          | Electricity Gas Water Supply                            |
+| AccommodationFoodServices                          | Accommodation Food Services                             |

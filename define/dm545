@@ -1,0 +1,16 @@
+# Entitlement To Discretionary Additions Dimension
+
+## identifier
+dm545
+
+## type
+string
+
+## definition
+This dimension categorises the reported information by entitlements to discretionary additions. Discretionary addition means an amount added to a non-participating benefit, at the discretion of a life company, to reflect the investment experience of the assets backing the benefit, but excluding any guaranteed rate of addition also applicable to the benefit. For this definition an amount added to a benefit is defined to mean any change to the previously applying contractual conditions that is beneficial to the policy owner.
+
+## codes
+| Code                                       | Description                                    |
+| ------------------------------------------ | ---------------------------------------------- |
+| WithEntitlementToDiscretionaryAdditions    | With Entitlement To Discretionary Additions    |
+| WithoutEntitlementToDiscretionaryAdditions | Without Entitlement To Discretionary Additions |

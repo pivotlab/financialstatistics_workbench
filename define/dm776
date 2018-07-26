@@ -1,0 +1,32 @@
+# Insurance Group Reporting Region Dimension
+
+## identifier
+dm776
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the region of those entities that are members of a Level 2 insurance group (as determined in accordance with prudential standards) and are incorporated outside Australia. The region is defined according to the regions which most appropriately reflect the business and/or operational segments of the entity.
+
+## codes
+| Code                        | Description                     |
+| --------------------------- | ------------------------------- |
+| SouthEastAsiaExcludingJapan | South East Asia Excluding Japan |
+| OceaniaRegion               | Oceania Region                  |
+| MiddleEastOrAfricaRegion    | Middle East Or Africa Region    |
+| AmericasRegion              | Americas Region                 |
+| OtherInternational          | Other International             |
+| EuropeRegion                | Europe Region                   |
+| EuropeAndUK                 | Europe And UK                   |
+| UnitedStatesOfAmericaRegion | United States Of America Region |
+| Global                      | Global                          |
+| AsiaRegion                  | Asia Region                     |
+| International               | International                   |
+| ContinentalEurope           | Continental Europe              |
+| NewZealandRegion            | New Zealand Region              |
+| SouthEastAsia               | South East Asia                 |
+| NotApplicable               | Not Applicable                  |
+| AsiaPacific                 | Asia Pacific                    |
+| AmericasExcludingUSA        | Americas Excluding USA          |
+| IndividualCountry           | Individual Country              |

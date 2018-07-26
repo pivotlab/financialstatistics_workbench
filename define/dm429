@@ -1,0 +1,19 @@
+# Category Of Insurer
+
+## identifier
+dm429
+
+## type
+string
+
+## definition
+This dimension is used to identify the category of the insurer reporting the information as defined in relevant prudential standards.
+
+## codes
+| Code                                       | Description                                     |
+| ------------------------------------------ | ----------------------------------------------- |
+| AssociationCaptive                         | Association Captive                             |
+| ForeignInsurerBranchesOperatingInAustralia | Foreign Insurer Branches Operating In Australia |
+| LocallyIncorporated                        | Locally Incorporated                            |
+| SoleParentCaptive                          | Sole Parent Captive                             |
+| Subsidiary                                 | Subsidiary                                      |

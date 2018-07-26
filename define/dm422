@@ -1,0 +1,16 @@
+# Delta Plus Method Impact
+
+## identifier
+dm422
+
+## type
+string
+
+## definition
+This dimension categorises information reported under the delta-plus approach to measuring market risk, based on the impact (i.e. gamma or vega) calculated to form part of the capital charge for capital adequacy purposes, as determined in accordance with relevant prudential standards.
+
+## codes
+| Code        | Description  |
+| ----------- | ------------ |
+| GammaImpact | Gamma Impact |
+| VegaImpact  | Vega Impact  |

@@ -1,0 +1,16 @@
+# MySuper Interest Dimension
+
+## identifier
+dm608
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to whether a MySuper interest is as a result of member investment choice or no member investment choice (default).
+
+## codes
+| Code         | Description   |
+| ------------ | ------------- |
+| Default      | Default       |
+| MemberChoice | Member Choice |

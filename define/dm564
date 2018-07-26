@@ -1,0 +1,16 @@
+# Asset Amortisation Value Type Dimension
+
+## identifier
+dm564
+
+## type
+string
+
+## definition
+This dimension identifies the accounting valuation scenario, in relation to amortisation, under which the reported value was calculated.
+
+## codes
+| Code  | Description |
+| ----- | ----------- |
+| Net   | Net   |
+| Gross | Gross |

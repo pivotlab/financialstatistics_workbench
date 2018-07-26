@@ -1,0 +1,17 @@
+# Asset Encumbrance Dimension
+
+## identifier
+dm426
+
+## type
+string
+
+## definition
+The information reported categorises whether or not an asset has been pledged as security by the entity.
+
+## codes
+| Code               | Description         |
+| ------------------ | ------------------- |
+| PledgedDerivatives | Pledged Derivatives |
+| HQLA               | HQLA                |
+| Pledged            | Pledged             |

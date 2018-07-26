@@ -1,0 +1,18 @@
+# Types Of Collateral Dimension
+
+## identifier
+dm663
+
+## type
+string
+
+## definition
+This dimension categorises information reported according to the type of collateral offered.
+
+## codes
+| Code            | Description      |
+| --------------- | ---------------- |
+| Other           | Other            |
+| Cash            | Cash             |
+| Securities      | Securities       |
+| MultipleClasses | Multiple Classes |

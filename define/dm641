@@ -1,0 +1,11 @@
+# Description Of Activity Fee Dimension
+
+## identifier
+dm641
+
+## type
+string
+
+## definition
+This dimension provides the description of the activity fee.
+

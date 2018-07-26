@@ -1,0 +1,32 @@
+# Geographical Region Dimension
+
+## identifier
+dm775
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the relevant geographical region.
+
+## codes
+| Code                        | Description                     |
+| --------------------------- | ------------------------------- |
+| SouthEastAsiaExcludingJapan | South East Asia Excluding Japan |
+| OceaniaRegion               | Oceania Region                  |
+| MiddleEastOrAfricaRegion    | Middle East Or Africa Region    |
+| AmericasRegion              | Americas Region                 |
+| OtherInternational          | Other International             |
+| EuropeRegion                | Europe Region                   |
+| EuropeAndUK                 | Europe And UK                   |
+| UnitedStatesOfAmericaRegion | United States Of America Region |
+| Global                      | Global                          |
+| AsiaRegion                  | Asia Region                     |
+| International               | International                   |
+| ContinentalEurope           | Continental Europe              |
+| NewZealandRegion            | New Zealand Region              |
+| SouthEastAsia               | South East Asia                 |
+| NotApplicable               | Not Applicable                  |
+| AsiaPacific                 | Asia Pacific                    |
+| AmericasExcludingUSA        | Americas Excluding USA          |
+| IndividualCountry           | Individual Country              |

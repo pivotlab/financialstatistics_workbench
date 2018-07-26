@@ -1,0 +1,19 @@
+# Category Of Member
+
+## identifier
+dm472
+
+## type
+string
+
+## definition
+This dimension categorises information according to the category of the contributing member.
+
+## codes
+| Code              | Description        |
+| ----------------- | ------------------ |
+| LargeCorporations | Large Corporations |
+| NaturalPersons    | Natural Persons    |
+| Other             | Other              |
+| Partnerships      | Partnerships       |
+| SME               | SME                |

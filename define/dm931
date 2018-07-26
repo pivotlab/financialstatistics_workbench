@@ -1,0 +1,29 @@
+# Value At Commitment Dimension
+
+## identifier
+dm931
+
+## type
+string
+
+## definition
+This information categorises the value of finance at commitment at the facility level into pre-set dollar bands. The value at commitment includes the entire value of the commitment in the reporting period in which it is funded, not just the amount drawn.
+
+## codes
+| Code                                   | Description                                  |
+| -------------------------------------- | -------------------------------------------- |
+| GreaterThan600000LessThanEqual800000   | Greater Than 600000 Less Than Equal 800000   |
+| GreaterThan0LessThanEqual5000          | Greater Than 0 Less Than Equal 5000          |
+| GreaterThan0LessThanEqual200000        | Greater Than 0 Less Than Equal 200000        |
+| GreaterThan200000LessThanEqual400000   | Greater Than 200000 Less Than Equal 400000   |
+| GreaterThan5000LessThanEqual10000      | Greater Than 5000 Less Than Equal 10000      |
+| GreaterThan1500000LessThanEqual2000000 | Greater Than 1500000 Less Than Equal 2000000 |
+| GreaterThan10000LessThanEqual20000     | Greater Than 10000 Less Than Equal 20000     |
+| GreaterThan400000LessThanEqual600000   | Greater Than 400000 Less Than Equal 600000   |
+| GreaterThan20000LessThanEqual50000     | Greater Than 20000 Less Than Equal 50000     |
+| GreaterThan3000000                     | Greater Than 3000000                         |
+| GreaterThan100000                      | Greater Than 100000                          |
+| GreaterThan2000000LessThanEqual3000000 | Greater Than 2000000 Less Than Equal 3000000 |
+| GreaterThan50000LessThanEqual100000    | Greater Than 50000 Less Than Equal 100000    |
+| GreaterThan1000000LessThanEqual1500000 | Greater Than 1000000 Less Than Equal 1500000 |
+| GreaterThan800000LessThanEqual1000000  | Greater Than 800000 Less Than Equal 1000000  |

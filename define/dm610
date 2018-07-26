@@ -1,0 +1,16 @@
+# Transaction Reasons Dimension
+
+## identifier
+dm610
+
+## type
+string
+
+## definition
+This dimension identifies the original reason or purpose that caused the transaction to occur.
+
+## codes
+| Code                    | Description                |
+| ----------------------- | -------------------------- |
+| OperationalRiskEvent    | Operational Risk Event     |
+| NotOperationalRiskEvent | Not Operational Risk Event |

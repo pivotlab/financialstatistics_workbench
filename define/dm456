@@ -1,0 +1,19 @@
+# Materiality Position
+
+## identifier
+dm456
+
+## type
+string
+
+## definition
+This dimension is used to categorise reported information by monetary value.
+
+## codes
+| Code  | Description |
+| ----- | ----------- |
+| Five  | Five  |
+| Four  | Four  |
+| One   | One   |
+| Three | Three |
+| Two   | Two   |

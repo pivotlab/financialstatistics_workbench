@@ -1,0 +1,20 @@
+# Coverage Proportion (%)
+
+## identifier
+dm445
+
+## type
+string
+
+## definition
+This dimension is used to categorise information reported according to the coverage proportion.
+
+## codes
+| Code          | Description |
+| ------------- | ----------- |
+| FortyPct      | 40%  |
+| OneHundredPct | 100% |
+| ThirtyFivePct | 35%  |
+| ThirtyPct     | 30%  |
+| TwentyFivePct | 25%  |
+| TwentyPct     | 20%  |

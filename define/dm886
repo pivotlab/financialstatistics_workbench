@@ -1,0 +1,18 @@
+# Securitisation Facility Type Dimension
+
+## identifier
+dm886
+
+## type
+string
+
+## definition
+The information categories securitised exposures according to the type of facility.
+
+## codes
+| Code                     | Description                 |
+| ------------------------ | --------------------------- |
+| CreditEnhancement        | Credit Enhancement          |
+| OtherFacilities          | Other Facilities            |
+| DerivativeTransactions   | Derivative Transactions     |
+| LiquidityAndOtherFunding | Liquidity And Other Funding |

@@ -1,0 +1,16 @@
+# Market Risk Sub Portfolio Type
+
+## identifier
+dm419
+
+## type
+string
+
+## definition
+This dimension categorises information reported based on the sub-portfolio and the presence of specific risk factors within the sub-portfolio, as determined in accordance with relevant prudential standards.
+
+## codes
+| Code                                  | Description                                |
+| ------------------------------------- | ------------------------------------------ |
+| SubPortfolioContainingSpecificRisk    | Sub Portfolio Containing Specific Risk     |
+| SubPortfolioNotContainingSpecificRisk | Sub Portfolio Not Containing Specific Risk |

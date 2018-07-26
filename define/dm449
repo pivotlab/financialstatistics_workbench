@@ -1,0 +1,15 @@
+# Borrowing Security
+
+## identifier
+dm449
+
+## type
+string
+
+## definition
+This dimension categorises information in relation to the security provided by the reporting party in relation to its liabilities.
+
+## codes
+| Code    | Description |
+| ------- | ----------- |
+| Secured | Secured |

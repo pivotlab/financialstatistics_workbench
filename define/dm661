@@ -1,0 +1,23 @@
+# Primary Holding Period Type Dimension
+
+## identifier
+dm661
+
+## type
+string
+
+## definition
+This dimension categorises information based on the primary holding period type, which is the predominant approach to frequency of trading assets in the investment strategy.
+
+## codes
+| Code           | Description        |
+| -------------- | ------------------ |
+| MT6LE9Months   | MT 6 LE 9 Months   |
+| MT1WkLE1Month  | MT 1 Wk LE 1 Month |
+| LE1Wk          | LE 1 Wk            |
+| MT3LE6Months   | MT 3 LE 6 Months   |
+| MT24Months     | MT 24 Months       |
+| MT1LE3Months   | MT 1 LE 3 Months   |
+| MT12LE24Months | MT 12 LE 24 Months |
+| Multiple       | Multiple           |
+| MT9LE12Months  | MT 9 LE 12 Months  |

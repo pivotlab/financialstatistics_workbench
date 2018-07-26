@@ -1,0 +1,20 @@
+# Insured Persons Cover Dimension
+
+## identifier
+dm790
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the type and number of people covered by a private heath insurance policy.
+
+## codes
+| Code                   | Description                |
+| ---------------------- | -------------------------- |
+| TwoPlusPersonsNoAdults | Two Plus Persons No Adults |
+| Family                 | Family                     |
+| SingleParent           | Single Parent              |
+| ThreePlusAdults        | Three Plus Adults          |
+| Single                 | Single                     |
+| Couple                 | Couple                     |

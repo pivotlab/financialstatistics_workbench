@@ -1,0 +1,19 @@
+# Real Estate Property Classifications
+
+## identifier
+dm403
+
+## type
+string
+
+## definition
+This dimension classifies real estate property into various categories.
+
+## codes
+| Code                                 | Description                              |
+| ------------------------------------ | ---------------------------------------- |
+| Infrastructure                       | Infrastructure                           |
+| NotOfficeRetailTourismInfrastructure | Not Office Retail Tourism Infrastructure |
+| Office                               | Office                                   |
+| Retail                               | Retail                                   |
+| Tourism                              | Tourism                                  |

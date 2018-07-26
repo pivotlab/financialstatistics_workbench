@@ -1,0 +1,17 @@
+# Economy Type Dimension
+
+## identifier
+dm655
+
+## type
+string
+
+## definition
+This dimension categorises information based on the applicable economy type.
+
+## codes
+| Code                               | Description                           |
+| ---------------------------------- | ------------------------------------- |
+| NotApplicable                      | Not Applicable                        |
+| EmergingMarkets                    | Emerging Markets                      |
+| DevelopedMarketsExcludingAustralia | Developed Markets Excluding Australia |

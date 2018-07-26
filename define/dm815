@@ -1,0 +1,18 @@
+# Components Of Outstanding Claims Dimension
+
+## identifier
+dm815
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to components of outstanding claims.
+
+## codes
+| Code                                    | Description                                 |
+| --------------------------------------- | ------------------------------------------- |
+| RiskEqualisationSpecialAccountComponent | Risk Equalisation Special Account Component |
+| AdministrationComponent                 | Administration Component                    |
+| BenefitComponent                        | Benefit Component                           |
+| OSCMarginForRisk                        | OSC Margin For Risk                         |

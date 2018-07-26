@@ -1,0 +1,11 @@
+# Exposure Description Dimension
+
+## identifier
+dm582
+
+## type
+string
+
+## definition
+This dimension provides the description of the type of exposure reported.
+

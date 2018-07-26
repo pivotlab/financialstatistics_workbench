@@ -1,0 +1,18 @@
+# Linked Deposit Purpose Dimension
+
+## identifier
+dm919
+
+## type
+string
+
+## definition
+This dimension categorises reporting information according to the intended purpose of the financing agreement linked to a deposit account.
+
+## codes
+| Code               | Description          |
+| ------------------ | -------------------- |
+| Personal           | Personal             |
+| Housing            | Housing              |
+| Business           | Business             |
+| PersonalAndHousing | Personal And Housing |

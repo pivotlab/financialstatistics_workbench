@@ -1,0 +1,18 @@
+# Chronic Disease Management Program Deliverables Dimension
+
+## identifier
+dm802
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the deliverables under the Chronic Disease Management Programs.
+
+## codes
+| Code                 | Description            |
+| -------------------- | ---------------------- |
+| Coordination         | Coordination           |
+| Other                | Other                  |
+| AlliedHealthServices | Allied Health Services |
+| Planning             | Planning               |

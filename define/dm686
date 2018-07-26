@@ -1,0 +1,23 @@
+# Default Cover Type Dimension
+
+## identifier
+dm686
+
+## type
+string
+
+## definition
+This dimension represents the types of default cover of bundled insurance where multiple types of insurance cover are provided under one premium.
+
+## codes
+| Code                                                  | Description                                                   |
+| ----------------------------------------------------- | ------------------------------------------------------------- |
+| TotalAndPermanentDisabilityInsurance                  | Total And Permanent Disability Insurance                      |
+| OtherInsurance                                        | Other Insurance                                               |
+| LifeInsurance                                         | Life Insurance                                                |
+| IncomeProtectionInsurance                             | Income Protection Insurance                                   |
+| NotApplicable                                         | Not Applicable                                                |
+| LifeAndTotalAndPermanentDisabilityAndIncomeProtection | Life And Total And Permanent Disability And Income Protection |
+| TotalAndPermanentDisabilityAndIncomeProtection        | Total And Permanent Disability And Income Protection          |
+| LifeAndTotalAndPermanentDisability                    | Life And Total And Permanent Disability                       |
+| LifeAndIncomeProtection                               | Life And Income Protection                                    |

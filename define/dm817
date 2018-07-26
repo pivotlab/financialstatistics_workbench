@@ -1,0 +1,19 @@
+# Type Of Related Business Dimension
+
+## identifier
+dm817
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the types of related business.
+
+## codes
+| Code                       | Description                   |
+| -------------------------- | ----------------------------- |
+| DentalBusiness             | Dental Business               |
+| HospitalsAndMedicalCentres | Hospitals And Medical Centres |
+| AgencyBusiness             | Agency Business               |
+| OpticalBusiness            | Optical Business              |
+| OtherBusiness              | Other Business                |

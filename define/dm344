@@ -1,0 +1,30 @@
+# Stress Testing Change In Price
+
+## identifier
+dm344
+
+## type
+string
+
+## definition
+This dimension is used to represent the relevant stress testing scenario to which the reported information is based upon.
+
+## codes
+| Code             | Description        |
+| ---------------- | ------------------ |
+| Increase40Pct    | Increase 40 Pct    |
+| Decrease40Pct    | Decrease 40 Pct    |
+| Increase50Pct    | Increase 50 Pct    |
+| Increase25Pct    | Increase 25 Pct    |
+| Increase15Pct    | Increase 15 Pct    |
+| Decrease15Pct    | Decrease 15 Pct    |
+| Increase30Pct    | Increase 30 Pct    |
+| Decrease30Pct    | Decrease 30 Pct    |
+| Decrease10Pct    | Decrease 10 Pct    |
+| Decrease20Pct    | Decrease 20 Pct    |
+| Increase20Pct    | Increase 20 Pct    |
+| Increase10Pct    | Increase 10 Pct    |
+| NoChange         | No Change          |
+| Decrease25Pct    | Decrease 25 Pct    |
+| Decrease50Pct    | Decrease 50 Pct    |
+| Increase5Percent | Increase 5 Percent |

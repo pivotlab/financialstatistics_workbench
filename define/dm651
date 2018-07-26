@@ -1,0 +1,17 @@
+# Existence Of Tax File Number Dimension
+
+## identifier
+dm651
+
+## type
+string
+
+## definition
+This dimension represents the existence of Tax File Number (TFN).
+
+## codes
+| Code                    | Description                 |
+| ----------------------- | --------------------------- |
+| WithATaxFileNumber      | With A Tax File Number      |
+| WithUniqueTaxFileNumber | With Unique Tax File Number |
+| WithoutATaxFileNumber   | Without A Tax File Number   |

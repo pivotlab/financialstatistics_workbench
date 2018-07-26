@@ -1,0 +1,18 @@
+# Funding Type Dimension
+
+## identifier
+dm739
+
+## type
+string
+
+## definition
+The information reported relates to types of funding.
+
+## codes
+| Code       | Description |
+| ---------- | ----------- |
+| NotLending | Not Lending |
+| Term       | Term        |
+| AtCall     | At Call     |
+| NotAtCall  | Not At Call |

@@ -1,0 +1,16 @@
+# Asset Usage Status
+
+## identifier
+dm389
+
+## type
+string
+
+## definition
+Information in relation to the status of usage of an asset.
+
+## codes
+| Code     | Description |
+| -------- | ----------- |
+| InUse    | In Use     |
+| NotInUse | Not In Use |

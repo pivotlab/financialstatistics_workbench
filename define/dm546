@@ -1,0 +1,22 @@
+# Contract Type Dimension
+
+## identifier
+dm546
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the underlying contract associated with a type of financial risk.
+
+## codes
+| Code                                  | Description                               |
+| ------------------------------------- | ----------------------------------------- |
+| InterestRateContracts                 | Interest Rate Contracts                   |
+| ForeignExchangeExcludingGoldContracts | Foreign Exchange Excluding Gold Contracts |
+| ForeignExchangeIncludingGoldContracts | Foreign Exchange Including Gold Contracts |
+| OtherContracts                        | Other Contracts                           |
+| EquityContracts                       | Equity Contracts                          |
+| CreditContract                        | Credit Contract                           |
+| CommodityIncludingGoldContracts       | Commodity Including Gold Contracts        |
+| CommodityExcludingGoldContracts       | Commodity Excluding Gold Contracts        |

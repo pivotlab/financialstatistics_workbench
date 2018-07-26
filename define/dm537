@@ -1,0 +1,19 @@
+# Category Of Capital Dimension
+
+## identifier
+dm537
+
+## type
+string
+
+## definition
+This dimension is used to classify reported information by the category of capital, as determined in accordance with relevant Prudential Standards.
+
+## codes
+| Code      | Description          |
+| --------- | -------------------- |
+| CETier1   | Common Equity Tier 1 |
+| Tier2     | Tier 2               |
+| Tier1     | Tier 1               |
+| ATier1    | Additional Tier 1    |
+| NetAssets | Net Assets           |

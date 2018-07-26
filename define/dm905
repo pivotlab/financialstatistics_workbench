@@ -1,0 +1,18 @@
+# Institutional Unit Residency Dimension
+
+## identifier
+dm905
+
+## type
+string
+
+## definition
+This dimension categorises reported information according to the residency of the institutional unit or the issuer of the financial instrument.
+
+## codes
+| Code                                   | Description                                 |
+| -------------------------------------- | ------------------------------------------- |
+| NonResidentIndividualEnterpriseOrOther | Non Resident Individual Enterprise Or Other |
+| ResidentIndividualEnterpriseOrOther    | Resident Individual Enterprise Or Other     |
+| ResidentFinancialInstrument            | Resident Financial Instrument               |
+| NonResidentFinancialInstrument         | Non Resident Financial Instrument           |

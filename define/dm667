@@ -1,0 +1,16 @@
+# Fee Calculation Basis Dimension
+
+## identifier
+dm667
+
+## type
+string
+
+## definition
+This dimension represents the basis on which fees are calculated.
+
+## codes
+| Code                      | Description                  |
+| ------------------------- | ---------------------------- |
+| PerMember                 | Per Member                   |
+| PercentageOfMemberBalance | Percentage Of Member Balance |

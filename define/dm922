@@ -1,0 +1,16 @@
+# Financial Claims Scheme Account Status Dimension
+
+## identifier
+dm922
+
+## type
+string
+
+## definition
+This dimension categorises the information according to the deposit account status applied to Financial Claims Scheme accounts.
+
+## codes
+| Code                | Description           |
+| ------------------- | --------------------- |
+| ExceptionAccount    | Exception Account     |
+| NonExceptionAccount | Non Exception Account |

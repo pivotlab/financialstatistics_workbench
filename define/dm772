@@ -1,0 +1,22 @@
+# Contact Type Dimension
+
+## identifier
+dm772
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the contact within an entity.
+
+## codes
+| Code                             | Description                         |
+| -------------------------------- | ----------------------------------- |
+| SecondaryContactCrisisManagement | Secondary Contact Crisis Management |
+| Postal                           | Postal                              |
+| PrimaryContactCrisisManagement   | Primary Contact Crisis Management   |
+| Registered                       | Registered                          |
+| RecoverySite                     | Recovery Site                       |
+| Billing                          | Billing                             |
+| PrimaryContact                   | Primary Contact                     |
+| Authorised                       | Authorised                          |

@@ -1,0 +1,20 @@
+# Geographical APRA Region
+
+## identifier
+dm373
+
+## type
+string
+
+## definition
+This dimension is used to categorise information reported based on the geographic region to which that information relates.
+
+## codes
+| Code       | Description |
+| ---------- | ----------- |
+| Americas   | Americas    |
+| Asia       | Asia        |
+| Australia  | Australia   |
+| Europe     | Europe      |
+| NewZealand | New Zealand |
+| USA        | USA         |

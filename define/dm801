@@ -1,0 +1,17 @@
+# Excess And Co Payment Amounts Dimension
+
+## identifier
+dm801
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the excess and co-payment amounts payable.
+
+## codes
+| Code                       | Description                       |
+| -------------------------- | --------------------------------- |
+| GreaterThan500Or1000       | Greater Than 500 Or 1000          |
+| Nil                        | Nil                               |
+| LessThanOrEqualTo500Or1000 | Less Than Or Equal To 500 Or 1000 |

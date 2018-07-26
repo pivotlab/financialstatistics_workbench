@@ -1,0 +1,23 @@
+# Member Account Movement Type Dimension
+
+## identifier
+dm664
+
+## type
+string
+
+## definition
+Represents the types of new member accounts and account closures with the reasons for member account movement.
+
+## codes
+| Code                                           | Description                                           |
+| ---------------------------------------------- | ----------------------------------------------------- |
+| AccountClosureForSuccessorFundTransfer         | Account Closure For Successor Fund Transfer           |
+| NewMemberAccountForEmployerSponsor             | New Member Account For Employer Sponsor               |
+| AccountClosureForOtherExit                     | Account Closure For Other Exit                        |
+| AccountClosureForSatisfyingAConditionOfRelease | Account Closure For Satisfying A Condition Of Release |
+| AccountClosureForConsolidation                 | Account Closure For Consolidation                     |
+| NewMemberAccountForOther                       | New Member Account For Other                          |
+| AccountClosureForOutwardRollover               | Account Closure For Outward Rollover                  |
+| NewMemberAccountForMemberTaxedPhase            | New Member Account For Member Taxed Phase             |
+| NewMemberAccountForMemberTaxFreePhase          | New Member Account For Member Tax Free Phase          |

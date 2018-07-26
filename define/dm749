@@ -1,0 +1,17 @@
+# Reserve Bank Of Australia Repo Pricing Rate Dimension
+
+## identifier
+dm749
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the rate repurchase agreements are priced when accepted by the Reserve Bank of Australia (RBA) under the Bank's various facilities arrangements.
+
+## codes
+| Code           | Description      |
+| -------------- | ---------------- |
+| Deposits       | Deposits         |
+| OpenRepos      | Open Repos       |
+| CashRateTarget | Cash Rate Target |

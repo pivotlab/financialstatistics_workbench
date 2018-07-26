@@ -1,0 +1,135 @@
+# Commodity
+
+## identifier
+dm349
+
+## type
+string
+
+## definition
+This dimension is used to categorise reported information, based on the commodity to which the information relates.
+
+## codes
+| Code                        | Description                   |
+| --------------------------- | ----------------------------- |
+| Aluminium                   | Aluminium                     |
+| AmericanFuelOil             | American Fuel Oil             |
+| AmericanMiddleDistillates   | American Middle Distillates   |
+| Barley                      | Barley                        |
+| Butter                      | Butter                        |
+| CalifornianPavingAsphalt    | Californian Paving Asphalt    |
+| Canola                      | Canola                        |
+| Cattle                      | Cattle                        |
+| CattleFeeder                | Cattle Feeder                 |
+| CattleLive                  | Cattle Live                   |
+| CattleMLASFE                | Cattle MLASFE                 |
+| Coal                        | Coal                          |
+| CoalNewcastle               | Coal Newcastle                |
+| Cocoa                       | Cocoa                         |
+| Coffee                      | Coffee                        |
+| Copper                      | Copper                        |
+| Corn                        | Corn                          |
+| Cotton                      | Cotton                        |
+| Electricity                 | Electricity                   |
+| ElectricityICEPJMpeak       | Electricity ICE PJM peak      |
+| ElectricityNSWbase          | Electricity NSW base          |
+| ElectricityNSWoffpeak       | Electricity NSW off peak      |
+| ElectricityNSWpeak          | Electricity NSW peak          |
+| ElectricityNYMEXPJMpeak     | Electricity NYMEX PJM peak    |
+| ElectricityPhelixoffpeak    | Electricity Phelix off peak   |
+| ElectricityPhelixpeak       | Electricity Phelix peak       |
+| ElectricityQLDbase          | Electricity QLD base          |
+| ElectricityQLDoffpeak       | Electricity QLD off peak      |
+| ElectricityQLDpeak          | Electricity QLD peak          |
+| ElectricitySAbase           | Electricity SA base           |
+| ElectricitySAoffpeak        | Electricity SA off peak       |
+| ElectricitySApeak           | Electricity SA peak           |
+| ElectricitySnowybase        | Electricity Snowy base        |
+| ElectricitySnowyoffpeak     | Electricity Snowy off peak    |
+| ElectricitySnowypeak        | Electricity Snowy peak        |
+| ElectricityTASbase          | Electricity TAS base          |
+| ElectricityTASoffpeak       | Electricity TAS off peak      |
+| ElectricityTASpeak          | Electricity TAS peak          |
+| ElectricityVICbase          | Electricity VIC base          |
+| ElectricityVICoffpeak       | Electricity VIC off peak      |
+| ElectricityVICpeak          | Electricity VIC peak          |
+| EuropeanFuelOil             | European Fuel Oil             |
+| EuropeanMiddleDistillate    | European Middle Distillate    |
+| GasNatural                  | Gas Natural                   |
+| GasolineIPE                 | Gasoline IPE                  |
+| GasolineUnleaded            | Gasoline Unleaded             |
+| GasPropane                  | Gas Propane                   |
+| Gold                        | Gold                          |
+| Hogs                        | Hogs                          |
+| HogsLean                    | Hogs Lean                     |
+| IronOre                     | Iron Ore                      |
+| Kerosene                    | Kerosene                      |
+| Lead                        | Lead                          |
+| Lumber                      | Lumber                        |
+| Milk                        | Milk                          |
+| Nickel                      | Nickel                        |
+| NWEC1FO                     | NWEC1FO                       |
+| Oats                        | Oats                          |
+| OilBrent                    | Oil Brent                     |
+| OilBRT                      | Oil BRT                       |
+| OilCrude                    | Oil Crude                     |
+| OilEN590                    | Oil EN590                     |
+| OilGO                       | Oil GO                        |
+| OilHeating                  | Oil Heating                   |
+| OilHSFO180                  | Oil HSFO180                   |
+| OilHSFO380                  | Oil HSFO380                   |
+| OilIPE                      | Oil IPE                       |
+| OilJETCIFNWE                | Oil JETCIFNWE                 |
+| OilSGO                      | Oil SGO                       |
+| OilSJT                      | Oil SJT                       |
+| OilTapis                    | Oil Tapis                     |
+| OilWTI                      | Oil WTI                       |
+| OrangeJuice                 | Orange Juice                  |
+| Palladium                   | Palladium                     |
+| Piglets                     | Piglets                       |
+| Platinum                    | Platinum                      |
+| PorkBellies                 | Pork Bellies                  |
+| Potatoes                    | Potatoes                      |
+| RenewableEnergyCertificates | Renewable Energy Certificates |
+| Rice                        | Rice                          |
+| Rubber                      | Rubber                        |
+| Shrimp                      | Shrimp                        |
+| Silk                        | Silk                          |
+| Silver                      | Silver                        |
+| SingaporeFuelOil            | Singapore Fuel Oil            |
+| SingaporeMiddleDistillates  | Singapore Middle Distillates  |
+| Sorghum                     | Sorghum                       |
+| Soybean                     | Soybean                       |
+| SoybeanMeal                 | Soybean Meal                  |
+| SoybeanOil                  | Soybean Oil                   |
+| Sugar                       | Sugar                         |
+| SugarRaw                    | Sugar Raw                     |
+| SugarWhite                  | Sugar White                   |
+| Sunflower                   | Sunflower                     |
+| Tin                         | Tin                           |
+| UKGas                       | UK Gas                        |
+| Wheat                       | Wheat                         |
+| WheatAWBAGP                 | Wheat AWB AGP                 |
+| WheatAWBAH                  | Wheat AWB AH                  |
+| WheatAWBAPDR                | Wheat AWB APDR                |
+| WheatAWBAPH                 | Wheat AWB APH                 |
+| WheatAWBAPW                 | Wheat AWB APW                 |
+| WheatAWBAPWT                | Wheat AWB APWT                |
+| WheatAWBASF1                | Wheat AWB ASF1                |
+| WheatAWBASW                 | Wheat AWB ASW                 |
+| WheatAWBASWN                | Wheat AWB ASWN                |
+| WheatAWBAUH                 | Wheat AWB AUH                 |
+| WheatAWBPool                | Wheat AWB Pool                |
+| WheatCBOT                   | Wheat CBOT                    |
+| WheatChicago                | Wheat Chicago                 |
+| WheatKansas                 | Wheat Kansas                  |
+| WheatKCBOT                  | Wheat KCBOT                   |
+| WheatLIFFE                  | Wheat LIFFE                   |
+| WheatMGE                    | Wheat MGE                     |
+| Wool                        | Wool                          |
+| Wool22Micron                | Wool 22 Micron                |
+| WoolAWBPool                 | Wool AWB Pool                 |
+| WoolBroad23Micron           | Wool Broad 23 Micron          |
+| WoolFine19Micron            | Wool Fine 19 Micron           |
+| WoolGreasy21Micron          | Wool Greasy 21 Micron         |
+| Zinc                        | Zinc                          |

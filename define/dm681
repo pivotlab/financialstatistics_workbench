@@ -1,0 +1,27 @@
+# Hedge Fund Asset Class Dimension
+
+## identifier
+dm681
+
+## type
+string
+
+## definition
+This dimension categorises the reported information by the hedge fund asset class type. A hedge fund represents a collective investment that displays a combination of the following characteristics: (a) borrowing and leverage restrictions, which are typically included in collective-investment-schemes-related regulation, are not applied, may use high levels of leverage; (b) significant performance fees (often in the form of a percentage of profits) are paid to the manager in addition to an annual management fee; (c) investors are typically permitted to redeem their interests periodically (e.g. quarterly, semi-annually or annually); (d) significant 'own' funds are often invested by the managers; (e) derivatives are used, often for speculative purposes, and there is an ability to short sell securities; and (f) more diverse risks or complex underlying products are involved.
+
+## codes
+| Code            | Description      |
+| --------------- | ---------------- |
+| Commodities     | Commodities      |
+| SovereignRates  | Sovereign Rates  |
+| Currency        | Currency         |
+| Cash            | Cash             |
+| FixedInterest   | Fixed Interest   |
+| Insurance       | Insurance        |
+| MultiAsset      | Multi Asset      |
+| Equities        | Equities         |
+| Property        | Property         |
+| ConvertibleBond | Convertible Bond |
+| Other           | Other            |
+| RealAsset       | Real Asset       |
+| Infrastructure  | Infrastructure   |

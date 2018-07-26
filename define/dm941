@@ -1,0 +1,16 @@
+# Recourse Type Dimension
+
+## identifier
+dm941
+
+## type
+string
+
+## definition
+This dimension categorises the reported information by whether the loan is a recourse or non-recourse loan.
+
+## codes
+| Code        | Description  |
+| ----------- | ------------ |
+| Recourse    | Recourse     |
+| NonRecourse | Non Recourse |

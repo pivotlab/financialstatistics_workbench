@@ -1,0 +1,16 @@
+# Backtesting Basis
+
+## identifier
+dm411
+
+## type
+string
+
+## definition
+This dimension is used to categorise reported information in relation to back-testing, based on whether actual or hypothetical trading outcomes have been applied, as determined in accordance with relevant prudential standards.
+
+## codes
+| Code         | Description  |
+| ------------ | ------------ |
+| Actual       | Actual       |
+| Hypothetical | Hypothetical |

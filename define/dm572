@@ -1,0 +1,16 @@
+# Reinsurance Expense Value Type Dimension
+
+## identifier
+dm572
+
+## type
+string
+
+## definition
+This dimension identifies the valuation scenario, in relation to reinsurance expenses, under which the reported value was calculated.
+
+## codes
+| Code  | Description |
+| ----- | ----------- |
+| Net   | Net   |
+| Gross | Gross |

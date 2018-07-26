@@ -1,0 +1,16 @@
+# Recoveries Value Type Dimension
+
+## identifier
+dm571
+
+## type
+string
+
+## definition
+This dimension identifies the valuation scenario, in relation to recoveries, under which the reported value was calculated.
+
+## codes
+| Code  | Description |
+| ----- | ----------- |
+| Net   | Net   |
+| Gross | Gross |

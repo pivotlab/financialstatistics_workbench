@@ -1,0 +1,20 @@
+# Gender Dimension
+
+## identifier
+dm402
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the gender of an individual person.
+
+## codes
+| Code                             | Description                          |
+| -------------------------------- | ------------------------------------ |
+| Male                             | Male                                 |
+| Female                           | Female                               |
+| NotAvailable                     | Not Available                        |
+| Any                              | Any                                  |
+| NotStatedOrInadequatelyDescribed | Not Stated Or Inadequately Described |
+| IntersexOrIndeterminate          | Intersex Or Indeterminate            |

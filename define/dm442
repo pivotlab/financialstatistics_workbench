@@ -1,0 +1,20 @@
+# Loan Age
+
+## identifier
+dm442
+
+## type
+string
+
+## definition
+This dimension is used to categorise reported loan information according to the age of the loan.
+
+The age of a loan represents the length of time from the date of origination of the loan to the date of calculation.
+
+## codes
+| Code       | Description                                             |
+| ---------- | ------------------------------------------------------- |
+| GTE10Y     | Greater Than or Equal to 10 Years                       |
+| GTE3YLT5Y  | Greater Than or Equal to 3 Years but Less Than 5 Years  |
+| GTE5YLT10Y | Greater Than or Equal to 5 Years but Less Than 10 Years |
+| LT3Y       | Less Than 3 Years                                       |

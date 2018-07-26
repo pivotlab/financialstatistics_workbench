@@ -1,0 +1,56 @@
+# Asset Type Dimension
+
+## identifier
+dm479
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the type of asset.
+
+## codes
+| Code                                 | Description                                   |
+| ------------------------------------ | --------------------------------------------- |
+| Aircraft                             | Aircraft                                      |
+| Watercraft                           | Watercraft                                    |
+| RRS                                  | Rail Rolling Stock                            |
+| RoadVehicle                          | Road Vehicle                                  |
+| TransEquip                           | Transport Equipment Other Than Road Vehicles  |
+| IndustrialMachinery                  | Industrial Machinery And Equipment            |
+| ComputerSoftware                     | Computer Software                             |
+| ComputerHardware                     | Computers And Computer Peripherals            |
+| ElectronicMachinery                  | Electronic Machinery And Electrical Machinery |
+| CommsEquipment                       | Communications Equipment                      |
+| OtherPE                              | Other Plant And Equipment                     |
+| Land                                 | Land                                          |
+| DwellBuild                           | Dwellings Buildings And Structures            |
+| Intangibles                          | Intangible Assets                             |
+| WWProtect                            | Wastewater Management Protection Equipment    |
+| SWProtect                            | Solid Waste Management Protection Equipment   |
+| EmissionProtect                      | Air Emissions Protection Equipment            |
+| Locomotive                           | Locomotives                                   |
+| TransVehicleOther                    | Other Transport Vehicle                       |
+| AustralianResidentialRealProperty    | Australian Residential Real Property          |
+| AustralianNonResidentialRealProperty | Australian Non Residential Real Property      |
+| OverseasRealProperty                 | Overseas Real Property                        |
+| AustralianShares                     | Australian Shares                             |
+| Other                                | Other Assets                                  |
+| ListedCompanyShares                  | Listed Company Shares                         |
+| ListedUnitTrusts                     | Listed Unit Trusts                            |
+| OtherShares                          | Other Shares                                  |
+| RealPropertyAUS                      | Real Property AUS                             |
+| CapitalGainsTrustDistributions       | Capital Gains Trust Distributions             |
+| Collectables                         | Collectables                                  |
+| CGTOther                             | CGT Other                                     |
+| OtherUnits                           | Other Units                                   |
+| DebtSecurities                       | Debt Securities                               |
+| Deposits                             | Deposits                                      |
+| SharesAndUnitsInTrusts               | Shares And Units In Trusts                    |
+| CashAndNonCashCollateral             | Cash And Non Cash Collateral                  |
+| CoveredBond                          | Covered Bond                                  |
+| BillsOfExchange                      | Bills Of Exchange                             |
+| TreasuryNotes                        | Treasury Notes                                |
+| CommercialPaper                      | Commercial Paper                              |
+| NegotiableCertificatesOfDeposit      | Negotiable Certificates Of Deposit            |
+| Shares                               | Shares                                        |

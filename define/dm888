@@ -1,0 +1,16 @@
+# Activity Status Dimension
+
+## identifier
+dm888
+
+## type
+string
+
+## definition
+Information in relation to the status of an activity.
+
+## codes
+| Code     | Description |
+| -------- | ----------- |
+| Existing | Existing |
+| New      | New      |

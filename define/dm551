@@ -1,0 +1,16 @@
+# Reinsurance Classification Dimension
+
+## identifier
+dm551
+
+## type
+string
+
+## definition
+This dimension relates to the types of reinsurance classification.
+
+## codes
+| Code                       | Description                  |
+| -------------------------- | ---------------------------- |
+| NonProportionalReinsurance | Non Proportional Reinsurance |
+| ProportionalReinsurance    | Proportional Reinsurance     |

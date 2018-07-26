@@ -1,0 +1,17 @@
+# Superannuation Scheme Type Dimension
+
+## identifier
+dm622
+
+## type
+string
+
+## definition
+This information represents the type of superannuation schemes.
+
+## codes
+| Code                          | Description                      |
+| ----------------------------- | -------------------------------- |
+| EligibleRolloverFund          | Eligible Rollover Fund           |
+| SelfManagedSuperannuationFund | Self Managed Superannuation Fund |
+| PooledSuperannuationTrust     | Pooled Superannuation Trust      |

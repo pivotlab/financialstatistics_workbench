@@ -1,0 +1,21 @@
+# Contractual Cash Flow Type Dimension
+
+## identifier
+dm746
+
+## type
+string
+
+## definition
+The information reported shows the categories of different causes of contractual cash flows that effect liquidity needs.
+
+## codes
+| Code                                                            | Description                                                             |
+| --------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| MarketValuationChanges                                          | Market Valuation Changes                                                |
+| CreditDowngradeAuthorisedDepositTakingInstitutionByThreeNotches | Credit Downgrade Authorised Deposit Taking Institution By Three Notches |
+| ValuationChangeNonHighQualityLiquidAssets1                      | Valuation Change Non High Quality Liquid Assets 1                       |
+| CollateralSubstitutionWithoutConsent                            | Collateral Substitution Without Consent                                 |
+| ExcessNonSegregatedCallableCollateral                           | Excess Non Segregated Callable Collateral                               |
+| DerivativeCashFlow                                              | Derivative Cash Flow                                                    |
+| CollateralNotYetDemanded                                        | Collateral Not Yet Demanded                                             |

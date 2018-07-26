@@ -1,0 +1,16 @@
+# Private Hospital Type Dimension
+
+## identifier
+dm794
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the type of treatment that a private hospital is licensed to provide.
+
+## codes
+| Code   | Description |
+| ------ | ----------- |
+| Day    | Day     |
+| NotDay | Not Day |

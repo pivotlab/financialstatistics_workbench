@@ -1,0 +1,24 @@
+# Impairment Type
+
+## identifier
+dm370
+
+## type
+string
+
+## definition
+This dimension identifies the type of impairment
+
+## codes
+| Code                             | Description                        |
+| -------------------------------- | ---------------------------------- |
+| AccountingImpairmentDepreciation | Accounting Impairment Depreciation |
+| Collective                       | Collective                         |
+| Depreciation                     | Depreciation                       |
+| General                          | General                            |
+| GeneralCollective                | General Collective                 |
+| GeneralExcludingCollective       | General Excluding Collective       |
+| Individual                       | Individual                         |
+| PrudentialProvision              | Prudential Provision               |
+| PrudentialSpecific               | Prudential Specific                |
+| SpecificCollective               | Specific Collective                |

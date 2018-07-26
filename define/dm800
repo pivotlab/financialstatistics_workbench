@@ -1,0 +1,16 @@
+# Patient Type Dimension
+
+## identifier
+dm800
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the type of patient.
+
+## codes
+| Code           | Description      |
+| -------------- | ---------------- |
+| NursingHome    | Nursing Home     |
+| NonNursingHome | Non Nursing Home |

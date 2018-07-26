@@ -1,0 +1,18 @@
+# Natural Perils Multiple Events Dimension
+
+## identifier
+dm554
+
+## type
+string
+
+## definition
+This dimension categorises the reported information by the impact from the occurrence of multiple natural peril events of a certain size.
+
+## codes
+| Code        | Description  |
+| ----------- | ------------ |
+| FourthEvent | Fourth Event |
+| FirstEvent  | First Event  |
+| SecondEvent | Second Event |
+| ThirdEvent  | Third Event  |

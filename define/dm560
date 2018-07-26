@@ -1,0 +1,16 @@
+# Central Counterparty Classification Dimension
+
+## identifier
+dm560
+
+## type
+string
+
+## definition
+The information reported is in relation to when an Authorised Deposit-taking institution is a clearing member to a central counterparty.
+
+## codes
+| Code                             | Description                         |
+| -------------------------------- | ----------------------------------- |
+| NonQualifyingCentralCounterparty | Non Qualifying Central Counterparty |
+| QualifyingCentralCounterparty    | Qualifying Central Counterparty     |

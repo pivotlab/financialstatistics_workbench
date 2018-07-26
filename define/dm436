@@ -1,0 +1,16 @@
+# Asset Impairment Value Type Dimension
+
+## identifier
+dm436
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the accounting valuation scenario, in relation to impairment, under which the reported value was calculated.
+
+## codes
+| Code  | Description |
+| ----- | ----------- |
+| Net   | Net   |
+| Gross | Gross |

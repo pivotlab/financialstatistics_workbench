@@ -1,0 +1,16 @@
+# Service Provision Internal External
+
+## identifier
+dm440
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to whether or not the service was provided by an external party.
+
+## codes
+| Code     | Description |
+| -------- | ----------- |
+| External | External |
+| Internal | Internal |

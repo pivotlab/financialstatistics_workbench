@@ -1,0 +1,25 @@
+# Account Type Dimension
+
+## identifier
+dm914
+
+## type
+string
+
+## definition
+The type of loan or deposit account.
+
+## codes
+| Code                                 | Description                              |
+| ------------------------------------ | ---------------------------------------- |
+| RetirementSavingsAccount             | Retirement Savings Account               |
+| TransactionDeposit                   | Transaction Deposit                      |
+| OtherDepositAccounts                 | Other Deposit Accounts                   |
+| NonTransactionNotFixedTerm           | Non Transaction Not Fixed Term           |
+| FarmManagementAccount                | Farm Management Account                  |
+| OffsetAccount                        | Offset Account                           |
+| FixedTermDeposit                     | Fixed Term Deposit                       |
+| OffsetAndSetOffAccount               | Offset And Set Off Account               |
+| TransactionDepositInterestBearing    | Transaction Deposit Interest Bearing     |
+| RedrawFacility                       | Redraw Facility                          |
+| TransactionDepositNonInterestBearing | Transaction Deposit Non Interest Bearing |

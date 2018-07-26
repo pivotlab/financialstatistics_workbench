@@ -1,0 +1,20 @@
+# Guarantor or Issuer Rating Grade
+
+## identifier
+dm460
+
+## type
+string
+
+## definition
+This dimension is used to categorise information according to APRA defined counterparty rating grades for counterparties that have provided guarantees in relation to the reported information, as determined for capital adequacy purposes in accordance with GPS 114.
+
+## codes
+| Code     | Description        |
+| -------- | ------------------ |
+| Five     | Rating grade of 5  |
+| Four     | Rating grade of 4  |
+| One      | Rating grade of 1  |
+| Three    | Rating grade of 3  |
+| Two      | Rating grade of 2  |
+| ZeroPnt5 | Rating grade of .5 |

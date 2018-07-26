@@ -1,0 +1,16 @@
+# Classification Of Collateral Dimension
+
+## identifier
+dm744
+
+## type
+string
+
+## definition
+The information reported relates to the classification whether or not the collateral is rehypothecated. Rehypothecation is re-using collateral received through transactions to pledge for another transaction.
+
+## codes
+| Code              | Description        |
+| ----------------- | ------------------ |
+| Rehypothecated    | Rehypothecated     |
+| NotRehypothecated | Not Rehypothecated |

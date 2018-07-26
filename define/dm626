@@ -1,0 +1,23 @@
+# Payer Dimension
+
+## identifier
+dm626
+
+## type
+string
+
+## definition
+The information reported classifies data based on the payer of the item reported.
+
+## codes
+| Code                                    | Description                                |
+| --------------------------------------- | ------------------------------------------ |
+| Reserve                                 | Reserve                                    |
+| Insurer                                 | Insurer                                    |
+| Other                                   | Other                                      |
+| EmployerSponsor                         | Employer Sponsor                           |
+| RegistrableSuperannuationEntity         | Registrable Superannuation Entity          |
+| NotMemberAccountEmployerSponsor         | Not Member Account Employer Sponsor        |
+| RegistrableSuperannuationEntityLicensee | Registrable Superannuation Entity Licensee |
+| MemberAccount                           | Member Account                             |
+| ActiveEmployer                          | Active Employer                            |

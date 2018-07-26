@@ -1,0 +1,19 @@
+# Superannuation Business Operations Dimension
+
+## identifier
+dm604
+
+## type
+string
+
+## definition
+This dimension classifies the reported information by the characteristics of superannuation business.
+
+## codes
+| Code                                             | Description                                              |
+| ------------------------------------------------ | -------------------------------------------------------- |
+| RegistrableSuperannuationEntityNotSAFOrSMADF     | Registrable Superannuation Entity Not SAF Or SMADF       |
+| RegistrableSuperannuationEntity                  | Registrable Superannuation Entity                        |
+| RegistrableSuperannuationEntityLicensee          | Registrable Superannuation Entity Licensee               |
+| NonRSEOrSAFOrSMADF                               | Non RSE Or SAF Or SMADF                                  |
+| SmallAPRAFundsOrSingleMemberApprovedDepositFunds | Small APRA Funds Or Single Member Approved Deposit Funds |

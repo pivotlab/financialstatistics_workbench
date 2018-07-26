@@ -1,0 +1,56 @@
+# Credit Risk Weighting Dimension
+
+## identifier
+dm329
+
+## type
+string
+
+## definition
+This dimension is used to categorise on-balance sheet assets and off-balance sheet business (both market-related and non-market-related transactions) according to certain risk categories to broadly reflect their credit risk profiles. These weightings are determined in accordance with relevant prudential standards.
+
+## codes
+| Code                                                | Description                                                    |
+| --------------------------------------------------- | -------------------------------------------------------------- |
+| GreaterThan75AndEqualToLessThan100Percent           | Greater Than 75 And Equal To Less Than 100 Percent             |
+| GreaterThan50AndEqualToLessThan75Percent            | Greater Than 50 And Equal To Less Than 75 Percent              |
+| GreaterThan25AndEqualToLessThan50Percent            | Greater Than 25 And Equal To Less Than 50 Percent              |
+| EqualToLessThan25Percent                            | Equal To Less Than 25 Percent                                  |
+| SixHundredAndFiftyPercent                           | Six Hundred And Fifty Percent                                  |
+| FourHundredAndTwentyFivePercent                     | Four Hundred And Twenty Five Percent                           |
+| TwoHundredAndFiftyPercent                           | Two Hundred And Fifty Percent                                  |
+| SixtyPercent                                        | Sixty Percent                                                  |
+| TwentyFivePercent                                   | Twenty Five Percent                                            |
+| EighteenPercent                                     | Eighteen Percent                                               |
+| FifteenPercent                                      | Fifteen Percent                                                |
+| TwelvePercent                                       | Twelve Percent                                                 |
+| TenPercent                                          | Ten Percent                                                    |
+| EightPercent                                        | Eight Percent                                                  |
+| SevenPercent                                        | Seven Percent                                                  |
+| LessThan1250Percent                                 | Less Than 1250 Percent                                         |
+| ThreeHundredAndFiftyPercent                         | Three Hundred And Fifty Percent                                |
+| OneThousandTwoHundredAndFiftyPercent                | One Thousand Two Hundred And Fifty Percent                     |
+| NineHundredAndThirtySevenAndAHalfPercent            | Nine Hundred And Thirty Seven And A Half Percent               |
+| SixHundredAndTwentyFivePercent                      | Six Hundred And Twenty Five Percent                            |
+| FourHundredPercent                                  | Four Hundred Percent                                           |
+| ThreeHundredPercent                                 | Three Hundred Percent                                          |
+| OneHundredAndFiftyPercent                           | One Hundred And Fifty Percent                                  |
+| ThirtyFivePercent                                   | Thirty Five Percent                                            |
+| SeventyFivePercent                                  | Seventy Five Percent                                           |
+| OneHundredPercent                                   | One Hundred Percent                                            |
+| FiftyPercent                                        | Fifty Percent                                                  |
+| TwentyPercent                                       | Twenty Percent                                                 |
+| ZeroPercent                                         | Zero Percent                                                   |
+| SubjectToDeduction                                  | Subject To Deduction                                           |
+| TwentyPercentOrLower                                | Twenty Percent Or Lower                                        |
+| NonZero                                             | Non Zero                                                       |
+| GreaterThan140Percent                               | Greater Than 140 Percent                                       |
+| GreaterThan250LessThanEqualTo425Percent             | Greater Than 250 Less Than Equal To 425 Percent                |
+| GreaterThan100LessThanEqualTo250Percent             | Greater Than 100 Less Than Equal To 250 Percent                |
+| GreaterThan50PercentLessThanEqualTo100Percent       | Greater Than 50 Percent Less Than Equal To 100 Percent         |
+| GreaterThan100PercentLessThanEqualTo140Percent      | Greater Than 100 Percent Less Than Equal To 140 Percent        |
+| EqualToGreaterThan1250Percent                       | Equal To Greater Than 1250 Percent                             |
+| GreaterThan20PercentLessThanEqualTo50Percent        | Greater Than 20 Percent Less Than Equal To 50 Percent          |
+| GreaterThan650LessThan1250Percent                   | Greater Than 650 Less Than 1250 Percent                        |
+| GreaterThan425LessThanEqualTo650Percent             | Greater Than 425 Less Than Equal To 650 Percent                |
+| EqualToGreaterThan15PercentLessThanEqualTo20Percent | Equal To Greater Than 15 Percent Less Than Equal To 20 Percent |

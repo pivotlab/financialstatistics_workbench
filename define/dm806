@@ -1,0 +1,16 @@
+# Lifetime Health Cover Loading Dimension
+
+## identifier
+dm806
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to whether lifetime health cover loading is applied.
+
+## codes
+| Code           | Description     |
+| -------------- | --------------- |
+| LoadingApplied | Loading Applied |
+| LoadingRemoved | Loading Removed |

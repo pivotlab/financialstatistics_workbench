@@ -1,0 +1,17 @@
+# Gap Agreement Dimension
+
+## identifier
+dm807
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to whether there is an agreement between a medical practitioner and an insurer, in relation to the benefit paid by the insurer relative to the fee charged by the medical practitioner.
+
+## codes
+| Code              | Description         |
+| ----------------- | ------------------- |
+| KnownGapAgreement | Known Gap Agreement |
+| NoAgreement       | No Agreement        |
+| NoGapAgreement    | No Gap Agreement    |

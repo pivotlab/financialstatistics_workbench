@@ -1,0 +1,21 @@
+# Member Account Status Dimension
+
+## identifier
+dm625
+
+## type
+string
+
+## definition
+This dimension identifies the current status of a member account.
+
+## codes
+| Code     | Description |
+| -------- | ----------- |
+| NoLonger | No Longer |
+| Active   | Active    |
+| New      | New       |
+| Lost     | Lost      |
+| Inactive | Inactive  |
+| Existing | Existing  |
+| Closed   | Closed    |

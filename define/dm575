@@ -1,0 +1,43 @@
+# Counterparty Rating After Eligible Credit Support Dimension
+
+## identifier
+dm575
+
+## type
+string
+
+## definition
+This dimension categorises the counterparty grade after eligible credit support provided according to the long-term and short-term credit rating grades of the provider as determined by various rating agencies.
+Long-term ratings. 
+Rating Grade1: Standard & Poor's AAA; Moody's Aaa; AM Best Debt aaa; AM Best FSR A++; Fitch AAA;
+Rating Grade2: Standard & Poor's AA+, AA, AA-; Moody's Aa1, Aa2, Aa3; AM Best Debt Debt aa+, aa, aa-; AM Best FSR A+; Fitch AA+, AA, AA-;
+Rating Grade3: Standard & Poor's A+, A, A-; Moody's A1, A2, A3; AM Best Debt a+, a, a-; AM Best FSR A, A-; Fitch A+, A, A-;
+Rating Grade4: Standard & Poor's BBB+, BBB, BBB-; Moody's Baa1, Baa2, Baa3; AM Best Debt bbb+, bbb, bbb-; AM Best FSR B++, B+; Fitch BBB+, BBB, BBB-;
+Rating Grade5: Standard & Poor's BB+, BB, BB- ; Moody's Ba1, Ba2, Ba3; AM Best Debt bb+, bb, bb-; AM Best FSR B, B-; Fitch BB+, BB, BB-;
+Rating Grade6: Standard & Poor's B+, B, B- ; Moody's B1, B2, B3; AM Best Debt b+, b, b-; AM Best FSR C++, C+, C, C-; Fitch B+, B, B-;
+Rating Grade7: Standard & Poor's Below B-; Moody's Below B3; AM Best Debt Below b-; AM Best FSR Below C-; Fitch CCC or Below;
+Short-term ratings
+Rating Grade1: Standard & Poor's A+, AM Best AMB-1+; Fitch F1+;
+Rating Grade2: Standard & Poor's A1; Moody's P1; AM Best AMB-1; Fitch F1;
+Rating Grade3: Standard & Poor's A2; Moody's P2; AM Best AMB-2; Fitch F2;
+Rating Grade4: Standard & Poor's A3; Moody's P3; AM Best AMB-3; Fitch F3;
+Rating Grade6: Standard & Poor's B; Moody's NP Vulnerable; AM Best AMB-4; Fitch B;
+Rating Grade7: Standard & Poor's C; Moody's NP Currently Vulnerable; Fitch C;
+
+## codes
+| Code                | Description               |
+| ------------------- | ------------------------- |
+| GradeInvestment     | Investment                |
+| Grade5              | Rating Grade 5            |
+| Grade4              | Rating Grade 4            |
+| Grade2              | Rating Grade 2            |
+| Grade1              | Rating Grade 1            |
+| Grade1or2           | Rating Grade 1 or 2       |
+| Grade3              | Rating Grade 3            |
+| Grade4orUnrated     | Rating Grade 4 or Unrated |
+| Unrated             | Unrated                   |
+| Grade4or5           | Rating Grade 4 or 5       |
+| Other               | Other                     |
+| Grade6              | Rating Grade 6            |
+| Grade7              | Rating Grade 7            |
+| GradeFiveSixOrSeven | Grade Five Six Or Seven   |

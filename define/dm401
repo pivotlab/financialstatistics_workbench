@@ -1,0 +1,47 @@
+# Asset Quality Dimension
+
+## identifier
+dm401
+
+## type
+string
+
+## definition
+This dimension classifies assets according to the likelihood of their full economic benefits being realised.
+
+## codes
+| Code                                                 | Description                                                                     |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------- |
+| NotPastDue90DOrImpaired                              | Not Past Due 90D And Or Impaired                                                |
+| PrescribedPastDue182DLT273D                          | Prescribed Past Due 182 Days and Less Than 273 Days                             |
+| PrescribedPastDue90DLT182D                           | Prescribed Past Due 90 Days and Less Than 182 Days                              |
+| PastDueGTE90DLT1Y                                    | Past Due 90 Days or more and Less Than 1 Year                                   |
+| PastDue90DImpaired                                   | Past Due 90 Days And Impaired                                                   |
+| PastDueGT6MLT2YEvent                                 | Past Due More Than 6 Months From Due Date And Less Than 2 Years From Event Date |
+| NotPastDueGT6M                                       | Not Past Due More Than 6 Months                                                 |
+| PastDueGT2ndBalDate                                  | Past Due on or after the 2nd Annual Balance Date after Event                    |
+| PrescribedPastDue60DLT90D                            | Prescribed Past Due 60 Days and Less Than 90 Days                               |
+| PrescribedPastDue30DLT60D                            | Prescribed Past Due 30 Days and Less Than 60 Days                               |
+| SettlementPastDueGT46D                               | Settlement Past Due 46 Days                                                     |
+| SettlementPastDue31DLT46D                            | Settlement Past Due 31 Days and Less Than 46 Days                               |
+| SettlementPastDue16DLT31D                            | Settlement Past Due 16 Days and Less Than 31 Days                               |
+| SettlementPastDue5DLT16D                             | Settlement Past Due 5 Days and Less Than 16 Days                                |
+| SettlementPastDueLT5D                                | Settlement Past Due Less Than 5 Days                                            |
+| PastDueLT90D                                         | Past Due LT90 Days                                                              |
+| NotImpaired                                          | Not Impaired                                                                    |
+| PastDue90DAndOrImpairedExceedingExposureLimit        | Past Due 90 Days And Or Impaired Exceeding Exposure Limit                       |
+| PastDue90DAndOrImpairedNotExceedingExposureLimit     | Past Due 90 Days And Or Impaired Not Exceeding Exposure Limit                   |
+| PrescribedPastDueGTE182D                             | Prescribed Past Due Greater Than or Equal to 182 Days                           |
+| PrescribedPastDue14DLT90D                            | Prescribed Past Due 14 Days and Less Than 90 Days                               |
+| PrescribedPastDueGTE365D                             | Prescribed Past Due Greater Than or Equal to 365 Days                           |
+| PrescribedPastDueLT14D                               | Prescribed Past Due Less Than 14 Days                                           |
+| PrescribedPastDue273DLT365D                          | Prescribed Past Due 273 Days and Less Than 365 Days                             |
+| SettlementPastDueGT5D                                | Settlement Past Due 5 Days                                                      |
+| PastDueMoreThan6Months                               | Past Due More Than 6 Months                                                     |
+| NotPastDueOnOrAfterThe2ndAnnualBalanceDateAfterEvent | Not Past Due On Or After The 2nd Annual Balance Date After Event                |
+| Illiquid                                             | Illiquid                                                                        |
+| PastDue90D                                           | Past Due 90 D                                                                   |
+| PastDue90DOrImpaired                                 | Past Due 90 D Or Impaired                                                       |
+| NinetyDaysOrMorePastDue                              | Ninety Days Or More Past Due                                                    |
+| Impaired                                             | Impaired                                                                        |
+| ThirtyToEightyNineDaysPastDue                        | Thirty To Eighty Nine Days Past Due                                             |

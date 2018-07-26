@@ -1,0 +1,19 @@
+# Financial Instrument Category
+
+## identifier
+dm360
+
+## type
+string
+
+## definition
+This dimension categorises the reported information according to AASB 139.
+
+## codes
+| Code                | Description                        |
+| ------------------- | ---------------------------------- |
+| AFS                 | Available For Sale                 |
+| FVTPL               | Fair Value Through Profit and Loss |
+| HTM                 | Held To Maturity                   |
+| LoansAndReceivables | Loans and Receivables              |
+| NotFVTPL            | Not FVTPL                          |

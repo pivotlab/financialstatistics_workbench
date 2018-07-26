@@ -1,0 +1,18 @@
+# Securitisation Prudential Treatment Types Dimension
+
+## identifier
+dm883
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the securitisation prudential treatment types.
+
+## codes
+| Code                                               | Description                                             |
+| -------------------------------------------------- | ------------------------------------------------------- |
+| MeetsOperationalRequirementRegulatoryCapitalRelief | Meets Operational Requirement Regulatory Capital Relief |
+| MeetsOperationalRequirementsFundingOnly            | Meets Operational Requirements Funding Only             |
+| SyntheticSecuritisation                            | Synthetic Securitisation                                |
+| OtherSecuritisation                                | Other Securitisation                                    |

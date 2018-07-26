@@ -1,0 +1,17 @@
+# Elimination Basis Dimension
+
+## identifier
+dm774
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to transactions that must be removed to eliminate double counting.
+
+## codes
+| Code          | Description    |
+| ------------- | -------------- |
+| IntraRegional | Intra Regional |
+| International | International  |
+| InterRegional | Inter Regional |

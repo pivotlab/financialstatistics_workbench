@@ -1,0 +1,16 @@
+# Transaction Method
+
+## identifier
+dm336
+
+## type
+string
+
+## definition
+This dimension categorises transactions based on their agreement terms.
+
+## codes
+| Code   | Description |
+| ------ | ----------- |
+| DvP    | DvP     |
+| NonDvP | Non DvP |

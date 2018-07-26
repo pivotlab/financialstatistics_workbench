@@ -1,0 +1,24 @@
+# Special Purpose Vehicle Or Scheme Type Dimension
+
+## identifier
+dm353
+
+## type
+string
+
+## definition
+This dimension categorises information reported according to the type of Special Purpose Vehicle (SPV) or Scheme for which the data relates.
+
+## codes
+| Code                                            | Description                                         |
+| ----------------------------------------------- | --------------------------------------------------- |
+| CMBSSecuritisation                              | CMBS Securitisation                                 |
+| ABCPSecuritisation                              | ABCP Securitisation                                 |
+| WarehouseNotABCPSecuritisation                  | Warehouse Not ABCP Securitisation                   |
+| RMBSSecuritisation                              | RMBS Securitisation                                 |
+| SecuritisationNotWarehouseABCPRMBSCMBSSynthetic | Securitisation Not Warehouse ABCPRMBSCMBS Synthetic |
+| SyntheticSecuritisation                         | Synthetic Securitisation                            |
+| WarehouseABCP                                   | Warehouse ABCP                                      |
+| NonRMBSSecuritisation                           | Non RMBS Securitisation                             |
+| SelfSecuritised                                 | Self Securitised                                    |
+| NotSelfSecuritised                              | Not Self Securitised                                |

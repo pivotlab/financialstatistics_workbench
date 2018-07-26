@@ -1,0 +1,16 @@
+# CCF Floor
+
+## identifier
+dm400
+
+## type
+string
+
+## definition
+This dimension categorises reported information in relation to the subjectivity of a Credit Conversion Factor (CCF) floor, as determined in accordance with relevant prudential standards.
+
+## codes
+| Code                 | Description              |
+| -------------------- | ------------------------ |
+| NotSubjectToCCFFloor | Not Subject To CCF Floor |
+| SubjectToCCFFloor    | Subject To CCF Floor     |

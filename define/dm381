@@ -1,0 +1,20 @@
+# Stress Testing Change In Implied Volatility
+
+## identifier
+dm381
+
+## type
+string
+
+## definition
+This dimension is used to represent the relevant stress testing scenario to which a change in implied volatility is applied to the calculation of the reported information.
+
+## codes
+| Code                            | Description                         |
+| ------------------------------- | ----------------------------------- |
+| ImpliedVolatility100PctIncrease | Implied Volatility 100 Pct Increase |
+| ImpliedVolatility200PctIncrease | Implied Volatility 200 Pct Increase |
+| ImpliedVolatility250PctIncrease | Implied Volatility 250 Pct Increase |
+| ImpliedVolatility50PctDecrease  | Implied Volatility 50 Pct Decrease  |
+| ImpliedVolatility75PctDecrease  | Implied Volatility 75 Pct Decrease  |
+| ImpliedVolatilityNoChange       | Implied Volatility No Change        |

@@ -1,0 +1,142 @@
+# Loan Purpose Dimension
+
+## identifier
+dm347
+
+## type
+string
+
+## definition
+Information in relation to the intended purpose of the counterparty in regards to loan agreements entered into by the entity.
+
+## codes
+| Code                                                                | Description                                                                   |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| DwellingInvestmentExcludingRefinancing                              | Investment in Dwellings Excluding Refinancing                                 |
+| DwellingInvestmentAlterationsAndAdditions                           | Alterations and Additions to Investment Dwellings                             |
+| RefinanceExistingCommercialLoan                                     | Refinance Existing Commercial Loan                                            |
+| DwellingOwnerOccupiedARF392                                         | Housing Owner Occupied ARF392                                                 |
+| MotorCarUsedLTDepreciation                                          | Used Motor Car Less Than The Depreciation Limit                               |
+| MotorCarUsedGTDepreciation                                          | Used Motor Car Greater Than The Depreciation Limit                            |
+| NotDwellingOwnerOccupied                                            | Not Owner-Occupied Dwelling                                                   |
+| OtherARF395                                                         | Other ARF395                                                                  |
+| LeverageLeaseDebtParticipation                                      | Leverage Lease Debt Participation                                             |
+| TradingStock                                                        | Trading Stock                                                                 |
+| PurchaseMotorCarNew                                                 | Purchase Motor Car New                                                        |
+| PurchaseMotorCarUsed                                                | Purchase Motor Car Used                                                       |
+| PurchaseMotorCycleScooter                                           | Purchase Motor Cycle/Scooter                                                  |
+| PurchaseMVNotMotorCarMotorCycleScooter                              | Purchase Motor Vehicle Not Motor Car or Motor Cycle/Scooter                   |
+| PurchaseBoatCaravanTrailer                                          | Purchase Boat Caravan Trailer                                                 |
+| PurchaseLandResidentialIndividual                                   | Purchase Land Residential Individual                                          |
+| PurchaseDwellingInvestment                                          | Purchase of Investment Dwelling                                               |
+| OtherARF391                                                         | Other ARF391                                                                  |
+| PurchaseTransportNonMV                                              | Purchase Transport Non MV                                                     |
+| PurchaseMV                                                          | Purchase MV                                                                   |
+| PurchasePlantEquipNonMVTransport                                    | Purchase Plant Equip Non MV Transport                                         |
+| PurchaseLandOther                                                   | Purchase Land Other                                                           |
+| PurchaseLandResidentialDevelopment                                  | Purchase Land Residential Development                                         |
+| PurchaseRural                                                       | Purchase Rural                                                                |
+| PurchaseIndustrial                                                  | Purchase Industrial                                                           |
+| PurchaseOffices                                                     | Purchase Offices                                                              |
+| PurchaseShops                                                       | Purchase Shops                                                                |
+| DwellingOwnerOccupiedAlterationsAndAdditions                        | Alterations and Additions to Owner-Occupied Dwellings                         |
+| ConstructionIndustrial                                              | Construction Industrial                                                       |
+| ConstructionOffices                                                 | Construction Offices                                                          |
+| ConstructionShops                                                   | Construction Shops                                                            |
+| ConstructionDwellingInvestment                                      | Construction of Investment Housing                                            |
+| SecuritisationInvestment                                            | Securitisation Investment                                                     |
+| ExposureFunding                                                     | Exposure Funding                                                              |
+| PurchaseNewlyErectedDwellingOwnerOccupied                           | Purchase of Newly-Erected Owner-Occupied Dwelling                             |
+| PurchaseEstablishedDwellingOwnerOccupied                            | Purchase of Established Owner-Occupied Dwelling                               |
+| DwellingOwnerOccupiedExcludingAlterationsAndAdditionsARF392         | Housing Owner Occupied Excluding Alterations and Additions ARF 392 0          |
+| PurchaseHouseholdPersonalGoods                                      | Purchase of Household and Personal Goods                                      |
+| DebtConsolidation                                                   | Debt Consolidation                                                            |
+| PersonalTravelHolidays                                              | Personal Travel and Holidays                                                  |
+| RefinancingNotPersonalInvestment                                    | Refinancing Not Personal Investment                                           |
+| RefinancingPersonalInvestment                                       | Refinancing Personal Investment                                               |
+| OtherARF394                                                         | Other ARF394                                                                  |
+| Liquidity                                                           | Liquidity                                                                     |
+| Housing                                                             | Housing                                                                       |
+| PurchaseTransportPlantEquip                                         | Purchase Transport Plant Equip                                                |
+| ManufacturingEquipment                                              | Manufacturing Equipment                                                       |
+| AgriculturalMachineryEquipment                                      | Agricultural Machinery and Equipment                                          |
+| ElectronicDataProcessingEquipment                                   | Electronic Data Processing Equipment                                          |
+| OfficeMachines                                                      | Office Machines                                                               |
+| OtherARF393                                                         | Other ARF 393                                                                 |
+| ShopOfficeFurnitureFittingsEquipment                                | Shop And Office Furniture Fittings Equipment                                  |
+| MotorCarNewGTDepreciationLimit                                      | New Motor Car Greater Than Depreciation Limit                                 |
+| MotorCarNewLTDepreciationLimit                                      | New Motor Car Less Than Depreciation Limit                                    |
+| LightTruckNew                                                       | New Light Truck                                                               |
+| LightTruckUsed                                                      | Used Light Truck                                                              |
+| HeavyTruckNew                                                       | New Heavy Truck                                                               |
+| HeavyTruckUsed                                                      | Used Heavy Truck                                                              |
+| TrailersBusesCoachesOtherMotorVehicles                              | Trailers, Buses, Coaches and Other Motor Vehicles                             |
+| Aeroplanes                                                          | Aeroplanes                                                                    |
+| LocomotivesRollingStock                                             | Locomotives and Rolling Stock                                                 |
+| ShipsMotorBoats                                                     | Ships and Motor Boats                                                         |
+| OtherTransportEquipmentARF393                                       | Other Transport Equipment ARF393                                              |
+| ConstructionEarthMovingEquipment                                    | Construction and Earth Moving Equipment                                       |
+| WarehouseFundingFacilities                                          | Warehouse Funding Facilities                                                  |
+| Residential                                                         | Residential                                                                   |
+| Commercial                                                          | Commercial                                                                    |
+| NotApplicable                                                       | Not Applicable                                                                |
+| OtherUncommittedContingentFunding                                   | Other Uncommitted Contingent Funding                                          |
+| TradeFinanceRelatedObligations                                      | Trade Finance Related Obligations                                             |
+| GuaranteesAndLettersOfCreditOtherThanTradeFinanceRelatedObligations | Guarantees And Letters Of Credit Other Than Trade Finance Related Obligations |
+| DebtSecurity                                                        | Debt Security                                                                 |
+| CreditFacility                                                      | Credit Facility                                                               |
+| AssetsSoldWithRecourse                                              | Assets Sold With Recourse                                                     |
+| CommittedFunding                                                    | Committed Funding                                                             |
+| PerformanceRelatedContingencies                                     | Performance Related Contingencies                                             |
+| BillEndorsement                                                     | Bill Endorsement                                                              |
+| LoansApprovedButNotAdvancedOrFunded                                 | Loans Approved But Not Advanced Or Funded                                     |
+| StructuredProductsAndManagedFunds                                   | Structured Products And Managed Funds                                         |
+| OtherCommittedContingentFunding                                     | Other Committed Contingent Funding                                            |
+| OtherDirectCreditSubstitutes                                        | Other Direct Credit Substitutes                                               |
+| OtherContractualObligations                                         | Other Contractual Obligations                                                 |
+| OtherNonContractualObligations                                      | Other Non Contractual Obligations                                             |
+| StandbyLettersOfCredit                                              | Standby Letters Of Credit                                                     |
+| BalanceAvailableUnderOverdraftAgreements                            | Balance Available Under Overdraft Agreements                                  |
+| LiquidityCreditFacility                                             | Liquidity Credit Facility                                                     |
+| BalanceAvailableForRedrawUnderRedrawFacilitiesOfTermLoans           | Balance Available For Redraw Under Redraw Facilities Of Term Loans            |
+| LiquidityFacility                                                   | Liquidity Facility                                                            |
+| Guarantees                                                          | Guarantees                                                                    |
+| ForwardAssetPurchase                                                | Forward Asset Purchase                                                        |
+| UndrawnFormalStandbyFacilities                                      | Undrawn Formal Standby Facilities                                             |
+| CommittedMortgageRedrawLinesOfCredit                                | Committed Mortgage Redraw Lines Of Credit                                     |
+| OwnerOccupiedHousing                                                | Owner Occupied Housing                                                        |
+| UnitsApartments                                                     | Units Apartments                                                              |
+| InvestmentHousing                                                   | Investment Housing                                                            |
+| NotHousing                                                          | Not Housing                                                                   |
+| OtherContingentFunding                                              | Other Contingent Funding                                                      |
+| TradeRelatedObligations                                             | Trade Related Obligations                                                     |
+| UncommittedFunding                                                  | Uncommitted Funding                                                           |
+| CorporateAndBusinessLoans                                           | Corporate And Business Loans                                                  |
+| CommercialRealEstateMortgages                                       | Commercial Real Estate Mortgages                                              |
+| RefinancingExistingHomeLoan                                         | Refinancing Existing Home Loan                                                |
+| PurchaseNonResidential                                              | Purchase Non Residential                                                      |
+| NotDwellingPersonalInvestment                                       | Not Dwelling Personal Investment                                              |
+| Construction                                                        | Construction                                                                  |
+| ConstructionNonBuilding                                             | Construction Non Building                                                     |
+| PurchaseProperty                                                    | Purchase Property                                                             |
+| PurchaseLandResidential                                             | Purchase Land Residential                                                     |
+| PurchaseLandNonResidential                                          | Purchase Land Non Residential                                                 |
+| PurchaseRoadVehicles                                                | Purchase Road Vehicles                                                        |
+| PurchaseOtherTransportVehiclesAndEquipment                          | Purchase Other Transport Vehicles And Equipment                               |
+| PurchaseDwellings                                                   | Purchase Dwellings                                                            |
+| PurchaseLand                                                        | Purchase Land                                                                 |
+| ExternalRefinance                                                   | External Refinance                                                            |
+| WorkingCapital                                                      | Working Capital                                                               |
+| PurchaseNonBuilding                                                 | Purchase Non Building                                                         |
+| Acquisitions                                                        | Acquisitions                                                                  |
+| AlterationsAdditionsRepairs                                         | Alterations Additions Repairs                                                 |
+| WholesaleFinance                                                    | Wholesale Finance                                                             |
+| PurchaseNewlyErectedDwelling                                        | Purchase Newly Erected Dwelling                                               |
+| PurchaseResidentialLand                                             | Purchase Residential Land                                                     |
+| PurchaseExistingDwelling                                            | Purchase Existing Dwelling                                                    |
+| InternalRefinance                                                   | Internal Refinance                                                            |
+| ConstructionNonResidentialBuildings                                 | Construction Non Residential Buildings                                        |
+| ConstructionDwellings                                               | Construction Dwellings                                                        |
+| PlantAndEquipmentFinance                                            | Plant And Equipment Finance                                                   |
+| ConstructionDwellingOwnerOccupied                                   | Construction Dwelling Owner Occupied                                          |
+| CommercialRealEstate                                                | Commercial Real Estate                                                        |

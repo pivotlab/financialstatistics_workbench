@@ -1,0 +1,11 @@
+# Investment Option Underlying ORFR Reserve Identifier Dimension
+
+## identifier
+dm645
+
+## type
+string
+
+## definition
+This information represents the unique identifier of the reserve investment option as determined by the RSE licensee.
+

@@ -1,0 +1,28 @@
+# Security Type Dimension
+
+## identifier
+dm399
+
+## type
+string
+
+## definition
+This dimension is used to segment data based on the categories in the asset exposure tables contained in the prudential standards.
+
+## codes
+| Code                        | Description                     |
+| --------------------------- | ------------------------------- |
+| OtherExposure               | Other Exposure                  |
+| OtherSpecified              | Other Specified                 |
+| Mortgage                    | Mortgage                        |
+| OutstandingPremiums         | Outstanding Premiums            |
+| SecuredPolicyOther          | Secured Policy Other            |
+| SecuredPolicyOtherAssoc     | Secured Policy Other Assoc      |
+| SecuredPolicyReinsurerOSBus | Secured Policy Reinsurer OS Bus |
+| SecuredPolicyRegReinsurer   | Secured Policy Reg Reinsurer    |
+| SecuredDeposits             | Secured Deposits                |
+| SecuredBills                | Secured Bills                   |
+| GuaranteedCurrencyProvGovt  | Guaranteed Currency Prov Govt   |
+| GuaranteedCurrencyNatGovt   | Guaranteed Currency Nat Govt    |
+| GuaranteedAustGovt          | Guaranteed Aust Govt            |
+| OtherSecurity               | Other Security                  |

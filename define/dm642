@@ -1,0 +1,11 @@
+# Payment And Operational Risk Event Description Dimension
+
+## identifier
+dm642
+
+## type
+string
+
+## definition
+This dimension describes details of payments made to address the operational risk event, details the type of operational risk event.
+

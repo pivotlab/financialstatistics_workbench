@@ -1,0 +1,30 @@
+# Interest Rate Dimension
+
+## identifier
+dm343
+
+## type
+string
+
+## definition
+This dimension categorises the reported information by the interest rate bands applicable to the individual accounts or products comprising it.
+
+## codes
+| Code                   | Description                |
+| ---------------------- | -------------------------- |
+| GTE4LT5                | GTE4LT5                    |
+| GTE5LT6                | GTE5LT6                    |
+| GTE6LT7                | GTE6LT7                    |
+| GTE7LT8                | GTE7LT8                    |
+| GTE8LT9                | GTE8LT9                    |
+| GTE9LT10               | GTE9LT10                   |
+| GTE10LT11              | GTE10LT11                  |
+| GTE11LT12              | GTE11LT12                  |
+| GTE12LT13              | GTE12LT13                  |
+| GTE13LT14              | GTE13LT14                  |
+| GTE14LT15              | GTE14LT15                  |
+| GTE15LT16              | GTE15LT16                  |
+| GTE16LT17              | GTE16LT17                  |
+| GTE17                  | GTE17                      |
+| GTE14                  | GTE14                      |
+| LessThanPoint25Percent | Less Than Point 25 Percent |

@@ -1,0 +1,16 @@
+# General Treatment Type Dimension
+
+## identifier
+dm796
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the type of general treatment.
+
+## codes
+| Code          | Description    |
+| ------------- | -------------- |
+| Other         | Other          |
+| AmbulanceOnly | Ambulance Only |

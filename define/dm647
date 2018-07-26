@@ -1,0 +1,11 @@
+# Organisation Name Or ABN Dimension
+
+## identifier
+dm647
+
+## type
+string
+
+## definition
+This dimension allows organisation name and where available Australian Business Number (ABN) to be used.
+

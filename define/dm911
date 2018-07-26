@@ -1,0 +1,16 @@
+# Funding Instrument Place Of Issuance Dimension
+
+## identifier
+dm911
+
+## type
+string
+
+## definition
+This categorises the place of issuance of the instrument used to raise funds.
+
+## codes
+| Code              | Description         |
+| ----------------- | ------------------- |
+| IssuedInAustralia | Issued In Australia |
+| IssuedOverseas    | Issued Overseas     |

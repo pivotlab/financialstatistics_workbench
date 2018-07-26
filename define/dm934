@@ -1,0 +1,17 @@
+# Collateralisation Type Dimension
+
+## identifier
+dm934
+
+## type
+string
+
+## definition
+This characterises the finance according to the collateralisation type.
+
+## codes
+| Code             | Description       |
+| ---------------- | ----------------- |
+| PartiallySecured | Partially Secured |
+| FullySecured     | Fully Secured     |
+| Unsecured        | Unsecured         |

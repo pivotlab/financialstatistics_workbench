@@ -1,0 +1,19 @@
+# Pension Benefit Type Dimension
+
+## identifier
+dm654
+
+## type
+string
+
+## definition
+This dimension categorises the types of pension benefits.
+
+## codes
+| Code                          | Description                      |
+| ----------------------------- | -------------------------------- |
+| AllocatedPension              | Allocated Pension                |
+| TransitionToRetirementPension | Transition To Retirement Pension |
+| Annuity                       | Annuity                          |
+| AccountBasedPension           | Account Based Pension            |
+| OtherPensionType              | Other Pension Type               |

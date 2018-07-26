@@ -1,0 +1,16 @@
+# Insurance
+
+## identifier
+dm331
+
+## type
+string
+
+## definition
+This dimension is used to categorise reported information based on insurance cover.
+
+## codes
+| Code                                | Description                   |
+| ----------------------------------- | ----------------------------- |
+| AcceptableLendersMortgageInsurer    | Lender's Mortgage Insurer     |
+| NotAcceptableLendersMortgageInsurer | Not Lender's Mortgage Insurer |

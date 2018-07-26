@@ -1,0 +1,16 @@
+# Security Maturity Classification Dimension
+
+## identifier
+dm743
+
+## type
+string
+
+## definition
+The information reported is categorised according to the classification of securities according to their original maturity profile.
+
+## codes
+| Code                | Description           |
+| ------------------- | --------------------- |
+| ShortTermSecurities | Short Term Securities |
+| LongTermSecurities  | Long Term Securities  |

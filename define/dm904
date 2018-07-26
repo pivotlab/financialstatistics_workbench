@@ -1,0 +1,16 @@
+# Accumulated Depreciation And Or Impairment Dimension
+
+## identifier
+dm904
+
+## type
+string
+
+## definition
+The information reported is adjusted for any accumulated depreciation and/or impairment.
+
+## codes
+| Code  | Description |
+| ----- | ----------- |
+| Net   | Net   |
+| Gross | Gross |

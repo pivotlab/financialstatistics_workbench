@@ -1,0 +1,16 @@
+# Accounting Recognition Basis
+
+## identifier
+dm384
+
+## type
+string
+
+## definition
+The accounting basis for income and expense recognition - cash or accruals.
+
+## codes
+| Code    | Description |
+| ------- | ----------- |
+| Accrual | Accrual |
+| Cash    | Cash    |

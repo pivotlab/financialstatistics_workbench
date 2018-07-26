@@ -1,0 +1,16 @@
+# Loan Originator
+
+## identifier
+dm465
+
+## type
+string
+
+## definition
+This dimension is used to categorise reported loan information according to the entity which has approved, advanced and funded the loan.
+
+## codes
+| Code                | Description                                                               |
+| ------------------- | ------------------------------------------------------------------------- |
+| APRARegulatedADI    | APRA Regulated Authorised Deposit-taking Institutions                     |
+| NotAPRARegulatedADI | Entities Other Than APRA Regulated Authorised Deposit-taking Institutions |

@@ -1,0 +1,19 @@
+# Types Of Liabilities Dimension
+
+## identifier
+dm816
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to types of liabilities.
+
+## codes
+| Code                                     | Description                                   |
+| ---------------------------------------- | --------------------------------------------- |
+| UnpresentedAndOutstandingClaims          | Unpresented And Outstanding Claims            |
+| Other                                    | Other                                         |
+| LoyaltyBonus                             | Loyalty Bonus                                 |
+| UnearnedPremiumAndUnexpiredRiskLiability | Unearned Premium And Unexpired Risk Liability |
+| RiskEqualisationFundTransfer             | Risk Equalisation Fund Transfer               |

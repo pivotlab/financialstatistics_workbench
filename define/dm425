@@ -1,0 +1,16 @@
+# Credit Mgt
+
+## identifier
+dm425
+
+## type
+string
+
+## definition
+Classifies the reported data according to method by which the reporting party manages problems related to its credit exposure.
+
+## codes
+| Code         | Description  |
+| ------------ | ------------ |
+| Individually | Individually |
+| Portfolio    | Portfolio    |

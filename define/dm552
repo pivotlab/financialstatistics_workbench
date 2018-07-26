@@ -1,0 +1,17 @@
+# Insurance Concentration Risk Charge Method Dimension
+
+## identifier
+dm552
+
+## type
+string
+
+## definition
+This dimension categorises the reported information based on the methods used to calculate insurance concentration risk charge, as determined in accordance with relevant prudential standards.
+
+## codes
+| Code                                  | Description                              |
+| ------------------------------------- | ---------------------------------------- |
+| NaturalPerilsVerticalRequirements     | Natural Perils Vertical Requirements     |
+| OtherAccumulationsVerticalRequirement | Other Accumulations Vertical Requirement |
+| NaturalPerilsHorizontalRequirement    | Natural Perils Horizontal Requirement    |

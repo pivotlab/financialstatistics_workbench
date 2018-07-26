@@ -1,0 +1,16 @@
+# Operational Risk Financial Requirement Value Type Dimension
+
+## identifier
+dm630
+
+## type
+string
+
+## definition
+This dimension identifies the accounting valuation scenario, in relation to Operational Risk Financial Requirement, under which the reported value was calculated.
+
+## codes
+| Code  | Description |
+| ----- | ----------- |
+| Net   | Net   |
+| Gross | Gross |

@@ -1,0 +1,19 @@
+# Expected Loss Risk Weight
+
+## identifier
+dm357
+
+## type
+string
+
+## definition
+This dimension is used to categorise exposures based on their assigned expected loss risk weighting, as determined in accordance with relevant prudential standards.
+
+## codes
+| Code                           | Description                         |
+| ------------------------------ | ----------------------------------- |
+| FivePercent                    | Five Percent                        |
+| OneHundredPercent              | One Hundred Percent                 |
+| SixHundredAndTwentyFivePercent | Six Hundred And Twenty Five Percent |
+| TenPercent                     | Ten Percent                         |
+| ThirtyFivePercent              | Thirty Five Percent                 |

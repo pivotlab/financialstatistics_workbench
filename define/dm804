@@ -1,0 +1,44 @@
+# General Treatment Categories Dimension
+
+## identifier
+dm804
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the types of services covered under general treatment products.
+
+## codes
+| Code                                              | Description                                            |
+| ------------------------------------------------- | ------------------------------------------------------ |
+| Optical                                           | Optical                                                |
+| ProsthesesAidsAndAppliances                       | Prostheses Aids And Appliances                         |
+| Dietetics                                         | Dietetics                                              |
+| HearingAidsAudiology                              | Hearing Aids Audiology                                 |
+| Overseas                                          | Overseas                                               |
+| PreventativeHealthProductsHealthManagementProgram | Preventative Health Products Health Management Program |
+| AccidentalDeathFuneralExpenses                    | Accidental Death Funeral Expenses                      |
+| DomesticAssistance                                | Domestic Assistance                                    |
+| Pharmacy                                          | Pharmacy                                               |
+| SpeechTherapy                                     | Speech Therapy                                         |
+| TravelAndAccommodation                            | Travel And Accommodation                               |
+| Hypnotherapy                                      | Hypnotherapy                                           |
+| Physiotherapy                                     | Physiotherapy                                          |
+| Ambulance                                         | Ambulance                                              |
+| Other                                             | Other                                                  |
+| Dental                                            | Dental                                                 |
+| SicknessAndAccident                               | Sickness And Accident                                  |
+| MaternityServices                                 | Maternity Services                                     |
+| ExGratiaPayments                                  | Ex Gratia Payments                                     |
+| TheatreFees                                       | Theatre Fees                                           |
+| Orthoptics                                        | Orthoptics                                             |
+| NaturalTherapies                                  | Natural Therapies                                      |
+| Chiropractic                                      | Chiropractic                                           |
+| OsteopathicServices                               | Osteopathic Services                                   |
+| OccupationalTherapy                               | Occupational Therapy                                   |
+| Psychology                                        | Psychology                                             |
+| Podiatry                                          | Podiatry                                               |
+| AcupunctureAcupressure                            | Acupuncture Acupressure                                |
+| CommunityHomeDistrictNursing                      | Community Home District Nursing                        |
+| School                                            | School                                                 |

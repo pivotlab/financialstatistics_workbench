@@ -1,0 +1,19 @@
+# Regulatory Securitisation Capital Adjustments Dimension
+
+## identifier
+dm882
+
+## type
+string
+
+## definition
+This dimension categorises information reported for regulatory adjustment purposes relating to exposures to securitisation, as determined in accordance with Prudential Standard APS 120 Securitisation.
+
+## codes
+| Code                              | Description                            |
+| --------------------------------- | -------------------------------------- |
+| ResecuritisationExposures         | Resecuritisation Exposures             |
+| DoNotMeetDueDiligenceRequirements | Do Not Meet Due Diligence Requirements |
+| ERBAOrSFAOrRWCCanNotBeUsed        | ERBA Or SFA Or RWC Can Not Be Used     |
+| OtherNonSeniorExposures           | Other Non Senior Exposures             |
+| OtherCET1RegulatoryAdjustments    | Other CET 1 Regulatory Adjustments     |

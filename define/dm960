@@ -1,0 +1,35 @@
+# Loan To Valuation Security Dimension
+
+## identifier
+dm960
+
+## type
+string
+
+## definition
+This dimension is used to categorise reported loan information according to the loan-to-valuation ratio (LVR) of the loan product with reference to the market value of the security.
+
+## codes
+| Code       | Description   |
+| ---------- | ------------- |
+| GT0LTE5    | GT 0 LTE 5    |
+| GT25LTE30  | GT 25 LTE 30  |
+| GT60LTE65  | GT 60 LTE 65  |
+| GT90LTE95  | GT 90 LTE 95  |
+| GT85LTE90  | GT 85 LTE 90  |
+| GT65LTE70  | GT 65 LTE 70  |
+| GT15LTE20  | GT 15 LTE 20  |
+| GT45LTE50  | GT 45 LTE 50  |
+| GT80LTE85  | GT 80 LTE 85  |
+| GT10LTE15  | GT 10 LTE 15  |
+| GT70LTE75  | GT 70 LTE 75  |
+| GT100      | GT 100        |
+| GT75LTE80  | GT 75 LTE 80  |
+| GT55LTE60  | GT 55 LTE 60  |
+| GT40LTE45  | GT 40 LTE 45  |
+| GT95LTE100 | GT 95 LTE 100 |
+| GT5LTE10   | GT 5 LTE 10   |
+| GT30LTE35  | GT 30 LTE 35  |
+| GT35LTE40  | GT 35 LTE 40  |
+| GT20LTE25  | GT 20 LTE 25  |
+| GT50LTE55  | GT 50 LTE 55  |

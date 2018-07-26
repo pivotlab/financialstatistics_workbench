@@ -1,0 +1,93 @@
+# Residual Term To Maturity Dimension
+
+## identifier
+dm391
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the residual term to maturity.
+
+## codes
+| Code                          | Description                         |
+| ----------------------------- | ----------------------------------- |
+| LT1Y                          | LT1Y                                |
+| GTE1Y                         | GTE1Y                               |
+| GT10YLTE15Y                   | GT10YLTE15Y                         |
+| GT20Y                         | GT20Y                               |
+| GT15YLTE20Y                   | GT15YLTE20Y                         |
+| GT24M                         | GT24M                               |
+| GT6MLTE24M                    | GT6MLTE24M                          |
+| LTE6M                         | LTE6M                               |
+| LTE3M                         | LTE3M                               |
+| GT5Y                          | GT5Y                                |
+| GT1YLTE5Y                     | GT1YLTE5Y                           |
+| GT1Y                          | GT1Y                                |
+| LTE1Y                         | LTE1Y                               |
+| GT4Y                          | Greater Than 4 Years                |
+| GT3M                          | GT3M                                |
+| GTE1YLT5Y                     | GTE1YLT5Y                           |
+| GTE5Y                         | GTE5Y                               |
+| NonInterestRateSensitive      | Non Interest Rate Sensitive         |
+| Unallocated                   | Unallocated                         |
+| GT2YLTE5Y                     | GT2YLTE5Y                           |
+| GT3MLTE12M                    | GT3MLTE12M                          |
+| NotApplicable                 | Not Applicable                      |
+| GT6MLTE7M                     | GT 6 M LTE 7 M                      |
+| GT10MLTE11M                   | GT 10 M LTE 11 M                    |
+| GT30D                         | GT 30 D                             |
+| LTE30D                        | LTE 30 D                            |
+| GT7YLTE10Y                    | GT 7 Y LTE 10 Y                     |
+| GT3YLTE4Y                     | GT 3 Y LTE 4 Y                      |
+| GT12MLTE15M                   | GT 12 M LTE 15 M                    |
+| GT11MLTE12M                   | GT 11 M LTE 12 M                    |
+| GT4YLTE5Y                     | GT 4 Y LTE 5 Y                      |
+| GT4MLTE5M                     | GT 4 M LTE 5 M                      |
+| GT15MLTE18M                   | GT 15 M LTE 18 M                    |
+| GT8MLTE9M                     | GT 8 M LTE 9 M                      |
+| GT1MLTE2M                     | GT 1 M LTE 2 M                      |
+| GT9MLTE10M                    | GT 9 M LTE 10 M                     |
+| GT18MLTE2Y                    | GT 18 M LTE 2 Y                     |
+| GT7MLTE8M                     | GT 7 M LTE 8 M                      |
+| GT3MLTE4M                     | GT 3 M LTE 4 M                      |
+| GT16DLTE1M                    | GT 16 DLTE 1 M                      |
+| GT5YLTE7Y                     | GT 5 Y LTE 7 Y                      |
+| GT10Y                         | GT 10 Y                             |
+| GT5MLTE6M                     | GT 5 M LTE 6 M                      |
+| GT30DLTE90D                   | GT 30 DLTE 90 D                     |
+| GT90DLTE1Y                    | GT 90 DLTE 1 Y                      |
+| GT12MLTE3Y                    | GT 12 MLTE 3 Y                      |
+| GTE6MLT12M                    | GTE 6M LT 12M                       |
+| LT6M                          | LT 6 M                              |
+| AtCallOrOvernight             | At Call Or Overnight                |
+| GTE2MLTE3M                    | GTE 2 MLTE 3 M                      |
+| GTE8DLTE15D                   | GTE 8 DLTE 15 D                     |
+| GTE31DLTE2M                   | GTE 31 DLTE 2 M                     |
+| GTE1DLTE7D                    | GTE 1 DLTE 7 D                      |
+| GTE16DLTE30D                  | GTE 16 DLTE 30 D                    |
+| GTE3MLT6M                     | GTE 3 MLT 6 M                       |
+| GTE5YLT10Y                    | GTE 5 YLT 10 Y                      |
+| GTE3YLT5Y                     | GTE 3 YLT 5 Y                       |
+| GTE12MLT2Y                    | GTE 12 M LT 2 Y                     |
+| GTE10YOrNoContractualMaturity | GTE 10 Y Or No Contractual Maturity |
+| GTE2YLT3Y                     | GTE 2 Y LT 3 Y                      |
+| LTE1Day                       | LTE 1 Day                           |
+| E1M                           | E 1 M                               |
+| GT3YLTE5Y                     | GT 3 YLTE 5 Y                       |
+| E6M                           | E 6 M                               |
+| GT3Y                          | GT 3 Y                              |
+| Undefined                     | Undefined                           |
+| GT3MLTE1Y                     | GT 3 MLTE 1 Y                       |
+| GT1MLTE3M                     | GT 1 MLTE 3 M                       |
+| GT3MLTE6M                     | GT 3 MLTE 6 M                       |
+| GT1DayLTE1M                   | GT 1 Day LTE 1 M                    |
+| LTE1M                         | LTE 1 M                             |
+| GT1YLTE2Y                     | GT 1 YLTE 2 Y                       |
+| E3M                           | E 3 M                               |
+| GT2YLTE3Y                     | GT 2 YLTE 3 Y                       |
+| GT6MLTE12M                    | GT 6 MLTE 12 M                      |
+| E3Y                           | E 3 Y                               |
+| E1Y                           | E 1 Y                               |
+| E5Y                           | E 5 Y                               |
+| GT5YLTE10Y                    | GT 5 YLTE 10 Y                      |

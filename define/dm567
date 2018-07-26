@@ -1,0 +1,16 @@
+# Assets Subject To Concentration Risk Charge Dimension
+
+## identifier
+dm567
+
+## type
+string
+
+## definition
+This dimension identifies whether or not the item reported is net of assets in excess of the asset concentration limits, as determined in accordance with relevant prudential standards.
+
+## codes
+| Code  | Description |
+| ----- | ----------- |
+| Net   | Net   |
+| Gross | Gross |

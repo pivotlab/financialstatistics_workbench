@@ -1,0 +1,19 @@
+# Reporting Date Offset
+
+## identifier
+dm342
+
+## type
+string
+
+## definition
+This dimension is used to report information based on an offset period relative to the reporting date.
+
+## codes
+| Code       | Description  |
+| ---------- | ------------ |
+| RDMinus12M | RD Minus 12M |
+| RDMinus18M | RD Minus 18M |
+| RDMinus24M | RD Minus 24M |
+| RDMinus30M | RD Minus 30M |
+| RDMinus6M  | RD Minus 6M  |

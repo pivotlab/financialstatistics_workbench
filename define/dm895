@@ -1,0 +1,19 @@
+# ASF Factor Dimension
+
+## identifier
+dm895
+
+## type
+string
+
+## definition
+This dimension is used to categorise the reported information based on the assigned available stable funding (ASF) factor in accordance with Prudential Standard APS 210 - Liquidity.
+
+## codes
+| Code              | Description         |
+| ----------------- | ------------------- |
+| ZeroPercent       | Zero Percent        |
+| FiftyPercent      | Fifty Percent       |
+| NinetyPercent     | Ninety Percent      |
+| NinetyFivePercent | Ninety Five Percent |
+| OneHundredPercent | One Hundred Percent |

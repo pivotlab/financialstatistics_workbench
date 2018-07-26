@@ -1,0 +1,30 @@
+# Deposit Balance Dimension
+
+## identifier
+dm918
+
+## type
+string
+
+## definition
+This dimension categorises the reported information by the deposit balance bands applicable to each respective deposit account.
+
+## codes
+| Code                                      | Description                                     |
+| ----------------------------------------- | ----------------------------------------------- |
+| GreaterThan50LessThanEqual1000            | Greater Than 50 Less Than Equal 1000            |
+| GreaterThan250000                         | Greater Than 250000                             |
+| GreaterThan1000LessThanEqual25000         | Greater Than 1000 Less Than Equal 25000         |
+| GreaterThan100000LessThanEqual250000      | Greater Than 100000 Less Than Equal 250000      |
+| GreaterThan25000LessThanEqual100000       | Greater Than 25000 Less Than Equal 100000       |
+| GreaterThan500000LessThanEqual1000000     | Greater Than 500000 Less Than Equal 1000000     |
+| GreaterThan0                              | Greater Than 0                                  |
+| GreaterThan10000000LessThanEqual100000000 | Greater Than 10000000 Less Than Equal 100000000 |
+| GreaterThan250000LessThanEqual500000      | Greater Than 250000 Less Than Equal 500000      |
+| GreaterThan50LessThanEqual25000           | Greater Than 50 Less Than Equal 25000           |
+| GreaterThan25000LessThanEqual250000       | Greater Than 25000 Less Than Equal 250000       |
+| GreaterThan500000                         | Greater Than 500000                             |
+| GreaterThan1000000LessThanEqual10000000   | Greater Than 1000000 Less Than Equal 10000000   |
+| GreaterThan100000000                      | Greater Than 100000000                          |
+| GreaterThan0LessThanEqual50               | Greater Than 0 Less Than Equal 50               |
+| GreaterThanEqual10000000                  | Greater Than Equal 10000000                     |

@@ -1,0 +1,16 @@
+# Investment Linked Dimension
+
+## identifier
+dm542
+
+## type
+string
+
+## definition
+This dimension categorises the reported information by assets supporting investment linked liabilities, where the value of the policy liabilities moves in harmony with the value of the supporting assets.
+
+## codes
+| Code          | Description    |
+| ------------- | -------------- |
+| Supporting    | Supporting     |
+| NotSupporting | Not Supporting |

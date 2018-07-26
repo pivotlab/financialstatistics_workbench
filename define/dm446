@@ -1,0 +1,17 @@
+# Policy Transaction Type
+
+## identifier
+dm446
+
+## type
+string
+
+## definition
+This dimension categorises reported information based on the policy transaction type.
+
+## codes
+| Code                  | Description               |
+| --------------------- | ------------------------- |
+| AdjustmentEndorsement | Adjustment or Endorsement |
+| Cancellation          | Cancellation              |
+| NewRenewal            | New or Renewal            |

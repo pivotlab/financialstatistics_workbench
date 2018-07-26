@@ -1,0 +1,21 @@
+# Market Exposure Type Dimension
+
+## identifier
+dm682
+
+## type
+string
+
+## definition
+This dimension categorises information based on the type of the market exposure.
+
+## codes
+| Code              | Description         |
+| ----------------- | ------------------- |
+| BoughtOrPurchased | Bought Or Purchased |
+| WrittenOrSold     | Written Or Sold     |
+| Neutral           | Neutral             |
+| VariableBias      | Variable Bias       |
+| LongBias          | Long Bias           |
+| ShortBias         | Short Bias          |
+| Multiple          | Multiple            |

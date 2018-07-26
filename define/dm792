@@ -1,0 +1,17 @@
+# Hospital And Hospital Substitute Treatment Types Dimension
+
+## identifier
+dm792
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the type of hospital treatment or hospital substitute treatment provided.
+
+## codes
+| Code            | Description      |
+| --------------- | ---------------- |
+| Other           | Other            |
+| Prosthetics     | Prosthetics      |
+| MedicalServices | Medical Services |

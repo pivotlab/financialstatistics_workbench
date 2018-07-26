@@ -1,0 +1,17 @@
+# Fair Value Hierarchy Dimension
+
+## identifier
+dm535
+
+## type
+string
+
+## definition
+This dimension categorises the reported information based on the method used in calculating the Fair Value Hierarchy, as determined in accordance with relevant accounting standards.
+
+## codes
+| Code                                 | Description                               |
+| ------------------------------------ | ----------------------------------------- |
+| Level3SignificantNonObservableInputs | Level 3 Significant Non Observable Inputs |
+| Level2ObservableInputs               | Level 2 Observable Inputs                 |
+| Level1QuotedMarketPrices             | Level 1 Quoted Market Prices              |

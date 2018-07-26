@@ -1,0 +1,31 @@
+# Investment Risk Capital Factor Underlying Assets
+
+## identifier
+dm417
+
+## type
+string
+
+## definition
+This dimension is used to categorise the reported information based on investment risk capital factors applicable to the underlying assets, as determined in accordance with prudential standards.
+
+## codes
+| Code          | Description                                  |
+| ------------- | -------------------------------------------- |
+| EightPct      | Items with Investment Capital Factor of 8%   |
+| FortyPct      | Items with Investment Capital Factor of 40%  |
+| FourPct       | Items with Investment Capital Factor of 4%   |
+| HalfPct       | Items with Investment Capital Factor of 0.5% |
+| NinePct       | Items with Investment Capital Factor of 9%   |
+| NotZero100    | Not 0% or 100%                               |
+| OneHundredPct | One Hundred Pct                              |
+| OnePct        | Items with Investment Capital Factor of 1%   |
+| SixPct        | Items with Investment Capital Factor of 6%   |
+| SixteenPct    | Items with Investment Capital Factor of 16%  |
+| SixtyPct      | Sixty Pct                                    |
+| TenPct        | Items with Investment Capital Factor of 10%  |
+| ThreePct      | Items with Investment Capital Factor of 3%   |
+| TwelvePct     | Items with Investment Capital Factor of 12%  |
+| TwentyPct     | Items with Investment Capital Factor of 20%  |
+| TwoPct        | Items with Investment Capital Factor of 2%   |
+| ZeroPct       | Items with Investment Capital Factor of 0%   |

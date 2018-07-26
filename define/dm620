@@ -1,0 +1,16 @@
+# Insurance Arrange Type By Member Coverage Dimension
+
+## identifier
+dm620
+
+## type
+string
+
+## definition
+This dimension classifies the types of insurance arrangement by member coverage.
+
+## codes
+| Code                | Description          |
+| ------------------- | -------------------- |
+| IndividualInsurance | Individual Insurance |
+| GroupInsurance      | Group Insurance      |

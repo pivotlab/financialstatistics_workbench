@@ -1,0 +1,16 @@
+# Employer Sponsorship Type Dimension
+
+## identifier
+dm617
+
+## type
+string
+
+## definition
+This dimension classifies information based on the types of the employer sponsorship reported.
+
+## codes
+| Code                       | Description                   |
+| -------------------------- | ----------------------------- |
+| StandardEmployerSponsor    | Standard Employer Sponsor     |
+| NonStandardEmployerSponsor | Non Standard Employer Sponsor |

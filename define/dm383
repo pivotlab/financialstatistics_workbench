@@ -1,0 +1,17 @@
+# Draw Down Notice
+
+## identifier
+dm383
+
+## type
+string
+
+## definition
+This dimension categorises reported information in relation to the timeframe for which the drawer must provide notice to the drawee of it's intention to draw down from a facility, before the funds are advanced.
+
+## codes
+| Code                     | Description                   |
+| ------------------------ | ----------------------------- |
+| MoreThanFiveDaysDrawDown | More Than Five Days Draw Down |
+| SameDayDrawDown          | Same Day Draw Down            |
+| TwoToFiveDayDrawDown     | Two To Five Day Draw Down     |

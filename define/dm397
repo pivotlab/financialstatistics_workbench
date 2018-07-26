@@ -1,0 +1,29 @@
+# Investment Channel Dimension
+
+## identifier
+dm397
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the channel or medium through which investments are made.
+
+## codes
+| Code                            | Description                        |
+| ------------------------------- | ---------------------------------- |
+| RecognisedExchange              | Recognised Exchange                |
+| NotRecognisedExchange           | Not Recognised Exchange            |
+| ASX200                          | Australian Stock Exchange 200      |
+| NonASX200                       | Non ASX 200                        |
+| NotApplicable                   | Not Applicable                     |
+| ASXListedFund                   | ASX Listed Fund                    |
+| ForeignExchangeListed           | Foreign Exchange Listed            |
+| OtherAustralianExchangeListed   | Other Australian Exchange Listed   |
+| NonASXListedFund                | Non ASX Listed Fund                |
+| AustralianUnlisted              | Australian Unlisted                |
+| ForeignUnlisted                 | Foreign Unlisted                   |
+| OverTheCounterCleared           | Over The Counter Cleared           |
+| OverTheCounterNotCleared        | Over The Counter Not Cleared       |
+| AustralianSecuritiesExchange    | Australian Securities Exchange     |
+| NotAustralianSecuritiesExchange | Not Australian Securities Exchange |

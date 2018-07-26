@@ -1,0 +1,16 @@
+# Claims Status
+
+## identifier
+dm475
+
+## type
+string
+
+## definition
+This dimension categorises information based on the approval status of the claims.
+
+## codes
+| Code        | Description  |
+| ----------- | ------------ |
+| Approved    | Approved     |
+| NotApproved | Not Approved |

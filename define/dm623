@@ -1,0 +1,515 @@
+# Superannuation Reporting Level Dimension
+
+## identifier
+dm623
+
+## type
+string
+
+## definition
+This dimension identifies the relevant superannuation reporting levels applicable. The reporting levels are defined as per the Superannuation Reporting Standards which can be found at http://www.apra.gov.au/Super/ReportingFramework/Pages/Super-reporting.aspx
+
+## codes
+| Code                      | Description                  |
+| ------------------------- | ---------------------------- |
+| InvestmentOption189       | Investment Option 189        |
+| InvestmentOption14        | Investment Option 14         |
+| DefinedBenefitSubFund39   | Defined Benefit Sub Fund 39  |
+| InvestmentOption52        | Investment Option 52         |
+| MySuperInvestmentOption37 | MySuper Investment Option 37 |
+| InvestmentOption8         | Investment Option 8          |
+| DefinedBenefitSubFund46   | Defined Benefit Sub Fund 46  |
+| InvestmentOption182       | Investment Option 182        |
+| InvestmentOption48        | Investment Option 48         |
+| MySuperInvestmentOption40 | MySuper Investment Option 40 |
+| DefinedBenefitSubFund37   | Defined Benefit Sub Fund 37  |
+| MySuperInvestmentOption41 | MySuper Investment Option 41 |
+| InvestmentOption171       | Investment Option 171        |
+| InvestmentOption45        | Investment Option 45         |
+| MySuperInvestmentOption48 | MySuper Investment Option 48 |
+| InvestmentOption20        | Investment Option 20         |
+| DefinedBenefitSubFund43   | Defined Benefit Sub Fund 43  |
+| InvestmentOption187       | Investment Option 187        |
+| InvestmentOption54        | Investment Option 54         |
+| InvestmentOption37        | Investment Option 37         |
+| InvestmentOption199       | Investment Option 199        |
+| DefinedBenefitSubFund34   | Defined Benefit Sub Fund 34  |
+| MySuperInvestmentOption47 | MySuper Investment Option 47 |
+| InvestmentOption175       | Investment Option 175        |
+| DefinedBenefitSubFund40   | Defined Benefit Sub Fund 40  |
+| InvestmentOption18        | Investment Option 18         |
+| InvestmentOption30        | Investment Option 30         |
+| DefinedBenefitSubFund38   | Defined Benefit Sub Fund 38  |
+| MySuperInvestmentOption49 | MySuper Investment Option 49 |
+| InvestmentOption198       | Investment Option 198        |
+| InvestmentOption31        | Investment Option 31         |
+| MySuperInvestmentOption46 | MySuper Investment Option 46 |
+| DefinedBenefitSubFund31   | Defined Benefit Sub Fund 31  |
+| InvestmentOption34        | Investment Option 34         |
+| MySuperInvestmentOption44 | MySuper Investment Option 44 |
+| DefinedBenefitSubFund49   | Defined Benefit Sub Fund 49  |
+| InvestmentOption188       | Investment Option 188        |
+| MySuperInvestmentOption42 | MySuper Investment Option 42 |
+| InvestmentOption24        | Investment Option 24         |
+| DefinedBenefitSubFund32   | Defined Benefit Sub Fund 32  |
+| InvestmentOption185       | Investment Option 185        |
+| InvestmentOption173       | Investment Option 173        |
+| InvestmentOption40        | Investment Option 40         |
+| DefinedBenefitSubFund132  | Defined Benefit Sub Fund 132 |
+| MySuperInvestmentOption50 | MySuper Investment Option 50 |
+| DefinedBenefitSubFund36   | Defined Benefit Sub Fund 36  |
+| InvestmentOption178       | Investment Option 178        |
+| DefinedBenefitSubFund41   | Defined Benefit Sub Fund 41  |
+| MySuperInvestmentOption43 | MySuper Investment Option 43 |
+| InvestmentOption36        | Investment Option 36         |
+| InvestmentOption179       | Investment Option 179        |
+| DefinedBenefitSubFund45   | Defined Benefit Sub Fund 45  |
+| DefinedBenefitSubFund148  | Defined Benefit Sub Fund 148 |
+| MySuperInvestmentOption45 | MySuper Investment Option 45 |
+| InvestmentOption27        | Investment Option 27         |
+| DefinedBenefitSubFund35   | Defined Benefit Sub Fund 35  |
+| DefinedBenefitSubFund136  | Defined Benefit Sub Fund 136 |
+| MySuperInvestmentOption38 | MySuper Investment Option 38 |
+| MySuperProduct1           | MySuper Product 1            |
+| InvestmentOption38        | Investment Option 38         |
+| MySuperInvestmentOption39 | MySuper Investment Option 39 |
+| DefinedBenefitSubFund48   | Defined Benefit Sub Fund 48  |
+| InvestmentOption25        | Investment Option 25         |
+| DefinedBenefitSubFund134  | Defined Benefit Sub Fund 134 |
+| InvestmentOption195       | Investment Option 195        |
+| DefinedBenefitSubFund133  | Defined Benefit Sub Fund 133 |
+| InvestmentOption28        | Investment Option 28         |
+| InvestmentOption176       | Investment Option 176        |
+| InvestmentOption16        | Investment Option 16         |
+| DefinedBenefitSubFund66   | Defined Benefit Sub Fund 66  |
+| MySuperInvestmentOption34 | MySuper Investment Option 34 |
+| InvestmentOption165       | Investment Option 165        |
+| DefinedBenefitSubFund1    | Defined Benefit Sub Fund 1   |
+| InvestmentOption35        | Investment Option 35         |
+| DefinedBenefitSubFund56   | Defined Benefit Sub Fund 56  |
+| InvestmentOption155       | Investment Option 155        |
+| MySuperInvestmentOption35 | MySuper Investment Option 35 |
+| MySuperProduct2           | MySuper Product 2            |
+| InvestmentOption22        | Investment Option 22         |
+| DefinedBenefitSubFund54   | Defined Benefit Sub Fund 54  |
+| InvestmentOption183       | Investment Option 183        |
+| InvestmentOption2         | Investment Option 2          |
+| InvestmentOption9         | Investment Option 9          |
+| InvestmentOption29        | Investment Option 29         |
+| InvestmentOption172       | Investment Option 172        |
+| MySuperInvestmentOption27 | MySuper Investment Option 27 |
+| InvestmentOption7         | Investment Option 7          |
+| DefinedBenefitSubFund67   | Defined Benefit Sub Fund 67  |
+| InvestmentOption156       | Investment Option 156        |
+| InvestmentOption33        | Investment Option 33         |
+| MySuperInvestmentOption32 | MySuper Investment Option 32 |
+| InvestmentOption13        | Investment Option 13         |
+| DefinedBenefitSubFund47   | Defined Benefit Sub Fund 47  |
+| InvestmentOption32        | Investment Option 32         |
+| MySuperInvestmentOption21 | MySuper Investment Option 21 |
+| DefinedBenefitSubFund33   | Defined Benefit Sub Fund 33  |
+| InvestmentOption12        | Investment Option 12         |
+| FundOrTrustee             | Fund Or Trustee              |
+| InvestmentOption162       | Investment Option 162        |
+| InvestmentOption3         | Investment Option 3          |
+| DefinedBenefitSubFund44   | Defined Benefit Sub Fund 44  |
+| InvestmentOption23        | Investment Option 23         |
+| MySuperInvestmentOption33 | MySuper Investment Option 33 |
+| InvestmentOption1         | Investment Option 1          |
+| InvestmentOption10        | Investment Option 10         |
+| InvestmentOption164       | Investment Option 164        |
+| MySuperInvestmentOption31 | MySuper Investment Option 31 |
+| InvestmentOption39        | Investment Option 39         |
+| InvestmentOption170       | Investment Option 170        |
+| DefinedBenefitSubFund58   | Defined Benefit Sub Fund 58  |
+| InvestmentOption4         | Investment Option 4          |
+| MySuperInvestmentOption30 | MySuper Investment Option 30 |
+| InvestmentOption160       | Investment Option 160        |
+| InvestmentOption11        | Investment Option 11         |
+| DefinedBenefitSubFund60   | Defined Benefit Sub Fund 60  |
+| MySuperInvestmentOption29 | MySuper Investment Option 29 |
+| DefinedBenefitSubFund52   | Defined Benefit Sub Fund 52  |
+| InvestmentOption151       | Investment Option 151        |
+| MySuperInvestmentOption22 | MySuper Investment Option 22 |
+| DefinedBenefitSubFund63   | Defined Benefit Sub Fund 63  |
+| InvestmentOption163       | Investment Option 163        |
+| InvestmentOption6         | Investment Option 6          |
+| InvestmentOption26        | Investment Option 26         |
+| InvestmentOption17        | Investment Option 17         |
+| MySuperInvestmentOption23 | MySuper Investment Option 23 |
+| InvestmentOption169       | Investment Option 169        |
+| MySuperInvestmentOption24 | MySuper Investment Option 24 |
+| InvestmentOption19        | Investment Option 19         |
+| DefinedBenefitSubFund51   | Defined Benefit Sub Fund 51  |
+| InvestmentOption153       | Investment Option 153        |
+| MySuperInvestmentOption25 | MySuper Investment Option 25 |
+| InvestmentOption5         | Investment Option 5          |
+| InvestmentOption167       | Investment Option 167        |
+| DefinedBenefitSubFund70   | Defined Benefit Sub Fund 70  |
+| InvestmentOption161       | Investment Option 161        |
+| InvestmentOption15        | Investment Option 15         |
+| DefinedBenefitSubFund68   | Defined Benefit Sub Fund 68  |
+| MySuperInvestmentOption26 | MySuper Investment Option 26 |
+| DefinedBenefitSubFund128  | Defined Benefit Sub Fund 128 |
+| DefinedBenefitSubFund7    | Defined Benefit Sub Fund 7   |
+| InvestmentOption203       | Investment Option 203        |
+| DefinedBenefitSubFund129  | Defined Benefit Sub Fund 129 |
+| DefinedBenefitSubFund131  | Defined Benefit Sub Fund 131 |
+| DefinedBenefitSubFund20   | Defined Benefit Sub Fund 20  |
+| InvestmentOption204       | Investment Option 204        |
+| DefinedBenefitSubFund141  | Defined Benefit Sub Fund 141 |
+| InvestmentOption202       | Investment Option 202        |
+| DefinedBenefitSubFund14   | Defined Benefit Sub Fund 14  |
+| DefinedBenefitSubFund3    | Defined Benefit Sub Fund 3   |
+| InvestmentOption207       | Investment Option 207        |
+| DefinedBenefitSubFund127  | Defined Benefit Sub Fund 127 |
+| DefinedBenefitSubFund15   | Defined Benefit Sub Fund 15  |
+| InvestmentOption218       | Investment Option 218        |
+| DefinedBenefitSubFund113  | Defined Benefit Sub Fund 113 |
+| InvestmentOption215       | Investment Option 215        |
+| DefinedBenefitSubFund13   | Defined Benefit Sub Fund 13  |
+| DefinedBenefitSubFund114  | Defined Benefit Sub Fund 114 |
+| InvestmentOption209       | Investment Option 209        |
+| DefinedBenefitSubFund8    | Defined Benefit Sub Fund 8   |
+| InvestmentOption217       | Investment Option 217        |
+| DefinedBenefitSubFund120  | Defined Benefit Sub Fund 120 |
+| DefinedBenefitSubFund17   | Defined Benefit Sub Fund 17  |
+| DefinedBenefitSubFund118  | Defined Benefit Sub Fund 118 |
+| InvestmentOption216       | Investment Option 216        |
+| InvestmentOption211       | Investment Option 211        |
+| DefinedBenefitSubFund6    | Defined Benefit Sub Fund 6   |
+| DefinedBenefitSubFund116  | Defined Benefit Sub Fund 116 |
+| DefinedBenefitSubFund10   | Defined Benefit Sub Fund 10  |
+| DefinedBenefitSubFund111  | Defined Benefit Sub Fund 111 |
+| InvestmentOption219       | Investment Option 219        |
+| DefinedBenefitSubFund126  | Defined Benefit Sub Fund 126 |
+| DefinedBenefitSubFund4    | Defined Benefit Sub Fund 4   |
+| InvestmentOption206       | Investment Option 206        |
+| DefinedBenefitSubFund9    | Defined Benefit Sub Fund 9   |
+| DefinedBenefitSubFund125  | Defined Benefit Sub Fund 125 |
+| InvestmentOption213       | Investment Option 213        |
+| DefinedBenefitSubFund5    | Defined Benefit Sub Fund 5   |
+| InvestmentOption210       | Investment Option 210        |
+| DefinedBenefitSubFund124  | Defined Benefit Sub Fund 124 |
+| DefinedBenefitSubFund2    | Defined Benefit Sub Fund 2   |
+| DefinedBenefitSubFund25   | Defined Benefit Sub Fund 25  |
+| InvestmentOption191       | Investment Option 191        |
+| DefinedBenefitSubFund26   | Defined Benefit Sub Fund 26  |
+| InvestmentOption193       | Investment Option 193        |
+| DefinedBenefitSubFund142  | Defined Benefit Sub Fund 142 |
+| InvestmentOption200       | Investment Option 200        |
+| DefinedBenefitSubFund137  | Defined Benefit Sub Fund 137 |
+| DefinedBenefitSubFund143  | Defined Benefit Sub Fund 143 |
+| DefinedBenefitSubFund23   | Defined Benefit Sub Fund 23  |
+| DefinedBenefitSubFund147  | Defined Benefit Sub Fund 147 |
+| InvestmentOption181       | Investment Option 181        |
+| DefinedBenefitSubFund16   | Defined Benefit Sub Fund 16  |
+| DefinedBenefitSubFund146  | Defined Benefit Sub Fund 146 |
+| InvestmentOption197       | Investment Option 197        |
+| DefinedBenefitSubFund11   | Defined Benefit Sub Fund 11  |
+| MySuperInvestmentOption36 | MySuper Investment Option 36 |
+| DefinedBenefitSubFund12   | Defined Benefit Sub Fund 12  |
+| InvestmentOption196       | Investment Option 196        |
+| DefinedBenefitSubFund138  | Defined Benefit Sub Fund 138 |
+| DefinedBenefitSubFund27   | Defined Benefit Sub Fund 27  |
+| InvestmentOption177       | Investment Option 177        |
+| DefinedBenefitSubFund130  | Defined Benefit Sub Fund 130 |
+| InvestmentOption190       | Investment Option 190        |
+| DefinedBenefitSubFund135  | Defined Benefit Sub Fund 135 |
+| DefinedBenefitSubFund28   | Defined Benefit Sub Fund 28  |
+| DefinedBenefitSubFund22   | Defined Benefit Sub Fund 22  |
+| InvestmentOption174       | Investment Option 174        |
+| DefinedBenefitSubFund42   | Defined Benefit Sub Fund 42  |
+| DefinedBenefitSubFund140  | Defined Benefit Sub Fund 140 |
+| InvestmentOption184       | Investment Option 184        |
+| InvestmentOption194       | Investment Option 194        |
+| DefinedBenefitSubFund145  | Defined Benefit Sub Fund 145 |
+| DefinedBenefitSubFund30   | Defined Benefit Sub Fund 30  |
+| DefinedBenefitSubFund150  | Defined Benefit Sub Fund 150 |
+| DefinedBenefitSubFund149  | Defined Benefit Sub Fund 149 |
+| InvestmentOption186       | Investment Option 186        |
+| DefinedBenefitSubFund21   | Defined Benefit Sub Fund 21  |
+| InvestmentOption180       | Investment Option 180        |
+| DefinedBenefitSubFund29   | Defined Benefit Sub Fund 29  |
+| DefinedBenefitSubFund144  | Defined Benefit Sub Fund 144 |
+| InvestmentOption192       | Investment Option 192        |
+| DefinedBenefitSubFund139  | Defined Benefit Sub Fund 139 |
+| DefinedBenefitSubFund24   | Defined Benefit Sub Fund 24  |
+| MySuperProduct21          | MySuper Product 21           |
+| InvestmentOption109       | Investment Option 109        |
+| InvestmentOption249       | Investment Option 249        |
+| DefinedBenefitSubFund95   | Defined Benefit Sub Fund 95  |
+| InvestmentOption78        | Investment Option 78         |
+| InvestmentOption101       | Investment Option 101        |
+| DefinedBenefitSubFund103  | Defined Benefit Sub Fund 103 |
+| MySuperProduct24          | MySuper Product 24           |
+| InvestmentOption79        | Investment Option 79         |
+| InvestmentOption232       | Investment Option 232        |
+| InvestmentOption125       | Investment Option 125        |
+| DefinedBenefitSubFund89   | Defined Benefit Sub Fund 89  |
+| MySuperProduct26          | MySuper Product 26           |
+| InvestmentOption84        | Investment Option 84         |
+| DefinedBenefitSubFund78   | Defined Benefit Sub Fund 78  |
+| InvestmentOption245       | Investment Option 245        |
+| MySuperProduct25          | MySuper Product 25           |
+| InvestmentOption99        | Investment Option 99         |
+| InvestmentOption93        | Investment Option 93         |
+| InvestmentOption224       | Investment Option 224        |
+| InvestmentOption144       | Investment Option 144        |
+| MySuperProduct22          | MySuper Product 22           |
+| InvestmentOption100       | Investment Option 100        |
+| InvestmentOption237       | Investment Option 237        |
+| InvestmentOption143       | Investment Option 143        |
+| MySuperProduct28          | MySuper Product 28           |
+| DefinedBenefitSubFund94   | Defined Benefit Sub Fund 94  |
+| InvestmentOption105       | Investment Option 105        |
+| MySuperProduct30          | MySuper Product 30           |
+| InvestmentOption227       | Investment Option 227        |
+| InvestmentOption130       | Investment Option 130        |
+| DefinedBenefitSubFund100  | Defined Benefit Sub Fund 100 |
+| InvestmentOption86        | Investment Option 86         |
+| DefinedBenefitSubFund110  | Defined Benefit Sub Fund 110 |
+| InvestmentOption230       | Investment Option 230        |
+| InvestmentOption135       | Investment Option 135        |
+| InvestmentOption88        | Investment Option 88         |
+| DefinedBenefitSubFund101  | Defined Benefit Sub Fund 101 |
+| MySuperProduct23          | MySuper Product 23           |
+| InvestmentOption117       | Investment Option 117        |
+| InvestmentOption235       | Investment Option 235        |
+| InvestmentOption81        | Investment Option 81         |
+| InvestmentOption114       | Investment Option 114        |
+| DefinedBenefitSubFund107  | Defined Benefit Sub Fund 107 |
+| MySuperProduct19          | MySuper Product 19           |
+| DefinedBenefitSubFund98   | Defined Benefit Sub Fund 98  |
+| MySuperProduct14          | MySuper Product 14           |
+| InvestmentOption241       | Investment Option 241        |
+| InvestmentOption82        | Investment Option 82         |
+| InvestmentOption87        | Investment Option 87         |
+| InvestmentOption107       | Investment Option 107        |
+| InvestmentOption242       | Investment Option 242        |
+| DefinedBenefitSubFund99   | Defined Benefit Sub Fund 99  |
+| MySuperProduct16          | MySuper Product 16           |
+| InvestmentOption115       | Investment Option 115        |
+| DefinedBenefitSubFund91   | Defined Benefit Sub Fund 91  |
+| MySuperProduct8           | MySuper Product 8            |
+| InvestmentOption229       | Investment Option 229        |
+| InvestmentOption91        | Investment Option 91         |
+| DefinedBenefitSubFund92   | Defined Benefit Sub Fund 92  |
+| MySuperProduct18          | MySuper Product 18           |
+| InvestmentOption120       | Investment Option 120        |
+| InvestmentOption90        | Investment Option 90         |
+| InvestmentOption250       | Investment Option 250        |
+| DefinedBenefitSubFund93   | Defined Benefit Sub Fund 93  |
+| MySuperProduct12          | MySuper Product 12           |
+| InvestmentOption223       | Investment Option 223        |
+| InvestmentOption123       | Investment Option 123        |
+| InvestmentOption247       | Investment Option 247        |
+| DefinedBenefitSubFund108  | Defined Benefit Sub Fund 108 |
+| MySuperProduct15          | MySuper Product 15           |
+| InvestmentOption110       | Investment Option 110        |
+| InvestmentOption97        | Investment Option 97         |
+| MySuperProduct13          | MySuper Product 13           |
+| DefinedBenefitSubFund105  | Defined Benefit Sub Fund 105 |
+| InvestmentOption212       | Investment Option 212        |
+| InvestmentOption95        | Investment Option 95         |
+| InvestmentOption214       | Investment Option 214        |
+| DefinedBenefitSubFund97   | Defined Benefit Sub Fund 97  |
+| InvestmentOption116       | Investment Option 116        |
+| InvestmentOption80        | Investment Option 80         |
+| InvestmentOption205       | Investment Option 205        |
+| InvestmentOption98        | Investment Option 98         |
+| MySuperProduct11          | MySuper Product 11           |
+| InvestmentOption106       | Investment Option 106        |
+| MySuperProduct9           | MySuper Product 9            |
+| DefinedBenefitSubFund96   | Defined Benefit Sub Fund 96  |
+| InvestmentOption94        | Investment Option 94         |
+| InvestmentOption220       | Investment Option 220        |
+| InvestmentOption118       | Investment Option 118        |
+| InvestmentOption83        | Investment Option 83         |
+| DefinedBenefitSubFund109  | Defined Benefit Sub Fund 109 |
+| InvestmentOption208       | Investment Option 208        |
+| MySuperProduct20          | MySuper Product 20           |
+| InvestmentOption102       | Investment Option 102        |
+| MySuperProduct10          | MySuper Product 10           |
+| InvestmentOption96        | Investment Option 96         |
+| InvestmentOption201       | Investment Option 201        |
+| InvestmentOption112       | Investment Option 112        |
+| DefinedBenefitSubFund104  | Defined Benefit Sub Fund 104 |
+| InvestmentOption122       | Investment Option 122        |
+| DefinedBenefitSubFund102  | Defined Benefit Sub Fund 102 |
+| MySuperProduct7           | MySuper Product 7            |
+| InvestmentOption240       | Investment Option 240        |
+| InvestmentOption121       | Investment Option 121        |
+| DefinedBenefitSubFund106  | Defined Benefit Sub Fund 106 |
+| InvestmentOption92        | Investment Option 92         |
+| MySuperProduct17          | MySuper Product 17           |
+| InvestmentOption72        | Investment Option 72         |
+| InvestmentOption124       | Investment Option 124        |
+| InvestmentOption238       | Investment Option 238        |
+| DefinedBenefitSubFund123  | Defined Benefit Sub Fund 123 |
+| MySuperProduct4           | MySuper Product 4            |
+| DefinedBenefitSubFund122  | Defined Benefit Sub Fund 122 |
+| InvestmentOption244       | Investment Option 244        |
+| InvestmentOption68        | Investment Option 68         |
+| DefinedBenefitSubFund121  | Defined Benefit Sub Fund 121 |
+| InvestmentOption113       | Investment Option 113        |
+| MySuperProduct3           | MySuper Product 3            |
+| InvestmentOption221       | Investment Option 221        |
+| InvestmentOption76        | Investment Option 76         |
+| InvestmentOption103       | Investment Option 103        |
+| InvestmentOption239       | Investment Option 239        |
+| InvestmentOption70        | Investment Option 70         |
+| MySuperProduct6           | MySuper Product 6            |
+| InvestmentOption231       | Investment Option 231        |
+| DefinedBenefitSubFund117  | Defined Benefit Sub Fund 117 |
+| InvestmentOption119       | Investment Option 119        |
+| InvestmentOption71        | Investment Option 71         |
+| DefinedBenefitSubFund112  | Defined Benefit Sub Fund 112 |
+| InvestmentOption233       | Investment Option 233        |
+| InvestmentOption104       | Investment Option 104        |
+| MySuperProduct5           | MySuper Product 5            |
+| InvestmentOption85        | Investment Option 85         |
+| InvestmentOption243       | Investment Option 243        |
+| DefinedBenefitSubFund119  | Defined Benefit Sub Fund 119 |
+| InvestmentOption111       | Investment Option 111        |
+| InvestmentOption89        | Investment Option 89         |
+| InvestmentOption228       | Investment Option 228        |
+| InvestmentOption108       | Investment Option 108        |
+| DefinedBenefitSubFund115  | Defined Benefit Sub Fund 115 |
+| InvestmentOption66        | Investment Option 66         |
+| DefinedBenefitSubFund19   | Defined Benefit Sub Fund 19  |
+| InvestmentOption157       | Investment Option 157        |
+| MySuperInvestmentOption9  | MySuper Investment Option 9  |
+| DefinedBenefitSubFund55   | Defined Benefit Sub Fund 55  |
+| InvestmentOption154       | Investment Option 154        |
+| InvestmentOption77        | Investment Option 77         |
+| DefinedBenefitSubFund62   | Defined Benefit Sub Fund 62  |
+| MySuperInvestmentOption19 | MySuper Investment Option 19 |
+| MySuperProduct49          | MySuper Product 49           |
+| InvestmentOption75        | Investment Option 75         |
+| InvestmentOption158       | Investment Option 158        |
+| MySuperInvestmentOption2  | MySuper Investment Option 2  |
+| DefinedBenefitSubFund18   | Defined Benefit Sub Fund 18  |
+| InvestmentOption74        | Investment Option 74         |
+| MySuperInvestmentOption13 | MySuper Investment Option 13 |
+| InvestmentOption166       | Investment Option 166        |
+| DefinedBenefitSubFund61   | Defined Benefit Sub Fund 61  |
+| MySuperInvestmentOption12 | MySuper Investment Option 12 |
+| InvestmentOption152       | Investment Option 152        |
+| DefinedBenefitSubFund64   | Defined Benefit Sub Fund 64  |
+| InvestmentOption67        | Investment Option 67         |
+| MySuperProduct50          | MySuper Product 50           |
+| MySuperInvestmentOption17 | MySuper Investment Option 17 |
+| DefinedBenefitSubFund69   | Defined Benefit Sub Fund 69  |
+| InvestmentOption61        | Investment Option 61         |
+| DefinedBenefitSubFund59   | Defined Benefit Sub Fund 59  |
+| InvestmentOption168       | Investment Option 168        |
+| MySuperInvestmentOption10 | MySuper Investment Option 10 |
+| InvestmentOption63        | Investment Option 63         |
+| MySuperProduct45          | MySuper Product 45           |
+| DefinedBenefitSubFund50   | Defined Benefit Sub Fund 50  |
+| InvestmentOption159       | Investment Option 159        |
+| MySuperProduct46          | MySuper Product 46           |
+| InvestmentOption21        | Investment Option 21         |
+| DefinedBenefitSubFund65   | Defined Benefit Sub Fund 65  |
+| MySuperInvestmentOption15 | MySuper Investment Option 15 |
+| InvestmentOption149       | Investment Option 149        |
+| MySuperProduct42          | MySuper Product 42           |
+| MySuperInvestmentOption1  | MySuper Investment Option 1  |
+| DefinedBenefitSubFund57   | Defined Benefit Sub Fund 57  |
+| MySuperProduct41          | MySuper Product 41           |
+| InvestmentOption129       | Investment Option 129        |
+| InvestmentOption69        | Investment Option 69         |
+| MySuperInvestmentOption3  | MySuper Investment Option 3  |
+| InvestmentOption148       | Investment Option 148        |
+| DefinedBenefitSubFund77   | Defined Benefit Sub Fund 77  |
+| MySuperProduct44          | MySuper Product 44           |
+| InvestmentOption56        | Investment Option 56         |
+| InvestmentOption150       | Investment Option 150        |
+| DefinedBenefitSubFund53   | Defined Benefit Sub Fund 53  |
+| MySuperProduct47          | MySuper Product 47           |
+| InvestmentOption49        | Investment Option 49         |
+| MySuperInvestmentOption7  | MySuper Investment Option 7  |
+| InvestmentOption62        | Investment Option 62         |
+| MySuperInvestmentOption28 | MySuper Investment Option 28 |
+| DefinedBenefitSubFund86   | Defined Benefit Sub Fund 86  |
+| InvestmentOption65        | Investment Option 65         |
+| InvestmentOption127       | Investment Option 127        |
+| MySuperInvestmentOption11 | MySuper Investment Option 11 |
+| MySuperProduct48          | MySuper Product 48           |
+| InvestmentOption64        | Investment Option 64         |
+| DefinedBenefitSubFund80   | Defined Benefit Sub Fund 80  |
+| InvestmentOption146       | Investment Option 146        |
+| MySuperInvestmentOption6  | MySuper Investment Option 6  |
+| InvestmentOption73        | Investment Option 73         |
+| MySuperProduct43          | MySuper Product 43           |
+| InvestmentOption131       | Investment Option 131        |
+| DefinedBenefitSubFund75   | Defined Benefit Sub Fund 75  |
+| MySuperProduct40          | MySuper Product 40           |
+| InvestmentOption133       | Investment Option 133        |
+| DefinedBenefitSubFund71   | Defined Benefit Sub Fund 71  |
+| InvestmentOption140       | Investment Option 140        |
+| InvestmentOption248       | Investment Option 248        |
+| MySuperProduct35          | MySuper Product 35           |
+| InvestmentOption53        | Investment Option 53         |
+| DefinedBenefitSubFund76   | Defined Benefit Sub Fund 76  |
+| InvestmentOption137       | Investment Option 137        |
+| InvestmentOption55        | Investment Option 55         |
+| MySuperProduct37          | MySuper Product 37           |
+| DefinedBenefitSubFund79   | Defined Benefit Sub Fund 79  |
+| InvestmentOption234       | Investment Option 234        |
+| InvestmentOption58        | Investment Option 58         |
+| MySuperProduct39          | MySuper Product 39           |
+| InvestmentOption225       | Investment Option 225        |
+| InvestmentOption141       | Investment Option 141        |
+| DefinedBenefitSubFund87   | Defined Benefit Sub Fund 87  |
+| InvestmentOption226       | Investment Option 226        |
+| InvestmentOption41        | Investment Option 41         |
+| DefinedBenefitSubFund82   | Defined Benefit Sub Fund 82  |
+| InvestmentOption139       | Investment Option 139        |
+| InvestmentOption43        | Investment Option 43         |
+| InvestmentOption236       | Investment Option 236        |
+| InvestmentOption138       | Investment Option 138        |
+| MySuperProduct38          | MySuper Product 38           |
+| InvestmentOption246       | Investment Option 246        |
+| DefinedBenefitSubFund85   | Defined Benefit Sub Fund 85  |
+| MySuperProduct34          | MySuper Product 34           |
+| InvestmentOption60        | Investment Option 60         |
+| InvestmentOption222       | Investment Option 222        |
+| InvestmentOption142       | Investment Option 142        |
+| DefinedBenefitSubFund90   | Defined Benefit Sub Fund 90  |
+| MySuperProduct36          | MySuper Product 36           |
+| InvestmentOption46        | Investment Option 46         |
+| InvestmentOption42        | Investment Option 42         |
+| MySuperInvestmentOption5  | MySuper Investment Option 5  |
+| InvestmentOption128       | Investment Option 128        |
+| DefinedBenefitSubFund83   | Defined Benefit Sub Fund 83  |
+| MySuperProduct32          | MySuper Product 32           |
+| InvestmentOption59        | Investment Option 59         |
+| InvestmentOption147       | Investment Option 147        |
+| DefinedBenefitSubFund88   | Defined Benefit Sub Fund 88  |
+| MySuperInvestmentOption16 | MySuper Investment Option 16 |
+| DefinedBenefitSubFund72   | Defined Benefit Sub Fund 72  |
+| InvestmentOption132       | Investment Option 132        |
+| InvestmentOption51        | Investment Option 51         |
+| MySuperProduct31          | MySuper Product 31           |
+| DefinedBenefitSubFund84   | Defined Benefit Sub Fund 84  |
+| MySuperInvestmentOption20 | MySuper Investment Option 20 |
+| InvestmentOption136       | Investment Option 136        |
+| DefinedBenefitSubFund73   | Defined Benefit Sub Fund 73  |
+| InvestmentOption145       | Investment Option 145        |
+| MySuperInvestmentOption8  | MySuper Investment Option 8  |
+| MySuperProduct27          | MySuper Product 27           |
+| InvestmentOption50        | Investment Option 50         |
+| DefinedBenefitSubFund74   | Defined Benefit Sub Fund 74  |
+| InvestmentOption134       | Investment Option 134        |
+| MySuperInvestmentOption4  | MySuper Investment Option 4  |
+| InvestmentOption44        | Investment Option 44         |
+| InvestmentOption57        | Investment Option 57         |
+| InvestmentOption126       | Investment Option 126        |
+| MySuperProduct29          | MySuper Product 29           |
+| MySuperInvestmentOption14 | MySuper Investment Option 14 |
+| InvestmentOption47        | Investment Option 47         |
+| MySuperProduct33          | MySuper Product 33           |
+| MySuperInvestmentOption18 | MySuper Investment Option 18 |
+| DefinedBenefitSubFund81   | Defined Benefit Sub Fund 81  |

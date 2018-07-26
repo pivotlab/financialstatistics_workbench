@@ -1,0 +1,16 @@
+# Interest Payment Status Dimension
+
+## identifier
+dm937
+
+## type
+string
+
+## definition
+The information provided relates to the status of the interest payment.
+
+## codes
+| Code      | Description |
+| --------- | ----------- |
+| PrePaid   | Pre Paid   |
+| InArrears | In Arrears |

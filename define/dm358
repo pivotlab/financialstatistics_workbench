@@ -1,0 +1,16 @@
+# Jurisdiction Dimension
+
+## identifier
+dm358
+
+## type
+string
+
+## definition
+This dimension is used to categorise reported information according to the jurisdictional reach to which that information relates.
+
+## codes
+| Code       | Description |
+| ---------- | ----------- |
+| Australian | Australian |
+| Foreign    | Foreign    |

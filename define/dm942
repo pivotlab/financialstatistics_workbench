@@ -1,0 +1,19 @@
+# Reinvestment Instrument Type Dimension
+
+## identifier
+dm942
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the reinvestment instrument type used.
+
+## codes
+| Code                       | Description                   |
+| -------------------------- | ----------------------------- |
+| OtherCommingledPools       | Other Commingled Pools        |
+| DirectPurchaseOfSecurities | Direct Purchase Of Securities |
+| MoneyMarketInvestmentFunds | Money Market Investment Funds |
+| OtherAssets                | Other Assets                  |
+| RepoMarket                 | Repo Market                   |

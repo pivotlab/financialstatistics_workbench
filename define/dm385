@@ -1,0 +1,24 @@
+# Global Industry Classification Standard
+
+## identifier
+dm385
+
+## type
+string
+
+## definition
+This dimension categorises the reported information according to the Global Industry Classification Standard that has been introduced by Standard and Poor's and Morgan Stanley Capital International, with the objective of facilitating a uniform classification of companies around the world according to the type of business operations performed.
+
+## codes
+| Code                  | Description                          |
+| --------------------- | ------------------------------------ |
+| ConsumerDiscretionary | Consumer Discretionary               |
+| ConsumerStaples       | Consumer Staples                     |
+| Energy                | Energy                               |
+| Financials            | Financials Excluding Property Trusts |
+| HealthCare            | Health Care                          |
+| Industrials           | Industrials                          |
+| IT                    | Information Technology               |
+| Materials             | Materials                            |
+| Telecomms             | Telecommunication Services           |
+| Utilities             | Utilities                            |

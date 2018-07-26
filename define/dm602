@@ -1,0 +1,22 @@
+# Members Benefit Range Dimension
+
+## identifier
+dm602
+
+## type
+string
+
+## definition
+This dimension represents a segmentation of data based on the total liability for member benefits owing to defined contribution members and defined benefit members.
+
+## codes
+| Code                   | Description               |
+| ---------------------- | ------------------------- |
+| Between200000And499999 | Between 200000 And 499999 |
+| Between1000And24999    | Between 1000 And 24999    |
+| Between25000And49999   | Between 25000 And 49999   |
+| Between100000And199999 | Between 100000 And 199999 |
+| GreaterThan999999      | Greater Than 999999       |
+| LessThan1000           | Less Than 1000            |
+| Between50000And99999   | Between 50000 And 99999   |
+| Between500000And999999 | Between 500000 And 999999 |

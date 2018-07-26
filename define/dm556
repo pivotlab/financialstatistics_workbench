@@ -1,0 +1,18 @@
+# Probabilistic Outcomes Dimension
+
+## identifier
+dm556
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the distribution of probabilistic outcomes.
+
+## codes
+| Code                     | Description                |
+| ------------------------ | -------------------------- |
+| CentralEstimate          | Central Estimate           |
+| RiskMargin               | Risk Margin                |
+| ProbabilityOfSufficiency | Probability Of Sufficiency |
+| StressedEstimate         | Stressed Estimate          |

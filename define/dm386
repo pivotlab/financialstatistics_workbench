@@ -1,0 +1,18 @@
+# Stress Testing Change In Yield
+
+## identifier
+dm386
+
+## type
+string
+
+## definition
+This dimension is used to represent the stress testing scenario in which there has been a change in yield applied to the reported information.
+
+## codes
+| Code                            | Description                          |
+| ------------------------------- | ------------------------------------ |
+| YieldCurve200BasisPointDecrease | Yield Curve 200 Basis Point Decrease |
+| YieldCurve200BasisPointIncrease | Yield Curve 200 Basis Point Increase |
+| YieldCurve20PctDecrease         | Yield Curve 20 Pct Decrease          |
+| YieldCurve20PctIncrease         | Yield Curve 20 Pct Increase          |

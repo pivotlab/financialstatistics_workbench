@@ -1,0 +1,11 @@
+# Description Of Goods Or Services Dimension
+
+## identifier
+dm829
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the type of goods and/or services provided.
+

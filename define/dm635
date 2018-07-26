@@ -1,0 +1,11 @@
+# Expense Description Dimension
+
+## identifier
+dm635
+
+## type
+string
+
+## definition
+This dimension provides the description of expense reported.
+

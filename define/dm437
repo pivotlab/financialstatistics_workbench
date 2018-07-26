@@ -1,0 +1,42 @@
+# Security Issuer Dimension
+
+## identifier
+dm437
+
+## type
+string
+
+## definition
+This dimension is used to categorise information reported regarding securities, based on the issuing counterparty type.
+
+## codes
+| Code                                                                                    | Description                                                                                       |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| NotCwlthGovtCBA                                                                         | Not Cwlth Govt CBA                                                                                |
+| StateAndTerritoryCentralBorrowingAuthority                                              | State And Territory Central Borrowing Authority                                                   |
+| AustralianCommonwealthGovernment                                                        | Australian Commonwealth Government                                                                |
+| AffiliatedDealerOrMarketMaker                                                           | Affiliated Dealer Or Market Maker                                                                 |
+| OwnIssuedSecurities                                                                     | Own Issued Securities                                                                             |
+| NotOwnIssuedSecurities                                                                  | Not Own Issued Securities                                                                         |
+| GeneralAndHealthInsurance                                                               | General And Health Insurance                                                                      |
+| TradingEnterprisesOwnedByStateTerritoryAndLocalGovernment                               | Trading Enterprises Owned By State Territory And Local Government                                 |
+| Banks                                                                                   | Banks                                                                                             |
+| TradingEnterprisesOwnedByAustralianCommonwealthGovernment                               | Trading Enterprises Owned By Australian Commonwealth Government                                   |
+| OtherDepositTakingInstitutions                                                          | Other Deposit Taking Institutions                                                                 |
+| StateAndTerritoryCentralBorrowingAuthoritiesExcludingAustralianCapitalTerritoryTreasury | State And Territory Central Borrowing Authorities Excluding Australian Capital Territory Treasury |
+| NotApplicable                                                                           | Not Applicable                                                                                    |
+| Securitisers                                                                            | Securitisers                                                                                      |
+| PrivateTradingEnterprises                                                               | Private Trading Enterprises                                                                       |
+| PropertyAndInfrastructureTrusts                                                         | Property And Infrastructure Trusts                                                                |
+| OtherShareIssuer                                                                        | Other Share Issuer                                                                                |
+| InsuranceCorporations                                                                   | Insurance Corporations                                                                            |
+| LifeInsuranceAndFriendlySocieties                                                       | Life Insurance And Friendly Societies                                                             |
+| GeneralAndHealthInsuranceCorporations                                                   | General And Health Insurance Corporations                                                         |
+| InvestmentCompanies                                                                     | Investment Companies                                                                              |
+| OtherFinancialInstitutions                                                              | Other Financial Institutions                                                                      |
+| ThirdPartyIssued                                                                        | Third Party Issued                                                                                |
+| AuthorisedDepositTakingInstitution                                                      | Authorised Deposit Taking Institution                                                             |
+| SpecialPurposeVehicle                                                                   | Special Purpose Vehicle                                                                           |
+| PrivateNonFinancialCorporations                                                         | Private Non Financial Corporations                                                                |
+| ResidentSpecialPurposeVehicle                                                           | Resident Special Purpose Vehicle                                                                  |
+| OtherDebtSecurityIssuer                                                                 | Other Debt Security Issuer                                                                        |

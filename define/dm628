@@ -1,0 +1,27 @@
+# Investment Class Type Dimension
+
+## identifier
+dm628
+
+## type
+string
+
+## definition
+This dimension categorises information by the underlying investment class.
+
+## codes
+| Code            | Description      |
+| --------------- | ---------------- |
+| Commodities     | Commodities      |
+| SovereignRates  | Sovereign Rates  |
+| Currency        | Currency         |
+| Cash            | Cash             |
+| FixedInterest   | Fixed Interest   |
+| Insurance       | Insurance        |
+| MultiAsset      | Multi Asset      |
+| Equities        | Equities         |
+| Property        | Property         |
+| ConvertibleBond | Convertible Bond |
+| Other           | Other            |
+| RealAsset       | Real Asset       |
+| Infrastructure  | Infrastructure   |

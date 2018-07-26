@@ -1,0 +1,11 @@
+# Reinsurer Identifier Dimension
+
+## identifier
+dm731
+
+## type
+string
+
+## definition
+This information represents the reinsurer identifier provided by Australian Prudential Regulation Authority (APRA). If the reinsurer is not on APRA's reinsurer identifier list, report the reinsurer as 'unassigned'.
+

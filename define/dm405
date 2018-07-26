@@ -1,0 +1,16 @@
+# New Business Type
+
+## identifier
+dm405
+
+## type
+string
+
+## definition
+This dimension is used to segment data based on whether the information relates to new business written during the current reporting period or business that was in force at the start of the current reporting period.
+
+## codes
+| Code        | Description  |
+| ----------- | ------------ |
+| InForce     | In Force     |
+| NewBusiness | New Business |

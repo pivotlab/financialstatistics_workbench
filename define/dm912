@@ -1,0 +1,16 @@
+# Ranking Type Dimension
+
+## identifier
+dm912
+
+## type
+string
+
+## definition
+This dimension categorises information according to whether or not asset or liability that will be ranked at a different priority to other assets and liabilities.
+
+## codes
+| Code         | Description  |
+| ------------ | ------------ |
+| Senior       | Senior       |
+| Subordinated | Subordinated |

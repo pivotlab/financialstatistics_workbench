@@ -1,0 +1,30 @@
+# Condition Of Release Dimension
+
+## identifier
+dm597
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to types of conditions of release.
+
+## codes
+| Code                             | Description                         |
+| -------------------------------- | ----------------------------------- |
+| OtherConditionsOfRelease         | Other Conditions Of Release         |
+| CompassionateGrounds             | Compassionate Grounds               |
+| AttainingPreservationAge         | Attaining Preservation Age          |
+| PermanentIncapacity              | Permanent Incapacity                |
+| TerminalMedical                  | Terminal Medical                    |
+| Death                            | Death                               |
+| ExcessContributionsTaxRelease    | Excess Contributions Tax Release    |
+| AttainingAge65                   | Attaining Age 65                    |
+| Termination                      | Termination                         |
+| UnclaimedMoneyAndLostMembers     | Unclaimed Money And Lost Members    |
+| TerminationWithLessThan200       | Termination With Less Than 200      |
+| Retirement                       | Retirement                          |
+| TemporaryIncapacity              | Temporary Incapacity                |
+| SevereFinancialHardship          | Severe Financial Hardship           |
+| UnrestrictedNonPreservedBenefits | Unrestricted Non Preserved Benefits |
+| LostMemberWhoIsFound             | Lost Member Who Is Found            |

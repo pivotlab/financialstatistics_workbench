@@ -1,0 +1,19 @@
+# Reasons For Movements In Balance Sheet Dimension
+
+## identifier
+dm785
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to reasons for movements in the balance sheet.
+
+## codes
+| Code                          | Description                       |
+| ----------------------------- | --------------------------------- |
+| RealisedGainOrLoss            | Realised Gain Or Loss             |
+| UnrealisedGainsAndLosses      | Unrealised Gains And Losses       |
+| InvestmentRevenue             | Investment Revenue                |
+| NetTransactions               | Net Transactions                  |
+| ForeignExchangeGainsAndLosses | Foreign Exchange Gains And Losses |

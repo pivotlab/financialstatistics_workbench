@@ -1,0 +1,16 @@
+# Purchased Receivables Risk
+
+## identifier
+dm390
+
+## type
+string
+
+## definition
+This dimension categorises reported information relating to purchased receivables based on the applicable type of risk the exposure is subject to.
+
+## codes
+| Code         | Description   |
+| ------------ | ------------- |
+| DefaultRisk  | Default Risk  |
+| DilutionRisk | Dilution Risk |

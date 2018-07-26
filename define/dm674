@@ -1,0 +1,11 @@
+# Description Other Asset Class Dimension
+
+## identifier
+dm674
+
+## type
+string
+
+## definition
+This dimension provides the description of the other asset class reported.
+

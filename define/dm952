@@ -1,0 +1,11 @@
+# Counterparty Or Group Name Dimension
+
+## identifier
+dm952
+
+## type
+string
+
+## definition
+This is the legal name of the counterparty or the name for a group of connected counterparties that includes the legal name of the principal counterparty in that group.
+

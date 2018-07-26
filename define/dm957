@@ -1,0 +1,18 @@
+# Outstanding Transaction Type Dimension
+
+## identifier
+dm957
+
+## type
+string
+
+## definition
+The information classifies each transaction type outstanding.
+
+## codes
+| Code                       | Description                  |
+| -------------------------- | ---------------------------- |
+| ReverseRepurchaseAgreement | Reverse Repurchase Agreement |
+| SecuritiesLending          | Securities Lending           |
+| SecuritiesBorrowing        | Securities Borrowing         |
+| RepurchaseAgreement        | Repurchase Agreement         |

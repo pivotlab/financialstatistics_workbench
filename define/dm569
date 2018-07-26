@@ -1,0 +1,16 @@
+# Goodwill Value Type Dimension
+
+## identifier
+dm569
+
+## type
+string
+
+## definition
+This dimension identifies whether or not the item reported is net of goodwill, as defined in relevant accounting standards.
+
+## codes
+| Code  | Description |
+| ----- | ----------- |
+| Net   | Net   |
+| Gross | Gross |

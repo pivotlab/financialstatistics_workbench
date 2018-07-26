@@ -1,0 +1,17 @@
+# Interest Rate Risk Method
+
+## identifier
+dm435
+
+## type
+string
+
+## definition
+This dimension categorises information reported based on the method used to calculate the interest rate risk of a position for capital adequacy purposes, as determined in accordance with relevant prudential standards.
+
+## codes
+| Code                | Description           |
+| ------------------- | --------------------- |
+| DurationMethod      | Duration Method       |
+| MaturityMethod      | Maturity Method       |
+| PreProcessingMethod | Pre Processing Method |

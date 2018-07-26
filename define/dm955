@@ -1,0 +1,16 @@
+# Large Exposure Category Dimension
+
+## identifier
+dm955
+
+## type
+string
+
+## definition
+This categorises the data according to the application of large exposure reporting obligations.
+
+## codes
+| Code             | Description       |
+| ---------------- | ----------------- |
+| LargeExposure    | Large Exposure    |
+| ExcludedExposure | Excluded Exposure |

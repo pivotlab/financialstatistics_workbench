@@ -1,0 +1,16 @@
+# Length Of Treatment Dimension
+
+## identifier
+dm795
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the length of time of the treatment.
+
+## codes
+| Code      | Description |
+| --------- | ----------- |
+| Overnight | Overnight |
+| Day       | Day       |

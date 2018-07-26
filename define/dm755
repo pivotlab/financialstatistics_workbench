@@ -1,0 +1,29 @@
+# Deposit Protection Classification Dimension
+
+## identifier
+dm755
+
+## type
+string
+
+## definition
+The information reported shows the deposit protection the entity has.
+
+## codes
+| Code                                 | Description                               |
+| ------------------------------------ | ----------------------------------------- |
+| NoticeGiven                          | Notice Given                              |
+| OperationalDeposits                  | Operational Deposits                      |
+| OperationalRequirement               | Operational Requirement                   |
+| LessStableHigherRunOff               | Less Stable Higher Run Off                |
+| LessStable                           | Less Stable                               |
+| DepositsCoveredByInsurance           | Deposits Covered By Insurance             |
+| DepositsNotCoveredByInsurance        | Deposits Not Covered By Insurance         |
+| NonOperationalDeposits               | Non Operational Deposits                  |
+| NoticeNotGiven                       | Notice Not Given                          |
+| ReserveBankAustraliaEligible         | Reserve Bank Australia Eligible           |
+| NoticePeriodGivenWithoutPenalty      | Notice Period Given Without Penalty       |
+| NoticePeriodGivenWithPenalty         | Notice Period Given With Penalty          |
+| Stable                               | Stable                                    |
+| AdditionalBalancesCentralBankReserve | Additional Balances Central Bank Reserve  |
+| NonOperationalDepositsAndNoticeGiven | Non Operational Deposits And Notice Given |

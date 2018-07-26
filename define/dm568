@@ -1,0 +1,16 @@
+# Doubtful Debts Provision Value Type Dimension
+
+## identifier
+dm568
+
+## type
+string
+
+## definition
+This dimension identifies the accounting valuation scenario, in relation to provision for doubtful debts, under which the reported value was calculated.
+
+## codes
+| Code  | Description |
+| ----- | ----------- |
+| Net   | Net   |
+| Gross | Gross |

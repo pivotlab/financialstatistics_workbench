@@ -1,0 +1,18 @@
+# Cover Type Dimension
+
+## identifier
+dm789
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the type of policy coverage.
+
+## codes
+| Code                                    | Description                                   |
+| --------------------------------------- | --------------------------------------------- |
+| SomeLifetimeExclusionsButNoReducedCover | Some Lifetime Exclusions But No Reduced Cover |
+| ReducedCoverButNoLifetimeExclusions     | Reduced Cover But No Lifetime Exclusions      |
+| ReducedCoverAndSomeLifetimeExclusions   | Reduced Cover And Some Lifetime Exclusions    |
+| FullCover                               | Full Cover                                    |

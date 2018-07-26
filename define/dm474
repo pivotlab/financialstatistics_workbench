@@ -1,0 +1,16 @@
+# DMF Policy
+
+## identifier
+dm474
+
+## type
+string
+
+## definition
+This dimension is used to categorise information reported based on insurance policy protection
+
+## codes
+| Code                     | Description                |
+| ------------------------ | -------------------------- |
+| OutsideProtectionWording | Outside Protection Wording |
+| WithinProtectionWording  | Within Protection Wording  |

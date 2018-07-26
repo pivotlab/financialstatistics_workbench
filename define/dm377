@@ -1,0 +1,29 @@
+# Loan Security Dimension
+
+## identifier
+dm377
+
+## type
+string
+
+## definition
+The characteristic of whether or not assets have been pledged to secure the repayment of funds under a credit or other lending activity in the case of default by the borrower.
+
+## codes
+| Code                                  | Description                               |
+| ------------------------------------- | ----------------------------------------- |
+| SecuredEquitiesNotRecognisedExchange  | Secured Equities Not Recognised Exchange  |
+| SecuredEquitiesRecognisedExchange     | Secured Equities Recognised Exchange      |
+| NotSecuredEligibleResMortgage         | Not Secured Eligible Res Mortgage         |
+| NotSecuredResMortgage                 | Not Secured by a Residential Mortgage     |
+| SecuredEligibleResMortgage            | Secured Eligible Res Mortgage             |
+| NotSecured                            | Not Secured                               |
+| Secured                               | Secured                                   |
+| SecuredLifePolicy                     | Secured Life Policy                       |
+| SecuredEquitiesListed                 | Secured Equities Listed                   |
+| SecuredManagedFunds                   | Secured Managed Funds                     |
+| SecuredOverseasEquitiesDirectlyHeld   | Secured Overseas Equities Directly Held   |
+| SecuredResidentialProperty            | Secured Residential Property              |
+| SecuredBonds                          | Secured Bonds                             |
+| SecuredAustralianEquitiesDirectlyHeld | Secured Australian Equities Directly Held |
+| SecuredHybridSecurities               | Secured Hybrid Securities                 |

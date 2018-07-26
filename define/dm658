@@ -1,0 +1,21 @@
+# Primary Instrument Type Dimension
+
+## identifier
+dm658
+
+## type
+string
+
+## definition
+This dimension categorises the reported information by the primary instrument type.
+
+## codes
+| Code                              | Description                          |
+| --------------------------------- | ------------------------------------ |
+| SecuritiesDerivativesAndPhysicals | Securities Derivatives And Physicals |
+| SecuritiesAndPhysicals            | Securities And Physicals             |
+| Derivatives                       | Derivatives                          |
+| SecuritiesAndDerivatives          | Securities And Derivatives           |
+| DerivativesAndPhysicals           | Derivatives And Physicals            |
+| PhysicalAssets                    | Physical Assets                      |
+| Securities                        | Securities                           |

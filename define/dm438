@@ -1,0 +1,20 @@
+# Securitisation Approach Dimension
+
+## identifier
+dm438
+
+## type
+string
+
+## definition
+This dimension categorises information reported for credit risk purposes relating to credit exposures to securitisation, based on the various securitisation approaches, as determined in accordance with Prudential Standard APS 120 Securitisation.
+
+## codes
+| Code          | Description      |
+| ------------- | ---------------- |
+| IAA           | IAA              |
+| RBAOrIAA      | RBA Or IAA       |
+| NotRBAIAAOrSF | Not RBAIAA Or SF |
+| SFA           | SFA              |
+| RWC           | RWC              |
+| ERBA          | ERBA             |

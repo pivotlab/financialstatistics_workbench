@@ -1,0 +1,16 @@
+# Encumbrance Status Dimension
+
+## identifier
+dm748
+
+## type
+string
+
+## definition
+The information reported shows whether or not assets held are free from legal, regulatory, contractual or other restrictions on the ability of the entity to liquidate, sell, transfer, or assign an asset.
+
+## codes
+| Code         | Description  |
+| ------------ | ------------ |
+| Unencumbered | Unencumbered |
+| Encumbered   | Encumbered   |

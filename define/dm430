@@ -1,0 +1,17 @@
+# IRB Approach
+
+## identifier
+dm430
+
+## type
+string
+
+## definition
+This dimension categorises information reported under the internal ratings based approach to credit risk, as determined in accordance with relevant prudential standards.
+
+## codes
+| Code                | Description          |
+| ------------------- | -------------------- |
+| Advanced            | Advanced             |
+| Foundation          | Foundation           |
+| SupervisorySlotting | Supervisory Slotting |

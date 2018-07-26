@@ -1,0 +1,11 @@
+# Product Name And Identifier Dimension
+
+## identifier
+dm679
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the product name and product identifier.
+

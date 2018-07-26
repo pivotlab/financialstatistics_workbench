@@ -1,0 +1,16 @@
+# Levels Of Management Dimension
+
+## identifier
+dm670
+
+## type
+string
+
+## definition
+Represents the relevant level of management applicable to an investment portfolio.
+
+## codes
+| Code       | Description |
+| ---------- | ----------- |
+| Direct     | Direct     |
+| Underlying | Underlying |

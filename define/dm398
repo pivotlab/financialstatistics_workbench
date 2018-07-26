@@ -1,0 +1,19 @@
+# Specific Risk Category
+
+## identifier
+dm398
+
+## type
+string
+
+## definition
+This dimension is used to categorise information reported in relation to exposures subject to specific risk factors, based on the applicable specific risk categories, as determined in accordance with relevant prudential standards.
+
+Specific risk represents the risk that the value of a security will change due to issuer-specific factors.
+
+## codes
+| Code       | Description |
+| ---------- | ----------- |
+| Government | Government |
+| Other      | Other      |
+| Qualifying | Qualifying |

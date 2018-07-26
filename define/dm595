@@ -1,0 +1,19 @@
+# Risk Requirement Type Dimension
+
+## identifier
+dm595
+
+## type
+string
+
+## definition
+This dimension classifies the reported information by relevant risk requirement types.
+
+## codes
+| Code                                | Description                            |
+| ----------------------------------- | -------------------------------------- |
+| OtherReserves                       | Other Reserves                         |
+| InvestmentReserve                   | Investment Reserve                     |
+| AdministrationReserve               | Administration Reserve                 |
+| OperationalRiskFinancialRequirement | Operational Risk Financial Requirement |
+| SelfInsuranceReserve                | Self Insurance Reserve                 |

@@ -1,0 +1,35 @@
+# Forecast Period Dimension
+
+## identifier
+dm740
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the forecast period at each point of time in the future.
+
+## codes
+| Code                                       | Description                                           |
+| ------------------------------------------ | ----------------------------------------------------- |
+| Month15                                    | Month 15                                              |
+| Month3                                     | Month 3                                               |
+| Month6                                     | Month 6                                               |
+| Month11                                    | Month 11                                              |
+| Month9                                     | Month 9                                               |
+| Month7                                     | Month 7                                               |
+| Month5                                     | Month 5                                               |
+| Month10                                    | Month 10                                              |
+| Month1                                     | Month 1                                               |
+| Month8                                     | Month 8                                               |
+| Month2                                     | Month 2                                               |
+| Month12                                    | Month 12                                              |
+| Month4                                     | Month 4                                               |
+| ThirdQuarter                               | Third Quarter                                         |
+| SecondQuarter                              | Second Quarter                                        |
+| FirstQuarter                               | First Quarter                                         |
+| FourthQuarter                              | Fourth Quarter                                        |
+| LessThanOrEqualTo30Days                    | Less Than Or Equal To 30 Days                         |
+| GreaterThan30DaysToLessThanOrEqualTo90Days | Greater Than 30 Days To Less Than Or Equal To 90 Days |
+| Month36                                    | Month 36                                              |
+| Month24                                    | Month 24                                              |

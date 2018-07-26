@@ -1,0 +1,39 @@
+# Counterparty Rating Dimension
+
+## identifier
+dm393
+
+## type
+string
+
+## definition
+This rating categorises the credit ratings of the counterparty in relation to the investments of the reporting entity as determined by various rating agencies.
+
+
+Rating Grade1: Standard & Poor's AAA; Moody's Aaa; AM Best A++; Fitch AAA
+
+Rating Grade2: Standard & Poor's AA+, AA, AA-; Moody's Aa1, Aa2, Aa3; AM Best A+; Fitch AA+, AA, AA-
+
+Rating Grade3: Standard & Poor's A+, A, A-; Moody's A1, A2, A3; AM Best A, A-; Fitch  A+, A, A-
+
+Rating Grade4: Standard & Poor's BBB+, BBB, BBB-; Moody's Baa1, Baa2, Baa3; AM Best B++, B+; Fitch BBB+, BBB, BBB-
+
+Rating Grade5: Standard & Poor's BB+, or below; Moody's Ba1, or below; AM Best B, or below; Fitch BB+, or below
+
+## codes
+| Code                | Description               |
+| ------------------- | ------------------------- |
+| GradeInvestment     | Investment                |
+| Grade5              | Rating Grade 5            |
+| Grade4              | Rating Grade 4            |
+| Grade2              | Rating Grade 2            |
+| Grade1              | Rating Grade 1            |
+| Grade1or2           | Rating Grade 1 or 2       |
+| Grade3              | Rating Grade 3            |
+| Grade4orUnrated     | Rating Grade 4 or Unrated |
+| Unrated             | Unrated                   |
+| Grade4or5           | Rating Grade 4 or 5       |
+| Other               | Other                     |
+| Grade6              | Rating Grade 6            |
+| Grade7              | Rating Grade 7            |
+| GradeFiveSixOrSeven | Grade Five Six Or Seven   |

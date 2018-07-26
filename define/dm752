@@ -1,0 +1,63 @@
+# Liquidity Balance Type Dimension
+
+## identifier
+dm752
+
+## type
+string
+
+## definition
+The information reported is categorised according to the measurement scenario of liquidity under which the reported value was calculated.
+
+## codes
+| Code                                         | Description                                                           |
+| -------------------------------------------- | --------------------------------------------------------------------- |
+| NetOpenPositions                             | Net Open Positions                                                    |
+| PositiveCurrentExposure                      | Positive Current Exposure                                             |
+| PositiveCurrentExposureCRMAdjusted           | Positive Current Exposure after Credit Risk Mitigation Adjustments    |
+| CreditEquivalentAmount                       | Credit Equivalent Amount                                              |
+| CurrentBookValueCRMAdjusted                  | Current Book Value Credit Risk Mitigation Adjusted                    |
+| RWA                                          | 'Risk-Weighted Asset' Amount                                          |
+| CurrentBookValue                             | Current Book Value                                                    |
+| PrincipalAmount                              | Principal Amount                                                      |
+| IRC                                          | Investment Risk Charge                                                |
+| AmortisedCost                                | Amortised Cost                                                        |
+| ExposuresAtDefaultCRMAdjusted                | Exposures At Default Credit Risk Mitigation Adjusted                  |
+| ExposuresAtDefault                           | Exposures At Default                                                  |
+| UnusedLimit                                  | Unused Limit                                                          |
+| FairValue                                    | Fair Value                                                            |
+| NMV                                          | Net Market Value                                                      |
+| NotionalPrincipalAmount                      | Notional Principal Amount                                             |
+| MarkToMarketOrMarkToModel                    | Mark-to-Market Or Mark-to-Model                                       |
+| AssetEquivalentAmount                        | Asset Equivalent Amount                                               |
+| IRCUnadjusted                                | Investment Risk Charge Unadjusted                                     |
+| CapitalCharge                                | Capital Charge                                                        |
+| ActualGrossExposure                          | Actual or Gross Exposure                                              |
+| NominalResidualValue                         | Nominal Residual Value                                                |
+| ExposureAmountCRMAdjusted                    | Exposure Amount Credit Risk Mitigation Adjusted                       |
+| CreditEquivalentAmountCRMAdjusted            | Credit Equivalent Amount CRM Adjusted                                 |
+| NotionalOrCommittedCRMAdjusted               | Notional or Committed Amount After Credit Risk Mitigation Adjustments |
+| CurrentExposure                              | Current Exposure                                                      |
+| PotentialFutureExposure                      | Potential Future Exposure                                             |
+| ProbableMaximumLossAdjusted                  | Probable Maximum Loss Adjusted                                        |
+| ProbableMaximumLoss                          | Probable Maximum Loss                                                 |
+| GrossMarketValue                             | Gross Market Value                                                    |
+| LossGivenDefault                             | Loss Given Default                                                    |
+| CentralEstimate                              | Central Estimate                                                      |
+| RiskMargin                                   | Risk Margin                                                           |
+| PrincipalAmountAbsolute                      | Principal Amount Absolute                                             |
+| PresentValueRiskFreeDiscountRate             | Present Value Risk Free Discount Rate                                 |
+| FairValueAbsolute                            | Fair Value Absolute                                                   |
+| DerivativeAccountingOffsetAmount             | Derivative Accounting Offset Amount                                   |
+| DerivativeBankruptcyDefaultOffsetAmount      | Derivative Bankruptcy Default Offset Amount                           |
+| ApprovedValue                                | Approved Value                                                        |
+| WeightedAmount                               | Weighted Amount                                                       |
+| AverageAmount                                | Average Amount                                                        |
+| MarkToMarketLessReserveBankOfAustraliaMargin | Mark To Market Less Reserve Bank Of Australia Margin                  |
+| ExpectedCashFlows                            | Expected Cash Flows                                                   |
+| GrossNegativeMarketValue                     | Gross Negative Market Value                                           |
+| GrossPositiveMarketValue                     | Gross Positive Market Value                                           |
+| NotionalAmount                               | Notional Amount                                                       |
+| DrawnAmount                                  | Drawn Amount                                                          |
+| MarketValue                                  | Market Value                                                          |
+| ExposureAmountNoCRM                          | Exposure Amount No CRM                                                |

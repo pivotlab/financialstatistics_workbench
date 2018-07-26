@@ -1,0 +1,19 @@
+# Uncompensated Loss Exposure Ranking Dimension
+
+## identifier
+dm812
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the relative size of the uncompensated loss exposure.
+
+## codes
+| Code                                   | Description                                |
+| -------------------------------------- | ------------------------------------------ |
+| FifthLargestUncompensatedLossExposure  | Fifth Largest Uncompensated Loss Exposure  |
+| FourthLargestUncompensatedLossExposure | Fourth Largest Uncompensated Loss Exposure |
+| SecondLargestUncompensatedLossExposure | Second Largest Uncompensated Loss Exposure |
+| LargestUncompensatedLossExposure       | Largest Uncompensated Loss Exposure        |
+| ThirdLargestUncompensatedLossExposure  | Third Largest Uncompensated Loss Exposure  |

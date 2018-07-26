@@ -1,0 +1,11 @@
+# Organisation Name ACN Or ABN Or ARBN Dimension
+
+## identifier
+dm586
+
+## type
+string
+
+## definition
+This dimension allows the organisation name, and where available the Australian Company Number (ACN), Australian Business Number (ABN) or an Australian Registered Body Number (ARBN) of the organisation. Organisation name refers to the registered business name of the organisation and is mandatory. The Australian Company Number (ACN) is to be reported where it exists. If no ACN exists the Australian Business Number (ABN) or an Australian Registered Body Number (ARBN) should be reported. Blank if none available.
+

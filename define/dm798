@@ -1,0 +1,16 @@
+# Risk Equalisation Eligibility Dimension
+
+## identifier
+dm798
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to whether the benefit is eligible for inclusion in risk equalisation.
+
+## codes
+| Code       | Description |
+| ---------- | ----------- |
+| Eligible   | Eligible   |
+| Ineligible | Ineligible |

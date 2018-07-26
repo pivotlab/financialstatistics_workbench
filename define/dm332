@@ -1,0 +1,15 @@
+# Counterparty Role
+
+## identifier
+dm332
+
+## type
+string
+
+## definition
+Identifies the particular role the counterparty plays in relation to the reported information.
+
+## codes
+| Code   | Description |
+| ------ | ----------- |
+| Drawer | Drawer |

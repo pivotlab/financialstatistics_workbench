@@ -1,0 +1,16 @@
+# Related To Reinsurance Recoverables From Non APRA Authorised Reinsurers Indicator
+
+## identifier
+dm458
+
+## type
+string
+
+## definition
+This dimension categorises the reported information based on whether or not it is Related To Reinsurance Recoverables From Non APRA Authorised Reinsurers.
+
+## codes
+| Code | Description                                                                 |
+| ---- | --------------------------------------------------------------------------- |
+| No  | Not Related To Reinsurance Recoverables From Non APRA Authorised Reinsurers |
+| Yes | Related To Reinsurance Recoverables From Non APRA Authorised Reinsurers     |

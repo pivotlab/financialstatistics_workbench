@@ -1,0 +1,16 @@
+# Insurance Assets Classification
+
+## identifier
+dm382
+
+## type
+string
+
+## definition
+This dimension classifies assets according to whether or not they have been classified as backing insurance liabilities or not.
+
+## codes
+| Code    | Description                              |
+| ------- | ---------------------------------------- |
+| ABIL    | Assets Backing Insurance Liabilities     |
+| NotABIL | Assets Not Backing Insurance Liabilities |

@@ -1,0 +1,17 @@
+# Financial Statements Status Change Dimension
+
+## identifier
+dm624
+
+## type
+string
+
+## definition
+This dimension represents whether the status of information provided by the reporting entity has changed to a satisfactory financial position, has changed to an unsatisfactory financial position, or has changed to technically insolvent.
+
+## codes
+| Code                 | Description           |
+| -------------------- | --------------------- |
+| TechnicallyInsolvent | Technically Insolvent |
+| Unsatisfactory       | Unsatisfactory        |
+| Satisfactory         | Satisfactory          |

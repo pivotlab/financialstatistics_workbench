@@ -1,0 +1,17 @@
+# Margin Loan Type Dimension
+
+## identifier
+dm938
+
+## type
+string
+
+## definition
+The information reported is categorised according to the type of margin loan.
+
+## codes
+| Code                           | Description                        |
+| ------------------------------ | ---------------------------------- |
+| ProtectedMarginLoan            | Protected Margin Loan              |
+| StandardMarginLoan             | Standard Margin Loan               |
+| NotStandardProtectedMarginLoan | Not Standard Protected Margin Loan |

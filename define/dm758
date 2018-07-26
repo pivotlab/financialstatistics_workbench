@@ -1,0 +1,24 @@
+# Asset Class Type Dimension
+
+## identifier
+dm758
+
+## type
+string
+
+## definition
+The information reported relates to the underlying asset class.
+
+## codes
+| Code                    | Description               |
+| ----------------------- | ------------------------- |
+| Property                | Property                  |
+| Infrastructure          | Infrastructure            |
+| Commodities             | Commodities               |
+| Cash                    | Cash                      |
+| Other                   | Other                     |
+| FixedIncome             | Fixed Income              |
+| Equity                  | Equity                    |
+| InterestRateInvestments | Interest Rate Investments |
+| LoansAndAdvances        | Loans And Advances        |
+| LoansAndLeases          | Loans And Leases          |

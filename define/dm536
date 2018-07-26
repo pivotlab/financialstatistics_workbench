@@ -1,0 +1,16 @@
+# Reporting Occurrence Dimension
+
+## identifier
+dm536
+
+## type
+string
+
+## definition
+This dimension refers to the number of times a balance will be shown consecutively at a reporting period, as per the relevant accounting standards.
+
+## codes
+| Code         | Description   |
+| ------------ | ------------- |
+| Recurring    | Recurring     |
+| NonRecurring | Non Recurring |

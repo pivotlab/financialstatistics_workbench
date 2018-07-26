@@ -1,0 +1,16 @@
+# Hedging Basis
+
+## identifier
+dm376
+
+## type
+string
+
+## definition
+The purpose for which the transaction was made (i.e. for hedging purposes or profit-making purposes)
+
+## codes
+| Code      | Description |
+| --------- | ----------- |
+| Hedged    | Hedged     |
+| NotHedged | Not Hedged |

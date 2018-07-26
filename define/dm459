@@ -1,0 +1,15 @@
+# Insurance Business Intermidiated
+
+## identifier
+dm459
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to whether or not the insurance business was placed directly by the reporting party.
+
+## codes
+| Code             | Description       |
+| ---------------- | ----------------- |
+| IndirectlyPlaced | Indirectly Placed |

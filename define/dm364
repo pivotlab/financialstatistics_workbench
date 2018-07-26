@@ -1,0 +1,16 @@
+# Reporting Location Dimension
+
+## identifier
+dm364
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to where it is deemed to be in accordance with the requirements of the relevant standards.
+
+## codes
+| Code                   | Description              |
+| ---------------------- | ------------------------ |
+| InsideAustralia        | Inside Australia         |
+| TotalInsuranceBusiness | Total Insurance Business |

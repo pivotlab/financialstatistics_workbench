@@ -1,0 +1,93 @@
+# Related Party Relationship Type Dimension
+
+## identifier
+dm913
+
+## type
+string
+
+## definition
+This dimension categorises reported information based on the relationship between related parties.
+
+## codes
+| Code                                                                  | Description                                                                                                |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| NotSubAssocJV                                                         | Not Sub Assoc JV                                                                                           |
+| OtherGroupEntitiesOfTrustee                                           | Other Group Entities Of Trustee                                                                            |
+| Subsidiary                                                            | Subsidiary                                                                                                 |
+| TrusteeDirectorGroupEntityOfTrustee                                   | Trustee Director Group Entity Of Trustee                                                                   |
+| JointVenture                                                          | Joint Venture                                                                                              |
+| Associate                                                             | Associate                                                                                                  |
+| SubsidiaryNonLife                                                     | Subsidiary Non Life                                                                                        |
+| SubsidiaryLife                                                        | Subsidiary Life                                                                                            |
+| ApprovedTrustee                                                       | Approved Trustee                                                                                           |
+| Trustee                                                               | Trustee                                                                                                    |
+| OtherCounterpartyRelationshipType                                     | Other Counterparty Relationship Type                                                                       |
+| MemberRelatedBusinessEntity                                           | Member Related Business Entity                                                                             |
+| RelatedPartyAASBNotSubAssocJVParent                                   | Related Party for Accounting Purposes Excluding Subsidiaries, Associates, Joint Ventures and Parent Entity |
+| TrusteeDirectorNotGroupEntityTrustee                                  | Trustee Director Not Group Entity Trustee                                                                  |
+| Parent                                                                | Parent                                                                                                     |
+| RelatedEntityOfTheTrustee                                             | Related Entity Of The Trustee                                                                              |
+| NotSubAssocJVParent                                                   | Not Sub Assoc JV Parent                                                                                    |
+| SubsidiaryAssociateOrJointVenture                                     | Subsidiary Associate Or Joint Venture                                                                      |
+| SubNonConsolidated                                                    | Sub Non Consolidated                                                                                       |
+| NotSub                                                                | Not Sub                                                                                                    |
+| NonRelatedPartyAASB                                                   | Non Related Party for Accounting Purposes Under AASB124                                                    |
+| NonOffshoreOperationsADI                                              | Non Offshore Operations ADI                                                                                |
+| OffshoreOperationsADI                                                 | Offshore Operations ADI                                                                                    |
+| NonIntragroup                                                         | Non Intragroup                                                                                             |
+| Intragroup                                                            | Intragroup                                                                                                 |
+| RelatedPartyAASB                                                      | Related Party for Accounting Purposes Under AASB124                                                        |
+| AssociateJointVenture                                                 | Associate or Joint Venture                                                                                 |
+| NotSubAssoc                                                           | Not Sub Assoc                                                                                              |
+| SubAssocJVParent                                                      | Subsidiary Associate Joint Venture and Parent                                                              |
+| NotRelatedPartyPrudential                                             | Not a Related Party for Prudential Purposes                                                                |
+| NotLevel2Sub                                                          | Not a Level 2 Subsidiary                                                                                   |
+| Level2Sub                                                             | Level 2 Subsidiary                                                                                         |
+| NonAustralianOperationsADI                                            | Non Australian Operations ADI                                                                              |
+| RelatedPartyAndAPRADeemedExcludingForeign                             | Related Party and APRA Deemed Excluding Foreign                                                            |
+| AustralianOperationsADI                                               | Australian Operations ADI                                                                                  |
+| DirectorRelatedSpouse                                                 | Director, Director of Related Party or Director's Spouse                                                   |
+| ELEEligibleSubsidiariesAPRADeemed                                     | ELE Eligible Subsidiaries APRA Deemed                                                                      |
+| HeadOfficeOverseasBranchAndSubsidiaries                               | Head Office Overseas Branch And Subsidiaries                                                               |
+| NotAssociateJointVentureParent                                        | Not an Associate, Joint Venture or Parent relationship                                                     |
+| NotParentControlled                                                   | Not Parent Controlled                                                                                      |
+| ReportingParty                                                        | Reporting Party                                                                                            |
+| NotSelfParentSubAssocJV                                               | Not Self, Parent, Subsidiary, Associate or Joint Venture                                                   |
+| ParentAndControlled                                                   | Parent And Controlled                                                                                      |
+| SubNotLevel2SubExcludingPassThrough                                   | Sub Not Level 2 Sub Excluding Pass Through                                                                 |
+| IntragroupNotOffshoreOperationsADI                                    | Intragroup Not Offshore Operations ADI                                                                     |
+| Level2AustSub                                                         | Level 2 Australian Subsidiary                                                                              |
+| Level2IntSub                                                          | Level 2 International Subsidiary                                                                           |
+| RelatedPartyPrudential                                                | Related Party as per Prudential Standards                                                                  |
+| SubNotLevel2Sub                                                       | Subsidiaries Excluding Level 2 Subsidiaries                                                                |
+| DirectorLevel2GI                                                      | Director of Level 2 General Insurance Group Entity                                                         |
+| GIControlledEntity                                                    | GI Controlled Entity                                                                                       |
+| NotSubParent                                                          | Not Sub Parent                                                                                             |
+| RelatedPartyAASBNotSelfParentSubAssocJV                               | Related Party AASB Not Self, Parent, Subsidiary, Associate or Joint Venture                                |
+| SubPrudentialConsolidated                                             | Subsidiary Prudential Consolidated                                                                         |
+| Employee                                                              | Employee                                                                                                   |
+| DirectorRelated                                                       | Entities Related to Directors                                                                              |
+| NotParentSubDirectorRelatedJVAssoc                                    | Related Party Not Parent, Subsidiary, Director Related Entity, JV or Associate                             |
+| NotParent                                                             | Not Parent                                                                                                 |
+| RelatedPartyAASBNotParentSub                                          | Related Party as per AASB Not Parent or Subsidiary                                                         |
+| NotParentControlledSubAssoc                                           | Not Parent, Subsidiary, Subsidiary of the parent or Associate                                              |
+| ParentControlled                                                      | Parent Controlled                                                                                          |
+| RelatedParty                                                          | Related Party                                                                                              |
+| ParentOrRelatedParty                                                  | Parent Or Related Party                                                                                    |
+| ParentOrRelatedPartyNotOnCommercialTerms                              | Parent Or Related Party Not On Commercial Terms                                                            |
+| DirectorOfAssociate                                                   | Director Of Associate                                                                                      |
+| ConnectedEntity                                                       | Connected Entity                                                                                           |
+| RSELicensee                                                           | RSE Licensee                                                                                               |
+| EmployeeConsultantOfTrustee                                           | Employee Consultant Of Trustee                                                                             |
+| AssociateOfDirectorAssociateApprovedTrustee                           | Associate Of Director Associate Approved Trustee                                                           |
+| AssociateOfDirectorNonAssociateOfTrustee                              | Associate Of Director Non Associate Of Trustee                                                             |
+| TrusteeDirectorOfApprovedTrustee                                      | Trustee Director Of Approved Trustee                                                                       |
+| InterGroupNotOffshoreOperationsNotAuthorisedDepositTakingInstitutions | Inter Group Not Offshore Operations Not Authorised Deposit Taking Institutions                             |
+| IntraGroupDomestic                                                    | Intra Group Domestic                                                                                       |
+| NonIntraGroupDomestic                                                 | Non Intra Group Domestic                                                                                   |
+| OffshoreBranchesAuthorisedDepositTakingInstitution                    | Offshore Branches Authorised Deposit Taking Institution                                                    |
+| SelfSecuritised                                                       | Self Securitised                                                                                           |
+| OffshoreBankingOperationsAuthorisedDepositTakingInstitution           | Offshore Banking Operations Authorised Deposit Taking Institution                                          |
+| NonOverseasOperations                                                 | Non Overseas Operations                                                                                    |
+| OverseasOperations                                                    | Overseas Operations                                                                                        |

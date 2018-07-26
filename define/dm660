@@ -1,0 +1,18 @@
+# Primary Trading Strategy Dimension
+
+## identifier
+dm660
+
+## type
+string
+
+## definition
+This dimension categorises the reported data according to the trading strategy.
+
+## codes
+| Code          | Description    |
+| ------------- | -------------- |
+| Multiple      | Multiple       |
+| RelativeValue | Relative Value |
+| Directional   | Directional    |
+| NotApplicable | Not Applicable |
