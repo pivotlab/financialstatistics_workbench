@@ -1,0 +1,17 @@
+# Assets Insurance Excess Of Net Market Values In Subsidiaries Over Recognised Net Assets Of Subsidiary Amount
+
+## identifier
+de1195
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the net market excess of the investment in a life insurance subsidiary over the recognised net assets of that subsidiary.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.ExcessOfNetMarketValuesInSubsidiariesOverRecognisedNetAssetsOfSubsidiary.Amount
+- classification=baf/bafpo/bafpo3.02.00
+- period=instant

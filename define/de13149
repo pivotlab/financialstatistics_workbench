@@ -1,0 +1,29 @@
+# Superannuation Regulatory Information Insurance Policy Arrangement Code
+
+## identifier
+de13149
+
+## type
+string
+
+## definition
+This indicates whether the contract between a Registrable Superannuation Entity (RSE) licensee and an insurance company to provide insured benefits in respect of member coverage is on an individual basis, group basis or both.
+
+## guidance
+The valid enumerated values are: 
+Individual insurance = Represents a contract between the superannuation entity and an insurance company to provide insured benefits in respect to a single member. 
+Group insurance = Represents a contract between the superannuation entity and an insurance company to provide insured benefits in respect to a group of members. 
+Both = Represents both individual insurance and group insurance.
+
+## codes
+| Name                 |
+| -------------------- |
+| Both                 |
+| Group insurance      |
+| Individual insurance |
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.InsurancePolicyArrangement.Code
+- classification=em/emsup/emsup.02.10
+- period=duration

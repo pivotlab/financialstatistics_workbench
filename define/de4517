@@ -1,0 +1,17 @@
+# Expense Insurance Surrender And Termination Deposit Component Amount
+
+## identifier
+de4517
+
+## type
+float
+
+## definition
+Report benefits paid or payable as withdrawal of any deposit elements for surrender and/or termination benefits on life investment business, i.e. where the policy is ended by either party prior to the maturity date.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.SurrenderAndTerminationDepositComponent.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

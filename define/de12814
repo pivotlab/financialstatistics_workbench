@@ -1,0 +1,17 @@
+# Assets Excluding Deferred Acquisition Costs Amount
+
+## identifier
+de12814
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of assets excluding deferred acquisition costs arising in respect of policies. This method of disclosure differs from the Australian Accounting Standards. Acquisition costs, as defined by the Australian Accounting Standards, are the fixed and variable costs of acquiring new business including commissions and similar distribution costs, and costs of accepting, issuing and initially recording policies.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.ExcludingDeferredAcquisitionCosts.Amount
+- classification=baf/bafpo/bafpo1.02.12
+- period=instant

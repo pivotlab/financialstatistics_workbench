@@ -1,0 +1,17 @@
+# Assets Loans Plus Accrued Income Amount
+
+## identifier
+de13005
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of loans classified as assets, plus income accrued but not received in relation to this asset. This method of disclosure differs from the Australian Accounting Standards. Loans include, but are not limited to, financial leases and mortgages. Loans differ from interest bearing securities as usually the asset is non negotiable (i.e. able to be traded on a secondary market).
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansPlusAccruedIncome.Amount
+- classification=baf/bafpo/bafpo1.02.12
+- period=instant

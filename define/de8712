@@ -1,0 +1,19 @@
+# Assets Investment Exposure Property Commercial Office Amount
+
+## identifier
+de8712
+
+## type
+float
+
+## definition
+This is the value of the reporting party's investments that result in an exposure to the asset class of commercial office property.
+     
+Commercial office property exposure is defined according to the nature of the risk. An exposure should be classified as commercial office property risk, if the exposure is subject to the performance of the commercial office property market. This exposure does not include property used for the reporting party's own operational use.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.ExposurePropertyCommercialOffice.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=instant

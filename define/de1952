@@ -1,0 +1,17 @@
+# Superannuation Payment Benefit Lump Sum Resignation Amount
+
+## identifier
+de1952
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the expense for benefits paid to members as a result of member resignation from the employer.
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationPayment.BenefitLumpSumResignation.Amount
+- classification=em/emsup/emsup.02.00
+- period=duration

@@ -1,0 +1,17 @@
+# Financial Risk Solvency Total Amount
+
+## identifier
+de4987
+
+## type
+float
+
+## definition
+Report the amount required under the solvency standard to ensure, as far as practicable, that, at any time, the financial position of each statutory fund of the reporting party is such that it will be able, out of the assets of the fund, to meet all policy and other liabilities referable to the fund at that time as they become due.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Solvency.Total.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

@@ -1,0 +1,20 @@
+# Liabilities Provisions Restructuring Costs Amount
+
+## identifier
+de1470
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for all provisions raised for the restructuring of an organisation.
+Including:
+- severance, termination and redundancy payments; and
+- integration costs.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Provisions.RestructuringCosts.Amount
+- classification=baf/bafpo/bafpo6.02.00
+- period=instant

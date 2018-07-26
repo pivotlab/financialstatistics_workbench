@@ -1,0 +1,16 @@
+# Regulatory Disclosures Insurance Cover Products Not Available To Members Text
+
+## identifier
+de9011
+
+## type
+string
+
+## definition
+This is the list of types of cover/products sold which members are not able to purchase from licensed Australian insurers.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuranceCoverProductsNotAvailableToMembers.Text
+- classification=baf/bafot/bafot.02.07
+- period=duration

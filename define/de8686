@@ -1,0 +1,21 @@
+# Profit Or Loss Investment Total Realised And Unrealised Excluding Foreign Exchange Amount
+
+## identifier
+de8686
+
+## type
+float
+
+## definition
+This is the value, for the duration of the relevant period, of realised and unrealised capital gains/losses associated with the entity's investments.
+
+This item does not include foreign currency gains (losses) that occur due to currency translation.
+
+Capital gains/losses are realised where the entity disposed of an asset during the relevant period. If an asset has not been disposed of during the relevant annual period, then any gains or losses recognised as the difference between the acquisition cost of the asset and the market value are unrealised.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Investment.TotalRealisedAndUnrealisedExcludingForeignExchange.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

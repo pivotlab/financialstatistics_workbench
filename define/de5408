@@ -1,0 +1,28 @@
+# Financial Risk Capital Adequacy Liabilities Basic Adjusted Amount
+
+## identifier
+de5408
+
+## type
+float
+
+## definition
+Report the Capital Adequacy Liabilities, adjusted for the prescribed yield change in the discount rate used in their valuation, in accordance with the capital adequacy standard.
+
+The Capital Adequacy Liabilities are calculated as the greater of the Policy Liability value (as determined in accordance with the assumptions of the Capital Adequacy standard) or the Current Termination Value (CTV). This value is:
+
+a) the aggregate of the greater of the Policy Liability value or the Current Termination Value (CTV) of each related product group (RPG), gross of reinsurance; adjusted for 
+b) the effective amount of risk mitigation difference to be included as an offset or addition to the value of the greater of policy liability and current termination value.
+
+The Current Termination Value of a policy is either:
+a) the amount that would be paid on the basis used in practice from time to time in the event of voluntary termination; or
+b) where no amount would be paid, the discounted present value of the unexpired risks, future payments and/or contractual premium refunds.
+
+Risk mitigation difference is the difference in the value of risk mitigation arrangements as per prudential standards and the value as reflected in the financial statements.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.LiabilitiesBasicAdjusted.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

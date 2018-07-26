@@ -1,0 +1,16 @@
+# Regulatory Disclosures Insurance Recipient Excess Monies Other Description
+
+## identifier
+de9075
+
+## type
+string
+
+## definition
+Details of the recipient of the excess monies upon wind-up other than "charity" or "members".
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuranceRecipientExcessMoniesOther.Description
+- classification=baf/bafot/bafot.02.07
+- period=instant

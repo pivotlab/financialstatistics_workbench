@@ -1,0 +1,41 @@
+# Financial Services Insurance Atypical Risk Class Type Code
+
+## identifier
+de8950
+
+## type
+string
+
+## definition
+This is the value, as at the relevant date, of the Atypical exemption category by applicable risk class, as determined in accordance with the relevant insurance regulations.
+
+## guidance
+The atypical exemption applies to an insured (policyholder) of a contract of insurance for an atypical risk to the extent that it insures against the loss or liability for one of the following risks:
+Nuclear = loss or liability arising from the hazardous properties (including radioactive, toxic or explosive properties) of nuclear fuel, nuclear material or nuclear waste;
+Biological = loss or liability arising from the hazardous biological material or biological waste;
+War = loss or liability arising from war or warlike activities;
+Terrorism = ensuring against loss or liability arising from a terrorist act;
+Medical clinical trials = ensuring against liability arising from a health-care related research;
+Space = loss or liability arising from the operation of a space object (within the meaning given by the relevant section of the Space Activities Act);
+Aviation liability = to insure against liability arising from the ownership of an aircraft, excluding loss of aircraft or its cargo;
+Shipowners' Protection and Indemnity = Being liability and expenses arising from a person owning, chartering, managing, operating or being in possession of a vessel other than a pleasure craft (within the meaning given by the relevant section in the Insurance Contracts act); or
+Equine = for ensuring against loss or liability arising from equine mortality or fertility and related risks, excluding equestrian packages.
+
+## codes
+| Name                                 |
+| ------------------------------------ |
+| Aviation liability                   |
+| Biological                           |
+| Equine                               |
+| Medical clinical trials              |
+| Nuclear                              |
+| Shipowners' Protection and Indemnity |
+| Space                                |
+| Terrorism                            |
+| War                                  |
+
+## syntax
+### xbrl
+- name=FinancialServices.Insurance.AtypicalRiskClassType.Code
+- classification=baf/bafot/bafot.02.06
+- period=instant

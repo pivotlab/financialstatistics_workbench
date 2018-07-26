@@ -1,0 +1,21 @@
+# Income Insurance Written Premium Revenue Gross Excluding Fire Service Or Other Government Levy Unclosed Amount
+
+## identifier
+de8568
+
+## type
+float
+
+## definition
+This is the value of gross written insurance premium revenue recognised during the relevant period, and which is related to unclosed business.
+
+Unclosed business is that which has been accepted by the insurer/reinsurer prior to the balance date but there is insufficient information to fully identify the business.
+
+This item excludes any fire service levy or other levies imposed by state and territory governments and is gross of any associated outwards reinsurance expense.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.WrittenPremiumRevenueGrossExcludingFireServiceOrOtherGovernmentLevyUnclosed.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

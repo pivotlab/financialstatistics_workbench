@@ -1,0 +1,17 @@
+# Income Tax Expense Or Benefit Prudential Amount
+
+## identifier
+de8543
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of the income tax expense (benefit) attributable to the profit (loss) from continuing operations. Income tax expense is reported in accordance with the relevant Accounting Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=IncomeTax.ExpenseOrBenefitPrudential.Amount
+- classification=rvc/rvctc/rvctc1.02.05
+- period=duration

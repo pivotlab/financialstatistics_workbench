@@ -1,0 +1,25 @@
+# Liabilities Member Benefits Payable Net Incurrence Settlement Transactions Amount
+
+## identifier
+de4990
+
+## type
+float
+
+## definition
+Record the net of all incurrance and settlement transactions, during the relevant period, relating to member benefits payable.
+
+This is to be determined in accordance with the requirements of current Australian Accounting Standards. 
+
+Accumulation/defined contributions: 
+The liability for accrued benefits for a defined contribution plan is the entity's present obligation to pay benefits to members and beneficiaries in the future and is calculated as the difference between the carrying amounts of the assets and the carrying amounts of the liabilities as at the relevant date. 
+
+Defined benefits:
+Accrued benefits of a defined benefit plan shall be measured, using actuarial assumptions and valuations where appropriate, as the present value of expected future payments to members arising from membership of the entity up to the measurement date. In absence of formal actuarial review, the amount is calculated as the difference between the carrying amounts of the assets and the carrying amounts of the liabilities as at the relevant date.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.MemberBenefitsPayableNetIncurrenceSettlementTransactions.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=duration

@@ -1,0 +1,17 @@
+# Regulatory Disclosures Indirect Cost Ratio Amount
+
+## identifier
+de13235
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of the portion of the indirect cost ratio associated with a specific cost. The indirect cost ratio is calculated in accordance with the Corporations Regulations and disclosed in the Product Disclosure Statement (PDS) or other disclosure material.
+
+## syntax
+### xbrl
+- balance=debit
+- name=RegulatoryDisclosures.IndirectCostRatio.Amount
+- classification=baf/bafot/bafot.02.16
+- period=duration

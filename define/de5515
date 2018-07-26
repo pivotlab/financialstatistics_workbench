@@ -1,0 +1,18 @@
+# Organisation Details Public Offer Entity Start Date
+
+## identifier
+de5515
+
+## type
+string
+
+## definition
+If the reporting party was a public offer entity for only part of the relevant period, provide the date the reporting party commenced trading as a public offer entity.
+     
+The meaning of public offer entity is to be determined in accordance with relevant superannuation legislation. Public offer entities may issue superannuation interests to the public and include public offer superannuation funds, Approved Deposit Funds or Pooled Superannuation Trusts.
+
+## syntax
+### xbrl
+- name=OrganisationDetails.PublicOfferEntityStart.Date
+- classification=py/pyde/pyde.02.06
+- period=instant

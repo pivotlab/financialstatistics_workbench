@@ -1,0 +1,26 @@
+# Financial Risk Solvency Expense Reserve Plus Greater Policy Liability MTV Adjusted Amount
+
+## identifier
+de5540
+
+## type
+float
+
+## definition
+Report the value calculated by adding the value of the expense reserve to the greater of the Solvency Liability or the Minimum Termination Value (MTV). 
+
+The greater of the Solvency Liability value or the Minimum Termination Value (MTV) is calculated as:
+
+a) the aggregate of the greater of the Solvency Liability value or the Minimum Termination Value (MTV) of each related product group (RPG), gross of reinsurance; adjusted for 
+b) the effective amount of risk mitigation difference to be included as an offset or addition to the value of the greater of Solvency Liability and Minimum Termination Value.
+
+Risk mitigation difference is the difference in the value of risk mitigation arrangements as per prudential standards and the value as reflected in the financial statements.
+
+The expense reserve is the component of the determination of the Solvency Requirement that reflects capital requirements arising from expense risks in a closed fund scenario.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Solvency.ExpenseReservePlusGreaterPolicyLiabilityMTVAdjusted.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

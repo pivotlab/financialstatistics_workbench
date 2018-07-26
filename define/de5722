@@ -1,0 +1,17 @@
+# Financial Risk Solvency Liabilities Tax Adjusted Amount
+
+## identifier
+de5722
+
+## type
+float
+
+## definition
+Report the total tax liabilities (current and deferred), adjusted for the prescribed yield change in the discount rate used in their valuation, in accordance with the solvency standard.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Solvency.LiabilitiesTaxAdjusted.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

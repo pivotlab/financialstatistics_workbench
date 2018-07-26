@@ -1,0 +1,17 @@
+# Financial Risk Management Capital Expense Reserve Offset Statutory Capital Amount
+
+## identifier
+de5358
+
+## type
+float
+
+## definition
+Report the amount of Statutory Capital which has been utilised in meeting the expense reserve requirement of all statutory funds in accordance with the solvency prudential standard and in meeting
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.ManagementCapital.ExpenseReserveOffsetStatutoryCapital.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

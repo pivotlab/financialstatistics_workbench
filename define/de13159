@@ -1,0 +1,21 @@
+# Superannuation Regulatory Information Defined Benefit Interests Indicator
+
+## identifier
+de13159
+
+## type
+boolean
+
+## definition
+This indicates whether an investment option is used to back defined benefit interests.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = The investment option is used to back defined benefit interests. 
+false = The investment option is not used to back defined benefit interests.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.DefinedBenefitInterests.Indicator
+- classification=em/emsup/emsup.02.10
+- period=instant

@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Transition Replenishment Plan Date
+
+## identifier
+de13121
+
+## type
+string
+
+## definition
+This is the date for the entity's transition plan or a replenishment plan in force to reach the target, as required by relevant prudential standards.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.TransitionReplenishmentPlan.Date
+- classification=em/emsup/emsup.02.10
+- period=instant

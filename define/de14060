@@ -1,0 +1,17 @@
+# Expense Fees Excluding Medicare Benefit Amount
+
+## identifier
+de14060
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the total fee charged excluding the Medicare benefit component.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.FeesExcludingMedicareBenefit.Amount
+- classification=baf/bafpr/bafpr1.02.26
+- period=duration

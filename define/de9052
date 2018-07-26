@@ -1,0 +1,16 @@
+# Regulatory Disclosures Complaints To External Dispute Resolution Body Count
+
+## identifier
+de9052
+
+## type
+int
+
+## definition
+If reporting party is a member of an external resolution body, the number of complaints made during the relevant period.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.ComplaintsToExternalDisputeResolutionBody.Count
+- classification=baf/bafot/bafot.02.07
+- period=duration

@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities First Home Saver Account Closed Transfer Other Provider Amount
+
+## identifier
+de8876
+
+## type
+float
+
+## definition
+This is the value of First Home Saver Accounts (FHSAs), closed at the request of individual account holders following a transfer to another FHSA provider in accordance with the FHSA Act.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.FirstHomeSaverAccountClosedTransferOtherProvider.Amount
+- classification=baf/bafpo/bafpo6.02.06
+- period=duration

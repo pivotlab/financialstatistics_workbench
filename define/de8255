@@ -1,0 +1,33 @@
+# Organisation Details Service Channel Other Face To Face Indicator
+
+## identifier
+de8255
+
+## type
+boolean
+
+## definition
+Does the service channel type not meet the definition of a 'branch' as described below as at the relevant date, but does provide face-to-face services, such as, Agencies, Mobile Lenders, Head Offices etc?
+                                                                                                                                                                     
+To be considered a branch, the following minimum face-to-face services must all be provided.
+                                                                                                                                                                     
+- accepts cash and other deposits (including business deposits) and provides change;
+                                                                                                                                                                     
+- facilitates the keeping of accounts for customer access, including the provision of account balances;
+                                                                                                                                                                     
+- opens and closes accounts;
+                                                                                                                                                                     
+- can facilitate or arrange the assessment of the credit risk of existing and potential customers; and
+                                                                                                                                                                     
+- offers additional services in the one establishment such as financial services, business banking and specialist lending, if these are generally available from the reporting party. This need not mean that a financial adviser or business credit manager be available in the branch - the staff of the branch may simply act as a referral point for customers interested in these kinds of services.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = the service channel type does not meet the definition of a 'branch', but does provide face-to-face services
+FALSE = the service channel type does meet the definition of a 'branch' or does not provide face-to-face services
+
+## syntax
+### xbrl
+- name=OrganisationDetails.ServiceChannelOtherFaceToFace.Indicator
+- classification=py/pyde/pyde.02.07
+- period=instant

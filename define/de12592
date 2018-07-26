@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Insurance Recoveries Not Reinsurance Paid Claims Gross Input Tax Credit Amount
+
+## identifier
+de12592
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of recoveries receivable by the reporting party in relation to paid insurance claims other than reinsurance recoveries, gross of related input tax credit, and net of any provisions for depreciation or impairment.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.LoansAndReceivables.InsuranceRecoveriesNotReinsurancePaidClaimsGrossInputTaxCredit.Amount
+- classification=baf/bafpo/bafpo5.02.08
+- period=instant

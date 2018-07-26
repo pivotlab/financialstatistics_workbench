@@ -1,0 +1,19 @@
+# Financial Risk Credit Unsettled Non Delivery Versus Payment Transactions Amount
+
+## identifier
+de8156
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of non-delivery-versus-payment (non-DvP) transactions that remain unsettled after their due delivery dates.
+
+Delivery-versus-payment transactions are those transactions of securities using a settlement mechanism which links the securities transfer and the funds transfer in such a way as to ensure that delivery occurs if, and only if, the corresponding payment occurs.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Credit.UnsettledNonDeliveryVersusPaymentTransactions.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

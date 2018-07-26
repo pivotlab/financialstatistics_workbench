@@ -1,0 +1,17 @@
+# Assets Investment Exposure Cash Class Amount
+
+## identifier
+de4380
+
+## type
+float
+
+## definition
+Report the value of investments that result in an exposure to the asset class of cash.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.ExposureCashClass.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=instant

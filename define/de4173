@@ -1,0 +1,17 @@
+# Expense Insurance Payouts Net Of Reinsurance Amount
+
+## identifier
+de4173
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of total payments to policy holders and net of outwards reinsurance.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.PayoutsNetOfReinsurance.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

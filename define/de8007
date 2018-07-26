@@ -1,0 +1,17 @@
+# Income Fees Management Servicing And Administration Amount
+
+## identifier
+de8007
+
+## type
+float
+
+## definition
+This is, for the duration of the relevant period, any fee income received in association with management, servicing and or administration activities provided by the reporting party.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.FeesManagementServicingAndAdministration.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

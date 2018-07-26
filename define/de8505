@@ -1,0 +1,19 @@
+# Income Insurance Written Premium Revenue Gross Excluding Fire Service Or Other Government Levy Amount
+
+## identifier
+de8505
+
+## type
+float
+
+## definition
+This is the value of gross written insurance premium revenue recognised during the relevant period, as determined in accordance with relevant accounting standards.
+
+This item excludes any fire service levy or other levies imposed by state and territory governments and is gross of any associated outwards reinsurance expense.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.WrittenPremiumRevenueGrossExcludingFireServiceOrOtherGovernmentLevy.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

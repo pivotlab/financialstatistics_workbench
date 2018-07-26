@@ -1,0 +1,17 @@
+# Superannuation Payment Benefit Lump Sum Retirement Amount
+
+## identifier
+de1949
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the expense for benefits paid to members as a result of retirement. This does not include amounts paid to members' accounts with other superannuation entities.
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationPayment.BenefitLumpSumRetirement.Amount
+- classification=em/emsup/emsup.02.00
+- period=duration

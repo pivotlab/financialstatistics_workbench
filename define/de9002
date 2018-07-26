@@ -1,0 +1,16 @@
+# Regulatory Disclosures Insurance Structure Description
+
+## identifier
+de9002
+
+## type
+string
+
+## definition
+Description of the structure of insurance programme and where this feature applies.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuranceStructure.Description
+- classification=baf/bafot/bafot.02.07
+- period=duration

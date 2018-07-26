@@ -1,0 +1,19 @@
+# Capital Expenditure Capital Work Wages And Salaries Amount
+
+## identifier
+de341
+
+## type
+float
+
+## definition
+Capital work increases the value of assets by extending, altering and/or improving them. The assets to which capital work is typically undertaken are a wide range of structures that include buildings, roads, bridges, pipelines, retaining walls and environment protection earthworks, but extends to manufacturing and enhancing pre-existing computer software products. The work may be undertaken for use by the business that carried it out or used for rental or lease to other businesses.
+
+Capitalised wages and salaries are those amounts paid for capital work done by own employees for own use or for rental or lease (e.g. wages and salaries paid to spread gravel required as an underlay for a carpark that is to be covered with bitumen) and does not include expenditure on any other asset types.
+
+## syntax
+### xbrl
+- balance=debit
+- name=CapitalExpenditure.CapitalWorkWagesAndSalaries.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=duration

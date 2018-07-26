@@ -1,0 +1,28 @@
+# Assets Other Financial Assets Derivative Precious Metals Excluding Gold Contracts Investment Amount
+
+## identifier
+de8377
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of precious metal derivative contracts classified by the reporting party as investment assets or in relation to assets classified by the reporting party as investments. 
+
+A precious metal is a classification of metals that are considered to be rare and/or have high economic value and include silver, platinum and palladium, but exclude gold.
+
+A gold contract is any contract that transfers the gold price risk associated with an underlying asset from one party to another.
+
+Derivatives are generally defined as those instruments/contracts, where the value is based on other products, and/or on prices associated with financial products. Derivative contracts involve:
+- Future delivery, receipt or exchange of financial items such as cash or another derivative instrument; or
+- Future exchange of real assets for financial items where the contract may be tradeable and has a market value.
+The contracts can either be binding on both parties (e.g. as with a currency swap) or subject to the exercise by one party of a right contained within the contract (as with options).
+
+Report this item regardless of whether favourable or unfavourable to the reporting entity.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.DerivativePreciousMetalsExcludingGoldContractsInvestment.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=instant

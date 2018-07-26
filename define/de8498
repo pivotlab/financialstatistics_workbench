@@ -1,0 +1,23 @@
+# Income Insurance Operating Other Amount
+
+## identifier
+de8498
+
+## type
+float
+
+## definition
+This is the value, for the duration of the relevant period, of other operating income. This item represents all income which is not considered part of the insurance result or investment income on shareholders' funds.
+
+The insurance result represents the sum of the underwriting result and any investment income on assets backing insurance liabilities net of investment expenses on assets backing insurance liabilities. Underwriting result represents net premium revenue less net claims expense and total underwriting expenses.
+
+Investment income on shareholders' funds represents investment income that is associated or attributable to the investment of shareholders' funds only. In cases where the insurer has an existing internal split of the assets between shareholders and insurance liabilities then this should be used to determine the investment income attributable to shareholder funds. Otherwise insurers must assume that the insurance liabilities are backed by investment assets and proportionally allocate the investment income to the insurance liabilities and the balance to shareholders fund.
+
+These items are determined in accordance with the relevant Accounting Standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.OperatingOther.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

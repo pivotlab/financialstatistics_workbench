@@ -1,0 +1,17 @@
+# Expense Insurance Maturity Deposit Component Amount
+
+## identifier
+de4699
+
+## type
+float
+
+## definition
+Report benefits paid or payable as withdrawal of any deposit elements for maturity claims on life investment business. Policy maturity is where the agreed end date of the contract has been reached.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.MaturityDepositComponent.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

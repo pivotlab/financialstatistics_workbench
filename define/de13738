@@ -1,0 +1,31 @@
+# Superannuation Regulatory Information Registrable Superannuation Entity Licensee Director Type Code
+
+## identifier
+de13738
+
+## type
+string
+
+## definition
+This indicates the director type of the individual.
+
+## guidance
+The valid enumerated values are: 
+Director = represents a director of an RSE licensee, within the meaning given in the relevant Acts. A reference to 'a director' is, in the case of a group of individual trustees, an individual trustee. 
+Individual trustee = represents an individual trustee of an RSE licensee which is a group of individual trustees. 
+Alternate director = represents an alternate director within the meaning given in the relevant Acts. 
+Director (Chair) = represents a director of an RSE licensee, within the meaning given in the relevant Acts, who is serving as chairperson of the Board.
+
+## codes
+| Name               |
+| ------------------ |
+| Alternate director |
+| Director           |
+| Director (Chair)   |
+| Individual trustee |
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.RegistrableSuperannuationEntityLicenseeDirectorType.Code
+- classification=em/emsup/emsup.02.16
+- period=duration

@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Policy Liabilities Adjusted Amount
+
+## identifier
+de12851
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of adjusted policy liabilities. This item is determined for capital base purposes in accordance with the relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.PolicyLiabilitiesAdjusted.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

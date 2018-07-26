@@ -1,0 +1,16 @@
+# Organisation Control Members Departed Disablement Count
+
+## identifier
+de5355
+
+## type
+int
+
+## definition
+Report the number of members that have exited membership of the reporting entity during the relevant period resulting from the disablement of the member.
+
+## syntax
+### xbrl
+- name=OrganisationControl.MembersDepartedDisablement.Count
+- classification=py/pyde/pyde.02.06
+- period=duration

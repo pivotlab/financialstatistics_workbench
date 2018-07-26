@@ -1,0 +1,17 @@
+# Liabilities Insurance Excess Technical Provisions Premiums Liability Surplus Deficit Amount
+
+## identifier
+de8853
+
+## type
+float
+
+## definition
+This is the amount, as at the relevant date, by which the premiums liabilities technical provision determined in accordance with accounting standards exceeds (or is in deficit of) the net premiums liability determined in accordance with prudential standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.ExcessTechnicalProvisionsPremiumsLiabilitySurplusDeficit.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

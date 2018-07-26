@@ -1,0 +1,16 @@
+# Regulatory Disclosures General Treatment Claims Processed Five Days Percent
+
+## identifier
+de14063
+
+## type
+float
+
+## definition
+This is the percentage, during the relevant period, of general treatment (excluding hospital-substitute treatment and Chronic Disease Management Program (CDMP)) claims processed within five working days.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.GeneralTreatmentClaimsProcessedFiveDays.Percent
+- classification=baf/bafot/bafot.02.25
+- period=duration

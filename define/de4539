@@ -1,0 +1,17 @@
+# Equity Retained Profits As Calculated Amount
+
+## identifier
+de4539
+
+## type
+float
+
+## definition
+Report the value of Shareholder retained profits as calculated in accordance with the requirements of this form.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.RetainedProfitsAsCalculated.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

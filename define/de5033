@@ -1,0 +1,17 @@
+# Profit Or Loss Insurance Experience Tax Rates Amount
+
+## identifier
+de5033
+
+## type
+float
+
+## definition
+Report the movement in profit and loss due to changes in assumptions about tax rates on earnings on assets backing policy liabilities for the relevant period.
+
+## syntax
+### xbrl
+- balance=debit
+- name=ProfitOrLoss.Insurance.ExperienceTaxRates.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

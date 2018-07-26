@@ -1,0 +1,17 @@
+# Assets Intangible Capitalised Expenses Comprising Of Securitisation Establishment Costs Amount
+
+## identifier
+de1236
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the balance of securitisation establishment costs that are capitalised and deferred.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Intangible.CapitalisedExpensesComprisingOfSecuritisationEstablishmentCosts.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

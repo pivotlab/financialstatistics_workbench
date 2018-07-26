@@ -1,0 +1,21 @@
+# Organisation Control Employer Associate Indicator
+
+## identifier
+de13755
+
+## type
+boolean
+
+## definition
+This indicates whether the employer is an associate of the entity.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = the employer is the Registrable Superannuation Entity (RSE) licensee or is an associate of the RSE licensee.
+false = the employer is not the Registrable Superannuation Entity (RSE) licensee or an associate of the RSE licensee.
+
+## syntax
+### xbrl
+- name=OrganisationControl.EmployerAssociate.Indicator
+- classification=py/pyde/pyde.02.18
+- period=duration

@@ -1,0 +1,17 @@
+# Expense Insurance Claim Inwards Amount
+
+## identifier
+de13036
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for claims expense (including current year bonus). That is claims against policies for which the reporting entity has accepted the liability from another insurer or reinsurer. Include bonuses paid to the insurer or reinsurer as a distribution of current year profit.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.ClaimInwards.Amount
+- classification=baf/bafpr/bafpr3.02.11
+- period=duration

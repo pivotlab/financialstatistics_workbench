@@ -1,0 +1,16 @@
+# Organisation Control Registered Member Account Flow Count
+
+## identifier
+de13173
+
+## type
+int
+
+## definition
+This is the number, during the relevant period, of distinct entries recorded in the register of member accounts (or other equivalent mechanism).
+
+## syntax
+### xbrl
+- name=OrganisationControl.RegisteredMemberAccountFlow.Count
+- classification=py/pyde/pyde.02.13
+- period=duration

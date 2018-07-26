@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Households Net Stable Funding Ratio Residential Mortgage Amount
+
+## identifier
+de14888
+
+## type
+float
+
+## definition
+The value of residential mortgages that are subject to, or would qualify for, the relevant risk weight of Prudential Standard APS 112 - Capital Adequacy: Standardised Approach to Credit Risk including the remaining carrying value of self-securitised assets that are eligible as committed liquidity facility (CLF) collateral not reported elsewhere in the net stable funding ratio calculations.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.LoansAndReceivables.Households.NetStableFundingRatioResidentialMortgage.Amount
+- classification=baf/bafpo/bafpo5.02.15
+- period=instant

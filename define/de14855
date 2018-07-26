@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities Financial Claims Scheme Entitlement Maximum Amount
+
+## identifier
+de14855
+
+## type
+float
+
+## definition
+The total value of all account-holders' Financial Claims Scheme (FCS) balances in protected accounts after application of the FCS limit.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.FinancialClaimsSchemeEntitlementMaximum.Amount
+- classification=baf/bafpo/bafpo6.02.17
+- period=instant

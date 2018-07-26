@@ -1,0 +1,35 @@
+# Superannuation Regulatory Information Registrable Superannuation Entity Licensee Board Representation Code
+
+## identifier
+de13737
+
+## type
+string
+
+## definition
+This indicates the representation type of the director, individual trustee or alternate director.
+
+## guidance
+The valid enumerated values are: 
+Member representative = where the director is appointed by the RSE licensee to represent the interests of members. 
+Employer representative = where the director is appointed by the RSE licensee to represent the interest of an employer(s). 
+Independent director = where the director is an independent director within the meaning given in the relevant Acts. 
+Executive director = represents a director who is a member of the RSE licensee's management. 
+Non executive director = represents a director who is not a member of the RSE licensee's management. 
+Non affiliated director = represents a director who is non-affiliated within the meaning given in the relevant prudential standards.
+
+## codes
+| Name                    |
+| ----------------------- |
+| Employer representative |
+| Executive director      |
+| Independent director    |
+| Member representative   |
+| Non affiliated director |
+| Non executive director  |
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.RegistrableSuperannuationEntityLicenseeBoardRepresentation.Code
+- classification=em/emsup/emsup.02.16
+- period=duration

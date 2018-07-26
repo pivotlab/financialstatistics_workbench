@@ -1,0 +1,17 @@
+# Liabilities Provisions Accounting Specific Transfers From Collective Amount
+
+## identifier
+de7695
+
+## type
+float
+
+## definition
+This is the value of all increases in specific provisions for impairment of loans and advances due to transfers from provisions for impairment of loans and advances assessed on the collective basis during the relevant period. Specific and Collective provisions are determined in accordance with the requirements of the International Financial Reporting Standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Provisions.AccountingSpecificTransfersFromCollective.Amount
+- classification=baf/bafpo/bafpo6.02.06
+- period=duration

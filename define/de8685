@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Assets GRF 110 G Amount
+
+## identifier
+de8685
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of applicable assets to be reported on the APRA form GRF_110_0_G 'Capital Adequacy'. This includes assets listed under APRA form GRF_300_0_G Statement of Financial Position. This excludes derivatives and other assets that are subject to a risk charge under the APRA forms GRF_141_0_G and GRF_301_0_G.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.AssetsGRF110G.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

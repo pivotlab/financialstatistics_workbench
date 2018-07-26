@@ -1,0 +1,17 @@
+# Equity Available For Appropriation Amount
+
+## identifier
+de259
+
+## type
+float
+
+## definition
+Report the value, as at the reporting date, of retained earnings available for appropriation in the form of a distribution to equity holders or a transfer to reserves.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.AvailableForAppropriation.Amount
+- classification=baf/bafpo/bafpo1.02.00
+- period=duration

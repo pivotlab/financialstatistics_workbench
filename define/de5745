@@ -1,0 +1,31 @@
+# Financial Risk Exposures Other SRF 120 0 SRF 220 0 SRF 320 0 Description
+
+## identifier
+de5745
+
+## type
+string
+
+## definition
+Report the description of other exposures, as required to be reported on APRA forms SRF_120_0, SRF_220_0 and SRF_320_0.
+
+This description includes other reported exposures that are not categorised as any of the following:
+- Securities Under Agreement to Resell;
+- Receivables;
+- Investments;
+- Member Benefits Payable;
+- Borrowings;
+- Derivative Instruments; or
+- Payables and Creditors.
+
+An exposure represents a claim or commitment of an entity, recorded both on and off the balance sheet and which can be of the following in nature:
+(a) Credit exposures (i.e. such as a money market placement with a Bank or holding of a corporation's debt securities);
+(b) Asset exposures that are not in the nature of a credit exposure (e.g. a direct property investment); and
+(c) Exposures in the nature of a liability or obligation to a single party or group of related parties.
+An off-balance sheet exposure refers to an item that is not recognised in the statement of financial position, such as contingent assets and liabilities.
+
+## syntax
+### xbrl
+- name=FinancialRisk.ExposuresOtherSRF1200SRF2200SRF3200.Description
+- classification=baf/bafot/bafot.02.05
+- period=duration

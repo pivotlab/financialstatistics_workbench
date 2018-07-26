@@ -1,0 +1,19 @@
+# Expense Insurance Underwriting Amount
+
+## identifier
+de8669
+
+## type
+float
+
+## definition
+This is the value of acquisition costs and other underwriting expenses recognised during the relevant period, as determined in accordance with relevant Accounting Standards.
+
+This item should be an aggregate of all expenses incurred in writing insurance business gross of any commission revenue.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.Underwriting.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

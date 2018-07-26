@@ -1,0 +1,17 @@
+# Liabilities Insurance Participating Policy Liabilities Amount
+
+## identifier
+de12930
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of value of the impact of the insurance stresses on participating policy liabilities, as determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.ParticipatingPolicyLiabilities.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

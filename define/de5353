@@ -1,0 +1,53 @@
+# Financial Risk Solvency Balancing Item Amount
+
+## identifier
+de5353
+
+## type
+float
+
+## definition
+This is a balancing item within the list in which it is being used.
+
+Balance of Resilience Reserve (RRB) is expected to be calculated as:
+ RRB    = RR  -  RRCR
+
+Where:
+RR    =  Resilience Reserve  =  L' x [A / A"] - L;
+
+RRCR    = (L' / A") x (ACRY + ACRD)
+
+A      =  Assets prior to prescribed change; 
+
+L       =  Liabilities prior to prescribed change.
+
+L'    =  Liabilities adjusted for the prescribed yield change in the discount rate used in their valuation, in accordance with the solvency standard.
+
+A"    =  Adjusted value of admissible assets (see below); 
+
+ACRY       =  value of the Credit Risk Yield Adjustment - an addition to the resilience reserves (see below) made in accordance with the solvency standards; and
+
+ACRD       =  value of the Credit Risk Default Adjustment - an addition to the resilience reserves (see below) calculated using the prescribed Credit Risk Default factors as set out in the solvency standards.
+
+Adjusted value of admissible assets is the value of total admissible assets with resilience requirement adjusted for:
+- Credit Risk Yield Changes;
+- Prescribed Yield Changes (allowing for diversification factor);
+- Adverse Exchange Movement factor; and
+- Credit Risk Default factors
+as determined in accordance with the solvency standards.
+
+Total admissible assets is the value of total assets as determined in accordance with the accounting standards less the value of those deemed to be inadmissible, as per the solvency standards. 
+
+The inadmissible assets are: 
+1) assets, the value of which is dependent on the ongoing conduct of business; 
+2) the amount by which holdings in associated financial services entities (as defined in the prudential standards) exceeds their net tangible assets; and 
+3) concentrated or illiquid asset exposures.
+
+The Resilience Reserve is determined as the additional amount that needs to be held before the happening of a prescribed set of changes in the economic environment, such that after the changes the admissible assets of the reporting party are able to meet the policy owner and other liabilities of the statutory fund. There is no resilience requirement where the policy owner liabilities of the statutory fund move in harmony with the assets supporting them.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Solvency.BalancingItem.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

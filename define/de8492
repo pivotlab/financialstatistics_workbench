@@ -1,0 +1,19 @@
+# Income Insurance Commission Excluding Reinsurer Premium Rebates Amount
+
+## identifier
+de8492
+
+## type
+float
+
+## definition
+This is the value, for the duration of the relevant period, of commission revenue earned in relation to the insurance business. This item is determined in accordance with the relevant Accounting Standards.
+
+This item excludes premium rebates received from reinsurers.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.CommissionExcludingReinsurerPremiumRebates.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

@@ -1,0 +1,27 @@
+# Person Demographic Details Gender Restricted Code
+
+## identifier
+de13736
+
+## type
+string
+
+## definition
+This indicates the gender of an individual person where male or female are the only allowable options.
+
+## guidance
+The valid enumerated values are: 
+Female = Where the gender is female.
+Male = Where the gender is male.
+
+## codes
+| Name   |
+| ------ |
+| Female |
+| Male   |
+
+## syntax
+### xbrl
+- name=PersonDemographicDetails.GenderRestricted.Code
+- classification=py/pyde/pyde.02.18
+- period=duration

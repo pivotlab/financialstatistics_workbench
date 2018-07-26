@@ -1,0 +1,16 @@
+# Income Insurance Other DRF 310 Series Description
+
+## identifier
+de9061
+
+## type
+string
+
+## definition
+This is the description of the balancing item other or other accident in the list of classes of business as required on the DRF_310 series.
+
+## syntax
+### xbrl
+- name=Income.Insurance.OtherDRF310Series.Description
+- classification=baf/bafpr/bafpr3.02.06
+- period=duration

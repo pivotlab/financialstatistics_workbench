@@ -1,0 +1,27 @@
+# Financial Risk Solvency Admissible Assets No Resilience Requirement Amount
+
+## identifier
+de5736
+
+## type
+float
+
+## definition
+Report the value of admissible assets for which there is no resilience reserve requirement, as per the solvency standard.
+
+Mismatching of asset and liability exposures necessitates the provision of a reserve for adverse movements in the investment markets to the extent they will not be matched by a corresponding movement in the liabilities. Where the policy owner liabilities of the statutory fund move in harmony with the assets supporting them, the Resilience Reserve in respect of those liabilities can be zero. It is not necessary to hold resilience reserves for that part of an asset which is inadmissible nor the free assets (in excess of the Capital Adequacy or Solvency Requirement) of the fund.
+
+The inadmissible assets are: 
+a) assets which have a value that is dependent upon the continuation of the business;
+b) holdings in an associated or subsidiary entity which is a Financial Services entity;
+c) non-realisable (in the context of the solvency tests) intangible assets;
+d) assets with too little diversification, are too illiquid or have too great an exposure to one obligor of low credit standing;
+e) reinsurance assets which may not be fully recoverable in the context of the solvency tests; and
+f) amounts by which the recorded value of an asset exceeds its net realisable value.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.AdmissibleAssetsNoResilienceRequirement.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

@@ -1,0 +1,17 @@
+# Assets High Quality Liquid Asset 1 Excluding Notes Coins Central Bank Balances Amount
+
+## identifier
+de14879
+
+## type
+float
+
+## definition
+The value of all high quality liquid assets 1 (HQLA1) according to Prudential Standard APS 210 - Liquidity - excluding notes and coins immediately available to meet obligations and central bank balances, to the extent that these balances may be drawn down in times of stress.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.HighQualityLiquidAsset1ExcludingNotesCoinsCentralBankBalances.Amount
+- classification=baf/bafpo/bafpo1.02.32
+- period=instant

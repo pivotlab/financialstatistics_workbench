@@ -1,0 +1,17 @@
+# Miscellaneous Other Determined Amount
+
+## identifier
+de14857
+
+## type
+float
+
+## definition
+The value of other amounts as determined by legislative instrument.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Miscellaneous.OtherDetermined.Amount
+- classification=baf/bafot/bafot.02.31
+- period=instant

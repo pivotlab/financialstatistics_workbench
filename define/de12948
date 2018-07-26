@@ -1,0 +1,17 @@
+# Liabilities Insurance Provisions Expected Premiums Liabilities Tax Amount
+
+## identifier
+de12948
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of tax liabilities from profits emerging from premiums expected to be received.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.ProvisionsExpectedPremiumsLiabilitiesTax.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

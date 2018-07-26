@@ -1,0 +1,17 @@
+# Assets Insurance Liability Adequacy Test Write Down Deferred Acquisition Cost Amount
+
+## identifier
+de8829
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the Liability Adequacy Test (LAT) write-down in relation to Deferred Acquisition Costs (DAC) as determined in accordance with relevant accounting standards. If the present value of the expected future cash flows relating to future claims arising from the rights and obligations under current general insurance contracts, plus an additional risk margin to reflect the inherent uncertainty in the central estimate, exceed the unearned premium liability less related intangible assets and related deferred acquisition costs, then the unearned premium liability is deficient. This deficiency shall first be written off against related intangible assets and then against related deferred acquisition costs.  The value reported here is the amount by which those deferred acquisition costs were written down as a result of the application of this requirement.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.Insurance.LiabilityAdequacyTestWriteDownDeferredAcquisitionCost.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

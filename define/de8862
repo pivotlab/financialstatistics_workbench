@@ -1,0 +1,24 @@
+# Financial Services Insurance Premium Invoiced Amount
+
+## identifier
+de8862
+
+## type
+float
+
+## definition
+Report the value of insurance premium invoiced during the reporting period. 
+
+For the purposes of this item, premium is:
+     - net of any premium refunds and rebates;
+     - exclusive of fire service levy or other levies imposed by state and territory governments; 
+     - exclusive of charges payable such as survey and underwriting fees;
+     - inclusive of commissions payable; and
+     - inclusive of non-resident withholding tax.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialServices.Insurance.PremiumInvoiced.Amount
+- classification=baf/bafot/bafot.02.06
+- period=duration

@@ -1,0 +1,16 @@
+# Regulatory Disclosures Moving Average Target Return Percent
+
+## identifier
+de13218
+
+## type
+float
+
+## definition
+This is the percentage, during the relevant period, of the ten year moving average return target on an investment. That is the average of the actual return target for each year reported as calculated in accordance with the relevant reporting standard.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.MovingAverageTargetReturn.Percent
+- classification=baf/bafot/bafot.02.16
+- period=duration

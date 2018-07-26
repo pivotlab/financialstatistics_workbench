@@ -1,0 +1,21 @@
+# Superannuation Regulatory Information Investments Derivatives Indicator
+
+## identifier
+de13163
+
+## type
+boolean
+
+## definition
+This indicates whether the reporting entity holds investments in derivative contracts.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = the reporting entity holds investments in derivative contracts. 
+false = the reporting entity does not hold investments in derivative contracts.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.InvestmentsDerivatives.Indicator
+- classification=em/emsup/emsup.02.10
+- period=instant

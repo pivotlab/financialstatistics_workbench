@@ -1,0 +1,18 @@
+# Organisation Control Members Departed Other Description
+
+## identifier
+de5509
+
+## type
+string
+
+## definition
+Description of the reason for members exiting during the relevant period resulting from any reason that cannot be appropriately classified in the list in which this element belongs.
+
+This is the description of the detailed line items within the balancing item within the list in which it is being used.
+
+## syntax
+### xbrl
+- name=OrganisationControl.MembersDepartedOther.Description
+- classification=py/pyde/pyde.02.06
+- period=duration

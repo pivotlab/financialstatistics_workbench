@@ -1,0 +1,21 @@
+# Expense Insurance Current Liability Adequacy Test Result Amount
+
+## identifier
+de8489
+
+## type
+float
+
+## definition
+This is the value, for the duration of the relevant period, of any adjustments to deferred acquisition costs or the unexpired risk liability as a result of performing the Liability Adequacy Tests (LAT). This item is determined in accordance with the relevant Accounting Standards.
+
+Report at this item only the results of the LAT performed in the current relevant period.
+
+Liability adequacy test means an assessment of whether the carrying amount of an insurance liability needs to be increased (or the carrying amount of the related deferred acquisition costs or related intangible assets decreased) based on a review of future cash flows.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.CurrentLiabilityAdequacyTestResult.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

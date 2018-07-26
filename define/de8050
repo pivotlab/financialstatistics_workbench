@@ -1,0 +1,17 @@
+# Financial Risk Market Daily Loss Fourth Largest Amount
+
+## identifier
+de8050
+
+## type
+float
+
+## definition
+This is the value of the fourth largest daily loss experienced by the reporting party over the relevant period due to market movements.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.DailyLossFourthLargest.Amount
+- classification=baf/bafot/bafot.02.06
+- period=duration

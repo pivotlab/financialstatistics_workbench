@@ -1,0 +1,17 @@
+# Liabilities Average Balance Of Interest Bearing Liabilities Other ARF 330 1 Amount
+
+## identifier
+de8022
+
+## type
+float
+
+## definition
+This is, for the duration of the relevant period, the average balance of other interest bearing liabilities, as required to be reported on APRA forms ARF_330_1_L and ARF_330_1_C. The average may be calculated by any method consistent with internal systems of the reporting entity.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.AverageBalanceOfInterestBearing.LiabilitiesOtherARF3301.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=duration

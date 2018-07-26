@@ -1,0 +1,29 @@
+# Liabilities Insurance Outstanding Claims Liability Central Estimate Group Adjustments Amount
+
+## identifier
+de12922
+
+## type
+float
+
+## definition
+This is a balancing in the list in which it is being used.
+
+This is the value, as at the relevant date of the central estimate component of Outstanding Claims Liability Group Adjustments calculated as A - (B+C), where:
+
+     A = central estimate component of outstanding claims liability (OCL) - Total consolidated Level 2
+     B = central estimate component of outstanding claims liability (OCL) - Total direct business partially consolidated
+     C = central estimate component of outstanding claims liability (OCL) - Total reinsurance business partially consolidated
+
+For the purposes of this item the OCL central estimate component is determined in accordance with relevant prudential standards. 
+
+OCL relates to all claims incurred prior to the valuation date, whether or not they have been reported to the insurer. The value of the OCL must include an amount in respect of the expenses that the insurer expects to incur in settling these claims. The value of OCL must not include any Government charges directly imposed on the insurer such as levies, duties and taxes, but must be gross of input tax credit recoveries.
+
+The central estimate will be measured as the present value of the future expected payments, i.e. discounted for future investment income, determined in accordance with relevant prudential standards. The central estimate is intended to reflect the mean value in the range of possible values for the outcome (that is, the mean of the distribution of probabilistic outcomes), and so does not include any risk margin.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.OutstandingClaimsLiabilityCentralEstimateGroupAdjustments.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

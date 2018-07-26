@@ -1,0 +1,29 @@
+# Financial Services Insurance Customised Exemption Reason Code
+
+## identifier
+de8951
+
+## type
+string
+
+## definition
+This is the reason provided, as at the relevant date, for an insurance contract placed with an unauthorised foreign insurer (UFI), under the Customised exemption arrangement.
+
+## guidance
+The custom exemption, as defined in the relevant insurance regulations, can apply to an insured (policyholder) when the general insurance intermediary is satisfied, on reasonable grounds, that the policyholder is insuring for the following risks:
+Availability = no Australian insurer available to insure against the particular risk;
+Terms = the terms (including price) on which any regulated insurer (as defined by APRA) will insure against the risk are substantially less favourable to the insured that the terms on which a UFI will insure against the risk;
+Other = any other customised exemption arrangement reason.
+
+## codes
+| Name         |
+| ------------ |
+| Availability |
+| Other        |
+| Terms        |
+
+## syntax
+### xbrl
+- name=FinancialServices.Insurance.CustomisedExemptionReason.Code
+- classification=baf/bafot/bafot.02.06
+- period=instant

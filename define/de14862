@@ -1,0 +1,16 @@
+# Financial Risk Highest Minimum Liquidity Holdings Ratio Percent
+
+## identifier
+de14862
+
+## type
+float
+
+## definition
+This is the percentage, for the highest minimum liquidity holdings (MLH) ratio maintained during the reporting period.
+
+## syntax
+### xbrl
+- name=FinancialRisk.HighestMinimumLiquidityHoldingsRatio.Percent
+- classification=baf/bafot/bafot.02.32
+- period=duration

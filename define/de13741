@@ -1,0 +1,29 @@
+# Superannuation Regulatory Information Registrable Superannuation Entity Licensee Ownership Code
+
+## identifier
+de13741
+
+## type
+string
+
+## definition
+This indicates, as at the relevant date, the Registrable Superannuation Entity (RSE) licensee ownership type.
+
+## guidance
+The valid enumerated values are: Financial services corporation ownership = where the owner of the RSE licensee is a financial services corporation, i.e. the owner is a legal entity created for the purpose of producing financial goods and services for the market, that may be a source of profit or other financial gain to its owner(s) and it is collectively owned by shareholders who have the authority to appoint directors responsible for its general management. Excludes: a financial services corporation that is the principal employer-sponsor of all RSEs within the RSE licensee's business operations. Employer sponsor (non-public sector) ownership = where the owner of the RSE licensee is the principal employer-sponsor of an RSE within the RSE licensee's business operations. Include: where the RSE licensee is owned by employees of the employer-sponsor. Exclude: where the employer-sponsor is a public sector organisation. Public sector organisation ownership = where the owner of the RSE licensee is an organisation within the government sector or a resident corporation and quasi-corporation controlled by the general government sector. Include: where the public sector organisation is the principal employer-sponsor of an RSE within the RSE licensee's business operations. Nominating organisation ownership = where the owner of the RSE licensee is an employee association or employer association that represents the membership / employers of the RSEs within the RSE licensee's business operations. Include: where the RSE licensee is owned by directors representing the membership / employers of the RSEs within the RSE licensee's business operations. Public company ownership = where the owner of the RSE licensee is a public company. Excludes: a public company that is a financial services corporation, a public company that is the principal employer-sponsor of an RSE. Other ownership type = where the owner of the RSE licensee is not categorised elsewhere.
+
+## codes
+| Name                                     |
+| ---------------------------------------- |
+| Employer sponsor corporation ownership   |
+| Financial services corporation ownership |
+| Nominating organisation ownership        |
+| Other ownership type                     |
+| Public company ownership                 |
+| Public sector organisation ownership     |
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.RegistrableSuperannuationEntityLicenseeOwnership.Code
+- classification=em/emsup/emsup.02.16
+- period=instant

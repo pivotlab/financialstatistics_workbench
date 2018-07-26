@@ -1,0 +1,25 @@
+# Financial Risk Market VaR Capital Requirement Including Incremental Default Risk Charge Amount
+
+## identifier
+de8106
+
+## type
+float
+
+## definition
+This is the value, calculated as at the relevant date, of the Value-at-Risk method capital requirement, as determined in accordance with relevant prudential standards.
+
+The capital requirement is the larger of 'End of Period VaR' and 'Scaled Average VaR' across asset classes plus the 'Incremental Default Risk Charge'.
+
+VaR, or Value at Risk, is a technique used to estimate the likelihood of losses in a portfolio, based on the analysis of historical price movements and volatilities, over a specified observation period.
+
+Scaled average VaR represents the average VaR, calculated over the most recent 60 trading days prior to and including the relevant date, multiplied by the scaling factor applicable.
+
+For the purposes of this item the amount reported is the average of the 99% ten-day VaR number calculated daily over the relevant period. A 99% ten-day VaR represents a simulated mark-to-market loss for which there is a 1% probability of occurrence over the next ten days, assuming there is no trading of the portfolio.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.VaRCapitalRequirementIncludingIncrementalDefaultRiskCharge.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

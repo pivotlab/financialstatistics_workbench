@@ -1,0 +1,17 @@
+# Assets Other Financial Assets Deferred Acquisition Costs Of General Insurance Policies Amount
+
+## identifier
+de1234
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for deferred acquisition costs relating to general insurance policies.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.DeferredAcquisitionCostsOfGeneralInsurancePolicies.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

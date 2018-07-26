@@ -1,0 +1,20 @@
+# Assets Derivative Financial Instruments Ultimate Risk Claims Amount
+
+## identifier
+de8756
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of all derivatives instruments with a positive fair value, independent of whether the derivative contracts are booked as off- or on-balance sheet items. The data should be reported on an ultimate risk basis, i.e. positions should be allocated to the country where the final risk lies.
+
+## guidance
+Credit derivatives, such as credit default swaps and total return swaps, should only be reported under the derivative contracts item if they belong to the trading book of a protection buying reporting entity. Credit derivatives which belong to the banking book should be reported as risk transfers by the protection buyer and, all credit derivatives should be reported as guarantees by the protection seller
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.DerivativeFinancialInstruments.ClaimsBIS.Amount
+- classification=baf/bafpo/bafpo5.02.05
+- period=instant

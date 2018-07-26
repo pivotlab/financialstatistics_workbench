@@ -1,0 +1,17 @@
+# Financial Risk Minimum Capital Requirement Amount
+
+## identifier
+de8633
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the minimum capital requirement, being the amount of risk-based capital that is required for an entity to hold to meet its obligations under a wide range of circumstances determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.MinimumCapitalRequirement.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

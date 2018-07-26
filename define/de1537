@@ -1,0 +1,17 @@
+# Equity Reserves Asset Revaluation Reserve Intangibles Revaluation Surplus Amount
+
+## identifier
+de1537
+
+## type
+float
+
+## definition
+Report the value, as at the relevant date, of all asset revaluation reserves, determined in accordance with Accounting Standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Reserves.AssetRevaluationReserveIntangiblesRevaluationSurplus.Amount
+- classification=baf/bafpo/bafpo2.02.00
+- period=instant

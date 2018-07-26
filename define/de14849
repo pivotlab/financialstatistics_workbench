@@ -1,0 +1,19 @@
+# Assets Loans And Receivables Debt Mediation Count
+
+## identifier
+de14849
+
+## type
+int
+
+## definition
+The number of business entities for which an instance of farm debt mediation has been initiated.
+
+## guidance
+A structured negotiation process where a neutral and independent mediator assists the borrower and the creditor to try to reach agreement about current and future debt arrangements.
+
+## syntax
+### xbrl
+- name=Assets.LoansAndReceivables.DebtMediation.Count
+- classification=baf/bafpo/bafpo5.02.14
+- period=duration

@@ -1,0 +1,26 @@
+# Financial Risk Solvency Inadmissible Assets Indexed IBS Amount
+
+## identifier
+de4886
+
+## type
+float
+
+## definition
+Report the inadmissible value of indexed interest bearing securities as per the solvency standard. 
+
+Indexed debt securities pay an income stream that is dependent on an external factor.
+
+Interest bearing securities are debt securities paying an income stream based upon an interest rate consistent with the classification and measurement basis used for investment securities in accordance with the accounting standards.
+
+The inadmissible assets are: 
+a) holdings in an associated or subsidiary entity which is a Financial Services entity;
+b) assets with too little diversification, are too illiquid or have too great an exposure to one obligor of low credit standing; and 
+c) amounts by which the recorded value of an asset exceeds its net realisable value.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.InadmissibleAssetsIndexedIBS.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

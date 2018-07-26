@@ -1,0 +1,22 @@
+# Income Insurance Fees Other Amount
+
+## identifier
+de5106
+
+## type
+float
+
+## definition
+This is the balancing item in the list in which it is being used.
+
+Report the value of fees for management services rendered by the reporting party during the relevant period other than;
+
+- premium related fees revenue; and 
+- fees reported as movement in policy liabilities.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.FeesOther.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

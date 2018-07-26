@@ -1,0 +1,17 @@
+# Regulatory Disclosures Fees And Other Costs Amount
+
+## identifier
+de13215
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of the annual investment, administration and advice fees and costs.
+
+## syntax
+### xbrl
+- balance=debit
+- name=RegulatoryDisclosures.FeesAndOtherCosts.Amount
+- classification=baf/bafot/bafot.02.16
+- period=duration

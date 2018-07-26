@@ -1,0 +1,19 @@
+# Assets Insurance Contractual Regular Contributions Increase Amount
+
+## identifier
+de5677
+
+## type
+float
+
+## definition
+Report the total of all increases to Contractual Regular Contributions due to new policies sold during the period, including CPI increases.
+
+Contractual Regular Contributions are the total gross premiums for the current relevant period that are accepted through direct debit, have a specific contractual requirement for future on-going premiums, have an expectation of renewal each year (e.g. Yearly Renewable term products) or generally cause a policy to discontinue on cessation of future payment.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.ContractualRegularContributionsIncrease.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=duration

@@ -1,0 +1,22 @@
+# Financial Risk Exposures Other Investment Assets Indirect Holdings Details LRF 220 0 Text
+
+## identifier
+de5401
+
+## type
+string
+
+## definition
+Report, where indirect holdings of Other Investment Asset exposures to a counterparty exist, the details of the direct holding through which these indirect holdings are held.
+
+This information should detail the name(s) of the counterparties through which indirect holdings of the reporting party are held.
+
+Other Investment Assets represent those which are required to be reported on APRA form LRF_220_0.
+
+An exposure to a counterparty, or a group of related counterparties, is the aggregate of all claims, commitments and contingent liabilities arising from on- and off-balance sheet transactions with the counterparty or group of related counterparties.
+
+## syntax
+### xbrl
+- name=FinancialRisk.ExposuresOtherInvestmentAssetsIndirectHoldingsDetailsLRF2200.Text
+- classification=baf/bafot/bafot.02.05
+- period=instant

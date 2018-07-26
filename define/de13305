@@ -1,0 +1,16 @@
+# Regulatory Disclosures Agreed Run Off Rate Percent
+
+## identifier
+de13305
+
+## type
+float
+
+## definition
+This is the percentage, as at the relevant date, for the agreed run-off rates for cash inflows and outflows not pre-determined in the relevant prudential standards.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.AgreedRunOffRate.Percent
+- classification=baf/bafot/bafot.02.19
+- period=instant

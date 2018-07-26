@@ -1,0 +1,32 @@
+# Financial Risk Capital Adequacy Adjusted Admissible Investment Property Amount
+
+## identifier
+de5166
+
+## type
+float
+
+## definition
+Report the value of admissible Investment Property with resilience requirement adjusted for:
+- Credit Risk Yield Changes;
+- Prescribed Yield Changes (allowing for diversification factor);
+- Adverse Exchange Movement factor; and
+- Credit Risk Default factors
+as determined in accordance with the capital adequacy standards.
+
+Admissible Investment Property is the net market value of the entity's holdings of property investments as determined in accordance with the relevant accounting standards less the value of those deemed to be inadmissible, as per the capital adequacy standard. This  includes investments in property by way of units in property trusts or other indirect investment methods as well as investments in real property (land and buildings).
+
+The inadmissible assets are: 
+a) defined benefit superannuation fund surpluses;
+b) holdings in an associated or subsidiary entity which is a Financial Services entity;
+c) non-realisable (in the context of the capital adequacy tests) intangible assets;
+d) assets with too little diversification, are too illiquid or have too great an exposure to one obligor of low credit standing;
+e) reinsurance assets which may not be fully recoverable in the context of the capital adequacy tests; and
+f) amounts by which the recorded value of an asset exceeds its net realisable value.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.AdjustedAdmissibleInvestmentProperty.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

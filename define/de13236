@@ -1,0 +1,16 @@
+# Regulatory Disclosures New Investment Option Start Date
+
+## identifier
+de13236
+
+## type
+string
+
+## definition
+This is the start date of the reporting period for a new investment option.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.NewInvestmentOptionStart.Date
+- classification=baf/bafot/bafot.02.16
+- period=instant

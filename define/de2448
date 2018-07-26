@@ -1,0 +1,19 @@
+# Liabilities Other Financial Liabilities Current Debt Securities Amount
+
+## identifier
+de2448
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for all borrowings by the reporting entity in the form of commercial paper, promissory notes and other forms of securities issued by the insurer.
+
+Include all notes/securities such as commercial paper or promissory notes issued with a residual term to maturity of more than 12 months.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.CurrentDebtSecurities.Amount
+- classification=baf/bafpo/bafpo6.02.08
+- period=instant

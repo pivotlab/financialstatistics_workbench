@@ -1,0 +1,17 @@
+# Equity Capital Contributions Amount
+
+## identifier
+de2321
+
+## type
+float
+
+## definition
+Report the value of funds received and allocated to retained earnings during the report period. This item refers only to funds that are capital contributions and are not required to be repaid.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.CapitalContributions.Amount
+- classification=baf/bafpo/bafpo1.02.00
+- period=duration

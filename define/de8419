@@ -1,0 +1,16 @@
+# Superannuation Contribution Other SRF 100 0 Description
+
+## identifier
+de8419
+
+## type
+string
+
+## definition
+This is the description of the detailed line item comprising the other contribution revenue balancing item, as required to be reported on APRA form SRF_100_0.
+
+## syntax
+### xbrl
+- name=SuperannuationContribution.OtherSRF1000.Description
+- classification=em/emsup/emsup.02.03
+- period=duration

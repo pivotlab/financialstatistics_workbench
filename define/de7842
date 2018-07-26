@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Securitisation Capitalised Start Up Costs Amount
+
+## identifier
+de7842
+
+## type
+float
+
+## definition
+The value of any securitisation start-up costs and other establishment costs that are capitalised and deferred as an asset, rather than written off in the entity's profit and loss.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.SecuritisationStartUpAndEstablishmentCosts.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

@@ -1,0 +1,21 @@
+# Assets Investment Equity Securities Net Other Changes Amount
+
+## identifier
+de4085
+
+## type
+float
+
+## definition
+Report the net of all movements in equity investments or securities other than acquisition and disposal transactions. These movements would not involve the exchange of valuable consideration between counterparties. This may include changes arising from the revaluation increments and decrements of the debt securities, or income accrued on discount securities. Where this results in a net decrease in the net market value of equity securities, then report a negative figure.
+
+Equity investments or securities are, as defined by the Australian Accounting Standards, contracts that evidence a residual interest in the assets of an entity after deducting all its liabilities. This includes equity securities lent or sold by the entity under repurchase agreements, where the transaction does not result in the transfer of the rights of ownership of the securities away from the entity to another party.
+
+If the reporting entity holds listed notes/hybrid securities which have characteristics of a debt security & an equity security, these securities should be classified in the same manner as they appear in the entity's audited financial statements.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.EquitySecuritiesNetOtherChanges.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=duration

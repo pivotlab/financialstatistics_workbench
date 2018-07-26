@@ -1,0 +1,19 @@
+# Assets Loans And Receivables Current Other MRF300 Amount
+
+## identifier
+de8911
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is  the value, as at the relevant date, of other receivables that are current, as required in MRF_300_0.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.CurrentOtherMRF300.Amount
+- classification=baf/bafpo/bafpo5.02.05
+- period=instant

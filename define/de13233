@@ -1,0 +1,17 @@
+# Regulatory Disclosures Insurance Default Cover Cost Amount
+
+## identifier
+de13233
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the insurance premium charged for $1,000 of default level of cover, gross of rebates as disclosed in the Product Disclosure Statement (PDS) or other disclosure material. For income protection insurance it is the value for $1,000 of monthly cover.
+
+## syntax
+### xbrl
+- balance=credit
+- name=RegulatoryDisclosures.InsuranceDefaultCoverCost.Amount
+- classification=baf/bafot/bafot.02.16
+- period=instant

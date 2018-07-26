@@ -1,0 +1,21 @@
+# Liabilities Current Borrowings Not Finance Lease Amount
+
+## identifier
+de8975
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of borrowings other than finance leases classified as current in accordance with relevant accounting standards.
+
+Borrowings are generally amounts of money on loan from financial institutions or other creditors with the promise or understanding that it will be repaid.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.CurrentBorrowingsNotFinanceLease.Amount
+- classification=baf/bafpo/bafpo1.02.07
+- period=instant

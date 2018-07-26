@@ -1,0 +1,17 @@
+# Assets Insurance Non Current Reinsurance Recoverables Doubtful Debt Amount
+
+## identifier
+de8924
+
+## type
+float
+
+## definition
+This is  the value, as at the relevant date, of provisions for doubtful debts, on reinsurance recoverables, that are non-current, in relation to reinsurance contracts on paid and unpaid insurance claims against the reporting party.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.Insurance.NonCurrentReinsuranceRecoverablesDoubtfulDebt.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

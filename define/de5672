@@ -1,0 +1,24 @@
+# Legislation Compliance SIS Act S29P Reg 4_07B Indicator
+
+## identifier
+de5672
+
+## type
+boolean
+
+## definition
+Can the reporting party attest that it has a risk management plan which complies with section 29P of the SIS Act and SIS regulation 4.07B?
+
+The requirement to attest compliance within this item is not intended to exceed the requirements to report only significant breaches to APRA as required by section 29JA of the SIS Act. In the event a breach in relation to this item which was not significant as defined in section 29JA of the SIS Act, then the reporting party is not required to attest non-compliance.
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The reporting party attests that it has a risk management plan which complies with section 29P of the SIS Act and SIS regulation 4.07B.
+FALSE =  The reporting party cannot attest that it has a risk management plan which complies with section 29P of the SIS Act and SIS regulation 4.07B.
+
+## syntax
+### xbrl
+- name=LegislationCompliance.SISActS29PReg4_07B.Indicator
+- classification=py/pyin/pyin.02.09
+- period=duration

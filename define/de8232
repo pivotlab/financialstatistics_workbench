@@ -1,0 +1,19 @@
+# Liabilities Provisions Including Prudential Impairment Amount
+
+## identifier
+de8232
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of provisions, including prudential provisions for impairment.
+
+The measurement and classification basis used for provisions is determined in accordance with relevant accounting standards. For the purposes of this item, report provisions for impairment in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.ProvisionsIncludingPrudentialImpairment.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

@@ -1,0 +1,17 @@
+# Financial Risk Solvency Greater Policy Liability MTV Gross Aggregate Amount
+
+## identifier
+de4899
+
+## type
+float
+
+## definition
+Report the aggregate of the greater of the Solvency Liability value (calculated using assumptions as per the solvency standard) or the Minimum Termination Value (MTV) of each related product group (RPG), gross of reinsurance.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Solvency.GreaterPolicyLiabilityMTVGrossAggregate.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

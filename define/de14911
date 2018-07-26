@@ -1,0 +1,20 @@
+# Assets Loans And Receivables Credit Limit Funded New Amount
+
+## identifier
+de14911
+
+## type
+float
+
+## definition
+The credit limit of loans funded during the relevant period. A loan is considered funded once any portion of the funds is made available for the borrower to draw down according to the terms of the contract, whether or not it is drawn down within that period. The credit limit is the maximum amount of funds available to the borrower without additional authorisation or approval.
+
+## guidance
+This amount should include outstanding balances (including capitalised interest or fees) and any other funds that can be drawn without additional approval by the lender.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.CreditLimitFundedNew.Amount
+- classification=baf/bafpo/bafpo5.02.15
+- period=duration

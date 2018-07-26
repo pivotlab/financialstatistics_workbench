@@ -1,0 +1,19 @@
+# Financial Risk Market Gold Positions Amount
+
+## identifier
+de8035
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, in relation to positions giving rise to gold price risk, as determined in accordance with relevant prudential standards.
+
+For the purposes of this item, gold positions reported in AUD equivalents amounts may be segmented into a gold exposure and a USD exposure.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.GoldPositions.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

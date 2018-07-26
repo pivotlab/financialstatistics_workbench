@@ -1,0 +1,23 @@
+# Profit Or Loss Unrealised Gains Or Losses Equity Securities And Subordinated Debt Excluding Foreign Exchange Amount
+
+## identifier
+de8571
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of unrealised gains (losses) on equity securities, including gains (losses) from subordinated debt.
+
+For the purpose of this item exclude foreign currency gains (losses) that occur due to the currency translation of the securities.
+
+Equity investments or securities are contracts that evidence a residual interest in the assets of an entity after deducting all its liabilities.
+
+Gains (losses) are realised where the entity disposed of an asset during the relevant period. If an asset has not been disposed of during the relevant period, then any increases or decreases in the fair value of the asset are recognised as unrealised gains (losses)
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.UnrealisedGainsOrLossesEquitySecuritiesAndSubordinatedDebtExcludingForeignExchange.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

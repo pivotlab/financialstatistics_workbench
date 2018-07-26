@@ -1,0 +1,21 @@
+# Financial Risk Market Foreign Exchange And Gold Positions Amount
+
+## identifier
+de8141
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, in relation to positions giving rise to foreign exchange risk and gold price risk, as determined in accordance with relevant prudential standards.
+
+The overall net open positions amount represents the sum of:
+- the absolute value of the larger of the sum of long positions and the sum of short positions giving rise to foreign exchange risk; and 
+- the absolute value of positions giving rise to gold price risk.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.ForeignExchangeAndGoldPositions.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

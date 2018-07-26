@@ -1,0 +1,19 @@
+# Off Balance Sheet Irrevocable Commitments Not Standby Facilities Not Credit Lines Amount
+
+## identifier
+de12965
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of any irrevocable commitments that are not formal standby facilities or credit lines. These are non-market related off-balance sheet contingent liabilities relating to the maximum unused portion of any irrevocable commitments that could be drawn during the remaining period to maturity.
+
+In reporting this item the reporting entity is to follow the basis that is used for the preparation of the annual financial statements in accordance with the Australian accounting standards. Actuarial valuations and calculations used in deriving the value of the item must be in accordance with prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=OffBalanceSheet.IrrevocableCommitmentsNotStandbyFacilitiesNotCreditLines.Amount
+- classification=baf/bafpo/bafpo1.02.12
+- period=instant

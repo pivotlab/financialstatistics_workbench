@@ -1,0 +1,21 @@
+# Liabilities Insurance Premium Liabilities Gross Accounting Amount
+
+## identifier
+de8846
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the gross premium liabilities, calculated as UPL - DAC, where 
+
+UPL = Unearned Premium Liability as determined in accordance with the relevant accounting standards.
+
+DAC = Deferred Acquisition Costs as determined in accordance with the relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.PremiumLiabilitiesGrossAccounting.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

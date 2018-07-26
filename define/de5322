@@ -1,0 +1,18 @@
+# Financial Risk Capital Adequacy Margin Servicing Expenses Percent
+
+## identifier
+de5322
+
+## type
+float
+
+## definition
+Report the Capital Adequacy Margin applied to the best estimate assumptions for Servicing Expenses, as per the capital adequacy standard. The margin must be applied so as to produce a more conservative estimate of the liability than best estimate.
+
+Servicing expenses are all expenses that relate to the cost of administering policies subsequent to the sale and recording of policies and administering the general operations of the life company (maintenance expenses) and managing the investment portfolio (investment management expenses).
+
+## syntax
+### xbrl
+- name=FinancialRisk.CapitalAdequacy.MarginServicingExpenses.Percent
+- classification=baf/bafot/bafot.02.05
+- period=instant

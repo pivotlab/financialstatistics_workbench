@@ -1,0 +1,17 @@
+# Income Interest Investment Securities Physical Amount
+
+## identifier
+de193
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the amount of interest income derived from investment in securities.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Interest.InvestmentSecuritiesPhysical.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

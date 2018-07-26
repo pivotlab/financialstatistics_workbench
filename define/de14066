@@ -1,0 +1,17 @@
+# Expense Medicare Benefits Paid Amount
+
+## identifier
+de14066
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for Medicare benefits paid.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.MedicareBenefitsPaid.Amount
+- classification=baf/bafpr/bafpr1.02.26
+- period=duration

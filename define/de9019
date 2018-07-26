@@ -1,0 +1,16 @@
+# Regulatory Disclosures Insurance Basis Maximum Call Amount Other Description
+
+## identifier
+de9019
+
+## type
+string
+
+## definition
+This is the description of the methodology used to calculate the maximum call amount, if the basis was not "specified amount" or "percent of contribution".
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuranceBasisMaximumCallAmountOther.Description
+- classification=baf/bafot/bafot.02.07
+- period=duration

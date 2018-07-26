@@ -1,0 +1,28 @@
+# Financial Risk Capital Adequacy Tier 1 Gross Other MRF120 Amount
+
+## identifier
+de8899
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of Tier 1 capital instruments other than:
+     - Paid-up ordinary shares;
+     - Reserves;
+     - Retained earnings;
+     - Technical provisions in excess of liability valuation; and
+     - Tax effect of excess technical provision.
+ 
+This item is reported for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
+
+Tier 1 capital is the highest quality capital, e.g. ordinary shares, retained earnings, perpetual non-cumulative preference shares.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.Tier1GrossOtherMRF120.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

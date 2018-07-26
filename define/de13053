@@ -1,0 +1,27 @@
+# Financial Risk Determination Basis Code
+
+## identifier
+de13053
+
+## type
+string
+
+## definition
+The basis used for determination as at the relevant date.
+
+## guidance
+Valid values are:
+Gross = The basis used to calculate the reported information was gross of reinsurance recoveries. 
+Net = The basis used to calculate the reported information was net of reinsurance recoveries.
+
+## codes
+| Name  |
+| ----- |
+| Gross |
+| Net   |
+
+## syntax
+### xbrl
+- name=FinancialRisk.DeterminationBasis.Code
+- classification=baf/bafot/bafot.02.12
+- period=instant

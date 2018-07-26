@@ -1,0 +1,17 @@
+# Expense Health Benefit Funds Tax Paid Or Payable Amount
+
+## identifier
+de14141
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the amount of income tax paid or payable from the health benefits fund (whether or not the liability for tax stems from the operations of the health benefits fund).
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.HealthBenefitFundsTaxPaidOrPayable.Amount
+- classification=baf/bafpr/bafpr1.02.26
+- period=duration

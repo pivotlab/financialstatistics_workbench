@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Actuarial Services Registrable Superannuation Entity Count
+
+## identifier
+de13758
+
+## type
+int
+
+## definition
+This is the number of Registrable Superannuation Entities (RSEs) within the RSE licensee's business operations to which the RSE actuary is appointed to provide actuarial services.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.ActuarialServicesRegistrableSuperannuationEntity.Count
+- classification=em/emsup/emsup.02.16
+- period=duration

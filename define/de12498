@@ -1,0 +1,25 @@
+# Financial Risk Market Scaled Average Stressed VaR Commodity Excluding Gold Position Amount
+
+## identifier
+de12498
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the average stressed Value at Risk (VaR) for positions giving rise to commodities risk, as determined in accordance with relevant prudential standards. This represents the average VaR, calculated over the most recent 60 trading days prior to and including the relevant date, multiplied by the scaling factor applicable.
+
+Commodity positions include both on and off-balance sheet exposures which are affected by changes in commodity prices. This includes holdings of, or positions in:
+     - commodity forwards;
+     - commodity futures; 
+     - commodity swaps; and
+     - other applicable commodity instruments (e.g. commodity options).
+
+Stressed VaR, like VaR is a technique used to estimate the likelihood of losses in a portfolio based on analysis of historical price movements and volatilities, over a specified observation period. For the stressed VaR however, the model inputs are calibrated to historical data from a one year observation period of significant market stress relevant to the portfolio being simulated.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.ScaledAverageStressedVaRCommodityExcludingGoldPosition.Amount
+- classification=baf/bafot/bafot.02.09
+- period=instant

@@ -1,0 +1,19 @@
+# Liabilities Current Borrowings Amount
+
+## identifier
+de8932
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of borrowings classified as current in accordance with relevant accounting standards.
+
+Borrowings are generally amounts of money on loan from financial institutions or other creditors with the promise or understanding that it will be repaid.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.CurrentBorrowings.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

@@ -1,0 +1,21 @@
+# Off Balance Sheet Standby Letters Of Credit Principal Amount
+
+## identifier
+de4905
+
+## type
+float
+
+## definition
+In reporting this item the reporting party is to follow the basis that is used for the preparation of the annual financial statements in accordance with the Australian accounting standards. Actuarial valuations and calculations used in deriving the value of the item must be in accordance with prudential standards.
+
+Report the principal amount of issued standby letters of credit serving as financial guarantees for loans, securities and any other financial liabilities. Report only irrevocable non-market related off-balance sheet obligations that carry the same credit risk as a direct extension of credit, such as an undertaking to make a payment to a third party in the event that a counterparty fails to meet a financial obligation, or an undertaking to a counterparty to acquire a potential claim on another party in the event of default by that party, constitutes a direct credit substitute (i.e. the risk of loss depends on the creditworthiness of the counterparty or the party on whom a potential claim is acquired).
+
+The principal amount refers to the face value or gross amount of a given off-balance sheet transaction and not the fair value. The principal amount must be reported as a positive value, even for short positions in derivative financial instruments.
+
+## syntax
+### xbrl
+- balance=debit
+- name=OffBalanceSheet.StandbyLettersOfCreditPrincipal.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

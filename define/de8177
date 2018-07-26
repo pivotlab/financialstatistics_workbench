@@ -1,0 +1,19 @@
+# Financial Risk Operational Insurance Offset Amount
+
+## identifier
+de8177
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of insurance offset amount, as determined in accordance with relevant prudential standards.
+
+Insurance offset represents that amount of insurance that will cover potential operational risk losses and which is deemed an appropriate operational risk mitigation method.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Operational.InsuranceOffset.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

@@ -1,0 +1,27 @@
+# Financial Risk Market VaR Equity Positions Amount
+
+## identifier
+de8027
+
+## type
+float
+
+## definition
+This is the value at risk (VaR), calculated as at the relevant date, for positions giving rise to equity risk, as determined in accordance with relevant prudential standards.
+
+Equity positions include both on and off-balance sheet exposures which are affected by changes in equity price. This includes holdings of, or positions in:
+     - ordinary shares, whether voting or non-voting;
+     - convertible securities that behave like equities;
+     - commitments to buy or sell equity securities; and
+     - any other instruments that exhibit market behaviour similar to equities.
+
+VaR, or Value at Risk, is a technique used to estimate the likelihood of losses in a portfolio based on analysis of historical price movements and volatilities over a specified observation period.
+
+For the purposes of this item the amount reported is the 99% ten-day VaR number calculated as at the relevant date. Therefore, the number reported will represent a simulated mark-to-market loss for which there is a 1% probability of occurrence over the next ten days, assuming there is no trading of the portfolio.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.VaREquityPositions.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

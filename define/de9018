@@ -1,0 +1,21 @@
+# Regulatory Disclosures Audited Financial Statements Distributed All Members Indicator
+
+## identifier
+de9018
+
+## type
+boolean
+
+## definition
+Indicate if annual audited financial statements are distributed to all members.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = annual audited financial statements are distributed to all members
+FALSE = annual audited financial statements are not distributed to all members
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.AuditedFinancialStatementsDistributedAllMembers.Indicator
+- classification=baf/bafot/bafot.02.07
+- period=duration

@@ -1,0 +1,38 @@
+# Expense Insurance Current Claims Net Amount
+
+## identifier
+de8484
+
+## type
+float
+
+## definition
+This is the value of net insurance claims expense recognised during the relevant period, but only of which relate to the current period.
+
+Current period net claim represents:
+- current period claims payments;
+- current period reported outstanding case estimates (that is, case estimates created in the current period); and 
+- current period incurred but not reported (and incurred but not enough reported) claims expenses. 
+
+Current period net claims expense should be defined and reported according to the following:
+- net of all recoverables (including input tax credits reinsurance, salvage, subrogation and other recovery types); 
+- inclusive of claims handling expense, assuming that industry generally includes claims handling costs with the claim paid component of the incurred claims expense; 
+- the outstanding claims component be inflated only i.e. undiscounted; and 
+- the outstanding claims component be on a central estimate basis i.e. without risk margins.
+
+'Current period' should only include claims incurred in the current accident year. For this purpose the current accident year should be aligned to the insurer's current financial year.
+
+This item will include both net payments made in the financial year to date on claims arising from accidents in the current financial year, and net outstanding estimates (undiscounted and without risk margins) at the end of the financial year to date on claims arising from accidents in the current financial year.
+
+Movements in claims costs for claims incurred in accident years before the current year, as well as the impact of discounting and risk margins, should be reported as 'nonrecurring'. This means that the 'current' claims expense is on an undiscounted central estimate basis and the `non-recurring' claims expense is the balancing item.
+
+Insurers issuing 'claims made' policies should classify as 'current' any claims reported in the financial year to date.
+
+Reinsurers that manage their business on an underwriting period basis (and so are unable to assess current accident period outcomes) should use a proxy approach to estimating current year incurred claims. Claims expense in the current financial year to date attributable to each of the current and immediately prior underwriting years should be adopted as the 'Current period net claims expense'. As with direct insurers, the 'Current period net claims expense' for reinsurers should be reported on an undiscounted basis with no risk margins, net of all recoverables and including claims handling expense. The 'Non-recurring items that are part of total net claims expense' is a balancing item such that in total they equal to the 'Net claims expense'.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.CurrentClaimsNet.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

@@ -1,0 +1,17 @@
+# Assets Cash And Liquid Assets And Repos Amount
+
+## identifier
+de8144
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of notes and coins; deposits that can be withdrawn or are redeemable within 24 hours; and securities purchased under agreements for resale.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.AndRepos.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=instant

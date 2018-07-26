@@ -1,0 +1,16 @@
+# Regulatory Disclosures Prostheses No Gap Count
+
+## identifier
+de14067
+
+## type
+int
+
+## definition
+This is the number, during the relevant period, of no gap prostheses supplied. No gap prosthesis means a prosthesis of a kind where a minimum benefit amount is set out and no maximum benefit amount is set out.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.ProsthesesNoGap.Count
+- classification=baf/bafot/bafot.02.25
+- period=duration

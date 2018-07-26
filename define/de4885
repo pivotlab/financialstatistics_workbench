@@ -1,0 +1,24 @@
+# Superannuation Contribution Arrears Indicator
+
+## identifier
+de4885
+
+## type
+boolean
+
+## definition
+Has the reporting party had contribution arrears during the relevant period?
+
+Contribution arrears occurs when contributions are not received by the fund by the expected or agreed date. This can include employer contributions.
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The reporting party had contribution arrears during the relevant period.
+FALSE = The reporting party did not have contribution arrears during the relevant period
+
+## syntax
+### xbrl
+- name=SuperannuationContribution.Arrears.Indicator
+- classification=em/emsup/emsup.02.02
+- period=duration

@@ -1,0 +1,21 @@
+# Financial Risk Market Capital Charge Standard Method Interest Rate Risk Amount
+
+## identifier
+de12477
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of total traded market risk, foreign exchange and commodities capital requirement (TFC capital requirement).   
+
+It is calculated as the sum of the standard method charges for each asset class plus any charge reported under the internal model approach.  Specifically, it is the sum of the subtotals from the specific risk capital charge for non-securitisation exposures and the correlation trading portfolio, plus the sum of:
+a) The capital charges (long positions) for securitisation and resecuritisation exposures; and
+b)  The capital charges (short positions) for securitisation and resecuritisation exposures.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.CapitalChargeStandardMethodInterestRateRisk.Amount
+- classification=baf/bafot/bafot.02.09
+- period=instant

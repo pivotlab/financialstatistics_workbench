@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Total Receivables Life Insurance Amount
+
+## identifier
+de13004
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of total receivables, including outstanding premiums, but not deferred acquisition costs arising in respect of policies. Do not include accrued income from investment assets. This method of disclosure differs from the Australian Accounting Standards. Acquisition costs, as defined by the Australian Accounting Standards, are the fixed and variable costs of acquiring new business including commissions and similar distribution costs, and costs of accepting, issuing and initially recording policies. (Acquisition costs relate to the costs incurred in acquiring specific life insurance contracts during the relevant period. They do not include the general growth and development costs incurred by a life insurer).
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.TotalReceivablesLifeInsurance.Amount
+- classification=baf/bafpo/bafpo5.02.10
+- period=instant

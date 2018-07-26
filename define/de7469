@@ -1,0 +1,16 @@
+# Assets Loans And Receivables Detail Other SRF 110 0 Description
+
+## identifier
+de7469
+
+## type
+string
+
+## definition
+This is the description of the detailed line item comprising the other receivables balancing item, as required to be reported on APRA form SRF_110_0.
+
+## syntax
+### xbrl
+- name=Assets.LoansAndReceivables.DetailOtherSRF1100.Description
+- classification=baf/bafpo/bafpo5.02.05
+- period=instant

@@ -1,0 +1,17 @@
+# Financial Risk Accepted Outwards Insurance Amount
+
+## identifier
+de9070
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the risk accepted by the outwards insurer, as a result of insurance purchased by the reporting party to cover large individual claims.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.AcceptedOutwardsInsurance.Amount
+- classification=baf/bafot/bafot.02.07
+- period=instant

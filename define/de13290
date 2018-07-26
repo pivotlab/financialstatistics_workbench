@@ -1,0 +1,17 @@
+# Assets Cash Inflows Contractual Amount
+
+## identifier
+de13290
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for contractual cash inflows from outstanding exposures in accordance with the relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashInflowsContractual.Amount
+- classification=baf/bafpo/bafpo1.02.18
+- period=instant

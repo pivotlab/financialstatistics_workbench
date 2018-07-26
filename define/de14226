@@ -1,0 +1,17 @@
+# Assets Investment Funds Placed With Non Resident Investment Managers Amount
+
+## identifier
+de14226
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the gross value of mandated and non-mandated investment placed with non-resident investment managers. Do not offset against any financing and/or other liabilities such as margin loan, derivatives etc. undertaken as part of the mandated portfolio management.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.FundsPlacedWithNonResidentInvestmentManagers.Amount
+- classification=baf/bafpo/bafpo7.02.23
+- period=instant

@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Current Insurance And Other Recoveries Gross Amount
+
+## identifier
+de9027
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of insurance and other recoveries outstanding, which may consist of subrogation, salvage or other recoveries. This item is gross of any provision for doubtful debts and is classified as current in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.CurrentInsuranceAndOtherRecoveriesGross.Amount
+- classification=baf/bafpo/bafpo5.02.06
+- period=instant

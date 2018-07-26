@@ -1,0 +1,17 @@
+# Income Fees Commissions Broking Amount
+
+## identifier
+de7522
+
+## type
+float
+
+## definition
+Record any fee income or commission associated with the broking activities of the reporting party.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.FeesCommissionsBroking.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

@@ -1,0 +1,17 @@
+# Assets Insurance Contractual Regular Contributions Amount
+
+## identifier
+de13064
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the total of all contractual regular contributions. These are the total gross premiums that are accepted through direct debit, have a specific contractual requirement for future on-going premiums, have an expectation of renewal each year (e.g. Yearly Renewable term products) or generally cause a policy to discontinue on cessation of future payment.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.ContractualRegularContributions.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

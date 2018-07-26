@@ -1,0 +1,17 @@
+# Assets Cash And Liquid Assets Operational Deposits Held Other ADIs Amount
+
+## identifier
+de14886
+
+## type
+float
+
+## definition
+The value of all operational deposits held at other authorised deposit taking institutions (ADIs) that are subject to the relevant available stable funding (ASF) factor in accordance with Prudential Standard APS 210 - Liquidity.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.OperationalDepositsHeldOtherADIs.Amount
+- classification=baf/bafpo/bafpo7.02.25
+- period=instant

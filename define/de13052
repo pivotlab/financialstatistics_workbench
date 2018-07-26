@@ -1,0 +1,23 @@
+# Financial Risk Adjustment And Exclusion Status Indicator
+
+## identifier
+de13052
+
+## type
+boolean
+
+## definition
+Is the adjustment and exclusion approved by the Australian Prudential Regulation Authority for transitional purposes?
+
+## guidance
+A choice of TRUE/FALSE values.
+
+true = The adjustment and exclusion approved by the Australian Prudential Regulation Authority is transitional.
+
+false = The adjustment and exclusion approved by the Australian Prudential Regulation Authority is not transitional.
+
+## syntax
+### xbrl
+- name=FinancialRisk.AdjustmentAndExclusionStatus.Indicator
+- classification=baf/bafot/bafot.02.12
+- period=instant

@@ -1,0 +1,17 @@
+# Income Insurance Subscription Membership Amount
+
+## identifier
+de8953
+
+## type
+float
+
+## definition
+This is the value, for the duration of the relevant period, of subscription and membership income.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.SubscriptionMembership.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

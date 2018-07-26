@@ -1,0 +1,17 @@
+# Equity Reduction In Retained Profits Share Buy Back Amount
+
+## identifier
+de257
+
+## type
+float
+
+## definition
+This is the value of the reduction in the reporting party's retained profits due to the buy back, or repurchase, of shares on issue during the relevant period. This represents the portion of the consideration used for share buy backs that is allocated to retained profits
+
+## syntax
+### xbrl
+- balance=debit
+- name=Equity.ReductionInRetainedProfitsShareBuyBack.Amount
+- classification=baf/bafpo/bafpo1.02.00
+- period=duration

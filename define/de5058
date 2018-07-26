@@ -1,0 +1,25 @@
+# Assets Exposures Cash Adjusted For Derivatives Amount
+
+## identifier
+de5058
+
+## type
+float
+
+## definition
+Report the net market value or fair value of counterparty exposures to cash, after adjusting for derivatives.
+
+An exposure to a counterparty or a group of related counterparties is the aggregate of all claims, commitments and contingent liabilities arising from on- and off-balance sheet transactions with the counterparty or group of related counterparties.
+
+Off-balance sheet exposures refer to items that are not recognised in the statement of financial position of the reporting party, such as contingent assets and liabilities.
+
+Where credit risk is unequivocally transferred to a third party by an irrevocable letter of credit or a direct guarantee, the exposure is to the third party.
+
+Net market value or fair value, as defined by the Australian Accounting Standards is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.ExposuresCashAdjustedForDerivatives.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

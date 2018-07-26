@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Net Stable Funding Ratio Regulatory Capital Amount
+
+## identifier
+de14864
+
+## type
+float
+
+## definition
+The net stable funding ratio (NSFR) regulatory capital is the value of the  amount of Tier 1 capital and Tier 2 capital as per Prudential Standard APS 111 - Capital Adequacy, before the application of regulatory adjustments, and excluding the proportion of Tier 2 capital instruments with a residual maturity of less than one year.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.NetStableFundingRatioRegulatoryCapital.Amount
+- classification=baf/bafot/bafot.02.32
+- period=instant

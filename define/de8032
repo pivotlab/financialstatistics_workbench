@@ -1,0 +1,21 @@
+# Assets Securitised Repurchased Including Accrued Interest Gross Impairment Amount
+
+## identifier
+de8032
+
+## type
+float
+
+## definition
+This is the principal amount, gross of provisions for impairment and including accrued income, as at the date of purchase, of assets that have been purchased from securitisation programs during the relevant period, but only to the extent that those assets were previously sold, or otherwise originated, into the securitisation program by the reporting party, prior to the repurchase.
+
+A securitisation program represents a structure (a special purpose vehicle, or SPV) where the cash flows from a pool (of assets, or interests in assets) are used to service obligations to creditors (typically holders of debt securities) who fund the SPV.
+
+A SPV is a "bankruptcy-remote entity" with operations limited to the acquisition and financing of specific assets. Usually a subsidiary entity with balance sheet and legal status that makes its obligations secure even if the parent company goes bankrupt.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.SecuritisedRepurchasedIncludingAccruedInterestGrossImpairment.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=duration

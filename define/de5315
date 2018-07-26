@@ -1,0 +1,19 @@
+# Assets Investment Real Estate Property Adjustment Hedging Amount
+
+## identifier
+de5315
+
+## type
+float
+
+## definition
+Report the hedging adjustment required to translate the aggregate investment property balance to the effective post-derivatives position. 
+
+A hedging adjustment represents the adjustment required to translate the effective exposure associated with hedging investments. The purpose of a hedging investment is to offset the risk of changes in the fair value or investment cash flows of another contract.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.RealEstateProperty.AdjustmentHedging.Amount
+- classification=baf/bafpo/bafpo5.02.04
+- period=instant

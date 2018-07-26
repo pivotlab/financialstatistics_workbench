@@ -1,0 +1,17 @@
+# Assets Other Non Financial Assets Information Technology Accumulated Depreciation Impairment Total Amount
+
+## identifier
+de1210
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for accumulated depreciation/impairment in total for all information technology assets except when it is treated as an intangible for accounting purposes for example, in audited financial statements.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.OtherNonFinancialAssets.InformationTechnologyAccumulatedDepreciationImpairmentTotal.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

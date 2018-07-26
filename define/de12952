@@ -1,0 +1,17 @@
+# Liabilities Insurance Risk Free Best Estimate Amount
+
+## identifier
+de12952
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of value of the impact of the insurance stresses on the risk-free best estimate liabilities, as determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.RiskFreeBestEstimate.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

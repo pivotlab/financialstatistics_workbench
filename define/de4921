@@ -1,0 +1,31 @@
+# Financial Risk Capital Adequacy Adjusted Yield Policy Liability Reinsurance Amount
+
+## identifier
+de4921
+
+## type
+float
+
+## definition
+Report the admissible value of Gross Policy Liabilities ceded under reinsurance with a resilience requirement at the adjusted yield, as per the capital adequacy standard.
+
+The Adjusted Yield is determined in accordance with the capital adequacy standard and is applied to the value of the admissible assets as part of the calculation of the Resilience Reserve. The Resilience Reserve is determined as the additional amount that needs to be held before the happening of a prescribed set of changes in the economic environment ( as per the capital adequacy standard), such that after the changes the admissible assets of the reporting party are able to meet the policy owner and other liabilities of the statutory fund, in an ongoing business context.
+
+The admissible value is the net market value as determined in accordance with the accounting standards less the value of those deemed to be inadmissible, as per the capital adequacy standard. 
+
+The inadmissible assets are: 
+a) defined benefit superannuation fund surpluses;
+b) holdings in an associated or subsidiary entity which is a Financial Services entity;
+c) non-realisable (in the context of the capital adequacy tests) intangible assets;
+d) assets with too little diversification, are too illiquid or have too great an exposure to one obligor of low credit standing;
+e) reinsurance assets which may not be fully recoverable in the context of the capital adequacy tests; and
+f) amounts by which the recorded value of an asset exceeds its net realisable value.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.AdjustedYieldPolicyLiabilityReinsurance.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

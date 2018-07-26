@@ -1,0 +1,17 @@
+# Assets Other Non Financial Assets Plant And Equipment Gross Amount
+
+## identifier
+de8791
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of plant and equipment as determined in accordance with relevant accounting standards, gross of any provisions for depreciation or impairment.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherNonFinancialAssets.PlantAndEquipmentGross.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=instant

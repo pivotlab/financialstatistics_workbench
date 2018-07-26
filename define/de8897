@@ -1,0 +1,22 @@
+# Assets Other ARF326 Amount
+
+## identifier
+de8897
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of  assets other than those classifies as:
+- Debt and equity securities;
+- Deposits and loans; and
+- Balances due from related corporations and overseas offices. This includes intra-group deposits, other accounts receivable (e.g. fees and commissions payable) and debt securities issued by related corporations and overseas offices.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherARF326.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

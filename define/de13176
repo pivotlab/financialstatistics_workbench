@@ -1,0 +1,16 @@
+# Assets Investment Investment Strategy Excluding Derivatives Percent
+
+## identifier
+de13176
+
+## type
+float
+
+## definition
+This is the ratio, as at the relevant date, of the investment strategy as a portion of total investments. Investments represent the purchase of a financial product or other item of value with an expectation of favourable future returns. This item excludes directly held derivatives.
+
+## syntax
+### xbrl
+- name=Assets.Investment.InvestmentStrategyExcludingDerivatives.Percent
+- classification=baf/bafpo/bafpo7.02.14
+- period=instant

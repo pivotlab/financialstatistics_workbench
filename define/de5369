@@ -1,0 +1,26 @@
+# Financial Risk Capital Adequacy New Business Reserve Amount
+
+## identifier
+de5369
+
+## type
+float
+
+## definition
+Report the value of New Business Reserve determined as:
+a) the additional amount required to ensure that the capital adequacy Requirement of the statutory fund will continue to be met over the next three years, allowing for capital and profits emerging over that period from the existing business of the fund; less
+b) the New Business Capital; less
+c) the Offset Statutory Capital.
+
+New business capital is the aggregate of:
+a) existing, binding arrangements for the external raising of capital specific to the financing of new business within the statutory fund; and
+b) capital (existing or emerging) in any other statutory fund, to the extent it is (or would be) available to be transferred to the shareholders' fund at that time.
+
+Offset Statutory Capital is the amount of Statutory Capital which is appropriately utilised in meeting the new business reserve requirements of the statutory fund.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.NewBusinessReserve.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

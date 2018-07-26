@@ -1,0 +1,16 @@
+# Regulatory Disclosures Benefits Paid Count
+
+## identifier
+de14073
+
+## type
+int
+
+## definition
+This is the number, during the relevant period, of benefits paid.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.BenefitsPaid.Count
+- classification=baf/bafot/bafot.02.25
+- period=duration

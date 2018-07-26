@@ -1,0 +1,17 @@
+# Assets Average Balance Of Interest Earning Loans And Advances Term Loans Amount
+
+## identifier
+de288
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the average balance of interest earning loans and advances term loans.  The average may be calculated by any method consistent with internal systems of the reporting entity.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.AverageBalanceOfInterestEarning.LoansAndAdvances.TermLoans.Amount
+- classification=baf/bafpo/bafpo3.02.00
+- period=duration

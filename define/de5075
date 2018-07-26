@@ -1,0 +1,38 @@
+# Assets Derivative Financial Instruments Equity Contracts Other Net Market Value Amount
+
+## identifier
+de5075
+
+## type
+float
+
+## definition
+This is the balancing item in the list in which it is being used.
+
+Report the net market value, or fair value, of other equity derivative contracts held by the reporting party as at the relevant date. The value of this item is to be determined in accordance with accounting standards.
+
+This balancing item represents the principal value of total equity derivative contracts less those equity derivative contracts which are defined as any of the following:
+- Forwards;
+- Swaps;
+- Bought option positions; or
+- Sold option positions;
+
+Equity derivative contracts are contracts that at least partly transfers the equity risk on an underlying equity security from one party to another.
+
+A derivative is a financial instrument that is derived from some other asset, index, value or other variable (known as the underlying). Derivatives allow risk about the price of the underlying asset to be transferred from one party to another.
+
+Derivative contracts involve:
+ - Future delivery, receipt or exchange of financial items such as cash or another derivative instrument; or
+ - Future exchange of real assets for financial items where the contract may be tradeable and has a market value.
+The contracts can either be binding on both parties (e.g. as with a currency swap) or subject to the exercise by one party of a right contained within the contract (as with options).
+
+Report this item regardless of whether favourable or unfavourable to the reporting entity ie where it represents either a net gain or net loss to the entity across all open positions.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.DerivativeFinancialInstruments.EquityContractsOtherNetMarketValue.Amount
+- classification=baf/bafpo/bafpo5.02.04
+- period=instant

@@ -1,0 +1,19 @@
+# Liabilities Other Financial Liabilities Loan Capital And Hybrid Securities Members Withdrawable Shares Amount
+
+## identifier
+de1499
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the credit union member withdrawable shares. 
+
+This item should be prepared in accordance with the prudential treatment and relevant Australian Accounting Standards. For prudential purposes, a credit union member share is classified as a liability and is not capital. In the event of redemption, the liability would be reduced by the issue value of shares redeemed.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.LoanCapitalAndHybridSecuritiesMembersWithdrawableShares.Amount
+- classification=baf/bafpo/bafpo6.02.00
+- period=instant

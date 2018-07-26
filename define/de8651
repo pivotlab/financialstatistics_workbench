@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Other Deductions GRF 120 0 Amount
+
+## identifier
+de8651
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of other deductions as required to be reported on the APRA GRF_120_0 form series, as determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.OtherDeductionsGRF1200.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

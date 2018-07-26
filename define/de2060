@@ -1,0 +1,17 @@
+# Equity Liability For Allocated Accrued Benefits Amount
+
+## identifier
+de2060
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for members' accrued benefits. This is to be determined in accordance with relevant Australian Accounting Standards. The liability for accrued benefits for a defined contribution superannuation entity is the superannuation entity's present obligation to pay benefits to members and beneficiaries in the future and is calculated as the difference between the carrying amounts of the assets and the carrying amounts of the liabilities and reserves. Accrued benefits of a defined benefit superannuation entity shall be measured, using actuarial assumptions and valuations where appropriate, as the present value of expected future payments to members arising from membership of the superannuation entity up to the measurement date. In absence of formal actuarial review, the amount is calculated as the difference between the carrying amounts of the assets and the carrying amounts of the liabilities.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.LiabilityForAllocatedAccruedBenefits.Amount
+- classification=baf/bafpo/bafpo1.02.00
+- period=instant

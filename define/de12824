@@ -1,0 +1,23 @@
+# Assets Exposures Loans Amount
+
+## identifier
+de12824
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of counterparty exposures to loans and advances (including any accrued interest). 
+
+Loans and advances are those financial assets categorised as "Loans and receivables" in the accounting standards other than "Trade receivables" and "Cash".
+
+An exposure to a counterparty or a group of related counterparties is the aggregate of all claims, commitments arising from on-balance sheet transactions with the counterparty or group of related counterparties. 
+
+On-balance sheet refers to those assets, or exposure items, which are recognised or recorded on the statement of financial position of the reporting entity, as determined in accordance with relevant Accounting Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.Loans.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

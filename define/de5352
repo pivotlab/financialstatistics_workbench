@@ -1,0 +1,18 @@
+# Organisation Control Members Departed Total Other Count
+
+## identifier
+de5352
+
+## type
+int
+
+## definition
+Report the number of members that have exited membership of the reporting entity during the relevant period resulting from any reason that cannot be appropriately classified in the list in which this element belongs.
+
+This is the balancing amount in the given list of items.
+
+## syntax
+### xbrl
+- name=OrganisationControl.MembersDepartedTotalOther.Count
+- classification=py/pyde/pyde.02.06
+- period=duration

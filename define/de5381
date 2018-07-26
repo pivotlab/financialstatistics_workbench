@@ -1,0 +1,23 @@
+# Financial Risk Capital Adequacy Effective Risk Mitigation Difference Current Termination Value Gross Amount
+
+## identifier
+de5381
+
+## type
+float
+
+## definition
+Report the amount by which the Current Termination Value of insurance policies as at the relevant date have been adjusted to reflect effective risk mitigation activities.
+
+Risk mitigation difference is the difference in the value of risk mitigation arrangements as per the capital adequacy standard (reinsurance and other similar risk mitigating arrangements and contracts, that while not legally reinsurance, have similar effects) and the value as reflected in the financial statements. 
+
+The Current Termination Value of a policy is either:
+a) the amount that would be paid on the basis used in practice from time to time in the event of voluntary termination; or
+b) where no amount would be paid, the discounted present value of the unexpired risks, future payments and/or contractual premium refunds.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.EffectiveRiskMitigationDifferenceCurrentTerminationValueGross.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

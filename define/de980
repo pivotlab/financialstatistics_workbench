@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities Deferred Fee Income Amount
+
+## identifier
+de980
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the deferred fee income. It should be reported in this line item and then deducted from total gross loans and advances.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Liabilities.OtherFinancialLiabilities.DeferredFeeIncome.Amount
+- classification=baf/bafpo/bafpo6.02.00
+- period=instant

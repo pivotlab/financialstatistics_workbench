@@ -1,0 +1,16 @@
+# Financial Risk Capital Adequacy Private Health Insurance Tax Percent
+
+## identifier
+de14087
+
+## type
+float
+
+## definition
+This is the percentage, as at the relevant date, for the monthly tax payment (as a percentage of health insurance business (HIB) contribution income, given premium increase subject to the stress test assumptions constraint that achieves the amount of annual tax attributable to the health benefit fund as defined in the relevant prudential standard. It is not the tax rate for-profit insurers.
+
+## syntax
+### xbrl
+- name=FinancialRisk.CapitalAdequacy.PrivateHealthInsuranceTax.Percent
+- classification=baf/bafot/bafot.02.25
+- period=instant

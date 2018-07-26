@@ -1,0 +1,24 @@
+# Superannuation Contribution Holidays Indicator
+
+## identifier
+de5581
+
+## type
+boolean
+
+## definition
+Was the reporting party on a contribution holiday at a time during the relevant period?
+
+A contribution holiday occurs when the sponsor of the fund ceases to make contributions to the fund.
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The reporting party was on a contribution holiday at a time during the relevant period.
+FALSE = The reporting party was not on a contribution holiday at any time during the relevant period
+
+## syntax
+### xbrl
+- name=SuperannuationContribution.Holidays.Indicator
+- classification=em/emsup/emsup.02.02
+- period=duration

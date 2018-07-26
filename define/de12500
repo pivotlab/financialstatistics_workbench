@@ -1,0 +1,22 @@
+# Financial Risk Market Nth To Default Credit Derivatives Long Position Amount
+
+## identifier
+de12500
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of long  positions in nth-to-default credit derivatives, calculated in accordance to the relevant prudential standards.
+
+An nth-to-default credit derivative is a contract where the payoff is based on the nth asset to default in a basket of underlying reference instruments. Once the nth default occurs the transaction terminates and is settled.
+
+Long positions represent positions where a rise in the value of the asset or derivative would result in a profit.
+
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.NthToDefaultCreditDerivativesLongPosition.Amount
+- classification=baf/bafot/bafot.02.09
+- period=instant

@@ -1,0 +1,33 @@
+# Assets Derivative Financial Instruments Other Sold Options Principal Amount
+
+## identifier
+de5154
+
+## type
+float
+
+## definition
+This item is the balancing item in the list in which it appears.
+
+Report the face value, or gross amount, of other short sold option positions held by the reporting party as at the relevant date. This item is to be determined in accordance with accounting standards.
+
+This balancing item represents the principal value of total written (sold) options less those written (sold) options which are classed as any of the following:
+- Interest rate contracts;
+- Foreign exchange and gold contracts; or
+- Equity contracts.
+
+Sold/written options include both put and call options that have been sold by an entity. It obliges the selling entity to buy or sell a specific amount of an underlying asset at a pre-agreed price, on or before a specific future date.
+
+Derivatives are generally defined as those instruments/contracts, where the value is based on other products, and/or on prices associated with financial products. Derivative contracts involve:
+- Future delivery, receipt or exchange of financial items such as cash or another derivative instrument; or
+- Future exchange of real assets for financial items where the contract may be tradeable and has a market value.
+The contracts can either be binding on both parties (e.g. as with a currency swap) or subject to the exercise by one party of a right contained within the contract (as with options).
+
+The principal amount must be reported as a positive value, even for short positions in derivative financial instruments.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.DerivativeFinancialInstruments.OtherSoldOptionsPrincipal.Amount
+- classification=baf/bafpo/bafpo5.02.05
+- period=instant

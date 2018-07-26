@@ -1,0 +1,17 @@
+# Income Interest Cash Basis On Impairment Amount
+
+## identifier
+de8549
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of interest income. Interest must be recognised and measured in accordance with the relevant Accounting Standards. This means interest is to be recognised on an accrual basis, unless the asset is considered to be impaired or non-performing in which case, interest is to be recognised on a cash basis.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Interest.CashBasisOnImpairment.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

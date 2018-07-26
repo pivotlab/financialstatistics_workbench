@@ -1,0 +1,23 @@
+# Liabilities Exposures Off Balance Sheet Trustee Fees Payable Amount
+
+## identifier
+de4757
+
+## type
+float
+
+## definition
+Record the face value, or principle value, as at the relevant date, of off balance sheet exposures related to liabilities classified as trustee fees payable.
+
+Trustee fees are typically amounts payable to the trustee for performing their legal responsibilities as detailed in the Trustee Deed.
+
+Net market value or fair value is the amount which could be expected to be received from the disposal of a liability in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+Off-balance sheet liability exposures relate to those liabilities or obligations that do not satisfy the recognition requirements of the relevant accounting standards and are therefore not recognised on the face of the balance sheet, or statement of financial position.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Exposures.OffBalanceSheetTrusteeFeesPayable.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

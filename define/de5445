@@ -1,0 +1,27 @@
+# Liabilities Exposures Borrowings Net Market Value Amount
+
+## identifier
+de5445
+
+## type
+float
+
+## definition
+Report the net market value, or fair value, of exposures classified as borrowings.
+
+Borrowings represent amounts received through an arrangement in which a lender gives money to a borrower, and the borrower agrees to repay the money, usually along with interest, at some future point in time. Usually, there is a predetermined time for repaying a loan, and generally the lender has to bear the risk that the borrower may not repay a loan.
+
+An exposure represents a claim or commitment of an entity, recorded both on and off the balance sheet and which can be the following in nature:
+(a) Credit exposures (i.e. such as a money market placement with a Bank or holding of a corporation's debt securities);
+(b) Asset exposures that are not in the nature of a credit exposure (e.g. a direct property investment); and
+(c) Exposures in the nature of a liability or obligation to a single party or group of related parties.
+An off-balance sheet exposure refers to an item that is not recognised in the statement of financial position, such as contingent assets and liabilities.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Exposures.BorrowingsNetMarketValue.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

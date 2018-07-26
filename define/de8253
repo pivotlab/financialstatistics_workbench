@@ -1,0 +1,16 @@
+# Organisation Details Service Channel Description
+
+## identifier
+de8253
+
+## type
+string
+
+## definition
+Provide a complete description of the service channel and the services offered within it as at the relevant date. If services are offered part time then indicate the normal hours of operation.
+
+## syntax
+### xbrl
+- name=OrganisationDetails.ServiceChannel.Description
+- classification=py/pyde/pyde.02.07
+- period=instant

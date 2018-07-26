@@ -1,0 +1,21 @@
+# Off Balance Sheet Partly Paid Shares And Securities Amount
+
+## identifier
+de5036
+
+## type
+float
+
+## definition
+In reporting this item the reporting party is to follow the basis that is used for the preparation of the annual financial statements in accordance with the Australian accounting standards. Actuarial valuations and calculations used in deriving the value of the item must be in accordance with prudential standards.
+
+Report the principal amount of partly paid shares and securities. These are non-market related off-balance sheet contingent liabilities in relation to any amounts owing on the uncalled portion of partly paid shares and securities that represent commitments with certain draw down by the issuer at a future date.
+
+The principal amount refers to the face value or gross amount of a given off-balance sheet transaction and not the fair value. The principal amount must be reported as a positive value, even for short positions in derivative financial instruments.
+
+## syntax
+### xbrl
+- balance=debit
+- name=OffBalanceSheet.PartlyPaidSharesAndSecurities.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

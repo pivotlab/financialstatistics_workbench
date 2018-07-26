@@ -1,0 +1,20 @@
+# Liabilities Other Financial Liabilities Borrowings Including Off Balance Sheet Borrowings Total Amount
+
+## identifier
+de2055
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the item to include but are not limited to the following:
+- Securities sold under agreements to repurchase;
+- Drawn down balance of overdraft facilities, standby lines or other forms of off-balance sheet funding; and
+- Short-term loans or borrowings.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.BorrowingsIncludingOffBalanceSheetBorrowingsTotal.Amount
+- classification=baf/bafpo/bafpo6.02.00
+- period=instant

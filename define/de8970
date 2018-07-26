@@ -1,0 +1,17 @@
+# Financial Risk Market Traded And Non Traded Amount
+
+## identifier
+de8970
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the traded and non-traded market risk, as determined in accordance with relevant prudential standards..
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.TradedAndNonTraded.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

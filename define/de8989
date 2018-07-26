@@ -1,0 +1,16 @@
+# Regulatory Disclosures Insurance Claims Number
+
+## identifier
+de8989
+
+## type
+int
+
+## definition
+This is the number of insurance claims reported, for the duration of the relevant period.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuranceClaims.Number
+- classification=baf/bafot/bafot.02.07
+- period=duration

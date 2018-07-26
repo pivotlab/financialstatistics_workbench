@@ -1,0 +1,16 @@
+# Regulatory Disclosures Services Count
+
+## identifier
+de14062
+
+## type
+int
+
+## definition
+This is the number, during the relevant period, of services supplied.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.Services.Count
+- classification=baf/bafot/bafot.02.25
+- period=duration

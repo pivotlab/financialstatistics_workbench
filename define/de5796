@@ -1,0 +1,17 @@
+# Assets Average Balance Of Interest Earning Deposits Not At Call Amount
+
+## identifier
+de5796
+
+## type
+float
+
+## definition
+Report the average balance during the reporting period of deposits that are not redeemable or callable within 24 hours. The average may be calculated by any method consistent with internal systems of the reporting entity.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.AverageBalanceOfInterestEarning.DepositsNotAtCall.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=duration

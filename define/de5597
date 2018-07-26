@@ -1,0 +1,19 @@
+# Financial Risk Solvency MTV Net Aggregate Amount
+
+## identifier
+de5597
+
+## type
+float
+
+## definition
+Report the Minimum Termination Value (MTV) as determined by the prudential standards, net of reinsurance. MTV is the amount that a life insurer is obliged to pay to policyholders if they decided to voluntarily terminate their policies at the relevant date. The obligation might be contractual, statutory or a result of past practice. Calculated as the greater of: 
+a) the lowest Termination Value that the reporting party is obliged to pay; and 
+b) the amount calculated in accordance with the Surrender Value Standard.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Solvency.MTVNetAggregate.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

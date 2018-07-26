@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Audit Registrable Superannuation Entity Count
+
+## identifier
+de13757
+
+## type
+int
+
+## definition
+This is the number of Registrable Superannuation Entities (RSEs) within an RSE licensee's business operations that the RSE auditor is appointed to audit.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.AuditRegistrableSuperannuationEntity.Count
+- classification=em/emsup/emsup.02.16
+- period=duration

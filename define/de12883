@@ -1,0 +1,17 @@
+# Financial Risk Probable Maximum Loss Amount
+
+## identifier
+de12883
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the probable maximum loss determined in accordance with relevant prudential standards. Probable Maximum Loss (PML) is the largest gross loss to which an insurer will be exposed (within the realms of possibility) due to a concentration of risk exposures, without any allowance for potential reinsurance assets.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.ProbableMaximumLoss.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

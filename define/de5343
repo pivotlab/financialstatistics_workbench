@@ -1,0 +1,17 @@
+# Equity Net Assets Fair Value Counterparty Amount
+
+## identifier
+de5343
+
+## type
+float
+
+## definition
+Report the value, as at the relevant date, of the net assets of the relevant counterparty, measured at fair value. This fair value of net assets may not necessarily equal the amount of assets less the amount of liabilities. For example, if the party was a listed entity, then the fair value of net assets may be based on the market value of the entity's shares.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Equity.NetAssetsFairValueCounterparty.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

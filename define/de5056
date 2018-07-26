@@ -1,0 +1,16 @@
+# Organisation Control Members Departed Resignation Count
+
+## identifier
+de5056
+
+## type
+int
+
+## definition
+Report the number of members that have exited membership of the reporting entity during the relevant period due to the member resigning from their employer.
+
+## syntax
+### xbrl
+- name=OrganisationControl.MembersDepartedResignation.Count
+- classification=py/pyde/pyde.02.06
+- period=duration

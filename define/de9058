@@ -1,0 +1,21 @@
+# Auditor Report Opinion Emphasis Of Matter Indicator
+
+## identifier
+de9058
+
+## type
+boolean
+
+## definition
+This is the indicator for an audit opinion of emphasis of matter, for the relevant period.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = The audit opinion for the relevant period included an Emphasis of Matter
+FALSE = The audit opinion for the relevant period did not include an Emphasis of Matter
+
+## syntax
+### xbrl
+- name=AuditorReport.OpinionEmphasisOfMatter.Indicator
+- classification=em/emfsm/emfsm.02.06
+- period=duration

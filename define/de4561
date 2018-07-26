@@ -1,0 +1,19 @@
+# Insurance Policy Owner Retained Profits Net Movement Amount
+
+## identifier
+de4561
+
+## type
+float
+
+## definition
+Report the net movement in the value of policy owner retained profits. 
+
+Policy owner retained profits represent the value of profits allocated to participating policy owners generally, but not yet vested as specific amounts to particular policies.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Insurance.PolicyOwnerRetainedProfitsNetMovement.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

@@ -1,0 +1,16 @@
+# Regulatory Disclosures Review Date
+
+## identifier
+de13105
+
+## type
+string
+
+## definition
+This is the date on which the reported information is reviewed.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.Review.Date
+- classification=baf/bafot/bafot.02.15
+- period=instant

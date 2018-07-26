@@ -1,0 +1,16 @@
+# Organisation Control Members Departed Death Count
+
+## identifier
+de5529
+
+## type
+int
+
+## definition
+Report the number of members that have exited membership of the reporting entity during the relevant period resulting from the death of the member.
+
+## syntax
+### xbrl
+- name=OrganisationControl.MembersDepartedDeath.Count
+- classification=py/pyde/pyde.02.06
+- period=duration

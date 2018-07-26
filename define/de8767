@@ -1,0 +1,17 @@
+# Assets Insurance Receivables Premium Gross Amount
+
+## identifier
+de8767
+
+## type
+float
+
+## definition
+This is the amount related to insurance premiums due but not yet received as at the relevant date, gross of provision for doubtful debts.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.ReceivablesPremiumGross.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

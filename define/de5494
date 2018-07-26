@@ -1,0 +1,19 @@
+# Assets Non Investment Other Net Market Value Amount
+
+## identifier
+de5494
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date,of any other non investment asset which cannot be classified elsewhere within the list of assets backing policy liabilities. Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.NonInvestmentOtherLRF420NetMarketValue.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

@@ -1,0 +1,30 @@
+# Assets Exposures Off Balance Sheet Other SRF 230 0 And SRF 330 0 Amount
+
+## identifier
+de5030
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+Report the net market value, or fair value, of off-balance sheet exposures to investments other than those exposures related to:
+- Cash and liquid assets
+- Receivables
+- Equity securities and unit trusts
+- Cash and fixed interest investments
+- Investment loans and advances
+- Investment Property
+- Balanced or mixed mandates, or those mandates which are unable to be allocated across this list of asset classes.
+
+This balancing item is to be reported as per the requirements on APRA forms SRF_230_0 and SRF_330_0.
+
+Off-balance sheet asset exposures relate to those assets or rights that do not satisfy the recognition requirements of the relevant accounting standards and are therefore not recognised on the face the balance sheet, or statement of financial position as contingent assets.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.OffBalanceSheetOtherSRF2300AndSRF3300.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

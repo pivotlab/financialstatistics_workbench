@@ -1,0 +1,21 @@
+# Superannuation Regulatory Information Preserved Benefits Defined Amount
+
+## identifier
+de5570
+
+## type
+float
+
+## definition
+Report the amount of preserved benefits of the defined benefit members of the reporting party as at the relevant date.
+
+Preserved benefits are vested benefits which must either be retained in the reporting entity or transferred to another entity. These benefits cannot be paid to the member until they reach a condition of release such as retirement.Defined benefit members are, those members whose entitlements in the reporting entity are entirely determined on the basis of a defined benefit formula.
+
+Report the total member vested benefits which must either be retained in the superannuation entity or transferred to another superannuation entity. These benefits cannot be paid to the member until they reach a condition of release such as retirement.
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationRegulatoryInformation.PreservedBenefitsDefined.Amount
+- classification=em/emsup/emsup.02.02
+- period=instant

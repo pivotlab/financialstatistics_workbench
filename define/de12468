@@ -1,0 +1,33 @@
+# Financial Risk Credit Cash Collateral Amount
+
+## identifier
+de12468
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of regulatory capital for credit risk that are associated with cash collateral provided by the reporting entity to collateralise its obligations under liquidity and other facilities, in accordance with the relevant prudential standards. 
+
+For the purposes of calculating risk-weighted assets, cash collateral amounts (where not treated as a drawn facility), together with the undrawn portion of the relevant facility (or credit equivalent amount), may be treated as overlapping securitisation exposures under the relevant prudential standard. 
+
+Cash collateral can be lodged for securitisation and resecuritisation exposures.
+
+Securitisation exposures are on-balance sheet and off-balance sheet risk positions held by a reporting entity arising from a securitisation including, but not limited to:
+
+(i) investments by the reporting entity in securities issued by a special purpose vehicle (SPV), including retention of a subordinated tranche of securities issued by an SPV;
+
+(ii) other credit enhancements, such as guarantees provided by the reporting entity;
+
+(iii) drawn and undrawn funding, underwriting, liquidity and other facilities provided by the reporting entity to a securitisation; and
+
+(iv) exposures arising from swaps and other derivative transactions with an SPV.
+
+A resecuritisation exposure is a securitisation exposure in which the risk associated with an underlying pool of exposures is tranched and at least one of the underlying exposures is a securitisation exposure. In addition, an exposure to one or more resecuritisation exposures is a resecuritisation exposure.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Credit.CashCollateral.Amount
+- classification=baf/bafot/bafot.02.09
+- period=instant

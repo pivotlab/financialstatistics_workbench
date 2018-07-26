@@ -1,0 +1,16 @@
+# Superannuation Benefit Measures Date
+
+## identifier
+de13167
+
+## type
+string
+
+## definition
+This is the date of the most recent measurement. It may be the last actuarial investigation date or a subsequent more recent estimate date.
+
+## syntax
+### xbrl
+- name=SuperannuationBenefit.Measures.Date
+- classification=em/emsup/emsup.02.10
+- period=instant

@@ -1,0 +1,23 @@
+# Income Insurance Life Premium Amount
+
+## identifier
+de12905
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of premiums received from life insurance policies that are accounted for as insurance policy revenue.
+
+Include premiums in respect of deferred and immediate annuities that are life insurance business.
+
+Life insurance policies are contracts (policies) that will pay a specified sum to beneficiaries upon the death of the insured.
+
+An annuity is a periodic payment of a fixed or variable amount arising out of a contract obligation. Immediate annuities are those purchased with a single payment, where the income stream commences immediately. Deferred annuities are those where the income stream commences at some time in the future.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.LifePremium.Amount
+- classification=baf/bafpr/bafpr3.02.11
+- period=duration

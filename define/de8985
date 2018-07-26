@@ -1,0 +1,17 @@
+# Expense Claims Paid Cashflow Basis Amount
+
+## identifier
+de8985
+
+## type
+float
+
+## definition
+This is the value of claims paid on a cashflow basis during the relevant period, gross of any associated insurance recoveries.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.ClaimsPaidCashflowBasis.Amount
+- classification=baf/bafpr/bafpr1.02.07
+- period=duration

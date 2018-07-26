@@ -1,0 +1,17 @@
+# Income Other Operating Or Non Interest Income Total Amount
+
+## identifier
+de173
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the balancing item between interest income and total operating income, defined in this form only.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.OtherOperatingOrNonInterestIncomeTotal.Amount
+- classification=baf/bafpr/bafpr1.02.00
+- period=duration

@@ -1,0 +1,17 @@
+# Profit Or Loss Insurance Financial Instrument Component Amount
+
+## identifier
+de4815
+
+## type
+float
+
+## definition
+Financial Instrument Profit is determined as the sum of all cash flows relating to the financial instrument element of Life Investment Contracts (as per the Australian Accounting Standards). This includes investment earnings on the underlying assets, less the change in the value of the Life Investment Contract Liability. Essentially, any profit arising from changes in fair values of Financial Instruments that are not matched by changes in fair values of the underlying assets.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Insurance.FinancialInstrumentComponent.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

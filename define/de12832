@@ -1,0 +1,17 @@
+# Financial Risk Charge Adjustment Amount
+
+## identifier
+de12832
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date of adjustments for the risk charge, as approved by the Australian Prudential Regulation Authority.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.ChargeAdjustment.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

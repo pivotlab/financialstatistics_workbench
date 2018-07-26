@@ -1,0 +1,18 @@
+# Liabilities Insurance Balancing Item Policy Liabilities Amount
+
+## identifier
+de4224
+
+## type
+float
+
+## definition
+This is the liability in respect of the Management Services Element, determined as the difference between the Policy Liability and the Life Investment Contract liability as recognised and measured according to accounting standards, that has been ceded under reinsurance.
+Include reinsured liabilities for deferred acquisition cost and deferred fee revenues.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Liabilities.Insurance.BalancingItemPolicyLiabilities.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

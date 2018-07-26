@@ -1,0 +1,17 @@
+# Financial Risk Other Securitisation Funding Received Amount
+
+## identifier
+de14828
+
+## type
+float
+
+## definition
+The total value of the funding received in exchange for the transferred loans in a securitisation program during the relevant reporting period.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Other.SecuritisationFundingReceived.Amount
+- classification=baf/bafot/bafot.02.30
+- period=duration

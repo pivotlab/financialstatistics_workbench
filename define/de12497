@@ -1,0 +1,29 @@
+# Financial Risk Market Scaled Average Stressed VaR Foreign Exchange Positions Amount
+
+## identifier
+de12497
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the average stressed Value at Risk (VaR) for positions giving rise to foreign exchange risk. This represents the average VaR, calculated over the most recent 60 trading days prior to and including the relevant date, multiplied by the scaling factor applicable.
+
+Foreign exchange positions include on and off-balance sheet exposures which are affected by changes in foreign exchange rates. This includes holdings of, or positions in:
+(a) the net spot position, i.e. all asset items less all liability items, including accrued interest and other accrued income and accrued expenses, denominated in the currency in question; 
+(b) the net forward position, i.e. all amounts to be received less all amounts to be paid under forward foreign exchange transactions, including currency futures, the principal on currency swaps not included in the spot position, and interest rate transactions such as futures and swaps denominated in a foreign currency; This amount should represent the value of positions at current spot market exchange rates or using net present values;
+(c) guarantees (and similar instruments) that are certain to be called and likely to be irrecoverable; and 
+(d) any other item representing a profit or loss in foreign currencies.
+
+For the purposes of this item:
+- include unearned but expected future interest and anticipated expenses if the amounts are certain and the reporting party has hedged them; and
+- exclude structural positions, where permitted by the relevant prudential standards.
+
+Stressed VaR, like VaR is a technique used to estimate the likelihood of losses in a portfolio based on analysis of historical price movements and volatilities, over a specified observation period. For the stressed VaR however, the model inputs are calibrated to historical data from a one year observation period of significant market stress relevant to the portfolio being simulated.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.ScaledAverageStressedVaRForeignExchangePositions.Amount
+- classification=baf/bafot/bafot.02.09
+- period=instant

@@ -1,0 +1,26 @@
+# Financial Risk Management Capital Prudential Coverage Percent
+
+## identifier
+de5764
+
+## type
+float
+
+## definition
+Report the prudential capital coverage, being the amount derived by dividing the General Fund net assets (determined according to accounting standards) by the Prudential Capital Requirement.
+
+The Prudential Capital Requirement is the greater of the Prescribed Minimum Capital Amount (as prescribed in prudential standard PS3 for this reporting party) and the Management Capital Reserve.
+
+The Management Capital Reserve is deteremined in accordance with the management capital prudential standard, as the total Management Capital Requirement less the Total Liabilities of the General Fund.
+
+The total Management Capital Requirement is the value of the minimum capital requirement determined in accordance with the management capital prudential standard and held outside the statutory funds to ensure that under a range of adverse operating circumstances the company would be expected to be in a position to meet its trading commitments and adequately service its policy owners.
+
+The total liabilities are the net market value, or fair value, of liabilities including deferred acquisition costs arising in respect of policies. This method of disclosure differs from the Australian Accounting Standards.
+
+General Fund refers to the management fund for a friendly society or the shareholders' fund for other life companies, and is distinct and separate from the statutory funds of the life company.
+
+## syntax
+### xbrl
+- name=FinancialRisk.ManagementCapital.PrudentialCoverage.Percent
+- classification=baf/bafot/bafot.02.05
+- period=instant

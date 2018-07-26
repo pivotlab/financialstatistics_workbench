@@ -1,0 +1,22 @@
+# Assets Exposures Investment Risk Charge Rebate Encumbered Assets Amount
+
+## identifier
+de8818
+
+## type
+float
+
+## definition
+This is the aggregate value, as at the relevant date, of the investment risk charge rebates calculated for each category of encumbered asset as:
+     - F x (A - B), where :
+     - F = Investment risk capital factor applicable to the category of asset to which A belongs; 
+     - A = The fair value as at the relevant date, of the reporting party's assets subject to a charge or encumbrance;
+     - B = The value of, as at the relevant date, of the reporting party's insurance liabilities that are supported by the security given in A; and
+     - A is greater than B.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.Exposures.InvestmentRiskChargeRebateEncumberedAssets.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

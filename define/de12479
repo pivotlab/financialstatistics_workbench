@@ -1,0 +1,17 @@
+# Financial Risk Market Comprehensive Risk Charge Correlation Trading Portfolio Amount
+
+## identifier
+de12479
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the capital charge for the reporting entity's correlation trading portfolio as determined by the comprehensive approach, in accordance with relevant prudential standards. The comprehensive approach is an internal model approach that captures all price risks related to correlation trading portfolios.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.ComprehensiveRiskChargeCorrelationTradingPortfolio.Amount
+- classification=baf/bafot/bafot.02.09
+- period=instant

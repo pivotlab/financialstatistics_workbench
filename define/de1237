@@ -1,0 +1,17 @@
+# Assets Other Financial Assets Capitalised Loan Broker Mortgage Origination Fees Amount
+
+## identifier
+de1237
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the origination fees and commissions deferred.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.CapitalisedLoanBrokerMortgageOriginationFees.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

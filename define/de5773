@@ -1,0 +1,22 @@
+# Superannuation Regulatory Information Commissions Brokerage Paid Indicator
+
+## identifier
+de5773
+
+## type
+boolean
+
+## definition
+Has the reporting party paid commissions and/or brokerage during the relevant period?
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The reporting party paid commissions and/or brokerage during the relevant period.
+FALSE = The reporting party did not pay commissions and/or brokerage during the relevant period.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.CommissionsBrokeragePaid.Indicator
+- classification=em/emsup/emsup.02.02
+- period=duration

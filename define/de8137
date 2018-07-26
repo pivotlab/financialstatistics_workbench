@@ -1,0 +1,19 @@
+# Financial Risk Market IRRBB Capital Requirement Currency Or Composite Of Currencies Embedded Loss Or Gain Amount
+
+## identifier
+de8137
+
+## type
+float
+
+## definition
+This is the embedded loss or gain amount, for the relevant currency or composite of currencies, as at the relevant date, defined as the sum of the book value of all banking book items minus the constant value of EV0 (the economic value of the banking book minus an earnings offset). This represents part of the interest rate risk in the banking book (IRRBB) capital requirement, as determined in accordance with relevant prudential standards.
+
+IRRBB capital requirement represents the regulatory capital that an entity is required to hold against its exposure to IRRBB in accordance with prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.IRRBBCapitalRequirementCurrencyOrCompositeOfCurrenciesEmbeddedLossOrGain.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

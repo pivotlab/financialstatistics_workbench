@@ -1,0 +1,32 @@
+# Assets Exposures Equity Securities Adjusted For Derivatives Amount
+
+## identifier
+de5550
+
+## type
+float
+
+## definition
+Report the net market value or fair value of counterparty exposures to equity investment securities, after adjusting for derivatives. 
+
+Equity investment securities are, as defined by the Australian Accounting Standards, contracts that evidence a residual interest in the assets of an entity after deducting all its liabilities, acquired with the intent to derive a gain either through an income stream or disposal.
+
+An exposure to a counterparty or a group of related counterparties is the aggregate of all claims, commitments and contingent liabilities arising from on- and off-balance sheet transactions with the counterparty or group of related counterparties. An exposure includes an investment in an individual listed corporation or an individual property. It does not include an exposure to an asset class such as domestic equities, property, or an industry sector.
+
+Exposures include claims and commitments of the entity recorded both on and off the balance sheet that are of the following nature:
+(a) Credit exposures (i.e. such as a money market placement with a Bank or holding of a corporation's debt securities);
+(b) Asset exposures that are not in the nature of a credit exposure (e.g. a direct property investment); and
+(c) Exposures in the nature of a liability or obligation to a single party or group of related parties.
+
+Off-balance sheet exposures refer to items that are not recognised in the statement of financial position of the reporting party, such as contingent assets and liabilities.
+
+Where credit risk is unequivocally transferred to a third party by an irrevocable letter of credit or a direct guarantee, the exposure is to the third party.
+
+Net market value or fair value, as defined by the Australian Accounting Standards is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.ExposuresEquitySecuritiesAdjustedForDerivatives.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

@@ -1,0 +1,26 @@
+# Assets Facilities And Swaps Drawn Amount
+
+## identifier
+de8015
+
+## type
+float
+
+## definition
+This is, as at the relevant date, the principal amount, or drawn amount, of total funding and liquidity type facilities and swaps. For the purpose of this item, report the credit equivalent amount of swaps. 
+
+This item represents the following:
+      - liquidity facilities provided to securitisation programs;
+      - funding facilities provided to securitisation programs;
+      - underwriting facilities provided to securitisation programs;
+      - lending facilities provided to investors for the purpose of investing in securitisation programs;
+      - credit enhancements  provided to securitisation programs;
+      - swaps entered into with securitisation programs; and
+      - any other facilities provided to securitisation programs.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.FacilitiesAndSwapsDrawn.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

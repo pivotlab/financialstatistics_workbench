@@ -1,0 +1,17 @@
+# Profit Or Loss Insurance Profit Margin Emerging Amount
+
+## identifier
+de13674
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the profit arising from applying the profit margin(s) determined at the beginning of the period to the expected value of the profit carrier(s) on the basis of best estimate assumptions at the beginning of the period.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Insurance.ProfitMarginEmerging.Amount
+- classification=baf/bafpr/bafpr3.02.17
+- period=duration

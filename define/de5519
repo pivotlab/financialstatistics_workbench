@@ -1,0 +1,19 @@
+# Liabilities Provisions Other BS Item Amount
+
+## identifier
+de5519
+
+## type
+float
+
+## definition
+Report all provisions calculated in accordance with Australian Accounting Standards other than:
+- Current tax liabilities; and
+- Deferred tax liabilities
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Provisions.OtherBSItem.Amount
+- classification=baf/bafpo/bafpo6.02.05
+- period=instant

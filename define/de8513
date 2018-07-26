@@ -1,0 +1,17 @@
+# Income Total Other GRF 310 0 G Amount
+
+## identifier
+de8513
+
+## type
+float
+
+## definition
+This is the value of all income recognised in the profit or loss, not relating to investments or the underwriting result during the relevant period. This item is reported as required on APRA form GRF_310_0_G.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.TotalOtherGRF3100G.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

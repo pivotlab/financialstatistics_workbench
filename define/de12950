@@ -1,0 +1,17 @@
+# Liabilities Insurance Provisions Premium Liabilities Amount
+
+## identifier
+de12950
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of liabilities arising from premiums expected to be received.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.ProvisionsPremiumLiabilities.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

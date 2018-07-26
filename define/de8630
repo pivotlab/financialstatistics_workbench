@@ -1,0 +1,23 @@
+# Financial Risk Concentration Risk Capital Charge Amount
+
+## identifier
+de8630
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date of the concentration risk capital charge calculated as A + B, where
+
+A = Maximum Event Retention, being the largest loss to which an insurer will be exposed (taking into account the probability of that loss) due to concentration of risk exposures, after netting out any potential reinsurance recoverables;
+
+B = the cost of one reinstatement of the catastrophe reinsurance cover  in cases where the reinsurance cover has not been pre-paid by the insurer.
+
+Concentration risk capital charge is the component of the minimum capital requirement that takes into account the highest aggregation of risks of an insurer and is determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.ConcentrationRiskCapitalCharge.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

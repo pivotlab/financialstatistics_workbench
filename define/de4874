@@ -1,0 +1,16 @@
+# Lodgment Return Name Text
+
+## identifier
+de4874
+
+## type
+string
+
+## definition
+The name of the return the form belongs to.
+
+## syntax
+### xbrl
+- name=Lodgment.ReturnName.Text
+- classification=py/pyin/pyin.02.09
+- period=duration

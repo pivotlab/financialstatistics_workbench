@@ -1,0 +1,16 @@
+# Assets Loans And Receivables Credit Outstanding Count
+
+## identifier
+de14846
+
+## type
+int
+
+## definition
+This is the number of business entities with credit outstanding for loans and leases.
+
+## syntax
+### xbrl
+- name=Assets.LoansAndReceivables.CreditOutstanding.Count
+- classification=baf/bafpo/bafpo5.02.14
+- period=instant

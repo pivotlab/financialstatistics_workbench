@@ -1,0 +1,21 @@
+# Assets Cash And Liquid Assets Deposits At Call Cash At Bank And In Hand Amount
+
+## identifier
+de9013
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of total cash and cash equivalents. For the purposes of this item, include notes and coins; overnight money (deposits at call); cash management trusts; commercial paper; and deposits at call.
+
+Commercial paper is an unsecured promissory note with a fixed maturity of 1 to 270 days. Commercial Paper is a money-market security issued (sold) by large banks and corporations to get money to meet short term debt obligations (for example, payroll), and is only backed by an issuing bank or corporation's promise to pay the face amount on the maturity date specified on the note.
+
+Deposits at call are redeemable or withdrawable by the reporting party on demand or within 24 hours.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.DepositsAtCallCashAtBankAndInHand.Amount
+- classification=baf/bafpo/bafpo7.02.07
+- period=instant

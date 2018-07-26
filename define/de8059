@@ -1,0 +1,16 @@
+# Financial Risk Market Daily Loss Third Largest Date
+
+## identifier
+de8059
+
+## type
+string
+
+## definition
+This is the date of the third largest daily loss experienced by the reporting party over the relevant period due to market movements.
+
+## syntax
+### xbrl
+- name=FinancialRisk.Market.DailyLossThirdLargest.Date
+- classification=baf/bafot/bafot.02.06
+- period=duration

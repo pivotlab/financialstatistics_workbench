@@ -1,0 +1,21 @@
+# Auditor Report Opinion Modification Reason Not All Australian Accounting Standards Applied Indicator
+
+## identifier
+de9047
+
+## type
+boolean
+
+## definition
+This is the indicator for the reason of modification being not all Australian Accounting Standards applied, for the relevant period.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = If not unqualified, the reason for audit opinion modification was that not all Australian Accounting Standards applied
+FALSE = If not unqualified, the reason for audit opinion modification was not that not all Australian Accounting Standards applied
+
+## syntax
+### xbrl
+- name=AuditorReport.OpinionModificationReasonNotAllAustralianAccountingStandardsApplied.Indicator
+- classification=em/emfsm/emfsm.02.06
+- period=duration

@@ -1,0 +1,17 @@
+# Financial Risk Solvency Inadmissible Assets Intangibles Total Value Amount
+
+## identifier
+de4972
+
+## type
+float
+
+## definition
+Report the total value disclosed in the regulatory financial statements of all intangible assets held that are not independently realisable, for example deferred acquisition costs assets.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.InadmissibleAssetsIntangiblesTotalValue.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

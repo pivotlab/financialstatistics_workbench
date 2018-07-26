@@ -1,0 +1,19 @@
+# Income Insurance Life Policy Conversion Deposit Component Amount
+
+## identifier
+de4184
+
+## type
+float
+
+## definition
+Report the value of the deposit (investment component) elements of Conversions into this statutory fund.
+
+Life insurance policies are contracts (policies) that will pay a specified sum to beneficiaries upon the death of the insured.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.LifePolicyConversionDepositComponent.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

@@ -1,0 +1,16 @@
+# Organisation Control Director Term Length Count
+
+## identifier
+de13730
+
+## type
+int
+
+## definition
+This is the number of years of a director's term, where the board of an entity has set a length for the term of appointment of a director as part of the board renewal policy.
+
+## syntax
+### xbrl
+- name=OrganisationControl.DirectorTermLength.Count
+- classification=py/pyde/pyde.02.18
+- period=instant

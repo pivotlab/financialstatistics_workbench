@@ -1,0 +1,20 @@
+# Liabilities Other Financial Liabilities First Home Saver Account Closed Other Count
+
+## identifier
+de8881
+
+## type
+int
+
+## definition
+This is the number of First Home Saver Accounts (FHSAs), closed for reasons other than:
+     - Proceeds used for housing;
+     - Transfers to other providers - requested by individual account holders;
+     - Transfer of business to other providers; or 
+     - Transfers to superannuation fund.
+
+## syntax
+### xbrl
+- name=Liabilities.OtherFinancialLiabilities.FirstHomeSaverAccountClosedOther.Count
+- classification=baf/bafpo/bafpo6.02.06
+- period=duration

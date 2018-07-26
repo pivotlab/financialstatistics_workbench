@@ -1,0 +1,17 @@
+# Superannuation Payment Repatriation To Employer Sponsor Amount
+
+## identifier
+de1947
+
+## type
+float
+
+## definition
+Where the reporting party has repatriated superannuation funds to an employer sponsor, report the value of the funds repatriated during the reporting period. Do not include other types of payments to the employer sponsor (for example, administration fees paid to the employer sponsor).
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationPayment.RepatriationToEmployerSponsor.Amount
+- classification=em/emsup/emsup.02.00
+- period=duration

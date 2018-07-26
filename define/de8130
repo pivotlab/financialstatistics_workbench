@@ -1,0 +1,21 @@
+# Financial Risk Market IRRBB Capital Requirement Diversification Benefit Between Currencies On Optionality Risk Amount
+
+## identifier
+de8130
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of assumed diversification benefits between currencies for the estimated optionality risk. This amount will reduce the reporting party's total IRRBB capital requirement, as determined in accordance with relevant prudential standards.
+
+IRRBB capital requirement represents the regulatory capital that an entity is required to hold against its exposure to IRRBB in accordance with Prudential Standards.
+
+Optionality risk represents the risk of loss in earnings or economic value due to the existence of stand-alone or embedded options, to the extent that the potential for those losses is not included in the measurement of repricing, yield curve or basis risks.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.IRRBBCapitalRequirementDiversificationBenefitBetweenCurrenciesOnOptionalityRisk.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

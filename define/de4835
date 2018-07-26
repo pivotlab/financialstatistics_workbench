@@ -1,0 +1,19 @@
+# Liabilities Insurance Policy Gross Inwards Reinsurance Amount
+
+## identifier
+de4835
+
+## type
+float
+
+## definition
+Gross Policy Liability in respect of inwards reinsurance business.
+
+This should be the gross figure, not net of retrocessions.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.PolicyGrossInwardsReinsurance.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

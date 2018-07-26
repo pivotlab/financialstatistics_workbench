@@ -1,0 +1,17 @@
+# Expense Operating New Business Acquisition Direct Variable Deposit Component Amount
+
+## identifier
+de4936
+
+## type
+float
+
+## definition
+Report commission and other incremental acquisition costs in relation to the deposit (investment) component of new business acquired. They include commission or brokerage paid to agents or brokers for obtaining business for the reporting party, and variable costs directly related to acquiring the new business that would not have been incurred if the new business were not acquired.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.NewBusinessAcquisitionDirectVariableDepositComponent.Amount
+- classification=baf/bafpr/bafpr2.02.05
+- period=duration

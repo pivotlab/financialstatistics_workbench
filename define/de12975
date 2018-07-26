@@ -1,0 +1,17 @@
+# Assets Insurance Management Fees Expected Amount
+
+## identifier
+de12975
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for management fees expected to be received. This item is to be determined in accordance with relevant prudential standards and is net of any reduction in management fees assumed under asset and/or insurance stresses.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.Insurance.ManagementFeesExpected.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

@@ -1,0 +1,16 @@
+# Organisation Details Main Related Product Group Text
+
+## identifier
+de5620
+
+## type
+string
+
+## definition
+Report the name of the main Related Product Group within the relevant Product Group.
+
+## syntax
+### xbrl
+- name=OrganisationDetails.MainRelatedProductGroup.Text
+- classification=py/pyde/pyde.02.06
+- period=instant

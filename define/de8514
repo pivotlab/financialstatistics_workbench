@@ -1,0 +1,27 @@
+# Income Other GRF 310 0 G Amount
+
+## identifier
+de8514
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value of all other income recognised in the profit or loss during the relevant period, as required on APRA form GRF_310_0_G.
+
+This item represents income that is not:
+- investment income;
+- contained within the underwriting result;
+- net foreign exchange gains;
+- negative goodwill;
+- defined benefit actuarial gains; or
+- gains from non-current assets and disposal groups classified as held for sale not qualifying as discontinued operations.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.OtherGRF3100G.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

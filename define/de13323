@@ -1,0 +1,16 @@
+# Superannuation Rollover Transaction Count
+
+## identifier
+de13323
+
+## type
+int
+
+## definition
+This is the number, during the relevant period, of instances of rollovers. That is any transfer into or out of a superannuation fund including eligible rollover funds, approved deposit funds, deferred annuities or retirement savings accounts.
+
+## syntax
+### xbrl
+- name=SuperannuationRollover.Transaction.Count
+- classification=em/emsup/emsup.02.15
+- period=duration

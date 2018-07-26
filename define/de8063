@@ -1,0 +1,21 @@
+# Financial Risk Market Stress Testing Interest Rate Volatility Scenario Amount
+
+## identifier
+de8063
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the effect on interest rate options due to interest rate volatility changes as specified in the stress testing scenarios. This represents the change in value of these positions given stress testing scenarios applied.
+
+An option provides the purchasing entity with the right but not the obligation to buy or sell a specific amount of the underlying asset at a pre-agreed price, on or before a specific future date.
+
+An interest rate contract is any contract that transfers the interest rate risk of an underlying asset from one party to another.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.StressTestingInterestRateVolatilityScenario.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

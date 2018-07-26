@@ -1,0 +1,17 @@
+# Assets Loans And Placements Amount
+
+## identifier
+de14206
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for borrowings which are not evidenced by the issue of debt securities (loans) and account balances with institutions not regarded as deposit-taking institutions (placements).
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndPlacements.Amount
+- classification=baf/bafpo/bafpo1.02.26
+- period=instant

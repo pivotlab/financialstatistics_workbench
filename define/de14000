@@ -1,0 +1,17 @@
+# Assets Investment Total Movements Excluding Derivatives Directly Held Amount
+
+## identifier
+de14000
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the total movements in investments. Investments represent the purchase of a financial product or other item of value with an expectation of favourable future returns. This item excludes directly held derivatives.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.TotalMovementsExcludingDerivativesDirectlyHeld.Amount
+- classification=baf/bafpo/bafpo7.02.20
+- period=duration

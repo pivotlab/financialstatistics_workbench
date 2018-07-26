@@ -1,0 +1,17 @@
+# Financial Risk Market Stress Testing Exchange Rate Scenarios Amount
+
+## identifier
+de8065
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the effect on all exchange rate sensitive positions (excluding positions in gold), as determined in accordance with relevant prudential standards, due to movements in prices and volatilities as specified in stress testing scenarios. This represents the change in the portfolio value of these positions given stress testing scenarios applied.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.StressTestingExchangeRateScenarios.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

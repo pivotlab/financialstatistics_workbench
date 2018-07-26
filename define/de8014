@@ -1,0 +1,26 @@
+# Assets Exposures Facilities And Swaps Approved Limit Amount
+
+## identifier
+de8014
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the total committed amount, or limit, of total funding and liquidity type facilities and swaps. For the purpose of this item, report the notional principal amount of swaps. 
+
+This item represents the following:
+      - liquidity facilities provided to securitisation programs;
+      - funding facilities provided to securitisation programs;
+      - underwriting facilities provided to securitisation programs;
+      - lending facilities provided to investors for the purpose of investing in securitisation programs;
+      - credit enhancements  provided to securitisation programs;
+      - swaps entered into with securitisation programs; and
+      - any other facilities provided to securitisation programs.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.ExposuresFacilitiesAndSwapsApprovedLimit.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

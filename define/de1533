@@ -1,0 +1,17 @@
+# Equity Reserves Capital Profits Reserve Amount
+
+## identifier
+de1533
+
+## type
+float
+
+## definition
+Capital profits reserve represents the realised value of revaluations associated with an asset or class of assets that have been disposed of. 
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Reserves.CapitalProfitsReserve.Amount
+- classification=baf/bafpo/bafpo2.02.00
+- period=instant

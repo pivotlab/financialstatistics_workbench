@@ -1,0 +1,17 @@
+# Assets Other Financial Assets General Insurance Premiums Receivable Amount
+
+## identifier
+de1233
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for general insurance premiums and other receivables.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.GeneralInsurancePremiumsReceivable.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

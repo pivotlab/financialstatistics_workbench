@@ -1,0 +1,21 @@
+# Liabilities Insurance Technical Provisions In Excess Of Liability Valuation Amount
+
+## identifier
+de8649
+
+## type
+float
+
+## definition
+This is the amount, as at the relevant date, of technical provisions in excess of liability valuation, calculated as A + B, where:
+
+A = technical provisions in excess of liability valuation on Outstanding Claims Provision (OCP), being the amount by which the outstanding claims provision (OCP), net of any recoveries, determined in accordance with accounting standards exceeds (or is in deficit of) the equivalent figure determined in accordance with prudential standards; and
+
+B = excess technical provisions on premiums liabilities, being the amount by which the premium liability proxy calculated from figures determined in accordance with prudential standards exceeds (or is in deficit of) the technical provision determined in accordance with accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.TechnicalProvisionsInExcessOfLiabilityValuation.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

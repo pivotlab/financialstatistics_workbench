@@ -1,0 +1,16 @@
+# Income Investment Other SRF 200 0 Description
+
+## identifier
+de8429
+
+## type
+string
+
+## definition
+This is the description of the detailed line item comprising the other investment income balancing item, as required to be reported on APRA form SRF_200_0.
+
+## syntax
+### xbrl
+- name=Income.Investment.OtherSRF2000.Description
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

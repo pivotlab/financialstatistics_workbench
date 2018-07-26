@@ -1,0 +1,17 @@
+# Financial Risk Management Capital Assets Disclosed Above Fair Value NTA Amount
+
+## identifier
+de5680
+
+## type
+float
+
+## definition
+Report the value as disclosed in the regulatory financial statements of those assets where either their net tangible asset value or their fair value is less than the value disclosed in the regulatory financial statements. This value does not include the value of those assets otherwise treated as inadmissible assets.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.ManagementCapital.AssetsDisclosedAboveFairValueNTA.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

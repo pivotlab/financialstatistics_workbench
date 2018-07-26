@@ -1,0 +1,17 @@
+# Equity Reserves Asset Revaluation Reserve Property Amount
+
+## identifier
+de13031
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the balance of the reserve relating to the revaluation of property, as determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Reserves.AssetRevaluationReserveProperty.Amount
+- classification=baf/bafpo/bafpo2.02.09
+- period=instant

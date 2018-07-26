@@ -1,0 +1,17 @@
+# Assets Trading Securities Liquidity Coverage Ratio Other Amount
+
+## identifier
+de14882
+
+## type
+float
+
+## definition
+The value of debt securities that qualify as other liquidity coverage ratio (LCR) assets, including third-party debt securities that are Reserve Bank of New Zealand (RBNZ) eligible securities.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.TradingSecurities.LiquidityCoverageRatioOther.Amount
+- classification=baf/bafpo/bafpo7.02.25
+- period=instant

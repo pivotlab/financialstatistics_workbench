@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Covered Bonds Assets Cover Pool Amount
+
+## identifier
+de12840
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the assets in cover pools that do not qualify for treatment of assets of the Authorised Deposit-taking Institution in accordance with the Banking Act.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.CoveredBondsAssetsCoverPool.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

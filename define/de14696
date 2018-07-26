@@ -1,0 +1,16 @@
+# Organisation Details EFTPOS Service Points Count
+
+## identifier
+de14696
+
+## type
+int
+
+## definition
+This is the number, as at the relevant date, of Electronic Funds Transfer at Point of Sale (EFTPOS) service points.
+
+## syntax
+### xbrl
+- name=OrganisationDetails.EFTPOSServicePoints.Count
+- classification=py/pyde/pyde.02.34
+- period=instant

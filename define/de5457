@@ -1,0 +1,21 @@
+# Liabilities Exposures Off Balance Sheet Borrowings Net Incurrence Settlement Transactions Amount
+
+## identifier
+de5457
+
+## type
+float
+
+## definition
+Report the net value of all incurrance and settlement transactions, during the relevant period, of off balance sheet exposures related to liabilities classified as borrowings.
+
+Borrowings are generally amounts of money on loan from financial institutions or other creditors with the promise or understanding that it will be repaid.
+
+Off-balance sheet liability exposures relate to those liabilities or obligations that do not satisfy the recognition requirements of the relevant accounting standards and are therefore not recognised on the face of the balance sheet, or statement of financial position.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Exposures.OffBalanceSheetBorrowingsNetIncurrenceSettlementTransactions.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=duration

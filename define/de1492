@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities Items In Suspense Amount
+
+## identifier
+de1492
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the suspense or unreconciled/unidentified transactions/balances that are in a liability position. A list of examples is not provided as these may vary between institutions. It is recommended that the institution's internal procedures be adopted regarding the recording and reporting of these types of balances.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.ItemsInSuspense.Amount
+- classification=baf/bafpo/bafpo6.02.00
+- period=instant

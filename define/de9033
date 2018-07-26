@@ -1,0 +1,16 @@
+# Regulatory Disclosures Insurance Surplus Recipient And Use Description
+
+## identifier
+de9033
+
+## type
+string
+
+## definition
+This is a description of the recipient of the profits/surpluses and how those surpluses are made use of.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuranceSurplusRecipientAndUse.Description
+- classification=baf/bafot/bafot.02.07
+- period=duration

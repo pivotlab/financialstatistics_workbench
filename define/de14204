@@ -1,0 +1,17 @@
+# Assets Investment Equity Securities Unit Trusts Amount
+
+## identifier
+de14204
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for shares which are securities which represent ownership of part of a company and units in trusts which are securities that represent beneficial interest or economic ownership in a trust.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.EquitySecuritiesUnitTrusts.Amount
+- classification=baf/bafpo/bafpo7.02.23
+- period=instant

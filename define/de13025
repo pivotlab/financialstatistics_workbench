@@ -1,0 +1,17 @@
+# Equity Contributed Equity Paid Up Ordinary Share Capital Other Qualifying Instruments Amount
+
+## identifier
+de13025
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of paid-up ordinary share capital; or, instruments with the characteristics of ordinary shares instruments issued by the reporting entity that satisfy - as determined by APRA - the eligibility criteria of the relevant prudential standard.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.ContributedEquity.PaidUpOrdinaryShareCapitalOtherQualifyingInstruments.Amount
+- classification=baf/bafpo/bafpo2.02.09
+- period=instant

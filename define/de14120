@@ -1,0 +1,17 @@
+# Financial Risk Solvency Inflow Cash Premiums Amount
+
+## identifier
+de14120
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for cash receipts arising from premiums payable under policies of insurance that are referrable to the fund.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.InflowCashPremiums.Amount
+- classification=baf/bafot/bafot.02.25
+- period=instant

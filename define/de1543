@@ -1,0 +1,17 @@
+# Equity Reserves Marketable Securities Available For Sale Reserve Amount
+
+## identifier
+de1543
+
+## type
+float
+
+## definition
+Report the value of the reserve in relation to marketable securities (debt and equity), classified as available for sale consistent with the classification and measurement basis used by institutions in accordance with accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Reserves.MarketableSecuritiesAvailableForSaleReserve.Amount
+- classification=baf/bafpo/bafpo2.02.00
+- period=instant

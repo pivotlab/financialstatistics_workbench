@@ -1,0 +1,19 @@
+# Assets Loans And Receivables Insurance Recoveries Reinsurance Outstanding Claims Provision Gross Central Estimate Amount
+
+## identifier
+de8520
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the central estimate of reinsurance recoverables, being amounts due to the reporting party under a reinsurance arrangement that arise from the recognition of Outstanding Claims Liabilities in accordance with relevant prudential standards.  The value must be reported net of any provisions for doubtful debts.
+
+The central estimate will be measured as the present value of the future expected reinsurance recoveries, i.e. discounted for future investment income, determined in accordance with relevant prudential standards. The central estimate is intended to reflect the mean value in the range of possible values for the outcome (that is, the mean of the distribution of probabilistic outcomes), and so does not include any risk margin.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.InsuranceRecoveriesReinsuranceOutstandingClaimsProvisionGrossCentralEstimate.Amount
+- classification=baf/bafpo/bafpo5.02.05
+- period=instant

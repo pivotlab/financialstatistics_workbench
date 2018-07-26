@@ -1,0 +1,17 @@
+# Assets Cash And Liquid Assets Deposits At Call And Repos Amount
+
+## identifier
+de8762
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of deposits withdrawable or redeemable within 24 hours; and securities purchased under agreements to resell.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.DepositsAtCallAndRepos.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=instant

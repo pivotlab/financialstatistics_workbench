@@ -1,0 +1,23 @@
+# Assets Investment Loans And Advances Historical Cost Amount
+
+## identifier
+de4945
+
+## type
+float
+
+## definition
+Report the acquisition cost, or historical value, of investment loans and advances provided by the reporting party.
+
+For the purposes of this item, only report those amounts provided, acquired, or initially recognised, during the relevant period. 
+
+This item is to be determined in accordance with relevant accounting standards.
+
+The acquisition cost, or historical cost, of an asset is the original cost paid to acquire the asset, at the date the asset was initially acquired. Where the asset was acquired in stages, sum the initial acquisition cost of each stage, but only to the extent the acquisitions occurred during the relevant period.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.LoansAndAdvancesHistoricalCost.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=duration

@@ -1,0 +1,29 @@
+# Superannuation Regulatory Information MySuper Product Type Code
+
+## identifier
+de13175
+
+## type
+string
+
+## definition
+This indicates the type of MySuper product.
+
+## guidance
+The valid enumerated values are:
+Goodwill MySuper product = Goodwill MySuper product
+MySuper product for large employer sponsor = MySuper product for large employer sponsor
+Generic MySuper product = Generic MySuper product
+
+## codes
+| Name                                       |
+| ------------------------------------------ |
+| Generic MySuper product                    |
+| Goodwill MySuper product                   |
+| MySuper product for large employer sponsor |
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.MySuperProductType.Code
+- classification=em/emsup/emsup.02.10
+- period=duration

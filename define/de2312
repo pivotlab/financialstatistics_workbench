@@ -1,0 +1,17 @@
+# Expense Prospective Underwriting Total Amount
+
+## identifier
+de2312
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for a subtotal item within the list in which it is being used.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Prospective.UnderwritingTotal.Amount
+- classification=baf/bafpr/bafpr3.02.00
+- period=duration

@@ -1,0 +1,16 @@
+# Financial Risk Liquidity Coverage Ratio Highest Percent
+
+## identifier
+de14905
+
+## type
+float
+
+## definition
+This is the percentage, for the highest liquidity coverage ratio (LCR) during the reporting period calculated in accordance with the relevant prudential standard.
+
+## syntax
+### xbrl
+- name=FinancialRisk.LiquidityCoverageRatioHighest.Percent
+- classification=baf/bafot/bafot.02.32
+- period=duration

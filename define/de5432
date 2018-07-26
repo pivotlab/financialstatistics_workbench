@@ -1,0 +1,17 @@
+# Equity Movements Retained Profits Transfers In From Statutory Funds Amount
+
+## identifier
+de5432
+
+## type
+float
+
+## definition
+Report the value of transfers into the reporting party from other statutory funds.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Movements.RetainedProfitsTransfersInFromStatutoryFunds.Amount
+- classification=baf/bafpo/bafpo4.02.04
+- period=duration

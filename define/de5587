@@ -1,0 +1,21 @@
+# Financial Risk Solvency Greater Policy Liability MTV Reinsurance Aggregate Amount
+
+## identifier
+de5587
+
+## type
+float
+
+## definition
+Report the aggregate of the greater of the Solvency Liability value (calculated using assumptions as per the solvency standard) or the Minimum Termination Value (MTV) of each related product group (RPG), ceded under reinsurance.
+
+MTV is the amount that a life insurer is obliged to pay to policyholders if they decided to voluntarily terminate their policies at the relevant date. The obligation might be contractual, statutory or a result of past practice. Calculated as the greater of: 
+a) the lowest Termination Value that the reporting party is obliged to pay; and 
+b) the amount calculated in accordance with the Surrender Value Standard.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.GreaterPolicyLiabilityMTVReinsuranceAggregate.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

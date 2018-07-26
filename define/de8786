@@ -1,0 +1,17 @@
+# Equity Reserves Other GRF300 Amount
+
+## identifier
+de8786
+
+## type
+float
+
+## definition
+This is the value, determined in accordance with relevant accounting standards, as at the relevant date, of reserves other than those relating to general reserve, capital profits reserve, foreign currency translation reserve, cash flow hedge reserve, share base payments reserve and asset revaluation reserve.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Reserves.OtherGRF300.Amount
+- classification=baf/bafpo/bafpo2.02.06
+- period=instant

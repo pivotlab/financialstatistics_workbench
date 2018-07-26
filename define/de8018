@@ -1,0 +1,19 @@
+# Assets Exposures Off Balance Sheet Overdraft Irrevocable Undrawn Balance Amount
+
+## identifier
+de8018
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of overdraft facilities that the reporting party has irrevocably made available to its customers.
+
+Overdraft facilities are accounts which may be overdrawn up to a limit agreed by the parties involved.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.OffBalanceSheetOverdraftIrrevocableUndrawnBalance.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

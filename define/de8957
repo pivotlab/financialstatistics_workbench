@@ -1,0 +1,17 @@
+# Expense Operating Other Excluding Wages And Salaries Amount
+
+## identifier
+de8957
+
+## type
+float
+
+## definition
+This is the value of remuneration expenses, other than wages and salaries, for the duration of the relevant period as determined in accordance with accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.OtherExcludingWagesAndSalaries.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

@@ -1,0 +1,25 @@
+# Organisation Details General Fund Indicator
+
+## identifier
+de12968
+
+## type
+boolean
+
+## definition
+This indicates whether or not the reporting entity is a general fund.
+
+General fund refers to the shareholder's fund of a life company other than friendly societies, or the management fund of a friendly society, as relevant.
+
+## guidance
+A choice of TRUE/FALSE values.
+
+true = The reporting entity is a General Fund.
+
+false = The reporting entity is not a General Fund.
+
+## syntax
+### xbrl
+- name=OrganisationDetails.GeneralFund.Indicator
+- classification=py/pyde/pyde.02.10
+- period=instant

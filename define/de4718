@@ -1,0 +1,21 @@
+# Assets Investment Debt Securities Bills Of Exchange Net Market Value Amount
+
+## identifier
+de4718
+
+## type
+float
+
+## definition
+Report the net market value, or fair value, of Bills of Exchange.
+
+A Bill of Exchange is a written order requiring one party to pay a specified sum of money to another party at a future maturity date. It is a negotiable instrument which is usually sold at a discount and traded on the money market. Bills of exchange can be bank-accepted or bank-endorsed, or can rank as commercial bills.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.DebtSecuritiesBillsOfExchangeNetMarketValue.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=instant

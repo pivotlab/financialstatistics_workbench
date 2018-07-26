@@ -1,0 +1,21 @@
+# Financial Risk Credit Exposures Other ARF 113 4 Amount
+
+## identifier
+de7963
+
+## type
+float
+
+## definition
+This is the balancing item in the list in which it is being used.
+
+This is the value of all other exposures for the purposes of form ARF_113_4.
+
+This item is reported for capital adequacy purposes and is to be determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Credit.ExposuresOtherARF1134.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

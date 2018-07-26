@@ -1,0 +1,21 @@
+# Financial Risk Capital Adequacy Greater Policy Liability CTV Reinsurance Amount
+
+## identifier
+de5704
+
+## type
+float
+
+## definition
+Report the aggregate of the greater of the Policy Liability value (calculated using assumptions as per the Capital Adequacy standard) or the Current Termination Value (CTV) of each related product group (RPG), ceded under reinsurance.
+
+The Current Termination Value of a policy is either:
+a) the amount that would be paid on the basis used in practice from time to time in the event of voluntary termination; or
+b) where no amount would be paid, the discounted present value of the unexpired risks, future payments and/or contractual premium refunds.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.GreaterPolicyLiabilityCTVReinsurance.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

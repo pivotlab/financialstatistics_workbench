@@ -1,0 +1,17 @@
+# Regulatory Disclosures Actual Self Insurance Funding Held Amount
+
+## identifier
+de13140
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of funds held within a Registrable Superannuation Entity (RSE) or defined benefit sub-fund for the purposes of funding a self-insurance arrangement.
+
+## syntax
+### xbrl
+- balance=credit
+- name=RegulatoryDisclosures.ActualSelfInsuranceFundingHeld.Amount
+- classification=baf/bafot/bafot.02.15
+- period=instant

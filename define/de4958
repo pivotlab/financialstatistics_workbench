@@ -1,0 +1,21 @@
+# Assets Investment Real Estate Property Plus Accrued Income Net Market Value Amount
+
+## identifier
+de4958
+
+## type
+float
+
+## definition
+The value to be reported is the net market value, or fair value, of holdings of investment property, plus income accrued but not received in relation to this asset. This method of disclosure differs from the Australian Accounting Standards.
+
+The classification and measurement of the investment property should be consistent with the basis used in AASB140 Investment Property.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.RealEstateProperty.PlusAccruedIncomeNetMarketValue.Amount
+- classification=baf/bafpo/bafpo5.02.04
+- period=instant

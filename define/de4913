@@ -1,0 +1,17 @@
+# Financial Risk Management Capital Servicing Expenses Amount
+
+## identifier
+de4913
+
+## type
+float
+
+## definition
+Report the value of the servicing expense reserve determined in accordance with the management capital standard. This relates to a deficiency between expected management fees to be received from the benefit funds and expected servicing expenses.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.ManagementCapital.ServicingExpenses.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

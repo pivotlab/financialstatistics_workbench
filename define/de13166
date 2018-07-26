@@ -1,0 +1,20 @@
+# Expense Insurance Premium Payments Amount
+
+## identifier
+de13166
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of insurance premium payments paid for the provision of insurance under an insurance policy.
+
+## guidance
+This excludes legacy insurance arrangements where no insurance premium is payable because the insurance policy is based on a surrender value.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.InsurancePremiumPayments.Amount
+- classification=baf/bafpr/bafpr1.02.16
+- period=duration

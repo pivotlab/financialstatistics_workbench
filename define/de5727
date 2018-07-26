@@ -1,0 +1,16 @@
+# Organisation Details Related Product Groups Count
+
+## identifier
+de5727
+
+## type
+int
+
+## definition
+Report the number of Related Product Groups within the relevant Product Group.
+
+## syntax
+### xbrl
+- name=OrganisationDetails.RelatedProductGroups.Count
+- classification=py/pyde/pyde.02.06
+- period=instant

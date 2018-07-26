@@ -1,0 +1,16 @@
+# Regulatory Disclosures Net Return Percent
+
+## identifier
+de14220
+
+## type
+float
+
+## definition
+This is the percentage, as at the relevant date, of net return as defined within Regulation 7.9.07S of the Corporations Regulations 2001.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.NetReturn.Percent
+- classification=baf/bafot/bafot.02.27
+- period=instant

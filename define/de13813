@@ -1,0 +1,17 @@
+# Profit Or Loss Non Current Assets Disposal Groups Held For Sale Not Discontinued Operation Losses Amount
+
+## identifier
+de13813
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for any losses on the measurement of non-current assets (or disposal groups); classified as held for sale that does not meet the definition of discontinued operation. This item must be reported in accordance with the relevant accounting standard.
+
+## syntax
+### xbrl
+- balance=debit
+- name=ProfitOrLoss.NonCurrentAssetsDisposalGroupsHeldForSaleNotDiscontinuedOperationLosses.Amount
+- classification=baf/bafpr/bafpr2.02.19
+- period=duration

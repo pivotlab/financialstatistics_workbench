@@ -1,0 +1,16 @@
+# Financial Risk APRA Determined Available Stable Funding Factor Rate
+
+## identifier
+de14904
+
+## type
+float
+
+## definition
+The rate applied to on or off balance sheet obligations where the Australian Prudential Regulation Authority (APRA) has determined that an alternative available stable funding (ASF) factor applies under Prudential Standard APS 210 - Liquidity.
+
+## syntax
+### xbrl
+- name=FinancialRisk.APRADeterminedAvailableStableFundingFactor.Rate
+- classification=baf/bafot/bafot.02.32
+- period=instant

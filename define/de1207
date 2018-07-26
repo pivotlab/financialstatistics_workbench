@@ -1,0 +1,17 @@
+# Assets Other Non Financial Assets Plant And Equipment Accumulated Depreciation Impairment Amount
+
+## identifier
+de1207
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for total depreciation and impairment for all property, plant and equipment items excluding information technology.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.OtherNonFinancialAssets.PlantAndEquipmentAccumulatedDepreciationImpairment.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

@@ -1,0 +1,17 @@
+# Equity Reserves Total Amount
+
+## identifier
+de1531
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the total of all reserves that have been measured and disclosed in accordance with relevant Australian Accounting Standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Reserves.Total.Amount
+- classification=baf/bafpo/bafpo2.02.00
+- period=instant

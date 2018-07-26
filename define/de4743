@@ -1,0 +1,17 @@
+# Expense Insurance Policy Expense Acquisition Other Amount
+
+## identifier
+de4743
+
+## type
+float
+
+## definition
+Report the value of the adjustment to the movement in net policy liabilities attributable to policy expenses recognised as a withdrawal of deposit or change in policy liability in respect of other policy acquisition expenses. This is the value of all fixed costs incurred when acquiring new business and all variable costs other than those related to commissions and other incremental expenses incurred in relation to new insurance business.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.PolicyExpenseAcquisitionOther.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

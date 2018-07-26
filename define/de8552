@@ -1,0 +1,16 @@
+# Regulatory Disclosures Insurance Reported Claims Number
+
+## identifier
+de8552
+
+## type
+int
+
+## definition
+This is the accumulated number of insurance claims reported, as at the relevant date.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuranceReportedClaims.Number
+- classification=baf/bafot/bafot.02.06
+- period=instant

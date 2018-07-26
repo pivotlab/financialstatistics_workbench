@@ -1,0 +1,17 @@
+# Regulatory Disclosures Fees Disclosed Amount
+
+## identifier
+de13203
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for fees charged, as disclosed in the Product Disclosure Statement or other disclosure material.
+
+## syntax
+### xbrl
+- balance=credit
+- name=RegulatoryDisclosures.FeesDisclosed.Amount
+- classification=baf/bafot/bafot.02.16
+- period=instant

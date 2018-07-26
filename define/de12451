@@ -1,0 +1,17 @@
+# Assets Derivative Financial Instruments Other Derivatives Income Excluding Basis Swaps Amount
+
+## identifier
+de12451
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of the securitisation income from derivatives excluding basis swaps, other than net receipts/payments and revaluation.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.DerivativeFinancialInstruments.OtherDerivativesIncomeExcludingBasisSwaps.Amount
+- classification=baf/bafpo/bafpo5.02.07
+- period=duration

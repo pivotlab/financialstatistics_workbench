@@ -1,0 +1,17 @@
+# Income Investment Fees And Commissions Scrip Lending Amount
+
+## identifier
+de1999
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for recording any fee income associated with scrip lending activities of the entity. This refers to the situation where the superannuation entity buys/borrows securities from another party in exchange for cash. The entity agrees to return the securities to the other party in the future in exchange for the return of the cash (plus an additional amount of earnings, fees or commissions).
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Investment.FeesAndCommissionsScripLending.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

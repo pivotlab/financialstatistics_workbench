@@ -1,0 +1,17 @@
+# Income Unrealised Gain Loss Intangible Assets Amount
+
+## identifier
+de7533
+
+## type
+float
+
+## definition
+This is the net value of unrealised gains and losses in relation to the disposal of intangible assets during the relevant period.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.UnrealisedGainLossIntangibleAssets.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

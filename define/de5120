@@ -1,0 +1,29 @@
+# Liabilities Exposures Off Balance Sheet Member Benefits Incurred Face Value Amount
+
+## identifier
+de5120
+
+## type
+float
+
+## definition
+Record the face value, or principle value, of off balance sheet exposures related to liabilities incurred during the relevant period and classified as member benefits.
+
+This is to be determined in accordance with the requirements of current Australian Accounting Standards. 
+
+Accumulation/defined contributions: 
+The liability for accrued benefits for a defined contribution plan is the entity's present obligation to pay benefits to members and beneficiaries in the future and is calculated as the difference between the carrying amounts of the assets and the carrying amounts of the liabilities as at the relevant date. 
+
+Defined benefits:
+Accrued benefits of a defined benefit plan shall be measured, using actuarial assumptions and valuations where appropriate, as the present value of expected future payments to members arising from membership of the entity up to the measurement date. In absence of formal actuarial review, the amount is calculated as the difference between the carrying amounts of the assets and the carrying amounts of the liabilities as at the relevant date.
+
+The face value or principle value of a liability represents the amount that an issuer agrees to pay at the maturity date.
+
+Off-balance sheet liability exposures relate to those liabilities or obligations that do not satisfy the recognition requirements of the relevant accounting standards and are therefore not recognised on the face of the balance sheet, or statement of financial position.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Exposures.OffBalanceSheetMemberBenefitsIncurredFaceValue.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=duration

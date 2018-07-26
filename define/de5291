@@ -1,0 +1,17 @@
+# Financial Risk Solvency Inadmissible Assets Concentration Total Value Amount
+
+## identifier
+de5291
+
+## type
+float
+
+## definition
+Report the total value (determined in accordance with accounting standards) of all assets wholly or partly subject to the risk of the adverse impact of a concentration of funds in a particular asset, with a particular obligor or with related parties.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.InadmissibleAssetsConcentrationTotalValue.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

@@ -1,0 +1,19 @@
+# Financial Risk Market Short Credit Exposures Credit Indices Amount
+
+## identifier
+de12485
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the effect on short positions in credit indices exposures, due to movements in the current credit spreads and market prices as specified in the credit spread scenarios. This represents the change in value of these positions given stress testing scenarios applied.
+
+All trading book positions which have credit spread risk (including, but not limited to: corporate bonds, floating rate notes, credit derivatives, credit indices, and securitisations) must be included in the credit spread stress test portfolio revaluations. Many products with credit spread risk will have been priced at a spread over a relevant benchmark.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.ShortCreditExposuresCreditIndices.Amount
+- classification=baf/bafot/bafot.02.09
+- period=instant

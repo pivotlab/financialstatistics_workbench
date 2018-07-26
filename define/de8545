@@ -1,0 +1,17 @@
+# Profit Or Loss Insurance Discontinued Operations After Tax Amount
+
+## identifier
+de8545
+
+## type
+float
+
+## definition
+This is the profit (loss) after tax from discontinued operations for the relevant period. This item is calculated in accordance with the relevant Prudential Standards. It represents the operating results of discontinued operations and the gain or loss on sale of the discontinued operations. Remeasurement gains or losses of non-current assets or disposal groups classified as held for sale which meet the definition of a discontinued operation are excluded from this value.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Insurance.DiscontinuedOperationsAfterTax.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

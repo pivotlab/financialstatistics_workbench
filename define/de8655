@@ -1,0 +1,21 @@
+# Financial Risk Capital Adequacy Equity Exposures And Capital Investments Amount
+
+## identifier
+de8655
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of equity exposures and other capital investments held by the reporting party.
+
+Where a facility, including a guarantee, provided to a related party or a non-related party constitutes 'capital support', it must be treated as 'other capital investments'.
+
+This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.EquityExposuresAndCapitalInvestments.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

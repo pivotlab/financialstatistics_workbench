@@ -1,0 +1,19 @@
+# Assets Loans And Advances Including Accrued Interest Gross Amount
+
+## identifier
+de8005
+
+## type
+float
+
+## definition
+This is, as at the relevant date, the principal amount of loans and advances, gross of any provisions for impairment, and including accrued interest.
+     
+Loans and advances are those financial assets categorised as "Loans and Receivables" in the accounting standards, other than "Trade Receivables" and "Cash".
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndAdvancesIncludingAccruedInterestGross.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

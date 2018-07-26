@@ -1,0 +1,17 @@
+# Financial Risk Credit Credit Exposures OREO Impairment Amount
+
+## identifier
+de7849
+
+## type
+float
+
+## definition
+This is the value of the provision for impairment in relation to all real estate acquired by the reporting party in full or partial settlement of a loan or similar facility through enforcement of security arrangements. This category excludes  property controlled under 'mortgagee in possession' rights.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Credit.CreditExposuresOREOImpairment.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

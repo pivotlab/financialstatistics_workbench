@@ -1,0 +1,23 @@
+# Liabilities Insurance Premiums Liabilities Net Prudential Amount
+
+## identifier
+de8550
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the premiums liabilities net of any recoveries, determined in accordance with relevant prudential standards.
+
+Premiums liabilities relate to all future claim payments arising from future events post the valuation date that will be insured under the reporting party's existing policies that have not yet expired. The value of the premiums liabilities must include an amount in respect of the expenses that the reporting entity expects to incur in administering and settling the relevant claims and allow for expected premium refunds.
+
+The value of premiums liabilities must not include any Government charges directly imposed on the insurer such as levies, duties and taxes, and must be net of input tax credit recoveries. Also a deferred acquisition cost asset must not be reported.
+
+The premium liabilities will be measured as the present value of the future expected payments, i.e. discounted for future investment income, plus a risk margin determined in accordance with relevant prudential standards.   The risk margin must be assessed at the level specified by APRA for capital purposes; this may not be the same risk margin used for other purposes.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.PremiumsLiabilitiesNetPrudential.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

@@ -1,0 +1,19 @@
+# Assets Insurance Expected Reinsurance Recoveries Not Meet Doc Test Net Amount
+
+## identifier
+de8293
+
+## type
+float
+
+## definition
+This is the value net of provisions for doubtful debts, as at the relevant date, of expected reinsurance recoveries on premium liabilities of the reporting party where the reporting party has not complied with the threshold levels of reinsurance documentation set out in the relevant prudential standards.
+                                                                                                                                                       
+Expected reinsurance recoveries are any amounts due to the reporting party under a reinsurance arrangement that arise from the recognition of Premiums Liabilities in accordance with capital and prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.ExpectedReinsuranceRecoveriesNotMeetDocTestNet.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

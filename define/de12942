@@ -1,0 +1,17 @@
+# Liabilities Insurance Provisions Claims Incurred Not Reported Amount
+
+## identifier
+de12942
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of claim payments and expenses in of respect of claims incurred but not reported, that are associated with premiums received.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.ProvisionsClaimsIncurredNotReported.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

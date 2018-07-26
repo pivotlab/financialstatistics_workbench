@@ -1,0 +1,16 @@
+# Regulatory Disclosures Insurance Outstanding Claims Number
+
+## identifier
+de8553
+
+## type
+int
+
+## definition
+This is the number of outstanding claims, including the actuarial gross central estimate of the number of insurance claims outstanding, as at the relevant date.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuranceOutstandingClaims.Number
+- classification=baf/bafot/bafot.02.06
+- period=instant

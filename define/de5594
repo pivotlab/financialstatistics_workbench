@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy New Business Reserve Offset Statutory Capital Amount
+
+## identifier
+de5594
+
+## type
+float
+
+## definition
+Report the Offset Statutory Capital which is the amount of Statutory Capital appropriately utilised in meeting the new business reserve requirements of the statutory fund.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.NewBusinessReserveOffsetStatutoryCapital.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

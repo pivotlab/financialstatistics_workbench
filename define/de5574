@@ -1,0 +1,23 @@
+# Off Balance Sheet Standby Facilities Same Day Draw Down Approved Balance Amount
+
+## identifier
+de5574
+
+## type
+float
+
+## definition
+Report the approved balance of standby facilities that can be drawn down (funds accessed) on the same day that notice is given by the reporting party of its intention to draw down on the standby facility.
+
+In reporting this item the reporting party is to follow the basis that is used for the preparation of the annual financial statements in accordance with the Australian accounting standards. Actuarial valuations and calculations used in deriving the value of the item must be in accordance with prudential standards.
+
+A formal standby facility or credit line is a formalised arrangement in which the counterparty has the right but not the obligation to draw down funds to a specified limit.
+
+The approved balance of a facility is the maximum approved amount that can be drawn down in relation to that facility.
+
+## syntax
+### xbrl
+- balance=credit
+- name=OffBalanceSheet.StandbyFacilitiesSameDayDrawDownApprovedBalance.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

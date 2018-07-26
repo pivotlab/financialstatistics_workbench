@@ -1,0 +1,19 @@
+# Assets Equity Securities Other Amount
+
+## identifier
+de8494
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of equity securities that are not listed on a recognised Australian stock exchange plus the value of equity securities issued by a non-resident of Australia that are listed on a recognised Australian stock exchange.
+
+Equity securities are, as defined by the Australian Accounting Standards, contracts that evidence a residual interest in the assets of an entity after deducting all its liabilities.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.EquitySecuritiesOther.Amount
+- classification=baf/bafpo/bafpo1.02.12
+- period=instant

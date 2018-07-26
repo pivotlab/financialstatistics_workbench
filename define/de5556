@@ -1,0 +1,19 @@
+# Expense Rollover Retirement Benefits Amount
+
+## identifier
+de5556
+
+## type
+float
+
+## definition
+Report amounts paid during the relevant period in relation to the rollover of retirement benefits.
+
+Include rollovers between entities where a single employer sponsors several entities, but not between sub-plans of a single master trust.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.RolloverRetirementBenefits.Amount
+- classification=baf/bafpr/bafpr1.02.05
+- period=duration

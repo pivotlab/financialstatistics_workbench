@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities First Home Saver Account Closed Proceed To Superannuation Fund Amount
+
+## identifier
+de8880
+
+## type
+float
+
+## definition
+This is the value of First Home Saver Accounts (FHSAs), closed because the account holder has given the FHSA provider a notice that the holder has either reached retirement age or is otherwise ineligible to hold a FHSA account. Proceeds of the account are transferred to superannuation fund.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.FirstHomeSaverAccountClosedProceedToSuperannuationFund.Amount
+- classification=baf/bafpo/bafpo6.02.06
+- period=duration

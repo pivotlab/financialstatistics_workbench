@@ -1,0 +1,21 @@
+# Organisation Details Service Channel Over Counter Cash Transactions Personal Indicator
+
+## identifier
+de8258
+
+## type
+boolean
+
+## definition
+Does the reporting party service channel provide over the counter cash transactions to personal customers as at the relevant date?  Personal customers are those acting in their own capacity for household or personal purposes and not in respect of any business or other enterprise.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = the service channel type provides over the counter cash transactions to personal customers
+FALSE = the service channel type does not provide over the counter cash transactions to personal customers
+
+## syntax
+### xbrl
+- name=OrganisationDetails.ServiceChannelOverCounterCashTransactionsPersonal.Indicator
+- classification=py/pyde/pyde.02.07
+- period=instant

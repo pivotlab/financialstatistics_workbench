@@ -1,0 +1,24 @@
+# Assets Other Financial Assets Employer Contributions Receivable Amount
+
+## identifier
+de2038
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for contributions from employers which are receivable in respect of the reporting period (i.e. due but not received) by the superannuation entity. This includes but is not limited to:
+- all mandated employer contributions (superannuation guarantee, superannuation guarantee vouchers, award/productivity, and contributions by the employer under enterprise bargaining agreements or under the superannuation entity's governing rules);
+- salary sacrifice contributions;
+- voluntary employer contributions;
+- contributions by an employer sponsor to reduce the deficit in a defined benefit superannuation entity; and
+- contributions receivable from the government in respect of a fully funded superannuation entity for public sector employees.
+Do not include rollover amounts.
+Assets are to be measured at net market value.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.EmployerContributionsReceivable.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

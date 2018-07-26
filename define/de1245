@@ -1,0 +1,17 @@
+# Assets Intangible Loan And Credit Card Servicing Rights Amount
+
+## identifier
+de1245
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the carrying value of purchased loan (e.g. mortgages) and credit card relationships when the reporting entity purchases the right to receive existing loan payments and credit card receivables in consideration for providing lending and credit card services to those customers. Also report any purchased loan/credit card servicing rights arising in the acquisition of an entire financial institution. The carrying value consists of the cost of the servicing right less accumulated amortisation for the right.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Intangible.LoanAndCreditCardServicingRights.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

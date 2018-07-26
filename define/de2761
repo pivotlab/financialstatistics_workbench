@@ -1,0 +1,17 @@
+# Liabilities Total Other Amount
+
+## identifier
+de2761
+
+## type
+float
+
+## guidance
+This is the balancing item in the list in which it is being used
+
+## syntax
+### xbrl
+- balance=debit
+- name=Liabilities.TotalOther.Amount
+- classification=baf/bafpo/bafpo1.02.00
+- period=instant

@@ -1,0 +1,19 @@
+# Assets Exposures Off Balance Sheet Credit Substitutes Amount
+
+## identifier
+de8809
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, all credit substitutes that are not transacted in financial markets.
+
+A credit substitute is any transaction that exposes the reporting party to counterparty credit risk that is not a direct extension of credit. Counterparty credit risk is the risk that the counterparty to the transaction will not fulfil their obligations under the contract. A direct extension of credit is where the reporting party provides funds or other on-balance sheet assets to the counterparty in the expectation that they will be repaid at some future date.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.OffBalanceSheetCreditSubstitutes.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

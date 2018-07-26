@@ -1,0 +1,17 @@
+# Assets Exposures Value Securities Issued Self Securitisation And Sold Under Repurchase Agreements Amount
+
+## identifier
+de14833
+
+## type
+float
+
+## definition
+This is the outstanding value of securities issued by the self-securitisation and sold under agreement to repurchase, where the counterparty is the Reserve Bank of Australia (RBA).
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.ValueSecuritiesIssuedSelfSecuritisationAndSoldUnderRepurchaseAgreements.Amount
+- classification=baf/bafpo/bafpo3.02.17
+- period=instant

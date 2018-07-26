@@ -1,0 +1,17 @@
+# Expense Interest Interest Bearing Liabilities Other ARF 330 1 Amount
+
+## identifier
+de8394
+
+## type
+float
+
+## definition
+This is, for the duration of the relevant period, the amount of interest expense incurred on all other interest bearing liabilities, as required to be reported on APRA forms ARF_330_1_L and ARF_330_1_C.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Interest.InterestBearingLiabilitiesOtherARF3301.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

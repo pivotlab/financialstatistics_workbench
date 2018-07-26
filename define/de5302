@@ -1,0 +1,24 @@
+# Financial Risk Solvency Inadmissible Assets Equities Amount
+
+## identifier
+de5302
+
+## type
+float
+
+## definition
+Report the inadmissible value of equity investment securities as per the solvency standard. 
+
+Equity investment securities are, as defined by the Australian Accounting Standards, contracts that evidence a residual interest in the assets of an entity after deducting all its liabilities, acquired with the intent to derive a gain either through an income stream or disposal.
+
+The inadmissible assets are: 
+a) holdings in an associated or subsidiary entity which is a Financial Services entity;
+b) assets with too little diversification, are too illiquid or have too great an exposure to one obligor of low credit standing; and
+c) amounts by which the recorded value of an asset exceeds its net realisable value.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.InadmissibleAssetsEquities.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

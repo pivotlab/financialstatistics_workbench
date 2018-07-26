@@ -1,0 +1,16 @@
+# Organisation Details Registration Start Date
+
+## identifier
+de73
+
+## type
+string
+
+## definition
+The date that the registration becomes effective.
+
+## syntax
+### xbrl
+- name=OrganisationDetails.RegistrationStart.Date
+- classification=py/pyde/pyde.02.14
+- period=instant

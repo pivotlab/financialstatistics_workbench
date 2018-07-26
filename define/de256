@@ -1,0 +1,17 @@
+# Equity Adjustments In Retained Profits Change In Standards Amount
+
+## identifier
+de256
+
+## type
+float
+
+## definition
+For interpretation/definition of this item refer to the Australian Accounting Standards, as an example, see provided reference
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.AdjustmentsInRetainedProfitsChangeInStandards.Amount
+- classification=baf/bafpo/bafpo1.02.00
+- period=duration

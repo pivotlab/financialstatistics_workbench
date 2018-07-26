@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Capital Requirement Amount
+
+## identifier
+de8182
+
+## type
+float
+
+## definition
+This is, as at the relevant date, the total capital requirement applicable to all positions. This represents the capital requirements on positions giving rise to credit risk, operational risk, market risk, as well as any other capital requirements as imposed by APRA.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.CapitalRequirement.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

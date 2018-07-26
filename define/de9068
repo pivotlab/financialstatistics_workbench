@@ -1,0 +1,21 @@
+# Assets Loans And Receivables Non Current Contribution Deductible Provision For Doubtful Debts Amount
+
+## identifier
+de9068
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of provision for doubtful debts in relation to contributions receivable and deductibles receivable that are classified as non-current in accordance with relevant accounting standards.
+
+The contribution receivable is the contribution revenue that is receivable from members.
+
+The deductible receivable is the excess of the amount insured that is receivable from members.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.LoansAndReceivables.NonCurrentContributionDeductibleProvisionForDoubtfulDebts.Amount
+- classification=baf/bafpo/bafpo5.02.06
+- period=instant

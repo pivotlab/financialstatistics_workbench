@@ -1,0 +1,21 @@
+# Assets Investment Debt Securities Excluding Asset Backed Securities Amount
+
+## identifier
+de5748
+
+## type
+float
+
+## definition
+Report the value, as at the relevant date, of debt securities held by the reporting party, excluding those classified as securitied instruments.
+
+Debt securities are transferable instruments evidencing a relationship of indebtedness. They are characterised by having a definable income stream that is not based on the economic performance of the issuing entity.
+
+Securitised instruments represent securities using specifically selected assets (eg. mortgages, receivables) to provide backing (collateral) for the securities and generate the payment streams necessary to fulfil interest and principal requirements for investors. These forms of securities are usually issued by a Special Purpose Vehicle (SPV).
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.DebtSecuritiesExcludingAssetBackedSecurities.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=instant

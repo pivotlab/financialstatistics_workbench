@@ -1,0 +1,17 @@
+# Expense Operating Legal Fees Amount
+
+## identifier
+de2106
+
+## type
+float
+
+## definition
+The amount of legal fees paid on a particular item.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.LegalFees.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

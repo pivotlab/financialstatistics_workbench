@@ -1,0 +1,16 @@
+# Regulatory Disclosures Contributing Members Count
+
+## identifier
+de9043
+
+## type
+int
+
+## definition
+This is the number of contributing members during the relevant period.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.ContributingMembers.Count
+- classification=baf/bafot/bafot.02.07
+- period=duration

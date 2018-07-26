@@ -1,0 +1,21 @@
+# Financial Risk Market Options Foreign Exchange Amount
+
+## identifier
+de8115
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of foreign exchange (including gold) options, as determined in accordance with relevant prudential standards.
+
+A foreign exchange contract is any contract that transfers the foreign exchange rate risk of an underlying asset from one party to another.
+
+An option provides the purchasing entity with the right but not the obligation to buy or sell a specific amount of the underlying asset at a pre-agreed price, on or before a specific future date.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.OptionsForeignExchange.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

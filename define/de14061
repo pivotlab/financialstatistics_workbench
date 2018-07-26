@@ -1,0 +1,16 @@
+# Regulatory Disclosures Chronic Disease Management Programs Count
+
+## identifier
+de14061
+
+## type
+int
+
+## definition
+This is the number, during the relevant period, of Chronic Disease Management Program (CDMP) programs commenced.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.ChronicDiseaseManagementPrograms.Count
+- classification=baf/bafot/bafot.02.25
+- period=duration

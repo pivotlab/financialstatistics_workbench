@@ -1,0 +1,19 @@
+# Equity Movements Retained Earnings Other GRF 310 0 B Amount
+
+## identifier
+de8501
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, for the duration of the relevant period, of other movements in retained earnings, as required to be reported on APRA form GRF_310_0_B.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Movements.RetainedEarningsOtherGRF3100B.Amount
+- classification=baf/bafpo/bafpo4.02.05
+- period=duration

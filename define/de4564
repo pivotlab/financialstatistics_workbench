@@ -1,0 +1,19 @@
+# Liabilities Insurance Reduction in Policy Liability Due To Deferred Acquisition Cost Recovery Gross Amount
+
+## identifier
+de4564
+
+## type
+float
+
+## definition
+Where projection techniques are used, report nil.
+
+Where projection techniques are not used, report the component of the policy liability as at the relevant date, gross of reinsurance but inclusive of inwards reinsurance, relating to the value of the unrecouped (deferred) acquisition expenses.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Liabilities.Insurance.ReductioninPolicyLiabilityDueToDeferredAcquisitionCostRecoveryGross.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

@@ -1,0 +1,19 @@
+# Liabilities Insurance Future Policy Expenses Gross Amount
+
+## identifier
+de4741
+
+## type
+float
+
+## definition
+Where projection techniques are used, report the net present value of Future Policy Expenses as at the relevant date, gross of ceded reinsurance, but inclusive of inwards reinsurance.
+
+Where projection techniques are not used, report nil.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.FuturePolicyExpensesGross.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

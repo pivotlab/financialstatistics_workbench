@@ -1,0 +1,19 @@
+# Financial Risk Capital Adequacy APRA Other Capital Adjustments 50 Percent Amount
+
+## identifier
+de8000
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of any other adjustments to capital, as required by APRA.
+
+Only report 50% of the resulting amount at this item.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.APRAOtherCapitalAdjustments50Percent.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

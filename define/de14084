@@ -1,0 +1,16 @@
+# Income Health Related Business And Other Income Margin Percent
+
+## identifier
+de14084
+
+## type
+float
+
+## definition
+This is the percentage, during the relevant period, for the margin. This is calculated as a percentage of all non-health insurance business income to health insurance business contribution income, given premium increase subject to the stress test assumptions constraint.
+
+## syntax
+### xbrl
+- name=Income.HealthRelatedBusinessAndOtherIncomeMargin.Percent
+- classification=baf/bafpr/bafpr1.02.26
+- period=duration

@@ -1,0 +1,23 @@
+# Financial Risk Solvency Inadmissible Assets Investment Property Amount
+
+## identifier
+de5102
+
+## type
+float
+
+## definition
+Report the inadmissible value of investment property, as per the solvency standard. 
+
+Property investments are holdings of property acquired with the intent to derive a gain either through an income stream or disposal. This  includes investments in property by way of units in property trusts or other indirect investment methods as well as investments in real property (land and buildings).
+
+The inadmissible investment property assets are: 
+a) assets with too little diversification, are too illiquid or have too great an exposure to one obligor of low credit standing; and
+b) amounts by which the recorded value of an asset exceeds its net realisable value.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.InadmissibleAssetsInvestmentProperty.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

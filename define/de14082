@@ -1,0 +1,16 @@
+# Income Private Health Insurance Net Margin Percent
+
+## identifier
+de14082
+
+## type
+float
+
+## definition
+This is the percentage, during the relevant period, for the net margin. This is calculated as the residual of dividing health insurance business benefits paid plus associated health insurance business expenses by health insurance business contribution income, given premium increase subject to the stress test assumptions constraint.
+
+## syntax
+### xbrl
+- name=Income.PrivateHealthInsuranceNetMargin.Percent
+- classification=baf/bafpr/bafpr1.02.26
+- period=duration

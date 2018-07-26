@@ -1,0 +1,17 @@
+# Liabilities Applicable Bank Levy Liabilities Amount
+
+## identifier
+de14858
+
+## type
+float
+
+## definition
+The value of the applicable liabilities as calculated in accordance with the Major Bank Levy Act.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.ApplicableBankLevyLiabilities.Amount
+- classification=baf/bafpo/bafpo1.02.31
+- period=instant

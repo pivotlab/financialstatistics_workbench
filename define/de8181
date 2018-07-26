@@ -1,0 +1,17 @@
+# Financial Risk Market Capital Requirement Other Imposed By APRA Amount
+
+## identifier
+de8181
+
+## type
+float
+
+## definition
+This is, as at the relevant date, the any additional capital requirement applicable to positions giving rise to risks other than credit risk, operational risk, or market risk, as imposed by APRA.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.CapitalRequirementOtherImposedByAPRA.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

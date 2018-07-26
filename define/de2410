@@ -1,0 +1,17 @@
+# Assets Current Receivables Total Amount
+
+## identifier
+de2410
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for all current receivables.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CurrentReceivablesTotal.Amount
+- classification=baf/bafpo/bafpo1.02.00
+- period=instant

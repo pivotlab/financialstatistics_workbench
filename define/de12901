@@ -1,0 +1,23 @@
+# Financial Services Insurance APRA Regulated Indicator
+
+## identifier
+de12901
+
+## type
+boolean
+
+## definition
+This indicates whether the reporting entity is an APRA regulated entity.
+
+## guidance
+A choice of TRUE/FALSE values.
+
+true = The reporting entity is an APRA regulated entity.
+
+false = The reporting entity is not an APRA regulated entity.
+
+## syntax
+### xbrl
+- name=FinancialServices.Insurance.APRARegulated.Indicator
+- classification=baf/bafot/bafot.02.12
+- period=duration

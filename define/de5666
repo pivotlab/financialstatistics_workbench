@@ -1,0 +1,21 @@
+# Financial Risk Management Capital Reserve New Business Capital Amount
+
+## identifier
+de5666
+
+## type
+float
+
+## definition
+Report the new business capital amount.
+
+New business capital is represented by existing, binding arrangements for the external raising of capital specific to the financing of new business within the General Fund.
+
+General Fund refers to the management fund for a friendly society or the shareholders' fund for other life companies, and is distinct and separate from the statutory funds of the life company.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.ManagementCapital.ReserveNewBusinessCapital.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

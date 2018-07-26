@@ -1,0 +1,16 @@
+# Superannuation Fund Details Registration Start Date
+
+## identifier
+de13761
+
+## type
+string
+
+## definition
+The date that the sub-fund, MySuper product, select investment option or lifecycle stage becomes effective.
+
+## syntax
+### xbrl
+- name=SuperannuationFundDetails.RegistrationStart.Date
+- classification=em/emsup/emsup.02.21
+- period=duration

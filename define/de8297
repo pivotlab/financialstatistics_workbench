@@ -1,0 +1,17 @@
+# Assets Insurance Deferred Reinsurance Expense Amount
+
+## identifier
+de8297
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of deferred reinsurance expense (DRE), as determined in accordance with the relevant Accounting Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.DeferredReinsuranceExpense.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

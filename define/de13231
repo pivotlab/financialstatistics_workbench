@@ -1,0 +1,17 @@
+# Regulatory Disclosures Insurance Default Cover Amount
+
+## identifier
+de13231
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the quoted default coverage of an insurance cover as disclosed in the Product Disclosure Statement (PDS) or other disclosure material. For income protection insurance it is quoted on a monthly basis.
+
+## syntax
+### xbrl
+- balance=credit
+- name=RegulatoryDisclosures.InsuranceDefaultCover.Amount
+- classification=baf/bafot/bafot.02.16
+- period=instant

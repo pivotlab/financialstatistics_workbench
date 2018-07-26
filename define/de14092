@@ -1,0 +1,17 @@
+# Assets Demand Deposits Amount
+
+## identifier
+de14092
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for any deposits at call (i.e. withdrawal without notice) money held with a third party.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.DemandDeposits.Amount
+- classification=baf/bafpo/bafpo1.02.25
+- period=instant

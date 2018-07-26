@@ -1,0 +1,23 @@
+# Assets Investment Equity Securities Acquired Historical Cost Amount
+
+## identifier
+de5226
+
+## type
+float
+
+## definition
+Report the acquisition cost, or historical cost, of investments in equity securities acquired by the reporting party.
+
+For the purposes of this item, only report those amounts acquired, or intially recognised, during the relevant period.
+
+Equity securities are to be determined in accordance with relevant accounting standards. They are generally defined as contracts that evidence a residual interest in the assets of an entity after deducting all its liabilities. This includes equity securities lent or sold by the entity under repurchase agreements, where the transaction does not result in the transfer of the rights of ownership of the securities away from the entity to another party. Also included in the meaning of equity securities are unit trusts and interests in joint ventures.
+
+The acquisition cost, or historical cost, of an asset is the original cost paid to acquire the asset, at the date the asset was initially acquired. Where the asset was acquired in stages, sum the initial acquisition cost of each stage, but only to the extent the acquisitions occurred during the relevant period.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.EquitySecuritiesAcquiredHistoricalCost.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=duration

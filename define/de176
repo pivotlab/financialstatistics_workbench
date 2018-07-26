@@ -1,0 +1,17 @@
+# Expense Interest Bonds Notes And Long Term Borrowings Amount
+
+## identifier
+de176
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the amount of interest expense incurred on borrowings related to bonds notes and long term borrowings.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Interest.BondsNotesAndLongTermBorrowings.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

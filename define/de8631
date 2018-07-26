@@ -1,0 +1,16 @@
+# Financial Risk Variation In Capital Charges Approved By APRA Description
+
+## identifier
+de8631
+
+## type
+string
+
+## definition
+This is the description, as at the relevant date, of the detailed line item comprising the variations in capital charges as approved by APRA.
+
+## syntax
+### xbrl
+- name=FinancialRisk.VariationInCapitalChargesApprovedByAPRA.Description
+- classification=baf/bafot/bafot.02.06
+- period=instant

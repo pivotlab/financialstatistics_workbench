@@ -1,0 +1,19 @@
+# Assets Cash And Liquid Assets Adjustment Hedging Amount
+
+## identifier
+de4467
+
+## type
+float
+
+## definition
+Report the hedging adjustment required to translate the aggregate cash balance to the effective post-derivatives position. 
+
+A hedging adjustment represents the adjustment required to translate the effective exposure associated with hedging investments. The purpose of a hedging investment is to offset the risk of changes in the fair value or cash flows of another contract.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.AdjustmentHedging.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=instant

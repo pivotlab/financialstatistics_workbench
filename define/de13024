@@ -1,0 +1,17 @@
+# Equity Contributed Equity Paid Up Ordinary Share Capital Amount
+
+## identifier
+de13024
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of paid-up ordinary share capital issued by the reporting entity and determined in accordance the relevant prudential standard.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.ContributedEquity.PaidUpOrdinaryShareCapital.Amount
+- classification=baf/bafpo/bafpo2.02.09
+- period=instant

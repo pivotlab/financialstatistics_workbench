@@ -1,0 +1,19 @@
+# Assets Other ARF_321 9_10 Amount
+
+## identifier
+de7588
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is used.
+
+For the purposes of ARF_321_0, report the value of all 'other assets' as per item 9.10.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherARF_3219_10.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

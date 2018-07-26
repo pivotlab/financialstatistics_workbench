@@ -1,0 +1,19 @@
+# Assets Loans And Receivables Insurance Recoveries Not Reinsurance Premiums Liabilities Gross Prudential Amount
+
+## identifier
+de8826
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the central estimate of recoveries, other than reinsurance recoveries,  receivable by the reporting party associated with the premiums liabilities, gross of any provisions for depreciation or impairment. This item is to be determined in accordance with relevant prudential standards. 
+
+The central estimate will be measured as the present value of the future expected recoveries except from reinsurance, i.e. discounted for future investment income, determined in accordance with relevant prudential standards. The central estimate is intended to reflect the mean value in the range of possible values for the outcome (that is, the mean of the distribution of probabilistic outcomes), and so does not include any risk margin.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.InsuranceRecoveriesNotReinsurancePremiumsLiabilitiesGrossPrudential.Amount
+- classification=baf/bafpo/bafpo5.02.05
+- period=instant

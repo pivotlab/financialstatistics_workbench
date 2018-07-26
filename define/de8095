@@ -1,0 +1,29 @@
+# Financial Risk Market Scaled Average VaR Commodity Excluding Gold Positions Amount
+
+## identifier
+de8095
+
+## type
+float
+
+## definition
+This is the scaled average value at risk (VaR) for positions giving rise to commodities risk, as determined in accordance with relevant prudential standards. This represents the average VaR, calculated over the most recent 60 trading days prior to and including the relevant date, multiplied by the scaling factor applicable.
+
+Commodity positions include both on and off-balance sheet exposures which are affected by changes in commodity prices. This includes holdings of, or positions in:
+     - commodity forwards;
+     - commodity futures; 
+     - commodity swaps; and
+     - other applicable commodity instruments (e.g. commodity options).
+
+VaR, or Value at Risk, is a technique used to estimate the likelihood of losses in a portfolio, based on the analysis of historical price movements and volatilities, over a specified observation period.
+
+For the purposes of this item the amount reported is the average of the 99% ten-day VaR number calculated daily over the relevant period. A 99% ten-day VaR represents a simulated mark-to-market loss for which there is a 1% probability of occurrence over the next ten days, assuming there is no trading of the portfolio.
+
+The scaling factor consists of a multiplication factor and a plus factor, as determined in accordance with relevant prudential standards. The multiplication factor is set for each reporting party by APRA, and is subject to a minimum of three. A plus factor may also be required by APRA. This factor relates directly to back-testing results from the most recent 250 trading days prior to and including the relevant date.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.ScaledAverageVaRCommodityExcludingGoldPositions.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

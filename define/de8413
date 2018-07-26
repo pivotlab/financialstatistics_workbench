@@ -1,0 +1,17 @@
+# Assets Average Balance Of Interest Earning Investments Other ARF 330 1 Amount
+
+## identifier
+de8413
+
+## type
+float
+
+## definition
+This is, for the duration of the relevant period, the average balance of other investments, as required to be reported on APRA forms ARF_330_1_L and ARF_330_1_C. The average may be calculated by any method consistent with internal systems of the reporting entity.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.AverageBalanceOfInterestEarning.InvestmentsOtherARF3301.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=duration

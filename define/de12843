@@ -1,0 +1,22 @@
+# Financial Risk Capital Adequacy Equity Exposures And Capital Support Amount
+
+## identifier
+de12843
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of direct, indirect and synthetic equity exposures, guarantees and other capital support held by the reporting entity. For the purposes of this item, exclude equity exposures where:
+(a) the equity exposure is acquired through underwriting of a new equity instrument and the equity instrument is disposed of within five days of the date of issue. If the equity instrument is not disposed of within five days of issuance, it must be reported; or
+(b) the equity exposure is held under a legal agreement on behalf of:
+* at Level 1 - an external third party, even if held in the name of the reporting entity; or
+* at Level 2 - a party outside the Level 2 consolidated group, even if held in the name of the reporting entity (or another member of its Level 2 consolidated group).
+This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.EquityExposuresAndCapitalSupport.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

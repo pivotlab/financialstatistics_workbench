@@ -1,0 +1,17 @@
+# Income Prospective Premium Revenue Net Amount
+
+## identifier
+de2295
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the premium revenue less outwards reinsurance expense.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Prospective.PremiumRevenueNet.Amount
+- classification=baf/bafpr/bafpr3.02.00
+- period=duration

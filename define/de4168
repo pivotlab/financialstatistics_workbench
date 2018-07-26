@@ -1,0 +1,20 @@
+# Assets Investment Equity Securities Historical Cost Amount
+
+## identifier
+de4168
+
+## type
+float
+
+## definition
+This is the value, as at the date the asset was acquired, of the acquisition or historical cost of the equity security.
+
+## guidance
+The acquisition cost, or historical cost of an equity security is the original cost paid to acquire the asset, at the date the asset was initially acquired. Where the asset was acquired in stages, sum the initial acquisition cost of each stage. The cost of an asset or investment acquisition, as defined by the Australian Accounting Standards, is the amount of cash or cash equivalents paid or the fair value of the other consideration given to acquire an asset at the time of its acquisition or construction, or, when applicable, the amount attributed to that asset when initially recognised in accordance with the specific requirements of other Australian Accounting Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.EquitySecuritiesHistoricalCost.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=instant

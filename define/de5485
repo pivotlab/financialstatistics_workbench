@@ -1,0 +1,21 @@
+# Liabilities Trustee Fees Settlement Amount
+
+## identifier
+de5485
+
+## type
+float
+
+## definition
+Record the amount paid during the relevant period to settle liabilities classified as trustee fees.
+
+Trustee fees are typically amounts payable to the trustee for performing their legal responsibilities as detailed in the Trust Deed.
+
+The settlement of a liability takes place when all legal or constructive obligations are eliminated.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.TrusteeFeesSettlement.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=duration

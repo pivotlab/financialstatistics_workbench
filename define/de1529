@@ -1,0 +1,17 @@
+# Equity Contributed Equity Preference Shares Amount
+
+## identifier
+de1529
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for preference shares which have a priority over dividend payments and claims on assets of the reporting company.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.ContributedEquity.PreferenceShares.Amount
+- classification=baf/bafpo/bafpo2.02.00
+- period=instant

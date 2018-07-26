@@ -1,0 +1,25 @@
+# Profit Or Loss Unrealised Overseas Investment Managers Amount
+
+## identifier
+de1983
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for unrealised gains and losses in the value of investments placed by the entity with overseas investment managers.
+
+Exclude:
+- Amounts directly invested overseas by the entity in underlying assets such as equity securities, bonds and direct property; and
+- Amounts placed with Australian investment managers for investment overseas.
+
+Unrealised gains/losses:
+The change in the net market value is the increase or decrease in the market value of each asset compared to the value of that asset at the beginning of the reporting period. These assets are still owned by the entity at the end of the period, they have not been disposed of, and as a result, the gains or losses on the assets are unrealised. If the assets are disposed of during the period, then the gains or losses are realised.
+Only include the movement in the net market value of the asset. Do not include the movement in the value of the currency relative to the Australian dollar (AUD) if the asset is denominated in a currency other than the AUD.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Unrealised.OverseasInvestmentManagers.Amount
+- classification=baf/bafpr/bafpr3.02.00
+- period=duration

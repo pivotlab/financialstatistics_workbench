@@ -1,0 +1,16 @@
+# Financial Risk Valuation Date
+
+## identifier
+de12899
+
+## type
+string
+
+## definition
+This is the valuation date on which the information was last calculated and reported.
+
+## syntax
+### xbrl
+- name=FinancialRisk.Valuation.Date
+- classification=baf/bafot/bafot.02.12
+- period=instant

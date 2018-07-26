@@ -1,0 +1,17 @@
+# Financial Risk Risk Charge Concentration Asset Impact Amount
+
+## identifier
+de13255
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the impact on the asset concentration risk capital charge arising from the failure of a reinsurance counterparty.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.RiskChargeConcentrationAssetImpact.Amount
+- classification=baf/bafot/bafot.02.17
+- period=instant

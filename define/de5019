@@ -1,0 +1,19 @@
+# Liabilities Off Balance Sheet Letter Of Credit Facilities Undrawn Amount
+
+## identifier
+de5019
+
+## type
+float
+
+## definition
+Report the value, as at the relevant date, of letter of credit facilities committed to by the reporting party. For the purposes of this item, report only the balance of the facility that has not been used or drawn down by the reporting party at the relevant date.
+
+A letter of credit facility is an irrevocable and unconditional undertaking to repay the principal and interest of a loan in the event of default.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OffBalanceSheetLetterOfCreditFacilitiesUndrawn.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

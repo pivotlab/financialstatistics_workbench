@@ -1,0 +1,24 @@
+# Income Insurance Other Amount
+
+## identifier
+de4097
+
+## type
+float
+
+## definition
+Report investment income derived from other investment assets. Investment income does not include realised and unrealised capital gains/losses.
+
+Other investment assets are all assets classified as investment assets other than:
+
+- cash;
+- property;
+- equities; and 
+- debt.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.Other.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

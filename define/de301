@@ -1,0 +1,17 @@
+# Assets Average Balance Of Interest Earning Cash And Liquid Assets Amount
+
+## identifier
+de301
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the average balance of interest earnings cash and liquid assets.  The average may be calculated by any method consistent with internal systems of the reporting entity.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.AverageBalanceOfInterestEarning.CashAndLiquidAssets.Amount
+- classification=baf/bafpo/bafpo3.02.00
+- period=duration

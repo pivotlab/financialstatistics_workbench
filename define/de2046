@@ -1,0 +1,17 @@
+# Assets Investment Real Estate Property Incomplete Amount
+
+## identifier
+de2046
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the reporting party's holdings of real property that has not been completed, i.e. where the value of the holding is not contingent on the development being approved or completed.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.RealEstatePropertyIncomplete.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

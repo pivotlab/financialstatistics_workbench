@@ -1,0 +1,30 @@
+# Financial Risk Market VaR Back Testing Exceptions Equity Positions Count
+
+## identifier
+de8089
+
+## type
+int
+
+## definition
+This is the number of back-testing exceptions calculated over the duration of the relevant period in relation to positions giving rise to equity position risk, as determined in accordance with relevant prudential standards.
+
+Equity positions include on and off-balance sheet exposures which are affected by changes in Equity prices. This includes holdings of, or positions in:
+     - ordinary shares, whether voting or non-voting;
+     - convertible securities that behave like equities;
+     - commitments to buy or sell equity securities; and
+     - any other instruments that exhibit market behaviour similar to equities.
+
+Back-testing represents the process of comparing the daily trading outcome (profit or loss) with the corresponding VaR number for that day. 
+
+For the purposes of this item, exceptions are reported where the trading outcome on a particularly day is a loss that exceeds the corresponding VaR number for that day.
+
+VaR, or Value at Risk, is a technique used to estimate the likelihood of losses in a portfolio based on analysis of historical price movements and volatilities, over a specified observation period.
+
+For the purposes of this item the VaR used is to be the 99% ten-day VaR number calculated daily over the relevant period. A 99% ten-day VaR represents a simulated mark-to-market loss for which there is a 1% probability of occurrence over the next ten days, assuming there is no trading of the portfolio.
+
+## syntax
+### xbrl
+- name=FinancialRisk.Market.VaRBackTestingExceptionsEquityPositions.Count
+- classification=baf/bafot/bafot.02.06
+- period=duration

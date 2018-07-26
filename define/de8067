@@ -1,0 +1,21 @@
+# Financial Risk Market Stress Testing  Base Metal Scenarios Amount
+
+## identifier
+de8067
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the effect on positions in base metals due to movements in prices and volatilities as specified in stress testing scenarios. This represents the change in the portfolio value of these positions given stress testing scenarios applied.
+
+All positions in base metals (including copper, aluminium, zinc, nickel and tin) must be included in the stress test portfolio revaluations.
+
+For the purposes of this item, in assessing the change in portfolio value, positions in the same based metal, but with differing maturities, may be netted.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.StressTestingBaseMetalScenarios.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

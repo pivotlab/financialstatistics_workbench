@@ -1,0 +1,21 @@
+# Assets Investment Debt Securities Asset Backed Net Other Changes Amount
+
+## identifier
+de4274
+
+## type
+float
+
+## definition
+Report the net of all movements in securitised instruments other than acquisition and disposal transactions. These movements would not involve the exchange of valuable consideration between counterparties. This may include adjustments and/or changes arising from the revaluation increments and decrements of the securitised instruments, or income accrued. Where this results in a net decrease in the net market value of securitised instruments, then report a negative figure.
+
+Securitised instruments represent securities using specifically selected assets (eg. mortgages, receivables) to provide backing (collateral) for the securities and generate the payment streams necessary to fulfil interest and principal requirements for investors. These forms of securities are usually issued by a Special Purpose Vehicle (SPV). 
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.DebtSecuritiesAssetBackedNetOtherChanges.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=duration

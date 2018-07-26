@@ -1,0 +1,19 @@
+# Income Trading Other ARF 330 2 Amount
+
+## identifier
+de8278
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is, for the duration of the relevant period, other trading income as required to be reported on form ARF_330_2.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.TradingOtherARF3302.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

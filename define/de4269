@@ -1,0 +1,19 @@
+# Expense Operating General Insurance Amount
+
+## identifier
+de4269
+
+## type
+float
+
+## definition
+Report expenses incurred in relation to general insurance policies.
+
+General insurance policies are all insurance business other than Life and Health insurance. Life insurance policies are contracts (policies) that will pay a specified sum to beneficiaries upon the death of the insured. Health insurance policies are contracts (policies) that will pay a specified sum to beneficiaries in relation to healthcare expenses of the insured.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.GeneralInsurance.Amount
+- classification=baf/bafpr/bafpr2.02.05
+- period=duration

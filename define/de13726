@@ -1,0 +1,16 @@
+# Superannuation Fund Details Unique Identifier
+
+## identifier
+de13726
+
+## type
+string
+
+## definition
+This is a unique identifier allocated to the sub-fund by the entity.
+
+## syntax
+### xbrl
+- name=SuperannuationFundDetails.Unique.Identifier
+- classification=em/emsup/emsup.02.16
+- period=duration

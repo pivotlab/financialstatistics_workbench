@@ -1,0 +1,19 @@
+# Liabilities Total Other GRF300LB Amount
+
+## identifier
+de8800
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of liabilities other than those classified as payables (creditors and accruals); outstanding claims; unearned premium; amounts due on reinsurance contracts; unexpired risk; borrowings; income tax; provisions; and loan capital and hybrid securities.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.TotalOtherGRF300LB.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

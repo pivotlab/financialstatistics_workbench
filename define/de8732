@@ -1,0 +1,21 @@
+# Expense Write Off Indirect Exposure Property Commercial Leisure Amount
+
+## identifier
+de8732
+
+## type
+float
+
+## definition
+This is the amount written off other than directly to Profit & Loss (i.e. via provisions or asset revaluation reserves), of the value of the reporting party's investments that result in an exposure to the asset class of tourism and leisure property.
+     
+Tourism and leisure property exposure is defined according to the nature of the risk. An exposure should be classified as tourism and leisure property risk, if the exposure is subject to the performance of the property market for tourism, leisure or hospitality. This exposure does not include property used for the reporting party's own operational use.
+     
+Tourism & leisure commercial property may include for example, hotels, motels and lodgings, recreational and sporting facilities, hotel developments, time-share developments and other hospitality industries.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.WriteOffIndirectExposurePropertyCommercialLeisure.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

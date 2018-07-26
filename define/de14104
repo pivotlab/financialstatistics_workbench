@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Outstanding Claims Liability 75th Percentile Amount
+
+## identifier
+de14104
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the outstanding claims liability, as defined in the Rules, that includes a risk margin to produce a 75% probability of adequacy.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.OutstandingClaimsLiability75thPercentile.Amount
+- classification=baf/bafot/bafot.02.25
+- period=instant

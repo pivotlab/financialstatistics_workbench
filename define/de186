@@ -1,0 +1,17 @@
+# Expense Interest Total Amount
+
+## identifier
+de186
+
+## type
+float
+
+## definition
+For interpretation/definition of this item refer to the Australian Accounting Standards, as an example, see provided reference
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Interest.Total.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

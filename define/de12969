@@ -1,0 +1,27 @@
+# Organisation Details Lenders Mortgage Insurer Indicator
+
+## identifier
+de12969
+
+## type
+boolean
+
+## definition
+This indicates whether the reporting entity is a Lenders Mortgage Insurer (LMI).
+
+Lenders mortgage insurer means an insurer that has written or reinsured, or proposes to write or reinsure, policies of lenders mortgage insurance.
+
+Lenders mortgage insurance has its ordinary commercial meaning and includes insurance under a policy which protects a lender from losses in the event of borrower default on a loan secured by a mortgage over residential or other property.
+
+## guidance
+A choice of TRUE/FALSE values.
+
+true = The reporting entity is a lenders mortgage insurer. 
+
+false = The reporting entity is not a lenders mortgage insurer.
+
+## syntax
+### xbrl
+- name=OrganisationDetails.LendersMortgageInsurer.Indicator
+- classification=py/pyde/pyde.02.10
+- period=instant

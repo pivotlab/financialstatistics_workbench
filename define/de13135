@@ -1,0 +1,29 @@
+# Regulatory Disclosures Financial Statements Status Code
+
+## identifier
+de13135
+
+## type
+string
+
+## definition
+This indicates whether the status of information provided by the reporting entity, during the relevant period, has a satisfactory financial position, unsatisfactory financial position, or technically insolvent values.
+
+## guidance
+The valid enumerated values are: 
+Satisfactory = The information provided by the reporting party, for the duration of the relevant period, being based on financial statements is satisfactory in accordance with prudential standards. 
+Unsatisfactory = The information provided by the reporting party, for the duration of the relevant period, being based on financial statements is unsatisfactory in accordance with prudential standards. 
+Technically insolvent = The information provided by the reporting party, for the duration of the relevant period, being based on financial statements indicating technically insolvent in accordance with prudential standards.
+
+## codes
+| Name                  |
+| --------------------- |
+| Satisfactory          |
+| Technically Insolvent |
+| Unsatisfactory        |
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.FinancialStatementsStatus.Code
+- classification=baf/bafot/bafot.02.15
+- period=duration

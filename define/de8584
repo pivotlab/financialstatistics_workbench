@@ -1,0 +1,23 @@
+# Profit Or Loss Realised And Unrealised Foreign Exchange Gains Or Losses Other Insurance 310 3 Amount
+
+## identifier
+de8584
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value of other foreign exchange gains (losses) from operating activities, as required to be reported on APRA Insurance forms 310_3.
+
+Gains (losses) on foreign exchange represents exchange differences arising on the settlement of monetary items or on translating monetary items at rates different from those at which they were translated on initial recognition during the relevant period or in the previous period.
+
+Gains (losses) are realised where the entity disposed of an asset during the relevant period. If an asset has not been disposed of during the relevant period, then any increases or decreases in the fair value of the asset are recognised as unrealised gains (losses).
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.RealisedAndUnrealisedForeignExchangeGainsOrLossesOtherInsurance3103.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

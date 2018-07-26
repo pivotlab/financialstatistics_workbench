@@ -1,0 +1,17 @@
+# Regulatory Disclosures Recommended Self Insurance Funding Amount
+
+## identifier
+de13139
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of funds that an actuary identifies as being necessary to fund a self-insurance arrangement such that the Registrable Superannuation Entity (RSE) licensee is able to pay claims made by members as and when they arise.
+
+## syntax
+### xbrl
+- balance=credit
+- name=RegulatoryDisclosures.RecommendedSelfInsuranceFunding.Amount
+- classification=baf/bafot/bafot.02.15
+- period=instant

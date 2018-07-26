@@ -1,0 +1,21 @@
+# Superannuation Regulatory Information Vested Benefits Accumulation Amount
+
+## identifier
+de4964
+
+## type
+float
+
+## definition
+Report the vested benefits of the accumulation benefit members of the reporting entity.
+
+Vested benefits are the benefits which are not conditional upon continued membership or any other factor other than resignation from the reporting entity and include benefits which members were entitled to receive had they terminated their membership as at the relevant date. 
+
+Accumulation benefit members are those members whose entitlements in the reporting entity are entirely determined on the basis of contributions into the reporting entity, adjusted for earnings, fees and taxes.
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationRegulatoryInformation.VestedBenefitsAccumulation.Amount
+- classification=em/emsup/emsup.02.02
+- period=instant

@@ -1,0 +1,21 @@
+# Profit Or Loss Investment Total Amount
+
+## identifier
+de1998
+
+## type
+float
+
+## guidance
+Report total realised gains/losses associated with the entity's investments. 
+Realised gains/losses
+Where the entity disposed of an asset during the reporting period, the value of the gain or loss from the disposal is to be reported.
+If an asset has not been disposed of during the annual reporting period, then any gains or losses are unrealised.
+Only include the movement in the market value of the asset, do not include the movement in the value of the currency relative to the Australian dollar if the asset is denominated in a currency other than the Australian dollar.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Investment.Total.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

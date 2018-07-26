@@ -1,0 +1,47 @@
+# Organisation Details Superannuation Entity Classification Code
+
+## identifier
+de5266
+
+## type
+string
+
+## definition
+Classify the superannuation entity according to the functional descriptions provided.
+
+## guidance
+The enumerated values are: 
+Industry - A regulated entity set up to provide for employees in a single industry, or which is run on a not-for-profit basis by Trustees with joint control by unions and employer associations.
+Public Sector - An entity (or 'scheme') which provides benefits for Government employees, or which is established by a Commonwealth, State or Territory law.  Includes exempt (i.e. not regulated) public sector superannuation schemes).
+Retail - A regulated entity which may issue interests to the public.
+Public offer or retail superannuation fund - superannuation funds that offer superannuation products to the public.
+Eligible Rollover Fund (ERF) - A Superannuation entity or approved deposit fund (ADF) which is eligible to receive benefits automatically rolled over from other superannuation entities.  ERFs typically accept superannuation monies from other superannuation entities when the member has become 'lost'.
+Pooled Superannuation Trust (PST) - A trust in which only the assets of superannuation entities can be invested.
+Approved Deposit Fund (ADF) - A type of rollover entity which may only accept eligible termination payments (ETPs) and has an approved trustee which is a constitutional corporation. ETPs can remain (attracting tax concessions on investment earnings) until the member reaches the age of 65.
+Retirement Savings Account (RSA) - An account that provides low cost and low risk savings strategy. It is offered by banks, building societies, credit unions, life insurance companies and prescribed financial institutions (RSA providers).
+Employer sponsored /Corporate superannuation fund - a super fund established for the benefit of employees of a particular company or group of companies.
+Small APRA fund - A small APRA fund is a superannuation fund with less than five members that is subject to regulation by APRA.
+Exempt public sector scheme - public sector superannuation schemes which are not subject to the provisions of the Superannuation Industry Supervision Act.
+Other - any other type of superannuation entity that is not listed above
+
+## codes
+| Name                                                |
+| --------------------------------------------------- |
+| Approved Deposit Fund (ADF)                         |
+| Eligble Rollover Fund (ERF)                         |
+| Employer sponsored or corporate superannuation fund |
+| Exempt public sector scheme                         |
+| Industry                                            |
+| Other                                               |
+| Pooled Superannuation Trust (PST)                   |
+| Public offer or retail superannuation fund          |
+| Public Sector                                       |
+| Retail                                              |
+| Retirement savings account (RSA)                    |
+| Small APRA fund                                     |
+
+## syntax
+### xbrl
+- name=OrganisationDetails.SuperannuationEntityClassification.Code
+- classification=py/pyde/pyde.02.06
+- period=duration

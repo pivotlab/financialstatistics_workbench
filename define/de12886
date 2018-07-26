@@ -1,0 +1,17 @@
+# Financial Risk Reinsurance Cover Reinstatement Cost Amount
+
+## identifier
+de12886
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of reinstatement costs. This is the cost of reinstating all catastrophe reinsurance cover relating to reinsurance recoverables.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.ReinsuranceCoverReinstatementCost.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

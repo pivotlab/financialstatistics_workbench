@@ -1,0 +1,22 @@
+# Expense Insurance Total Ultimate Cost Net Reinsurance And Non Reinsurance Recoveries Amount
+
+## identifier
+de8561
+
+## type
+float
+
+## definition
+This is the value of the total net ultimate cost (inflated & undiscounted) of claims, as at the relevant date.
+
+This item represents the sum of:
+     - net claims payment expenses incurred, as at the relevant date;
+     - net case estimates, as at the relevant date; and
+     - net claims incurred but not reported (IBNR)/incurred but not enough reported (IBNER), as at the relevant date;
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.TotalUltimateCostNetReinsuranceAndNonReinsuranceRecoveries.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=instant

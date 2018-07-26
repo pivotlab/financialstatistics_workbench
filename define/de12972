@@ -1,0 +1,19 @@
+# Assets Goodwill And Other Intangible Assets Net Impairment And Amortisation Amount
+
+## identifier
+de12972
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of goodwill net of impairment and other intangible net of both impairment and amortisation. This item is to be determined in accordance with relevant Accounting Standards. 
+
+Goodwill is calculated as the excess of the cost of a business combination over the acquirer's interest in the net fair value of the identifiable assets, liabilities and contingent liabilities. It represents the future economic benefits arising from other assets acquired in a business combination that are not individually identified and separately recognised.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.GoodwillAndOtherIntangibleAssetsNetImpairmentAndAmortisation.Amount
+- classification=baf/bafpo/bafpo1.02.12
+- period=instant

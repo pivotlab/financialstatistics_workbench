@@ -1,0 +1,16 @@
+# Financial Services First Home Saver Account Fixed Interest Maximum Term Count
+
+## identifier
+de8889
+
+## type
+int
+
+## definition
+This is the maximum term, expressed in months, of fixed interest investments. This refers to the maximum term of the instruments invested in by the First Home Saver Account (FHSA) provider, at any time during the relevant period.
+
+## syntax
+### xbrl
+- name=FinancialServices.FirstHomeSaverAccountFixedInterestMaximumTerm.Count
+- classification=baf/bafot/bafot.02.06
+- period=duration

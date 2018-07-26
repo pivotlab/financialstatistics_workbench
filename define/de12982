@@ -1,0 +1,17 @@
+# Assets Intangible Capitalised Expenses Amount
+
+## identifier
+de12982
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of total capitalised expenses. Capitalised expenses are defined in accordance with relevant accounting standards. This item is reported for capital adequacy and is to be determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Intangible.CapitalisedExpenses.Amount
+- classification=baf/bafpo/bafpo7.02.12
+- period=instant

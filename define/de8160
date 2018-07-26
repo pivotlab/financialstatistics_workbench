@@ -1,0 +1,28 @@
+# Financial Risk Operational Operating Income From Continuing Operations Adjustments Retail Commercial Banking Amount
+
+## identifier
+de8160
+
+## type
+float
+
+## definition
+This is the value of adjustments to operating income from continuing operations during the relevant period, which primarily relate to the retail and commercial banking areas of business, as determined in accordance with relevant prudential standards.
+     
+As good practice, examples of income items that would typically be included within this adjustment:
+(a) net interest income from total gross outstanding loans and advances and securities included in the retail and commercial banking areas of business;
+(b) fee income from automated teller machine networks;
+(c) fee income from retail and commercial transaction accounts; 
+(d) fee income from other payment facilities that map to retail and commercial banking such as EFTPOS;
+(e) fee income from total gross outstanding loans and advances included in the retail banking and commercial banking areas of business (e.g. loan establishment fees, administration fees and penalty fees); 
+(f) income from insurance recoveries; 
+(g) realised profit or losses from the sale of banking book items; 
+(h) dividends; and
+(i) other irregular items.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Operational.OperatingIncomeFromContinuingOperationsAdjustmentsRetailCommercialBanking.Amount
+- classification=baf/bafot/bafot.02.06
+- period=duration

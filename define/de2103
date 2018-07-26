@@ -1,0 +1,17 @@
+# Expense Operating Cleaning Amount
+
+## identifier
+de2103
+
+## type
+float
+
+## definition
+The amount of expenses incurred in cleaning.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.Cleaning.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

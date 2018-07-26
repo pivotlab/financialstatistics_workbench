@@ -1,0 +1,17 @@
+# Profit Or Loss Investment Other Amount
+
+## identifier
+de1996
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for a balancing item within the list in which it is being used.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Investment.Other.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities New First Home Saver Account Transfer Amount
+
+## identifier
+de8872
+
+## type
+float
+
+## definition
+This is the value of new First Home Saver Accounts (FHSAs), held by the reporting party at any time during the relevant period, and opened as the result of a transfer of FHSA business from another provider.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.NewFirstHomeSaverAccountTransfer.Amount
+- classification=baf/bafpo/bafpo6.02.06
+- period=duration

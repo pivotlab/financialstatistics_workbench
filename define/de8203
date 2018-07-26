@@ -1,0 +1,21 @@
+# Assets Exposures Lending Commitments Revolving Credit 391 Amount
+
+## identifier
+de8203
+
+## type
+float
+
+## definition
+This is the value of drawn and undrawn lending commitments, or firm offers, in the form of revolving credit loans, provided by the reporting party as at the relevant date.
+
+A commitment is a firm offer to provide finance which has been accepted by the client. A commitment exists once the loan application has been approved, and a loan contract or letter of offer has been issued to the borrower. 
+
+Revolving credit facilities involve a commitment for a credit or borrowing limit and where the extent of the borrowings used at any one time may be for any amount up to the authorised limit. Repayments (other than of changes and interest) reduce the borrowings thereby increasing the amount of unused credit available.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.LendingCommitmentsRevolvingCredit391.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

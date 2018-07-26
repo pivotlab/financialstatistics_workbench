@@ -1,0 +1,17 @@
+# Income Interest Loans And Advances Credit Cards Amount
+
+## identifier
+de202
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the amount of interest income derived from credit cards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Interest.LoansAndAdvances.CreditCards.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

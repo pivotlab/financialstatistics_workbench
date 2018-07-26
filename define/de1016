@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Lease Financing Gross Total Amount
+
+## identifier
+de1016
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the total gross loans and advances representing lease financing, it is reported net of unearned revenue and gross of provisions.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.LeaseFinancingGrossTotal.Amount
+- classification=baf/bafpo/bafpo5.02.00
+- period=instant

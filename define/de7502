@@ -1,0 +1,21 @@
+# Expense Operating Office And Equipment Other ARF 330 3 Amount
+
+## identifier
+de7502
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value of other occupancy and equipment expenses, as required to be reported on APRA form ARF_330_3.
+
+This item represents occupancy and equipment expenses other than depreciation, as determined in accordance with accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.OfficeAndEquipmentOtherARF3303.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

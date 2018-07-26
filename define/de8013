@@ -1,0 +1,19 @@
+# Assets Facilities Other Including Accrued Interest ARF120 2 Amount
+
+## identifier
+de8013
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is, as at the relevant date, the principal amount, or drawn amount, of other funding or liquidity type facilities provided by the reporting party as required on form ARF_120_2, including accrued interest.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.FacilitiesOtherIncludingAccruedInterestARF1202.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

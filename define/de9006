@@ -1,0 +1,19 @@
+# Assets Insurance Expected Insurance Recoveries Amount
+
+## identifier
+de9006
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of expected insurance recoveries from the maximum loss event.
+
+Maximum Loss is the largest gross loss to which the reporting party will be exposed (taking into account the probability of that loss) without any allowance for potential insurance recoveries.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.ExpectedInsuranceRecoveries.Amount
+- classification=baf/bafpo/bafpo3.02.06
+- period=instant

@@ -1,0 +1,17 @@
+# Assets Other Financial Assets Defaulted Securities Non Performing Loans Amount
+
+## identifier
+de14891
+
+## type
+float
+
+## definition
+The value of all defaulted securities and non-performing loans in accordance with Prudential Standard APS 210 - Liquidity.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.DefaultedSecuritiesNonPerformingLoans.Amount
+- classification=baf/bafpo/bafpo7.02.25
+- period=instant

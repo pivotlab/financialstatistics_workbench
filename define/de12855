@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Undercapitalisation Non Consolidated Subsidiaries Adjustment Amount
+
+## identifier
+de12855
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of adjustments to cover undercapitalisation of a non-consolidated subsidiary (or subsidiaries) as required by the Australian Prudential Regulation Authority in accordance with the relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.UndercapitalisationNonConsolidatedSubsidiariesAdjustment.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

@@ -1,0 +1,17 @@
+# Financial Risk Solvency Liabilities Total Adjusted Amount
+
+## identifier
+de5640
+
+## type
+float
+
+## definition
+Report the total liabilities, adjusted for the prescribed yield change in the discount rate used in their valuation, in accordance with the solvency standard.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Solvency.LiabilitiesTotalAdjusted.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

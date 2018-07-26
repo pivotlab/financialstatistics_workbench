@@ -1,0 +1,21 @@
+# Organisation Control Chairperson Indicator
+
+## identifier
+de13734
+
+## type
+boolean
+
+## definition
+This indicates whether the individual is the chairperson of the board meeting.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = the individual is the chairperson of the board meeting.
+false = the individual is not the chairperson of the board meeting.
+
+## syntax
+### xbrl
+- name=OrganisationControl.Chairperson.Indicator
+- classification=py/pyde/pyde.02.18
+- period=duration

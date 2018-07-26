@@ -1,0 +1,17 @@
+# Income Interest Loans And Advances Other Amount
+
+## identifier
+de205
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the balancing item in the list in which it is being used.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Interest.LoansAndAdvances.Other.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Unbilled Calculated Deficit Amount
+
+## identifier
+de14107
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the central estimate of the sum of all amounts calculated for each risk equalisation jurisdiction and under the conditions outlined in the Rules.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.UnbilledCalculatedDeficit.Amount
+- classification=baf/bafot/bafot.02.25
+- period=instant

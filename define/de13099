@@ -1,0 +1,17 @@
+# Equity Movements Reserves Earnings Positive Amount
+
+## identifier
+de13099
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of increases in reserves as a result of positive earnings from investments, as determined in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Movements.ReservesEarningsPositive.Amount
+- classification=baf/bafpo/bafpo4.02.07
+- period=duration

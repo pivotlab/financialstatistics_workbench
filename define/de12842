@@ -1,0 +1,16 @@
+# Financial Risk Capital Adequacy Effectiveness Factor Number
+
+## identifier
+de12842
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the effectiveness factor used to reflect the level of sophistication of the assumed model of dynamic hedging. This is calculated for capital requirements and is to be determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- name=FinancialRisk.CapitalAdequacy.EffectivenessFactor.Number
+- classification=baf/bafot/bafot.02.12
+- period=instant

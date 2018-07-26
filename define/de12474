@@ -1,0 +1,21 @@
+# Financial Risk Market Nth To Default Credit Derivatives Short Position Amount
+
+## identifier
+de12474
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of short  positions in nth-to-default credit derivatives, calculated in accordance to the relevant prudential standards.
+
+An nth-to-default credit derivative is a contract where the payoff is based on the nth asset to default in a basket of underlying reference instruments. Once the nth default occurs the transaction terminates and is settled.
+
+Short positions represent positions where a fall in the value of the asset or derivative would result in a profit.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.NthToDefaultCreditDerivativesShortPosition.Amount
+- classification=baf/bafot/bafot.02.09
+- period=instant

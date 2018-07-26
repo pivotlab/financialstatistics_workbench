@@ -1,0 +1,17 @@
+# Expense Operating Policy Maintenance Total Amount
+
+## identifier
+de13047
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of all fixed and variable costs as recognised under Australian Accounting Standards incurred when maintaining new business including those related to commissions and other incremental expenses.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.PolicyMaintenanceTotal.Amount
+- classification=baf/bafpr/bafpr2.02.13
+- period=duration

@@ -1,0 +1,17 @@
+# Expense Levies And Charges Amount
+
+## identifier
+de2310
+
+## type
+float
+
+## definition
+This is the value, for the relevant period, of levies and charges payable by the reporting party and determined in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.LeviesAndCharges.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

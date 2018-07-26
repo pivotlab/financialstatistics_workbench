@@ -1,0 +1,17 @@
+# Equity Reserves Asset Revaluation Reserve Plant And Equipment Amount
+
+## identifier
+de1536
+
+## type
+float
+
+## definition
+This is the value, at the relevant date, of the balance of the Asset Revaluation Reserve relating to the revaluation of plant and equipment
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Reserves.AssetRevaluationReservePlantAndEquipment.Amount
+- classification=baf/bafpo/bafpo2.02.00
+- period=instant

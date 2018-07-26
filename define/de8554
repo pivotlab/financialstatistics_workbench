@@ -1,0 +1,19 @@
+# Expense Insurance Claims Payments Gross Reinsurance Recoveries Net Non Reinsurance Recoveries Amount
+
+## identifier
+de8554
+
+## type
+float
+
+## definition
+This is the value of insurance claims payments, as at the relevant date. This item is to be reported gross of any associated reinsurance recoveries, but net of any associated non-reinsurance recoveries.
+
+This includes non-reinsurance recoveries that have been received or are expected to be received only in relation to claims already paid.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.ClaimsPaymentsGrossReinsuranceRecoveriesNetNonReinsuranceRecoveries.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=instant

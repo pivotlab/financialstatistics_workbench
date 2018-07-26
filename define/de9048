@@ -1,0 +1,17 @@
+# Financial Risk Cost Of Subsequent To First Per Event Reinstatement Amount
+
+## identifier
+de9048
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the cost of any subsequent per event reinstatement after the first Maximum Event Retention (MER) event.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CostOfSubsequentToFirstPerEventReinstatement.Amount
+- classification=baf/bafot/bafot.02.07
+- period=instant

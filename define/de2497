@@ -1,0 +1,17 @@
+# Superannuation Payment Benefit Lump Sum Financial Hardship And Compassionate Grounds Amount
+
+## identifier
+de2497
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the expense for benefits paid to members by the trustee(s) under the early release provisions relating to severe financial hardship or compassionate grounds.
+
+## syntax
+### xbrl
+- balance=debit
+- name=SuperannuationPayment.BenefitLumpSumFinancialHardshipAndCompassionateGrounds.Amount
+- classification=em/emsup/emsup.02.00
+- period=duration

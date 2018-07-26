@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Liability Adjustments Including Tax Effects Amount
+
+## identifier
+de12847
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of liability adjustments. The liability adjustment reflects the difference between the adjusted policy liabilities and the net policy liabilities and policy owners' retained profits for the purpose of determining the capital base under the relevant prudential standards. For the purposes of this item, include all tax effects arising from the liability adjustment.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.LiabilityAdjustmentsIncludingTaxEffects.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

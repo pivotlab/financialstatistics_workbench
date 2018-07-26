@@ -1,0 +1,17 @@
+# Financial Risk Solvency Liabilities Total Amount
+
+## identifier
+de5419
+
+## type
+float
+
+## definition
+Report the total liabilities as determined in accordance with the solvency prudential standard.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Solvency.LiabilitiesTotal.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

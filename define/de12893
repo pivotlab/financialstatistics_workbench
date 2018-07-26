@@ -1,0 +1,17 @@
+# Financial Risk Risk Charge Insurance Premiums Liability Amount
+
+## identifier
+de12893
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date of the insurance risk charge for premiums liability (PL), determined in accordance with relevant prudential standards. It relates to the risk that the value of net premiums liability (PL) will be insufficient to cover associated net claim payments and any associated claim expenses as they fall due.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.RiskChargeInsurancePremiumsLiability.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

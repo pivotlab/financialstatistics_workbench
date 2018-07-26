@@ -1,0 +1,17 @@
+# Financial Risk Credit Securitisation Exposure Amount
+
+## identifier
+de14818
+
+## type
+float
+
+## definition
+Securitisation exposure is the value of on-balance sheet and off-balance sheet risk positions held by an entity arising from a securitisation including, but not limited to, investments in securities issued by a special purpose vehicle (SPV), credit enhancements, liquidity and other funding facilities and derivatives transactions.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Credit.SecuritisationExposure.Amount
+- classification=baf/bafot/bafot.02.30
+- period=instant

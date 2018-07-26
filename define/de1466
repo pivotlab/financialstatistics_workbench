@@ -1,0 +1,17 @@
+# Liabilities Provisions Dividends Amount
+
+## identifier
+de1466
+
+## type
+float
+
+## definition
+A provision for dividends is the allowance that the reporting entity has made in terms of the obligation for declared dividends.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Provisions.Dividends.Amount
+- classification=baf/bafpo/bafpo6.02.00
+- period=instant

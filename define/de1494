@@ -1,0 +1,35 @@
+# Liabilities Other Financial Liabilities Other Creditors And Other Liabilities As Defined By APRA Form ARF320 Amount
+
+## identifier
+de1494
+
+## type
+float
+
+## definition
+This is a balancing item, being the Total Liabilities as per accounting standards other than:
+- Total bonds, notes and long-term borrowings,
+- Total provisions,
+- Total income tax liability,
+- Total other borrowings,
+- Total deposits,
+- Acceptances,
+- Total due to financial institutions,
+- Due to clearing houses
+- Total loan capital and hybrid securities
+- Defined benefit liabilities - Current, Non-current,
+- Interest payable,
+- Unearned interest,
+- Amounts payable to clients - outstanding security settlements,
+- Derivative financial instruments,
+- Securities purchased not delivered security settlements,
+- Liabilities included in disposal groups classified as held for sale,
+- Share capital repayable on demand,
+- Items in suspense
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.OtherCreditorsAndOtherLiabilitiesAsDefinedByAPRAFormARF320.Amount
+- classification=baf/bafpo/bafpo6.02.00
+- period=instant

@@ -1,0 +1,16 @@
+# Business Termination Wind Up Date
+
+## identifier
+de5205
+
+## type
+string
+
+## definition
+This is the date the entity was wound up.
+
+## syntax
+### xbrl
+- name=BusinessTermination.WindUp.Date
+- classification=em/emfsm/emfsm.02.04
+- period=instant

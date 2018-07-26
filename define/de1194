@@ -1,0 +1,17 @@
+# Assets Insurance Investments Relating To Life Insurance Business Amount
+
+## identifier
+de1194
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for investments relating to life insurance business.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.InvestmentsRelatingToLifeInsuranceBusiness.Amount
+- classification=baf/bafpo/bafpo3.02.00
+- period=instant

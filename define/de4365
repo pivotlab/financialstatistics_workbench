@@ -1,0 +1,30 @@
+# Assets Investment Deposits Placements Loans And Debt Securities Net Market Value Amount
+
+## identifier
+de4365
+
+## type
+float
+
+## definition
+Report the net market value, or fair value, of deposits, placements, loans and advances, and debt securities. 
+
+This includes, but is not limited to:
+- Interest-rate related cash and investments of the entity;
+- Debt securities (e.g. bills of exchange, certificates of deposit, commercial paper, promissory notes, Treasury Bonds, securitised instruments); and
+- Deposits, placements, loans and advances.
+This excludes:
+- Holding of units in unit trusts such as a cash management trust.
+
+A debt security is a transferable instrument evidencing a relationship of indebtedness. It is characterised by having a definable income stream that is not based on the economic performance of the issuing entity.
+
+If the entity holds listed notes/hybrid securities which have characteristics of a debt security & an equity security, these securities should be classified in the same manner as they appear in the entity's audited financial statements.
+
+Net market value or fair value is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.DepositsPlacementsLoansAndDebtSecuritiesNetMarketValue.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=instant

@@ -1,0 +1,43 @@
+# Financial Risk Solvency Adjusted Assets Total Amount
+
+## identifier
+de5090
+
+## type
+float
+
+## definition
+Report the amount of eligible capital determined in accordance with the solvency standard. This is calculated as the Net Assets of the reporting party as determined in accordance with accounting standards, including accrued income, adjusted for:
+
+1) Policy Owner Retained Profits as determined in accordance with accounting standards;
+
+2) Eligible Amount of Approved Subordinated Debt as determined in accordance with the approval letter received from the relevant regulatory authority;
+
+3) Net market value, or fair value, of borrowings classified as seed capital (see below); and
+
+4) MTV Adjustment.
+
+Where:
+
+Adjustment 3) Seed capital is the preliminary contribution of funding toward the financing of a new business. Commonly this is in the form of a loan, usually provided by a related entity. Borrowings are amounts of money on loan from financial institutions or other creditors with the promise or understanding that it will be repaid regardless of how the business turns out, whereas Seed Capital is more like Subordinated Debt and doesn't have to be repaid in extreme adverse circumstances.
+ 
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+Adjustment 4) The MTV Adjustment is the value of the Net Policy Liabilities (net of reinsurance) less the Net Minimum Termination Value (MTV).
+
+Net Policy Liabilities are valued in accordance with prudential standards LPS 1.04, Valuation of Policy Liabilities, offset by the value of policy liabilities ceded under reinsurance. This amount includes liabilities for deferred fee revenue and deferred acquisition costs. For participating benefits, it includes bonuses in respect of the relevant period. This method of disclosure differs from the Australian Accounting Standards.
+
+Net Minimum Termination Value (MTV) is the minimum termination value (net of reinsurance) excluding the amount of any investment linked risk margin.
+
+The minimum termination value (MTV) is determined by the prudential standards as the amount that a life insurer is obliged to pay to policyholders if they decided to voluntarily terminate their policies at the relevant date. The obligation might be contractual, statutory or a result of past practice. Calculated as the greater of: 
+a) the lowest Termination Value that the reporting party is obliged to pay; and 
+b) the amount calculated in accordance with the Surrender Value Standard.
+
+The investment linked (IL) risk margin reflecst the additional risks that may be borne by the reporting party in conducting investment-linked business.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.AdjustedAssetsTotal.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

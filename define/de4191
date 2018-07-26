@@ -1,0 +1,17 @@
+# Expense Insurance Policy Acquisition Other Amount
+
+## identifier
+de4191
+
+## type
+float
+
+## definition
+Report the value of all fixed costs incurred when acquiring new business and all variable costs other than those related to commissions and other incremental expenses incurred in relation to new insurance business.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.PolicyAcquisitionOther.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

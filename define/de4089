@@ -1,0 +1,17 @@
+# Liabilities Insurance Retained Profits Policy Owners Amount
+
+## identifier
+de4089
+
+## type
+float
+
+## definition
+Report the value of statutory fund profits allocated to participating policy owners generally, but not yet vested as specific amounts to particular policies.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.RetainedProfitsPolicyOwners.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

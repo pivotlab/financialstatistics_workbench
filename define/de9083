@@ -1,0 +1,16 @@
+# Regulatory Disclosures Insurance Confidence Level Reason Description
+
+## identifier
+de9083
+
+## type
+string
+
+## definition
+This is the description of the reason for the confidence level provided.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuranceConfidenceLevelReason.Description
+- classification=baf/bafot/bafot.02.07
+- period=duration

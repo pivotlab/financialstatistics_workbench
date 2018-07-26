@@ -1,0 +1,23 @@
+# Income Realised Gain Loss Investment Property Excluding Foreign Exchange Amount
+
+## identifier
+de8605
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of the net value of realised gains and (losses) from the revaluation of the reporting entity's investment property portfolio, as determined in accordance with relevant accounting standards.
+
+Investments are assets or liabilities acquired or incurred principally for profit-taking purposes.
+
+This item does not include foreign currency gains (losses) that occur due to currency translation.
+
+Gains (losses) are realised where the entity disposed of an asset during the relevant period. If an asset has not been disposed of during the relevant period, then any increases or decreases in the fair value of the asset are recognised as unrealised gains (losses).
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.RealisedGainLossInvestmentPropertyExcludingForeignExchange.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

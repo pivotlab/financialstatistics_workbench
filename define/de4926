@@ -1,0 +1,21 @@
+# Assets Investment Loans And Advances Disposal Proceeds Amount
+
+## identifier
+de4926
+
+## type
+float
+
+## definition
+Report the proceeds received or receivable on the disposal of loans and advances classified as investments during the relevant period.
+
+The disposal of an asset takes place if a change of ownership occurs, whether because of some act or event (such as damage) or by operation of law, e.g. when an asset is transferred from one person to another by way of sale or gift.
+
+Proceeds are defined as the total consideration recieved or receivable following the disposal of an asset.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.Investment.LoansAndAdvancesDisposalProceeds.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=duration

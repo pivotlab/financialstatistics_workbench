@@ -1,0 +1,21 @@
+# Superannuation Fund Details Self Insurance Arrangement Commencement Indicator
+
+## identifier
+de13143
+
+## type
+boolean
+
+## definition
+This indicates whether the self insurance arrangement commenced prior to 1 July 2013.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = the self insurance arrangement commenced prior to 1 July 2013. 
+false = the self insurance arrangement commenced after 1 July 2013.
+
+## syntax
+### xbrl
+- name=SuperannuationFundDetails.SelfInsuranceArrangementCommencement.Indicator
+- classification=em/emsup/emsup.02.10
+- period=duration

@@ -1,0 +1,17 @@
+# Financial Risk Prescribed Capital Adjustment Amount
+
+## identifier
+de12882
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date of adjustments to prescribed capital amount, as approved by the Australian Prudential Regulation Authority.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.PrescribedCapitalAdjustment.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

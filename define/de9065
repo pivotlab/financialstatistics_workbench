@@ -1,0 +1,19 @@
+# Income Insurance Calls Amount
+
+## identifier
+de9065
+
+## type
+float
+
+## definition
+This is the value, for the duration of the relevant period, of revenue earned from calls. 
+
+Calls are made by the trustee for members to pay additional insurance premiums on a wide range of circumstances such as exposure to additional risk, to cover cost of default.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.Calls.Amount
+- classification=baf/bafpr/bafpr3.02.06
+- period=duration

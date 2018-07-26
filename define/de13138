@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Actuarial Review Date
+
+## identifier
+de13138
+
+## type
+string
+
+## definition
+This is the date of an actuarial investigation on a self-insurance arrangement.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.ActuarialReview.Date
+- classification=em/emsup/emsup.02.10
+- period=instant

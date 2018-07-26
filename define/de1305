@@ -1,0 +1,18 @@
+# Liabilities Deposits Retirement Saving Accounts Amount
+
+## identifier
+de1305
+
+## type
+float
+
+## definition
+Report the value of deposits held by the reporting party as at the reporting date, which are classified as Retirement Savings Accounts. This item is to be determined in accordance with accounting standards. 
+Retirement Savings Accounts (RSA) are approved accounts, in accordance with the Retirement Savings Accounts Act 1997, offered by banks, building societies, credit unions, life insurance companies and prescribed financial institutions (RSA providers). They are products specifically used to accumulate retirement savings, similar to a superannuation fund. Amounts placed in these accounts cannot be withdrawn until specific criteria have been met.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Deposits.RetirementSavingAccounts.Amount
+- classification=baf/bafpo/bafpo6.02.00
+- period=instant

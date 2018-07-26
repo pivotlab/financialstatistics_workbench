@@ -1,0 +1,17 @@
+# Financial Risk Surplus Capital Distributed Amount
+
+## identifier
+de13125
+
+## type
+float
+
+## definition
+This is the value, of surplus capital distributed during the relevant period. This represents an amount of financial resources that exceed the target amount which therefore are available to distribute.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.SurplusCapitalDistributed.Amount
+- classification=baf/bafot/bafot.02.15
+- period=duration

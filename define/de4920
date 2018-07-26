@@ -1,0 +1,17 @@
+# Expense Investment Other Amount
+
+## identifier
+de4920
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of other expenses classified as investment expenses, as determined in accordance with the relevant accounting standards. This is a balancing item within the list in which it is being used.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.InvestmentOtherSRF1000.Amount
+- classification=baf/bafpr/bafpr1.02.05
+- period=duration

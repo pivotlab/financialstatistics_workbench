@@ -1,0 +1,17 @@
+# Liabilities Insurance Other Amount
+
+## identifier
+de14101
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for insurance liabilities not reported elsewhere.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.Other.Amount
+- classification=baf/bafpo/bafpo3.02.15
+- period=instant

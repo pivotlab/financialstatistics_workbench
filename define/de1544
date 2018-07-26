@@ -1,0 +1,17 @@
+# Equity Reserves Available For Sale Reserves Other Amount
+
+## identifier
+de1544
+
+## type
+float
+
+## definition
+Report the value of the reserve in relation to assets classified as available for sale other than marketable securities (debt and equity), consistent with the classification and measurement basis used by institutions in accordance with accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Reserves.AvailableForSaleReservesOther.Amount
+- classification=baf/bafpo/bafpo2.02.00
+- period=instant

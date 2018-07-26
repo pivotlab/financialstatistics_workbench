@@ -1,0 +1,16 @@
+# Organisation Details Service Points Count
+
+## identifier
+de8260
+
+## type
+int
+
+## definition
+This is the number of service points operating as at the relevant date.
+
+## syntax
+### xbrl
+- name=OrganisationDetails.ServicePoints.Count
+- classification=py/pyde/pyde.02.07
+- period=instant

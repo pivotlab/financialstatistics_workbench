@@ -1,0 +1,22 @@
+# Financial Risk Market Interest Rate Long Positions Amount
+
+## identifier
+de8021
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, that relates to long positions giving rise to interest rate risk, as determined in accordance with relevant prudential standards. This item includes long positions in: 
+- debt securities, including non-convertible preference shares and other quasi-debt securities/instruments that behave like debt (convertible bonds are to be included as debt securities if they trade like debt securities, but not if they trade like equities);
+- forward transactions in foreign exchange, equities and commodities; and
+- options that are subject to a change in value following a change in interest rates.
+
+Long positions represent positions where a rise in the value of the asset or derivative would result in a profit.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.InterestRateLongPositions.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

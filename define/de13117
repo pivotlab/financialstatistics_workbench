@@ -1,0 +1,29 @@
+# Superannuation Regulatory Information Operational Risk Financial Requirement Held Code
+
+## identifier
+de13117
+
+## type
+string
+
+## definition
+This indicates how the financial resources to meet the Operational Risk Financial Requirement (ORFR) are held.
+
+## guidance
+The valid enumerated values are: 
+ORFR trustee capital = The trustee capital held for the purposes of meeting the Operational Risk Financial Requirement (ORFR); 
+ORFR reserve = The reserve held for the purposes of meeting the Operational Risk Financial Requirement (ORFR); 
+ORFR trustee capital and ORFR reserve = A combination of Operational Risk Financial Requirement (ORFR) trustee capital and at least one Operational Risk Financial Requirement (ORFR) reserve.
+
+## codes
+| Name                                  |
+| ------------------------------------- |
+| ORFR reserve                          |
+| ORFR trustee capital                  |
+| ORFR trustee capital and ORFR reserve |
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.OperationalRiskFinancialRequirementHeld.Code
+- classification=em/emsup/emsup.02.10
+- period=instant

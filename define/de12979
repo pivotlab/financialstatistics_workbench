@@ -1,0 +1,17 @@
+# Assets Insurance Reinsurance Recoverables Amount
+
+## identifier
+de12979
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of reinsurance recoverable. Reinsurance recoverables are any amounts due to the reporting entity from a reinsurer determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.ReinsuranceRecoverables.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

@@ -1,0 +1,17 @@
+# Assets Investment Unit Trusts Amount
+
+## identifier
+de14207
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for units in trusts which are securities that represent beneficial interest or economic ownership in a trust.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.UnitTrusts.Amount
+- classification=baf/bafpo/bafpo7.02.23
+- period=instant

@@ -1,0 +1,17 @@
+# Liabilities Provisions Increases Charged to PL Amount
+
+## identifier
+de7690
+
+## type
+float
+
+## definition
+This is the value of all new increases in provisions for impairment of loans and advances that resulted in a charge to profit and loss during the relevant period.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Provisions.IncreasesChargedtoPL.Amount
+- classification=baf/bafpo/bafpo6.02.06
+- period=duration

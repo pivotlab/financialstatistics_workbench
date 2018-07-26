@@ -1,0 +1,17 @@
+# Financial Risk Aggregation Benefit Amount
+
+## identifier
+de12829
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the aggregation benefit which relates to the recognition of diversification benefits between asset risk and the sum of insurance risk and insurance concentration risk in the calculation of the prescribed capital amount. This item must be calculated in accordance with the prescribed formula in the relevant prudential standard.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.AggregationBenefit.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

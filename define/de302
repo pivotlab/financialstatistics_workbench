@@ -1,0 +1,17 @@
+# Expense Computer Software Amount
+
+## identifier
+de302
+
+## type
+float
+
+## definition
+Computer software expensed is the cost of acquiring, developing or commissioning software for the purpose of performing the functions for which it was acquired or developed. The development of web sites is included in the scope of computer software.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.ComputerSoftware.Amount
+- classification=baf/bafpr/bafpr1.02.00
+- period=duration

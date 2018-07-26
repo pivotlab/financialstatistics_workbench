@@ -1,0 +1,19 @@
+# Financial Risk Market Average Stressed VaR Past 60 Trading Days Amount
+
+## identifier
+de12494
+
+## type
+float
+
+## definition
+Report the average stressed value at risk (VaR), calculated over the most recent 60 trading days prior to and including the relevant date, for positions giving rise to market risk, as determined in accordance with relevant prudential standards.
+
+Stressed VaR, like VaR is a technique used to estimate the likelihood of losses in a portfolio based on analysis of historical price movements and volatilities, over a specified observation period. For the stressed VaR however, the model inputs are calibrated to historical data from a one year observation period of significant market stress relevant to the portfolio being simulated.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.AverageStressedVaRPast60TradingDays.Amount
+- classification=baf/bafot/bafot.02.09
+- period=instant

@@ -1,0 +1,17 @@
+# Expense Prospective Underwriting Acquisition Costs Amount
+
+## identifier
+de2308
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for all acquisition costs as recognised under Australian Accounting Standards. Acquisition costs are incurred in obtaining and recording new business contracts. They include commission or brokerage paid to agents or brokers for obtaining business for the reporting party, selling and underwriting costs such as advertising and risk assessment, the administrative costs of accepting, issuing and initially recording the new business.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Prospective.UnderwritingAcquisitionCosts.Amount
+- classification=baf/bafpr/bafpr3.02.00
+- period=duration

@@ -1,0 +1,37 @@
+# Assets Derivative Financial Instruments Interest Rate Other Contracts Net Market Value Amount
+
+## identifier
+de5642
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+Report the net market value, or fair value, of the net position of other derivative contracts which are classified as interest rate contracts, consistent with the classification and measurement basis used for derivatives by institutions in accordance with accounting standards.
+
+This balancing item represents total interest rate contracts less those interest rate contracts which are classed as any of the following:
+ - Warrants;
+ - Bought call options;
+ - Bought put options;
+ - Written (sold) call options; and
+ - Written (sold) put options.
+
+An interest rate derivative contract is any contract that transfers the interest rate risk on an underlying asset from one party to another.
+
+Derivatives are generally defined as those instruments/contracts, where the value is based on other products, and/or on prices associated with financial products. Derivative contracts involve:
+- Future delivery, receipt or exchange of financial items such as cash or another derivative instrument; or
+- Future exchange of real assets for financial items where the contract may be tradeable and has a market value.
+The contracts can either be binding on both parties (e.g. as with a currency swap) or subject to the exercise by one party of a right contained within the contract (as with options).
+
+Report this item regardless of whether favourable or unfavourable to the reporting entity ie where it represents either a net gain or net loss to the entity across all open positions.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.DerivativeFinancialInstruments.InterestRateOtherContractsNetMarketValue.Amount
+- classification=baf/bafpo/bafpo5.02.04
+- period=instant

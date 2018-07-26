@@ -1,0 +1,17 @@
+# Assets Committed Funding Facility Head Office Amount
+
+## identifier
+de13300
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the expected cash flows from the head office fund via a committed funding facility when the entity is a foreign ADI (Authorised Deposit-taking Institution) that is not part of a group that also has a locally incorporated banking subsidiary in Australia in accordance with the relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CommittedFundingFacilityHeadOffice.Amount
+- classification=baf/bafpo/bafpo1.02.18
+- period=instant

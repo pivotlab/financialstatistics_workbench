@@ -1,0 +1,17 @@
+# Financial Risk Tolerance Limit Amount
+
+## identifier
+de13119
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the tolerance limit that reflects the level below which the entity must take action to replenish financial resources held to meet the requirements.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.ToleranceLimit.Amount
+- classification=baf/bafot/bafot.02.15
+- period=instant

@@ -1,0 +1,17 @@
+# Assets Foreign Assets Other Amount
+
+## identifier
+de2673
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the balancing item within the list in which it is being used.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.ForeignAssets.Other.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

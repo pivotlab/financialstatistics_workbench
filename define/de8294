@@ -1,0 +1,19 @@
+# Assets Insurance Expected Non Reinsurance Recoveries Amount
+
+## identifier
+de8294
+
+## type
+float
+
+## definition
+This is the value net of provisions for doubtful debts, as at the relevant date, of expected non-reinsurance recoveries on premium liabilities of the reporting party.
+                                                                                                                                                       
+Expected non-reinsurance recoveries are any amounts due to the reporting party, other than under a reinsurance arrangement, that arise from the recognition of Premiums Liabilities in accordance with capital and prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.ExpectedNonReinsuranceRecoveries.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

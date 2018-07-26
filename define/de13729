@@ -1,0 +1,21 @@
+# Organisation Control Director Term Set Indicator
+
+## identifier
+de13729
+
+## type
+boolean
+
+## definition
+This indicates whether the board has set a particular length for a director's term.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = the board has set a length for a director's term.
+false = the board has not set a length for a director's term.
+
+## syntax
+### xbrl
+- name=OrganisationControl.DirectorTermSet.Indicator
+- classification=py/pyde/pyde.02.18
+- period=instant

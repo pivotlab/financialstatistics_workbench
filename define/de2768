@@ -1,0 +1,17 @@
+# Assets Intangible Impairment Intangible Assets With An Infinite Life Amount
+
+## identifier
+de2768
+
+## type
+float
+
+## definition
+Report the value, as at the reporting date, of accumulated amortisation and impairment on intangible assets with an infinite life, as determined in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.Intangible.Impairment.IntangibleAssetsWithAnInfiniteLife.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

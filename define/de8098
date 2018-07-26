@@ -1,0 +1,21 @@
+# Financial Risk Market Scaling Factor VaR Interest Rate Positions Number
+
+## identifier
+de8098
+
+## type
+float
+
+## definition
+This is the scaling factor (Value at Risk(VaR)) applicable, for positions giving rise to interest rate risk.The scaling factor consists of a multiplication factor and a plus factor, as determined in accordance with relevant prudential standards. The multiplication factor is set for each reporting party by APRA, and is subject to a minimum of three. A plus factor may also be required by APRA. This factor relates directly to back-testing results from the most recent 250 trading days prior to the relevant date.Interest rate positions include both on and off-balance sheet exposures which are affected by changes in interest rates. 
+
+This includes holdings of, or positions in:     
+- debt securities, including non-convertible preference shares and other quasi-debt securities/instruments that behave like debt (convertible bonds are to be included as debt securities if they trade like debt securities, but not if they trade like equities);     
+- forward transactions in foreign exchange, equities and commodities; and     
+- options that are subject to a change in value following a change in interest rates.Back-testing represents the process of comparing the daily trading outcome (profit or loss) with the corresponding VaR number for that day.
+
+## syntax
+### xbrl
+- name=FinancialRisk.Market.ScalingFactorInterestRatePositions.Number
+- classification=baf/bafot/bafot.02.06
+- period=instant

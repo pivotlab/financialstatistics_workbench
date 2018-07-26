@@ -1,0 +1,18 @@
+# Financial Risk Mortgages Insured Open Policy Percent
+
+## identifier
+de8839
+
+## type
+float
+
+## definition
+This is the percentage, as at the relevant date, of insurance policies, by value, written under open policy.
+
+Open policy represents a legal arrangement whereby a lender is given direct underwriting control for mortgage insurance policies without reference to the insurer, subject to the transaction meeting certain underwriting requirements.
+
+## syntax
+### xbrl
+- name=FinancialRisk.MortgagesInsuredOpenPolicy.Percent
+- classification=baf/bafot/bafot.02.06
+- period=instant

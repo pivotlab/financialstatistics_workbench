@@ -1,0 +1,17 @@
+# Expense Operating Investment Management And Asset Consultant Fees Amount
+
+## identifier
+de2005
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the amount of fee expense of the reporting party that relates to the management of the entity's investment portfolios. Include fees paid to investment managers and asset consultants.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.Investment.ManagementAndAssetConsultantFees.Amount
+- classification=baf/bafpr/bafpr2.02.04
+- period=duration

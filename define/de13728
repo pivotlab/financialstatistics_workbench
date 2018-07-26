@@ -1,0 +1,16 @@
+# Organisation Control Board Meetings Held Count
+
+## identifier
+de13728
+
+## type
+int
+
+## definition
+This is the number of board meetings held during the relevant period.
+
+## syntax
+### xbrl
+- name=OrganisationControl.BoardMeetingsHeld.Count
+- classification=py/pyde/pyde.02.18
+- period=duration

@@ -1,0 +1,24 @@
+# Assets Investment Total Other ARF 321 Item 6 6 Amount
+
+## identifier
+de7622
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of "Total Other Investments" as per item 6.6 on form ARF_321_0.
+
+This amount is calculated as the sum of the following items:
+- Investments in Parent Entity;
+- Investments in Control Entities;
+- Investments in Associates; 
+- Interests in Joint Ventures; and
+- Other Investments not allocated elsewhere on ARF_321_0 (balancing item).
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.TotalOtherARF321Item66.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=instant

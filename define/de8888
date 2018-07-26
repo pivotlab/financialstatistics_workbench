@@ -1,0 +1,16 @@
+# Financial Services First Home Saver Account Investment Strategy Options Count
+
+## identifier
+de8888
+
+## type
+int
+
+## definition
+This is the number, during the relevant date, of investment strategy options offered to the First Home Saver Account (FHSA) holder by the reporting party.
+
+## syntax
+### xbrl
+- name=FinancialServices.FirstHomeSaverAccountInvestmentStrategyOptions.Count
+- classification=baf/bafot/bafot.02.06
+- period=duration

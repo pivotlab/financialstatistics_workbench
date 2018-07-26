@@ -1,0 +1,19 @@
+# Financial Risk Capital Adequacy Borrowings Amount
+
+## identifier
+de5546
+
+## type
+float
+
+## definition
+Report the value of borrowings, plus overdrafts determined under stress test scenarios in accordance with the Capital Adequacy prudential standards. This method differs from the Australian Accounting Standards.
+
+Borrowings are amounts of money on loan from financial institutions or other creditors with the promise or understanding that it will be repaid.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.Borrowings.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

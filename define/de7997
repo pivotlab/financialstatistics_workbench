@@ -1,0 +1,16 @@
+# Financial Risk Lowest Minimum Liquidity Holdings Ratio Percent
+
+## identifier
+de7997
+
+## type
+float
+
+## definition
+This is the percentage, as at the relevant date, for the lowest minimum liquidity holdings (MLH) ratio maintained during the reporting period.
+
+## syntax
+### xbrl
+- name=FinancialRisk.Credit.LowestHQLARatio.Percent
+- classification=baf/bafot/bafot.02.06
+- period=duration

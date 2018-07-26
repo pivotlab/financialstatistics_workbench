@@ -1,0 +1,18 @@
+# Assets Exposures Balancing Item APRA Form 391 Text
+
+## identifier
+de8147
+
+## type
+string
+
+## definition
+This is a description of a balancing item.
+                                                                                                                                                 
+This is the reason for any discrepancy between the total credit limits approved for revolving credit reported in the previous relevant period and the amounts reported on the APRA 391.0 series of forms.
+
+## syntax
+### xbrl
+- name=Assets.Exposures.BalancingItemAPRAForm391.Text
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

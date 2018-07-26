@@ -1,0 +1,18 @@
+# Assets Exposures New Commitments Goods Financed Passenger Vehicles New Count
+
+## identifier
+de8212
+
+## type
+int
+
+## definition
+This is the number of new passenger vehicles for which an offer by the reporting party has been accepted by its customer during the relevant period.
+                                                                                                                                            
+Vehicles to be included in this total are cars, station wagons, four wheel drive and forward control passenger vehicles that have not previously been owned. Do not include utilities, panel vans, buses, motor cycles/scooters or special purpose vehicles - e.g. ambulances, tow trucks, hearses, fire engines, etc.
+
+## syntax
+### xbrl
+- name=Assets.Exposures.NewCommitmentsGoodsFinancedPassengerVehiclesNew.Count
+- classification=baf/bafpo/bafpo3.02.05
+- period=duration

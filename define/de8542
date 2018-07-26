@@ -1,0 +1,17 @@
+# Profit Or Loss Insurance Continuing Before Tax Prudential Amount
+
+## identifier
+de8542
+
+## type
+float
+
+## definition
+This is the profit (loss) before tax for the relevant period. This item is calculated in accordance with the relevant Prudential Standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Insurance.ContinuingBeforeTaxPrudential.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

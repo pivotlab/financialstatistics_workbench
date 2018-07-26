@@ -1,0 +1,17 @@
+# Liabilities Insurance Net Premium Liabilities Other GRF210 1A And 1B Amount
+
+## identifier
+de12590
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of any other items which form the total of net premiums liabilities as per relevant accounting standards.  This would include deferred reinsurance exchange commission, unearned commission revenue and deferred levies and charges.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.NetPremiumLiabilitiesOtherGRF2101AAnd1B.Amount
+- classification=baf/bafpo/bafpo3.02.07
+- period=instant

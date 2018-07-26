@@ -1,0 +1,17 @@
+# Liabilities Insurance Future Policy Premiums Amount
+
+## identifier
+de13067
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for future premiums where projection techniques are used, report the component of the best estimate liability relating to the net present value of future policy premiums. Where projection techniques are not used, report nil.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Liabilities.Insurance.FuturePolicyPremiums.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

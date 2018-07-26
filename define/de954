@@ -1,0 +1,24 @@
+# Assets Investment Securities Total Amount
+
+## identifier
+de954
+
+## type
+float
+
+## definition
+Investment securities are those securities, which are not Trading Securities (as defined in accordance with AASB 130 and AASB 7). These are generally securities purchased with the intent that they be generally held to maturity or held for a period of time, though not necessarily maturity (i.e. equity securities where it is not technically possible to hold to maturity).
+
+## guidance
+Sum all "investment securities" reporting items.                                                     
+Exclude ADI's strategic investment in the equity securities of entities that are deemed to be controlled entities, associates or joint ventures, defined in accordance with AASB 127 Consolidated and Separate Financial Statements (AASB 127), AASB 3 Business Combinations (AASB 3), AASB 128 Investments in Associates (AASB 128) and AASB 131 Interests in Joint Ventures (AASB 131).
+Investment securities are to be recorded in accordance with AASB.
+Include all securities (stock) lent or sold under repurchase agreements. The payable due to counterparties with whom the stock has been lent or sold and from whom cash has been lodged is recorded in Securities sold under agreements to repurchase. All securities borrowed or purchased under resale agreements should be excluded. The receivable due from counterparties from whom the stock has been borrowed or purchased and with whom cash has been lodged is recorded in Securities purchased under agreements to resell.
+Include holdings of debt securities issued by the parent entity, controlled entities, associated entities, joint venture entities and other branches under the same parent entity.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.SecuritiesTotal.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

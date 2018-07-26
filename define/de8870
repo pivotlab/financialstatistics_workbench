@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities New First Home Saver Account Amount
+
+## identifier
+de8870
+
+## type
+float
+
+## definition
+This is the value of new First Home Saver Accounts (FHSAs) opened by individual account holders and provided by the reporting party at any time during the relevant period. For the purposes of this item exclude the value of accounts that are opened as the result of a transfer of FHSA business from another provider.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.NewFirstHomeSaverAccount.Amount
+- classification=baf/bafpo/bafpo6.02.06
+- period=duration

@@ -1,0 +1,16 @@
+# Assets Investment Other SRF 310 0 Description
+
+## identifier
+de8383
+
+## type
+string
+
+## definition
+This is the description of the detailed line item comprising the other investments balancing item, as required to be reported on APRA form SRF_310_0.
+
+## syntax
+### xbrl
+- name=Assets.Investment.OtherSRF3100.Description
+- classification=baf/bafpo/bafpo7.02.06
+- period=instant

@@ -1,0 +1,23 @@
+# Financial Risk Market Average VaR Past 60 Trading Days Interest Rate Positions Delta Amount
+
+## identifier
+de8237
+
+## type
+float
+
+## definition
+This is the average value at risk (VaR), calculated over the most recent 60 trading days prior to and including the relevant date, for positions which are sensitive to interest rate movements, assuming all other factors (e.g. interest rate volatility) remain equal.
+
+Delta, in this context, represents the impact of underlying interest rate movements on the overall portfolio value.
+
+VaR represents Value at Risk and is a technique used to estimate the likelihood of losses in a portfolio based on analysis of historical price movements and volatilities, over a specified observation period. 
+
+For the purposes of this item the amount reported is the average of the 99% ten-day VaR number calculated daily over the most recent 60 trading days prior to and including the relevant date. A 99% ten-day VaR represents a simulated mark-to-market loss for which there is a 1% probability of occurrence over the next ten days, assuming there is no trading of the portfolio.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.AverageVaRPast60TradingDaysInterestRatePositionsDelta.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

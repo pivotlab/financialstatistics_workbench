@@ -1,0 +1,19 @@
+# Financial Risk Credit Other Claims And Assets ARF 112 1A Amount
+
+## identifier
+de7877
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of all other claims and assets not allocated elsewhere on form ARF_112_1A.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Credit.OtherClaimsAndAssetsARF1121A.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

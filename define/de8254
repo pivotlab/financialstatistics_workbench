@@ -1,0 +1,28 @@
+# Organisation Details Minimum Branch Requirement Indicator
+
+## identifier
+de8254
+
+## type
+boolean
+
+## definition
+This indicates whether, as at the relevant date, the service channel has satisfied the Australian Prudential Regulation Authority's minimum branch requirement.
+
+## guidance
+A choice of TRUE/FALSE values.
+true = the service channel does meet the minimum branch requirement.
+false = the service channel does not meet the minimum branch requirement. 
+
+To satisfy the minimum branch requirements, the following minimum face-to-face services must all be provided:-
+- accepts cash and other deposits (including business deposits) and provides change;
+-facilitates the keeping of accounts for customer access, including the provision of account balances;
+-opens and closes accounts;
+-can facilitate or arrange the assessment of the credit risk of existing and potential customers; and
+-offers additional services in the one establishment such as financial services, business banking and specialist lending, if these are generally available from the authorised deposit-taking institution (ADI). This point need not mean that a financial adviser or business credit manager be available in the branch - the staff of the branch may simply act as a referral point for customers interested in these kinds of services.
+
+## syntax
+### xbrl
+- name=OrganisationDetails.ServiceChannelMeetsMinimumBranchRequirements.Indicator
+- classification=py/pyde/pyde.02.07
+- period=instant

@@ -1,0 +1,19 @@
+# Financial Risk Operational Operating Income From Continuing Operations Adjustments Other ARF 114 0 Amount
+
+## identifier
+de8161
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value of other adjustments to operating income from continuing operations during the relevant period, which are not included elsewhere on ARF 114, as determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Operational.OperatingIncomeFromContinuingOperationsAdjustmentsOtherARF1140.Amount
+- classification=baf/bafot/bafot.02.06
+- period=duration

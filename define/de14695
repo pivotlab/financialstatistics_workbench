@@ -1,0 +1,16 @@
+# Organisation Details ATM Service Points Count
+
+## identifier
+de14695
+
+## type
+int
+
+## definition
+This is the number, as at the relevant date, of Automatic Teller Machines (ATM) service points.
+
+## syntax
+### xbrl
+- name=OrganisationDetails.ATMServicePoints.Count
+- classification=py/pyde/pyde.02.34
+- period=instant

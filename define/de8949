@@ -1,0 +1,31 @@
+# Financial Services Insurance Exemption Type Code
+
+## identifier
+de8949
+
+## type
+string
+
+## definition
+This is the value, as at the relevant date, of the exemption category, as determined in the relevant insurance regulations, where Australian insurance risks can be placed with unauthorised foreign insurers.
+
+## guidance
+The list of limited exemptions, as defined in the relevant insurance regulations, are:
+HVI = a high-value insured exemption;
+Atypical = an atypical risk exemption;
+Custom = a customised exemption; and
+Foreign = a foreign law exemption.
+
+## codes
+| Name     |
+| -------- |
+| Atypical |
+| Custom   |
+| Foreign  |
+| HVI      |
+
+## syntax
+### xbrl
+- name=FinancialServices.Insurance.ExemptionType.Code
+- classification=baf/bafot/bafot.02.06
+- period=instant

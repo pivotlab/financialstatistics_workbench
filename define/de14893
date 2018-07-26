@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Households Net Stable Funding Ratio Non Residential Mortgage Amount
+
+## identifier
+de14893
+
+## type
+float
+
+## definition
+The values of any non-residential mortgages that are loans to non-financial institution counterparties that are subject to, or would qualify for, the relevant risk weight of the Prudential Standard APS 112 - Capital Adequacy: Standardised Approach to Credit Risk in the net stable funding ratio calculation.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.LoansAndReceivables.Households.NetStableFundingRatioNonResidentialMortgage.Amount
+- classification=baf/bafpo/bafpo5.02.15
+- period=instant

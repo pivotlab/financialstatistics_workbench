@@ -1,0 +1,19 @@
+# Expense Insurance Claim Inwards Reinsurance Deposit Component Amount
+
+## identifier
+de4592
+
+## type
+float
+
+## definition
+Report benefits paid or payable as withdrawal of any deposit elements for inwards reinsurance claims, gross of any retrocession recoveries.
+
+Retrocession is reinsurance by a reinsurer of part, or all, of a risk ceded to them by another insurer or reinsurer.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.ClaimInwardsReinsuranceDepositComponent.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

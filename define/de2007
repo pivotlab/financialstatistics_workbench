@@ -1,0 +1,22 @@
+# Expense Operating Investment Property Maintenance Costs Amount
+
+## identifier
+de2007
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for all costs relating to an investment in direct property. This includes, but is not limited to:
+- Repairs and maintenance;
+- Ongoing running costs;
+- Property management fees;
+- Valuation fees; and
+- Stamp duty.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Expense.Operating.Investment.PropertyMaintenanceCosts.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

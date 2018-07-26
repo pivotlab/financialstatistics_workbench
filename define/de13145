@@ -1,0 +1,17 @@
+# Assets Investment Total Excluding Derivatives Directly Held Amount
+
+## identifier
+de13145
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of total investments. Investments represent the purchase of a financial product or other item of value with an expectation of favourable future returns. This item excludes directly held derivatives.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.TotalExcludingDerivativesDirectlyHeld.Amount
+- classification=baf/bafpo/bafpo7.02.14
+- period=instant

@@ -1,0 +1,17 @@
+# Financial Risk Management Capital Requirement Amount
+
+## identifier
+de5552
+
+## type
+float
+
+## definition
+Report the value of the minimum capital requirement determined in accordance with the management capital prudential standard and held outside the statutory funds to ensure that under a range of adverse operating circumstances the company would be expected to be in a position to meet its trading commitments and adequately service its policy owners.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.ManagementCapital.Requirement.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

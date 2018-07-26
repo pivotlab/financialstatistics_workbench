@@ -1,0 +1,17 @@
+# Expense Leases Operating Amount
+
+## identifier
+de8613
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of expenditure incurred on operating leases as determined in accordance with relevant Accounting Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.LeasesOperating.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

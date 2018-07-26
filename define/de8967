@@ -1,0 +1,17 @@
+# Financial Risk Capital Base Amount
+
+## identifier
+de8967
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the reporting party's capital base.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalBase.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

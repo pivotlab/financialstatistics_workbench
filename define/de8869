@@ -1,0 +1,18 @@
+# Liabilities Other Financial Liabilities New First Home Saver Account Count
+
+## identifier
+de8869
+
+## type
+int
+
+## definition
+This is the number of new First Home Saver Accounts (FHSAs) opened by individual account holders and provided by the reporting party at any time during the relevant period.
+
+For the purposes of this item exclude the number of accounts that are opened as the result of a transfer of FHSA business from another provider.
+
+## syntax
+### xbrl
+- name=Liabilities.OtherFinancialLiabilities.NewFirstHomeSaverAccount.Count
+- classification=baf/bafpo/bafpo6.02.06
+- period=duration

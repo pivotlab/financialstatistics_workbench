@@ -1,0 +1,17 @@
+# Liabilities Insurance Provisions Expected Premiums Net Profit After Tax Amount
+
+## identifier
+de12949
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of net profits after tax attributable to shareholders, emerging from premiums expected to be received.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.ProvisionsExpectedPremiumsNetProfitAfterTax.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

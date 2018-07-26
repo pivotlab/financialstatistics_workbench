@@ -1,0 +1,22 @@
+# Financial Risk Market Interest Rate Short Positions Amount
+
+## identifier
+de8020
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, that relates to short positions giving rise to interest rate risk, calculated in accordance to the relevant prudential standards. This item includes short positions in:
+- debt securities, including non-convertible preference shares and other quasi-debt securities/instruments that behave like debt (convertible bonds are to be included as debt securities if they trade like debt securities, but not if they trade like equities);
+- forward transactions in foreign exchange, equities and commodities; and
+- options that are subject to a change in value following a change in interest rates.
+
+Short positions represent positions where a fall in the value of the asset or derivative would result in a profit.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Market.InterestRateShortPositions.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

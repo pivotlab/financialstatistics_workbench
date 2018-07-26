@@ -1,0 +1,20 @@
+# Assets Loans And Receivables Credit Limit Amount
+
+## identifier
+de14844
+
+## type
+float
+
+## definition
+The credit limit is the maximum amount of funds available to the borrower without additional authorisation or approval.
+
+## guidance
+This amount should include outstanding balances (including capitalised interest or fees) and any other funds that can be drawn without additional approval by the lender.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.CreditLimit.Amount
+- classification=baf/bafpo/bafpo5.02.15
+- period=instant

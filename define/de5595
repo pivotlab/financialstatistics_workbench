@@ -1,0 +1,37 @@
+# Financial Risk Management Capital Adjusted Admissible Equities Amount
+
+## identifier
+de5595
+
+## type
+float
+
+## definition
+Report the admissible value of Equity assets in the General Fund with a resilience requirement, adjusted for:
+- Credit Risk Yield Changes;
+- Prescribed Yield Changes (allowing for diversification factor);
+- Adverse Exchange Movement factor; and
+- Credit Risk Default factors
+as determined in accordance with the management capital prudential standard.
+
+The resilience requirement is an additional amount that needs to be held before the happening of a prescribed set of changes in the economic environment ( as per the management capital prudential standard), such that after the changes the admissible assets of the General Fund are able to meet the liabilities of the General Fund, including the assessed liability risks in accordance with the management capital prudential standard.
+
+The admissible value of equity investment securities is the net market value of all equity investment securities consistent with the classification and measurement basis used for Investment Securities in accordance with the accounting standards, including accrued income, less the value of those deemed to be inadmissible, as per the management capital prudential standard.
+
+The inadmissible assets are: 
+a) assets which have a value that is dependent upon the continuation of the business;
+b) holdings in an associated or subsidiary entity which is a Financial Services entity;
+c) non-realisable (in the context of the scenarios of adverse experience) intangible assets;
+d) other assets not measured at fair value in the regulatory financial statements; and
+e) the alignment necessary to ensure the remaining assets and the other liabilities are based on net market value.
+
+General Fund refers to the management fund for a friendly society or the shareholders' fund for other life companies, and is distinct and separate from the statutory funds of the life company.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.ManagementCapital.AdjustedAdmissibleEquities.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

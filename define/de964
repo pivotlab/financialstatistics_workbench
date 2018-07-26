@@ -1,0 +1,17 @@
+# Assets Investment Debt Securities Asset Backed Amount
+
+## identifier
+de964
+
+## type
+float
+
+## definition
+Asset backed Investment debt securities are debt securities consistent with the classification and measurement basis used for Investment Securities by institutions in accordance with AASB 130 Disclosures in the Financial Statements of Banks and Similar Financial Institutions (AASB 130) and AASB 7; and are secured or supported by a pool of assets. These forms of securities are usually issued by a SPV. 
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.DebtSecuritiesAssetBacked.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

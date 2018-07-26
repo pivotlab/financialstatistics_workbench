@@ -1,0 +1,21 @@
+# Liabilities Insurance Best Estimate Gross Amount
+
+## identifier
+de4393
+
+## type
+float
+
+## definition
+Report the amount expected on Best Estimate Assumptions to be required to the end of the benefit period to meet future benefits and expenses related to past transactions for the business in force. The calculation process will take into account all factors which are known to be material, including future investment earnings, taxation, any options under the policies and future premiums, where relevant to the calculation.
+
+Best Estimate Assumptions are assumptions about future experience determined in accordance with relevant actuarial valuation standards.
+
+Report amounts gross of ceded reinsurance but inclusive of inwards reinsurance.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.BestEstimateGross.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

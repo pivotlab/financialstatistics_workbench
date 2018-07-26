@@ -1,0 +1,19 @@
+# Financial Risk Market Stress Testing Yield Curve Scenarios Amount
+
+## identifier
+de8062
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the effect on debt or other interest rate related securities due to interest rate movements as specified in yield curve scenarios. This represents the change in value of these positions given stress testing scenarios applied.
+
+All positions forming part of the trading book in debt or other interest rate related securities must be included in the stress test calculations. The reporting party should use the same interpolation method used within their internal model to obtain intermediate points on the yield curve.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.StressTestingYieldCurveScenarios.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

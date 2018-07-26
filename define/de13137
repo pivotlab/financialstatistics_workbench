@@ -1,0 +1,17 @@
+# Financial Risk Insurance Cover Limit Amount
+
+## identifier
+de13137
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the amount at which the insurance cover provided is capped.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.InsuranceCoverLimit.Amount
+- classification=baf/bafot/bafot.02.15
+- period=instant

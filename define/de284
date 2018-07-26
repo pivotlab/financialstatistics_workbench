@@ -1,0 +1,17 @@
+# Assets Average Balance Of Interest Earning Loans And Advances Housing Loans Amount
+
+## identifier
+de284
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the average balance of interest earning loans and advances Housing Loans.  The average may be calculated by any method consistent with internal systems of the reporting entity.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.AverageBalanceOfInterestEarning.LoansAndAdvances.HousingLoans.Amount
+- classification=baf/bafpo/bafpo3.02.00
+- period=duration

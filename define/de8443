@@ -1,0 +1,17 @@
+# Assets Exposures Excess Charged Assets Over Supported Insurance Liabilities Amount
+
+## identifier
+de8443
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the excess of the fair value of the reporting party's assets that are subject to a charge or encumbrance, over the value of the reporting party's insurance liabilities that are supported by those charges or encumbrances.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.ExcessChargedAssetsOverSupportedInsuranceLiabilities.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

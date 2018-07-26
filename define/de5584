@@ -1,0 +1,22 @@
+# Superannuation Regulatory Information Independent Actuarial Advice Commissioned Indicator
+
+## identifier
+de5584
+
+## type
+boolean
+
+## definition
+Has independent actuarial advice has been commissioned by the reporting party during the relevant period?
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = Independent actuarial advice has been commissioned by the reporting party during the relevant period.
+FALSE = Independent actuarial advice has not been commissioned by the reporting party during the relevant period.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.IndependentActuarialAdviceCommissioned.Indicator
+- classification=em/emsup/emsup.02.02
+- period=duration

@@ -1,0 +1,21 @@
+# Expense Insurance Claim Death Disability Amount
+
+## identifier
+de4673
+
+## type
+float
+
+## definition
+Report benefits paid or payable for death and/or disability claims, including current period bonus and any interim or terminal bonuses included in claims amounts.
+
+Bonus is the annual 'profit' amount allocated to traditional whole of life and endowment policies which are 'participating'. This amount represents the policies' participation in earnings, and is normally declared as a percentage of the sum insured and existing bonuses.
+
+Participating policies are those life insurance policies that participate in the surplus or profits of the fund through declared bonuses.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.ClaimDeathDisability.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

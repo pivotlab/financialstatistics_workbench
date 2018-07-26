@@ -1,0 +1,17 @@
+# Financial Risk Solvency Policy Liability Reinsurance Aggregate Amount
+
+## identifier
+de5250
+
+## type
+float
+
+## definition
+Report the aggregated value of the Solvency Liability for all related product groups, as calculated by the solvency standard, ceded under reinsurance. These are the guaranteed liabilities under life insurance policies on the basis of assumptions which are more conservative (anticipate a more adverse experience) than best estimate assumptions.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.PolicyLiabilityReinsuranceAggregate.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

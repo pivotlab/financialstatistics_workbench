@@ -1,0 +1,17 @@
+# Financial Risk Credit Guarantees Letters Of Credit Rebate Investment Risk Charge Amount
+
+## identifier
+de8812
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of investment risk charge rebate in relation to guarantees or letters of credit provided to the reporting party, as determined in accordance with relevant prudential standard.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Credit.GuaranteesLettersOfCreditRebateInvestmentRiskCharge.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

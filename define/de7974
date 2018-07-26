@@ -1,0 +1,19 @@
+# Assets Cash And Liquid Assets Eligible HQLA Amount
+
+## identifier
+de7974
+
+## type
+float
+
+## definition
+This is the total eligible high quality cash and liquid assets at the relevant date determined in accordance with liquidity prudential standards.
+     
+This comprises currency notes and coins, settlement funds from recognised clearing houses in relation to security and payments system transactions, and amounts receivable from financial institutions.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.EligibleHQLA.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=instant

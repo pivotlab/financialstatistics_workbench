@@ -1,0 +1,17 @@
+# Regulatory Disclosures Costs Other Amount
+
+## identifier
+de13196
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of other costs that relate to the assets of the fund which were not as disclosed in the Product Disclosure Statement or other disclosure material and are not otherwise categorised.
+
+## syntax
+### xbrl
+- balance=debit
+- name=RegulatoryDisclosures.CostsOther.Amount
+- classification=baf/bafot/bafot.02.16
+- period=duration

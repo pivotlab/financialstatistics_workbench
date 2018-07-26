@@ -1,0 +1,21 @@
+# Regulatory Disclosures Compliance Historical Cost Basis Indicator
+
+## identifier
+de9034
+
+## type
+boolean
+
+## definition
+This is the indicator for the duration of the relevant period, that the financial statements comply with Historical Cost Basis (does not take into account changing market values).
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = The financial statements comply with Historical Cost Basis (does not take into account changing market values)
+FALSE = The financial statements do not comply with Historical Cost Basis
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.ComplianceHistoricalCostBasis.Indicator
+- classification=baf/bafot/bafot.02.07
+- period=duration

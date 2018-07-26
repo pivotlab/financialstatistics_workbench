@@ -1,0 +1,17 @@
+# Financial Risk Operational Requirements Before Insurance Offset Amount
+
+## identifier
+de8176
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of operational risk requirements, after taking into consideration diversification benefits and expected loss offset amounts, but prior to the recognition of the insurance offset amount. This item is to be determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Operational.RequirementsBeforeInsuranceOffset.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

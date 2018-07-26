@@ -1,0 +1,17 @@
+# Income Interest Interest Earning Assets Other ARF 330 1 Amount
+
+## identifier
+de8404
+
+## type
+float
+
+## definition
+This is, for the duration of the relevant period, the amount of interest income derived from other interest earning assets, as required to be reported on APRA forms ARF_330_1_L and ARF_330_1_C.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Interest.InterestEarningAssetsOtherARF3301.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

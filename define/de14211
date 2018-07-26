@@ -1,0 +1,17 @@
+# Liabilities Loans And Placements Amount
+
+## identifier
+de14211
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for loans which are not evidenced by the issue of debt securities and account balances with institutions not regarded as deposit-taking institutions (placements).
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.LoansAndPlacements.Amount
+- classification=baf/bafpo/bafpo1.02.26
+- period=instant

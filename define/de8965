@@ -1,0 +1,19 @@
+# Financial Risk Off Balance Sheet Exposures Accounting Amount
+
+## identifier
+de8965
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of off-balance sheet exposures.
+
+An off-balance sheet exposure are those that have not been recorded on the balance sheet of the reporting party.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.OffBalanceSheetExposuresAccounting.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

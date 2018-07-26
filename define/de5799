@@ -1,0 +1,17 @@
+# Income Interest Derivatives Investment Amount
+
+## identifier
+de5799
+
+## type
+float
+
+## definition
+Report the value of Interest Income generated during the reporting period from holdings of derivatives that have been classified as investments in accordance with accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Interest.DerivativesInvestment.Amount
+- classification=baf/bafpr/bafpr2.02.05
+- period=duration

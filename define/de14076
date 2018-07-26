@@ -1,0 +1,16 @@
+# Financial Risk Capital Adequacy Hospital Single Equivalent Units Number
+
+## identifier
+de14076
+
+## type
+int
+
+## definition
+This is the number, as at the relevant date, of single equivalent units (SEUs) which are used as a standard measure of the different categories of policies that provide hospital cover.
+
+## syntax
+### xbrl
+- name=FinancialRisk.CapitalAdequacy.HospitalSingleEquivalentUnits.Number
+- classification=baf/bafot/bafot.02.25
+- period=instant

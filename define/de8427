@@ -1,0 +1,16 @@
+# Income Fees And Commissions Other SRF 200 0 Description
+
+## identifier
+de8427
+
+## type
+string
+
+## definition
+This is the description of the detailed line item comprising the other fees and commissions balancing item, as required to be reported on APRA form SRF_200_0.
+
+## syntax
+### xbrl
+- name=Income.FeesAndCommissionsOtherSRF2000.Description
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

@@ -1,0 +1,17 @@
+# Liabilities Insurance Current Unearned Contribution Amount
+
+## identifier
+de8991
+
+## type
+float
+
+## definition
+This is the value of contribution income received in advance which is still unearned and is classified as a current liability in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.CurrentUnearnedContribution.Amount
+- classification=baf/bafpo/bafpo3.02.06
+- period=instant

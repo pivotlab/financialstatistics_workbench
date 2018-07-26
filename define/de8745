@@ -1,0 +1,21 @@
+# Liabilities Other Financial Liabilities Not Deposits Debt Securities Amount
+
+## identifier
+de8745
+
+## type
+float
+
+## definition
+This is the value of all liabilities of the reporting party as at the relevant date that are not designated as Deposits or Debt Securities (own issues).
+                                                                                                                                   
+Deposits are funds that are redeemable or withdrawable by depositors from the reporting party. This item is to be determined in accordance with accounting standards.
+                                                                                                       
+A debt security is a transferable instrument evidencing a relationship of indebtedness. It is characterised by having a definable return that is not based on the economic performance of the issuing entity.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.NotDepositsDebtSecurities.Amount
+- classification=baf/bafpo/bafpo6.02.06
+- period=instant

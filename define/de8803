@@ -1,0 +1,19 @@
+# Assets Other Excluding Derivatives Surplus Defined Benefit Super Fund GRF300G Amount
+
+## identifier
+de8803
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of assets held by the reporting party other than those classified as cash and liquid; receivables; recoveries; investments; derivative financial instruments; deferred acquisition costs; deferred reinsurance expenses; surplus in defined benefit super fund; plant and equipment; and intangible assets.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherExcludingDerivativesSurplusDefinedBenefitSuperFundGRF300G.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

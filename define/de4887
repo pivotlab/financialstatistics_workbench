@@ -1,0 +1,27 @@
+# Financial Risk Solvency Inadmissible Assets Investment Other LRF 220 0 Amount
+
+## identifier
+de4887
+
+## type
+float
+
+## definition
+Report the inadmissible value of other investment assets as per the solvency standard. 
+
+Other investment assets represent those which are required to be reported on APRA form LRF_220_0.
+
+The inadmissible assets are: 
+a) assets which have a value that is dependent upon the continuation of the business;
+b) holdings in an associated or subsidiary entity which is a Financial Services entity;
+c) non-realisable (in the context of the solvency tests) intangible assets;
+d) assets with too little diversification, are too illiquid or have too great an exposure to one obligor of low credit standing;
+e) reinsurance assets which may not be fully recoverable in the context of the solvency tests; and
+f) amounts by which the recorded value of an asset exceeds its net realisable value.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.InadmissibleAssetsInvestmentOtherLRF2200.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

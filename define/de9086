@@ -1,0 +1,31 @@
+# Regulatory Disclosures Maximum Event Retention Method Used Code
+
+## identifier
+de9086
+
+## type
+string
+
+## definition
+This is, for the duration of the relevant period, the method used to establish Maximum Event Retention (MER).
+
+## guidance
+Valid enumeration values are:
+Proprietary Risk Modelling software;
+Actuarial consultation;
+Other consultation; or
+Other.
+
+## codes
+| Name                                |
+| ----------------------------------- |
+| Actuarial consultation              |
+| Other                               |
+| Other consulting services           |
+| Proprietary Risk Modelling software |
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.MaximumEventRetentionMethodUsed.Code
+- classification=baf/bafot/bafot.02.07
+- period=duration

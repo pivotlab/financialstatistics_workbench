@@ -1,0 +1,17 @@
+# Assets Cash And Liquid Assets Central Bank Balances And Deposits Amount
+
+## identifier
+de13280
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for all the settlement account balances and any other deposits with central banks.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.CentralBankBalancesAndDeposits.Amount
+- classification=baf/bafpo/bafpo7.02.16
+- period=instant

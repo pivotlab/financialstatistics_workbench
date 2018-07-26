@@ -1,0 +1,27 @@
+# Financial Risk Asset Liability Region GRF450L Code
+
+## identifier
+de8339
+
+## type
+string
+
+## definition
+This is the GRF450 L1 region that most appropriately reflects, as at the relevant date, the location of the majority of assets and liabilities of the entity in which the reporting party has invested.
+
+## codes
+| Name    |
+| ------- |
+| AU      |
+| EU      |
+| NZ      |
+| Other   |
+| SEAexJP |
+| UK      |
+| USA     |
+
+## syntax
+### xbrl
+- name=FinancialRisk.AssetLiabilityRegionGRF450L.Code
+- classification=baf/bafot/bafot.02.06
+- period=instant

@@ -1,0 +1,19 @@
+# Assets Exposures Facilities Other Approved Limit ARF120 2 Amount
+
+## identifier
+de8012
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of the total committed amount, or limit, of all other funding or liquidity type facilities provided by the reporting party, as required on form ARF_120_2.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.ExposuresFacilitiesOtherApprovedLimitARF1202.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

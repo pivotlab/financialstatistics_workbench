@@ -1,0 +1,16 @@
+# Financial Risk Market Daily Loss Fifth Largest Date
+
+## identifier
+de8061
+
+## type
+string
+
+## definition
+This is the date of the largest daily loss experienced by the reporting party over the relevant period due to market movements.
+
+## syntax
+### xbrl
+- name=FinancialRisk.Market.DailyLossFifthLargest.Date
+- classification=baf/bafot/bafot.02.06
+- period=duration

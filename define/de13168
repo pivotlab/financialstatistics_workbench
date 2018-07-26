@@ -1,0 +1,16 @@
+# Superannuation Benefit Actuarial Projection Date
+
+## identifier
+de13168
+
+## type
+string
+
+## definition
+This is the relevant date of the most recent actuarial investigation during which the actuarial projection assumptions were set. Where the reporting entity uses different assumptions for long term and short term time frames, use only the long term ones.
+
+## syntax
+### xbrl
+- name=SuperannuationBenefit.ActuarialProjection.Date
+- classification=em/emsup/emsup.02.10
+- period=instant

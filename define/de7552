@@ -1,0 +1,17 @@
+# Expense Operating Wages Salaries Including Provisions Employee Entitlements Excluding Superannuation Amount
+
+## identifier
+de7552
+
+## type
+float
+
+## definition
+This is the value of wages and salaries expenditure, including the value of any provisions for employee entitlements but excluding the value of any employer superannuation contributions, as determined in accordance with accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.WagesSalariesIncludingProvisionsEmployeeEntitlementsExcludingSuperannuation.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

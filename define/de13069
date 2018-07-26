@@ -1,0 +1,17 @@
+# Liabilities Insurance Participating Business Future Profits Amount
+
+## identifier
+de13069
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for future profits from policy owner bonuses report the net present value of the policy in relation to future profits for participating business. Current year bonuses are excluded.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.ParticipatingBusinessFutureProfits.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

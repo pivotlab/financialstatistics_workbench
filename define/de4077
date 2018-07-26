@@ -1,0 +1,19 @@
+# Assets Investment Loans Adjustment Look Through Amount
+
+## identifier
+de4077
+
+## type
+float
+
+## definition
+Report the look-through adjustment for loans classified as assets held indirectly via listed unit trusts, unlisted unit trusts or controlled unit trusts.
+
+A look through adjustment item represents the adjustment required to convert effective holdings in investments via trusts from aggregated amounts classified as loans or unit trusts to the appropriate categories on a look-through basis.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.LoansAdjustmentLookThrough.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=instant

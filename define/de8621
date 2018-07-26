@@ -1,0 +1,17 @@
+# Expense Operating Wages And Salaries Amount
+
+## identifier
+de8621
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of remuneration expenses relating to wages and salaries as determined in accordance with accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.WagesAndSalaries.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

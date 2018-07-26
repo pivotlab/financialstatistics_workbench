@@ -1,0 +1,23 @@
+# Financial Risk Management Capital Balancing Item Inadmissible Assets Amount
+
+## identifier
+de5377
+
+## type
+float
+
+## definition
+Report the inadmissible amount, not otherwise disclosed on APRA form LRF120.0, as calculated by A-B:
+
+Where: 
+
+A = the asset values as disclosed in the regulatory financial statements, where this exceeds the net tangible asset value or the fair value of those assets; and
+
+B = the net tangible asset value or the fair value of those assets
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.ManagementCapital.BalancingItemInadmissibleAssets.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

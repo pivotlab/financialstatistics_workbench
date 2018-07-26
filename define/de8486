@@ -1,0 +1,25 @@
+# Expense Insurance Acquisition Excluding Liability Adequacy Test Results And Commissions Amount
+
+## identifier
+de8486
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of all acquisition costs recognised as expenses. This is determined in accordance with the relevant Accounting Standards.
+
+For the purposes of this item exclude: 
+
+- commission or brokerage paid to agents or brokers for obtaining business for the insurer; and 
+
+- results of the liability adequacy test (LAT).
+
+Acquisition costs are incurred in obtaining and recording insurance contracts. They include commission or brokerage paid to agent or brokers for obtaining business for the insurer, selling and underwriting costs such as advertising and risk assessment, the administrative costs of recording policy information and premium collection costs.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.AcquisitionExcludingLiabilityAdequacyTestResultsAndCommissions.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

@@ -1,0 +1,19 @@
+# Financial Risk Credit Credit Facilities Past Due Other ARF 220 0 Part2B Amount
+
+## identifier
+de7861
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of other past due amounts of the reporting party, as required to be reported on Part 2B of forms ARF_220_0_L and ARF_220_0_C.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Credit.CreditFacilitiesPastDueOtherARF2200Part2B.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

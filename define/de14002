@@ -1,0 +1,16 @@
+# Superannuation Fund Details Select Investment Option Identifier
+
+## identifier
+de14002
+
+## type
+string
+
+## definition
+This is the unique identifier of the select investment option, as determined by the Registrable Superannuation Entity (RSE) licensee.
+
+## syntax
+### xbrl
+- name=SuperannuationFundDetails.SelectInvestmentOption.Identifier
+- classification=em/emsup/emsup.02.21
+- period=duration

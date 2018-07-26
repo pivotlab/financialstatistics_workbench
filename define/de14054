@@ -1,0 +1,16 @@
+# Regulatory Disclosures Treatment Days Count
+
+## identifier
+de14054
+
+## type
+int
+
+## definition
+This is the number, during the relevant period, of days of treatment.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.TreatmentDays.Count
+- classification=baf/bafot/bafot.02.25
+- period=duration

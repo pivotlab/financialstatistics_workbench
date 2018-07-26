@@ -1,0 +1,22 @@
+# Superannuation Contribution Paid At Recommended Frequency Indicator
+
+## identifier
+de5072
+
+## type
+boolean
+
+## definition
+Has the employer sponsor paid contributions at the recommended frequency throughout the relevant period?
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The employer sponsor paid contributions at the recommended frequency throughout the relevant period.
+FALSE = The employer sponsor did not pay contributions at the recommended frequency throughout the relevant period.
+
+## syntax
+### xbrl
+- name=SuperannuationContribution.PaidAtRecommendedFrequency.Indicator
+- classification=em/emsup/emsup.02.02
+- period=duration

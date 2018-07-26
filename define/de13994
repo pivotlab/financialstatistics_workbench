@@ -1,0 +1,16 @@
+# Assets Investment Total Hedged Percent
+
+## identifier
+de13994
+
+## type
+float
+
+## definition
+This is the percentage, as at the relevant date, of total investments that have been hedged.
+
+## syntax
+### xbrl
+- name=Assets.Investment.TotalHedged.Percent
+- classification=baf/bafpo/bafpo7.02.19
+- period=instant

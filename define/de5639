@@ -1,0 +1,27 @@
+# Financial Risk Capital Adequacy Liabilities Other Adjusted Amount
+
+## identifier
+de5639
+
+## type
+float
+
+## definition
+This is the balancing item in the list in which it is being used.
+
+Report the total liabilities, adjusted for the prescribed yield change in the discount rate used in their valuation, as determined in accordance with the capital adequacy prudential standard, other than:
+
+1) tax liabilities (current and deferred);
+
+2) effective borrowings; and
+
+3) Capital Adequacy Liabilities, calculated as the greater of the Policy Liability value (as determined in accordance with the assumptions of the Capital Adequacy standard) or the Current Termination Value (CTV). This value is:
+a) the aggregate of the greater of the Policy Liability value or the Current Termination Value (CTV) of each related product group (RPG), gross of reinsurance; adjusted for 
+b) the effective amount of risk mitigation difference to be included as an offset or addition to the value of the greater of policy liability and current termination value.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.LiabilitiesOtherAdjusted.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

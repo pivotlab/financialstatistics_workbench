@@ -1,0 +1,19 @@
+# Assets Loans And Receivables Income Asset Holding Not Equity Securities Amount
+
+## identifier
+de12994
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of income that is receivable by the reporting entity. For the purposes of this item, include only income from the holding of assets that are not equity securities (e.g. Interest and rental income that is accrued but not yet received). 
+
+Equity securities are, as defined by the Australian Accounting Standards, contracts that evidence a residual interest in the assets of an entity after deducting all its liabilities. This includes equity securities lent or sold by the entity under repurchase agreements, where the transaction does not result in the transfer of the rights of ownership of the securities away from the entity to another party.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.IncomeAssetHoldingNotEquitySecurities.Amount
+- classification=baf/bafpo/bafpo5.02.10
+- period=instant

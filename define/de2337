@@ -1,0 +1,17 @@
+# Expense Prospective Claims Expense Due To Valuation Assumptions Changes Or Model Not Included In Underwriting Result Gross Amount
+
+## identifier
+de2337
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for that component of gross claims expense which is due to changes in modelling assumptions applied to outstanding claims provision.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Prospective.ClaimsExpenseDueToValuationAssumptionsChangesOrModelNotIncludedInUnderwritingResultGross.Amount
+- classification=baf/bafpr/bafpr3.02.00
+- period=duration

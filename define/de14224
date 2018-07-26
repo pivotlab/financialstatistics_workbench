@@ -1,0 +1,17 @@
+# Assets Investment Mandated Funds Placed With Resident Investment Managers Amount
+
+## identifier
+de14224
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the gross value of an investment held via individually managed mandate (discrete) portfolio where the decision-making regarding the making and redeeming of particular investments within the portfolio rests with the resident investment manager in accordance with the mandates prescribed by the registrable superannuation entity (RSE) licensee. Do not offset against any financing and/or other liabilities such as margin loan, derivatives etc. undertaken as part of the portfolio management.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.MandatedFundsPlacedWithResidentInvestmentManagers.Amount
+- classification=baf/bafpo/bafpo7.02.23
+- period=instant

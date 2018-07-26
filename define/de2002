@@ -1,0 +1,17 @@
+# Income Investment Fees And Commissions Total Amount
+
+## identifier
+de2002
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the total of any fee or commission income associated with any form of investment activity or member activity of the entity.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Investment.FeesAndCommissionsTotal.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

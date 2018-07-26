@@ -1,0 +1,24 @@
+# Financial Risk Exposure Listed Equities Net Amount
+
+## identifier
+de8496
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the net exposures to listed equities less derivatives over listed equities (where the derivative exposure for options is calculated on a delta-weighted basis).
+
+Derivatives are generally defined as those instruments/contracts, where the value is based on other products, and/or on prices associated with financial products. Derivative contracts involve:
+- Future delivery, receipt or exchange of financial items such as cash or another derivative instrument; or
+- Future exchange of real assets for financial items where the contract may be tradeable and has a market value.
+The contracts can either be binding on both parties (e.g. as with a currency swap) or subject to the exercise by one party of a right contained within the contract (as with options).
+
+Delta-weighted position is calculated by multiplying the market value of the underlying position by the absolute value of the delta on that position. Delta represents the rate of change of an options price for a unit change in the price of the underlying asset.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.ExposureListedEquitiesNet.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

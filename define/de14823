@@ -1,0 +1,17 @@
+# Financial Risk Other Holdings Securities Securitisation Program Amount
+
+## identifier
+de14823
+
+## type
+float
+
+## definition
+This is the value of securities held for securitisation programs in accordance with the requirements under Prudential Standard APS 120 Securitisation.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Other.HoldingsSecuritiesSecuritisationProgram.Amount
+- classification=baf/bafot/bafot.02.30
+- period=instant

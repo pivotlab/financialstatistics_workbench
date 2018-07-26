@@ -1,0 +1,17 @@
+# Equity Movements Transferred From Capital Amount
+
+## identifier
+de13123
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for amounts transferred from capital.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Equity.Movements.TransferredFromCapital.Amount
+- classification=baf/bafpo/bafpo4.02.07
+- period=duration

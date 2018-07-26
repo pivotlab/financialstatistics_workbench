@@ -1,0 +1,21 @@
+# Liabilities Trustee Fees Incurred Face Value Amount
+
+## identifier
+de5117
+
+## type
+float
+
+## definition
+Record the face value, or principle value, of liabilities incurred during the relevant period that are classified as trustee fees.
+
+Trustee fees are typically amounts payable to the trustee for performing their legal responsibilities as detailed in the Trust Deed.
+
+The face value or principle value of a liability represents the amount that an issuer agrees to pay at the maturity date.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.TrusteeFeesIncurredFaceValue.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=duration

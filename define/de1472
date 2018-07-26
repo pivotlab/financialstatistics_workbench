@@ -1,0 +1,17 @@
+# Liabilities Insurance General Insurance Outstanding Claims And Unearned Premium Amount
+
+## identifier
+de1472
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the general insurance outstanding claims and unearned premium.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.GeneralInsuranceOutstandingClaimsAndUnearnedPremium.Amount
+- classification=baf/bafpo/bafpo3.02.00
+- period=instant

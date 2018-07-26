@@ -1,0 +1,51 @@
+# Income Insurance Premium Revenue Net Prudential Amount
+
+## identifier
+de8509
+
+## type
+float
+
+## definition
+This is the value of net premium revenue recognised during the relevant period. This represents premium revenue determined in accordance with relevant accounting standards, less reinsurance expense determined in accordance with relevant prudential standards.
+
+This item includes any fire service levy and other levies imposed by state and territory governments and is net of any associated outwards reinsurance expense.
+
+Premium is earned by recognising deferred revenue as a liability in accordance with the pattern of the incidence of risk expected under the policy.
+
+Premium revenue must be recognised in line with the following:
+
+Premium recognition for direct business: Premium revenue must be recognised fully upfront on the date the policy is accepted (bound) by insurers writing direct business. 
+
+Premium recognition for inwards reinsurance business: Premium revenue for inwards reinsurance business is to be recognised from the date of acceptance of the reinsurance risk by the reinsurer. Reinsurers are required to recognise the premium based on the Gross Net Premium Income to be written by the direct insurer under the contract for proportional reinsurance. For excess of loss reinsurance contracts, the premium revenue is to be recognised on the basis of the agreed minimum/deposit premium, which will be subject to a final adjustment factor applied to the final declared values of the premium determinant. 
+
+Premium revenue must be discounted where it is to be received beyond the current year of cover under an insurance/reinsurance contract. In these cases, use the discount rate as required in calculating insurance liabilities in accordance with GPS 310 Audit and Actuarial Reporting and Valuation. 
+
+Premium revenue excludes amounts collected on behalf of third parties i.e. government stamp duty and taxes.
+
+Premium refunds and rebates are to be deducted from premium revenue. 
+
+For instalment premium policies, the amount of the annualised premium is to be used. Where premium is calculated on an adjustment basis, the estimated annual premium is to be brought to account, with the estimated premium being replaced by the actual amount as it becomes known. 
+
+Where premium is accepted on a deposit basis, the full annual premium is to be brought into account. 
+
+Premium revenue must be gross of reinsurance expense. 
+
+Premium revenue includes premium receivable on unclosed business. This includes the business which has been accepted by the insurer/reinsurer prior to the balance date but there is insufficient information to fully identify the business. 
+
+Reinsurance expense is to be recognised in accordance with the pattern of reinsurance service received as required by relevant Accounting Standards. Reinsurance expense will be recognised from the attachment date over the period of indemnity of the reinsurance contract in accordance with the expected pattern of the incident of risk. This may vary according to the type of reinsurance contract as outlined below.
+
+For reinsurance written on risks attaching or, equivalently, an underwriting period basis, current reinsurance contracts are fully matched to the underlying insurance portfolios. Reinsurance coverage for the underlying portfolio is recognised as the underlying policies are written.
+
+For reinsurance written on a losses occurring basis, current reinsurance contracts provide coverage for any risks exposed during the reinsurance period irrespective of when the underlying business was written. Such reinsurance covers both the unexpired portion of policies in force at the contract commencement date and that portion of new business and renewals written during the year that is earned up to the contract expiry date. This latter portion relates to business which has not yet been written at the contract commencement date.
+
+It is expected that initially the full minimum and deposit premium would be recognised as an expense, with any necessary adjustments due to experience at subsequent relevant dates.
+
+Where payments under a reinsurance contract extend beyond the current year of cover, reinsurance expense is to be discounted using similar discount rates as required in measuring insurance liabilities in accordance with AASB 1023.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.PremiumRevenueNetPrudential.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

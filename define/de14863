@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Transitional Arrangements For Ineligible Basel III Capital Amount
+
+## identifier
+de14863
+
+## type
+float
+
+## definition
+The value of any amounts of regulatory capital that are not recognised as Basel III eligible capital, but which the Australian Prudential Regulation Authority (APRA) has determined can be included as eligible regulatory capital under transitional arrangements, as determined in accordance with relevant Prudential Standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.TransitionalArrangementsForIneligibleBaselIIICapital.Amount
+- classification=baf/bafot/bafot.02.32
+- period=instant

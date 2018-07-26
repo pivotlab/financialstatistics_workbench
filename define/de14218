@@ -1,0 +1,17 @@
+# Income Derivative Negative Value Transactions Net Amount
+
+## identifier
+de14218
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of the net of all transactions of derivatives with a gross negative market value.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.DerivativeNegativeValueTransactionsNet.Amount
+- classification=baf/bafpr/bafpr1.02.28
+- period=duration

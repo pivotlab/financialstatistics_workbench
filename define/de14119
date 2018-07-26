@@ -1,0 +1,17 @@
+# Financial Risk Solvency Outflow Cash Amount
+
+## identifier
+de14119
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for cash payments required to meet all liabilities that are, or might become, referrable to the entity.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Solvency.OutflowCash.Amount
+- classification=baf/bafot/bafot.02.25
+- period=instant

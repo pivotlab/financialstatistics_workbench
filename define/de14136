@@ -1,0 +1,17 @@
+# Expense Insurance State Ambulance Levy Amount
+
+## identifier
+de14136
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for State ambulance levies.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.StateAmbulanceLevy.Amount
+- classification=baf/bafpr/bafpr3.02.21
+- period=duration

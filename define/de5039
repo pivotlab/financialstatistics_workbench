@@ -1,0 +1,34 @@
+# Assets Exposures Other SRF 120 0 SRF 220 0 And SRF 320 0 Amount
+
+## identifier
+de5039
+
+## type
+float
+
+## definition
+This is the balancing item in the list in which it is being used.
+
+Report the value of all exposures, other than those exposures classified as any of the following:
+- Securities under agreement to resell, being the receivable due from counterparties from whom the stock has been borrowed and with whom cash has been lodged;
+- Investments represent assets or liabiltiies acquired or incurred principally for profit-taking purposes, and which have not been classified as trading.
+- Receivables, being claims against customers and others for money, goods or services, arising during the ordinary course of business;
+- Derivative financial instruments, being a financial instrument that is derived from some other asset, index, value or other variable (known as the underlying). Derivatives allow risk about the price of the underlying asset to be transferred from one party to another;
+- Borrowings, being amounts received through an arrangement in which a lender gives money to a borrower, and the borrower agrees to repay the money, usually along with interest, at some future point in time. Usually, there is a predetermined time for repaying a loan, and generally the lender has to bear the risk that the borrower may not repay a loan;
+- Payables and Creditors, being claims on the entity by it's suppliers and others for money, arising from the provision of goods or services by the supplier during the ordinary course of business; or
+- Member benefits payable, including Defined Member Benefits & accumulation/defined contribution benefits. 
+
+This balancing item is to be reported as per the requirements on APRA forms SRF_120_0, SRF_220_0 and SRF_320_0.
+
+Member Benefits represent those benefits arising from both accumulated/defined contributions plans and defined benefits plans. 
+
+Under an accumulation/defined contributions plan, the entity's present obligation to pay benefits to members and beneficiaries in the future. It is calculated as the difference between the carrying amounts of the assets and the carrying amounts of the liabilities as at the relevant date. 
+
+Under a defined benefits plan, accrued benefits of a defined benefit plan shall be measured, using actuarial assumptions and valuations where appropriate, as the present value of expected future payments to members arising from membership of the entity up to the measurement date. In absence of formal actuarial review, the amount is calculated as the difference between the carrying amounts of the assets and the carrying amounts of the liabilities as at the relevant date.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.OtherSRF1200SRF2200AndSRF3200.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

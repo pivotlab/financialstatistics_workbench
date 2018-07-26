@@ -1,0 +1,17 @@
+# Assets Exposures Self Securitised Assets In Pool Amount
+
+## identifier
+de14831
+
+## type
+float
+
+## definition
+This is the outstanding value (plus accrued interest) all of the securitised assets in a pool which are solely for the purpose of using the securities created as collateral in order to obtain funding via a repurchase agreement with the Reserve Bank of Australia (RBA) known as self securitisation programs.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.SelfSecuritisedAssetsInPool.Amount
+- classification=baf/bafpo/bafpo3.02.17
+- period=instant

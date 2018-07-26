@@ -1,0 +1,35 @@
+# Superannuation Fund Details Select Investment Option Status Code
+
+## identifier
+de14003
+
+## type
+string
+
+## definition
+This indicates how the select investment option reported information has changed since the previous report.
+
+## guidance
+The valid enumerated values are: 
+Existing = where any information about an existing select investment option has changed. 
+Unchanged = where all information reported remains unchanged from the previous submission. 
+Ceased = where the select investment option is no longer offered to members and the value of assets in that select investment option is nil. 
+No longer select investment option = where the select investment option no longer meets the definition of a select investment option. 
+Returning = where the select investment option previously met the definition and has been reported in a prior period.
+New = where the select investment option was not previously reported.
+
+## codes
+| Name                               |
+| ---------------------------------- |
+| Ceased                             |
+| Existing                           |
+| New                                |
+| No longer select investment option |
+| Returning                          |
+| Unchanged                          |
+
+## syntax
+### xbrl
+- name=SuperannuationFundDetails.SelectInvestmentOptionStatus.Code
+- classification=em/emsup/emsup.02.21
+- period=duration

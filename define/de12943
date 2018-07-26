@@ -1,0 +1,17 @@
+# Liabilities Insurance Provisions Claims Reported Not Assessed Amount
+
+## identifier
+de12943
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of claim payments and expenses in of respect of claims reported but not assessed, that are associated with premiums received.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.ProvisionsClaimsReportedNotAssessed.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

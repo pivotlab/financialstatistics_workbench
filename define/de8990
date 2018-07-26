@@ -1,0 +1,17 @@
+# Financial Risk Insurance Maximum Call On Member Amount
+
+## identifier
+de8990
+
+## type
+float
+
+## definition
+This is the value, for the duration of the relevant period, of the maximum amount of a call on a member
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.InsuranceMaximumCallOnMember.Amount
+- classification=baf/bafot/bafot.02.07
+- period=duration

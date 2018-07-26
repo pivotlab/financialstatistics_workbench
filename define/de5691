@@ -1,0 +1,18 @@
+# Organisation Details Policy Count
+
+## identifier
+de5691
+
+## type
+int
+
+## definition
+This is the number of insurance policies in force as at the relevant date.
+
+Policies are contractual documents issued by an insurance company stating the terms and conditions of its contract with the policyholder
+
+## syntax
+### xbrl
+- name=OrganisationDetails.Policy.Count
+- classification=py/pyde/pyde.02.06
+- period=instant

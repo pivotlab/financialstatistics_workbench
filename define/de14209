@@ -1,0 +1,17 @@
+# Assets Intangible Total Amount
+
+## identifier
+de14209
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for all intangible assets of finite and infinite life including goodwill.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Intangible.Total.Amount
+- classification=baf/bafpo/bafpo7.02.23
+- period=instant

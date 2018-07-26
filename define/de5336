@@ -1,0 +1,17 @@
+# Equity Reserves Other BS Item Amount
+
+## identifier
+de5336
+
+## type
+float
+
+## definition
+Report the value of all reserves that have been measured and disclosed according to accounting principles excluding the value of benefit funds which has not been allocated to either the benefit fund members or to the management fund.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Reserves.OtherBSItem.Amount
+- classification=baf/bafpo/bafpo2.02.05
+- period=instant

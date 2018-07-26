@@ -1,0 +1,21 @@
+# Liabilities Audit Taxation Fees Payable Amount
+
+## identifier
+de4760
+
+## type
+float
+
+## definition
+Record the net market value, or fair value, of audit and tax agent fees payable.
+
+Audit and tax agent fees are typically amounts payable to an entity for performing agreed assurance and taxation services.
+
+Net market value or fair value is the amount which could be expected to be received from the disposal of a liability in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.AuditTaxationFeesPayable.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

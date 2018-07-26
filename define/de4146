@@ -1,0 +1,19 @@
+# Liabilities Insurance Policy Gross Excluding Current Bonus Amount
+
+## identifier
+de4146
+
+## type
+float
+
+## definition
+Report the total gross policy liability as per prudential standards, excluding current year bonuses. Note that this differs to the accounting standards treatment.
+
+Report amounts gross of ceded reinsurance but inclusive of inwards reinsurance.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.PolicyGrossExcludingCurrentBonus.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

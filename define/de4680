@@ -1,0 +1,21 @@
+# Liabilities Trustee Fees Payable Amount
+
+## identifier
+de4680
+
+## type
+float
+
+## definition
+Record the net market value, or fair value, of trustee fees payable.
+
+Trustee fees are typically amounts payable to the trustee for performing their legal responsibilities as detailed in the Trustee Deed.
+
+Net market value or fair value is the amount which could be expected to be received from the disposal of a liability in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.TrusteeFeesPayable.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

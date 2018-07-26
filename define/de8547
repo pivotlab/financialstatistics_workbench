@@ -1,0 +1,19 @@
+# Income Insurance Other APRA 310 3 Amount
+
+## identifier
+de8547
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value of other income for the duration of the relevant period, as required on APRA Insurance forms 310_3.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.OtherAPRA3103.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

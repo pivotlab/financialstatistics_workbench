@@ -1,0 +1,26 @@
+# Assets Investment Other BS Assets Item Amount
+
+## identifier
+de4910
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+Report the net market value, or fair value, of investment assets other than those assets classified as:
+- Cash and liquid assets
+- Receivables
+- Equity securities and unit trusts
+- Cash and fixed interest investments
+- Investment loans and advances
+- Investment Property
+- Balanced or mixed mandates, or those mandates which are unable to be allocated across this list of asset classes.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.OtherBSAssetsItem.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=instant

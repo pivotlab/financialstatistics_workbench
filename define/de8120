@@ -1,0 +1,19 @@
+# Financial Risk Market Interest Rate Shock Impact On EVBB Including Earnings Offset Amount
+
+## identifier
+de8120
+
+## type
+float
+
+## definition
+This is the change in the economic value of the banking book (EVBB), as at the relevant date, given a shock to interest rates, taking into account the earnings offset. 
+
+This item is to be determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.InterestRateShockImpactOnEVBBIncludingEarningsOffset.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

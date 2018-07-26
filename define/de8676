@@ -1,0 +1,17 @@
+# Expense Operating Employment Agencies Amount
+
+## identifier
+de8676
+
+## type
+float
+
+## definition
+This is the value of staff related costs paid or payable to employment agencies by the reporting party during the relevant period.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.EmploymentAgencies.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

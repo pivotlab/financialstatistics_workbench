@@ -1,0 +1,27 @@
+# Person Demographic Details Preferred Sex Code
+
+## identifier
+de61
+
+## type
+string
+
+## definition
+The sex that person perceives her/himself to be, regardless of their biological characteristics.
+
+## guidance
+1 - Male, 2 - Female, 3 - Intersex or Indeterminate, 0 - Not stated or inadequately described
+
+## codes
+| Name |
+| ---- |
+| 0    |
+| 1    |
+| 2    |
+| 3    |
+
+## syntax
+### xbrl
+- name=PersonDemographicDetails.PreferredSex.Code
+- classification=py/pyde/pyde.02.00
+- period=duration

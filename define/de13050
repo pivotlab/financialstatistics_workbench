@@ -1,0 +1,16 @@
+# Financial Risk Catastrophe Reinsurance End Date
+
+## identifier
+de13050
+
+## type
+string
+
+## definition
+This is the end date of the catastrophe reinsurance program.
+
+## syntax
+### xbrl
+- name=FinancialRisk.CatastropheReinsuranceEnd.Date
+- classification=baf/bafot/bafot.02.12
+- period=instant

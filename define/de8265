@@ -1,0 +1,17 @@
+# Assets Investment Other ARF 325 0 Amount
+
+## identifier
+de8265
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of all other investment assets, as required to be reported on form ARF_325_0.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.OtherARF3250.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=instant

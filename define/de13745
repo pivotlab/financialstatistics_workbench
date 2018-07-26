@@ -1,0 +1,31 @@
+# Superannuation Regulatory Information Registrable Superannuation Entity Membership Base Code
+
+## identifier
+de13745
+
+## type
+string
+
+## definition
+This indicates, as at the relevant date, the classification of the predominant base of members within the Registrable Superannuation Entity (RSE). Predominant base means more than half of the overall fund membership.
+
+## guidance
+The valid enumerated values are: 
+Government base = where members join the fund as a result of working for a government organisation, including quasi-corporations controlled by the general government sector. A government organisation is a legal entity established by political processes that have legislative, judicial or executive authority over other institutional units in a given area; are financed mainly from taxation or government transfers; and are principally involved in the provision of goods and services free of charge or at economically insignificant prices. 
+Corporate base = where members join the RSE as a result of working for a single employer-sponsor, or an associate of the employer-sponsor, of the RSE as determined in accordance with the relevant Acts. 
+Industry base = where members join the RSE as a result of working in a particular industry sector. 
+General base = the predominant base of members of the RSE cannot otherwise be categorised as government base, corporate base or industry base.
+
+## codes
+| Name            |
+| --------------- |
+| Corporate base  |
+| General base    |
+| Government base |
+| Industry base   |
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.RegistrableSuperannuationEntityMembershipBase.Code
+- classification=em/emsup/emsup.02.16
+- period=instant

@@ -1,0 +1,25 @@
+# Expense Insurance Other Claims Amount
+
+## identifier
+de4809
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+Report the value of claims expenses other than those specifically categorised in accordance with the requirements of APRA form LRF310 as:
+
+- Death and Disability Claims;
+- Maturities;
+- Annuities;
+- Surrenders and Terminations; or
+- Outwards Policy Conversions.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.OtherClaims.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

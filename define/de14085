@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Capital Transfers Into Or Out Of The Fund Amount
+
+## identifier
+de14085
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for all transfers of capital into or out of the fund.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.CapitalTransfersIntoOrOutOfTheFund.Amount
+- classification=baf/bafot/bafot.02.25
+- period=duration

@@ -1,0 +1,16 @@
+# Organisation Control Maximum Number Director Term Count
+
+## identifier
+de13731
+
+## type
+int
+
+## definition
+This is, as at the relevant date, the maximum number of terms for which a director can be appointed to the board of an entity.
+
+## syntax
+### xbrl
+- name=OrganisationControl.MaximumNumberDirectorTerm.Count
+- classification=py/pyde/pyde.02.18
+- period=instant

@@ -1,0 +1,19 @@
+# Assets Intangible Infinite Life Excluding Goodwill Gross Amount
+
+## identifier
+de8774
+
+## type
+float
+
+## definition
+This is the value of intangible assets held by the reporting party as at the relevant date, gross of any provision for impairment, and which are deemed to have an infinite life. The measurement and classification basis used is to be in accordance with the accounting standards. 
+
+For the purposes of this item exclude goodwill.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Intangible.InfiniteLifeExcludingGoodwillGross.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=instant

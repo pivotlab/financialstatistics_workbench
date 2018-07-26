@@ -1,0 +1,21 @@
+# Income Insurance Life Premium Deposit Component Amount
+
+## identifier
+de12906
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the deposit components of regular and single premiums received or receivable for life investment and life insurance investment account business i.e. exclude any revenue components. Include the deposit component of premiums in respect of deferred or immediate annuities that are life investment business.
+
+Life insurance policies are contracts that will pay a specified sum to beneficiaries upon the death of the insured.
+
+An annuity is a periodic payment of a fixed or variable amount arising out of a contract obligation. Immediate annuities are those purchased with a single payment, where the income stream commences immediately. Deferred annuities are those where the income stream commences at some time in the future.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.LifePremiumDepositComponent.Amount
+- classification=baf/bafpr/bafpr3.02.11
+- period=duration

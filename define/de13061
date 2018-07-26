@@ -1,0 +1,17 @@
+# Equity Dividends Paid Or Declared Amount
+
+## identifier
+de13061
+
+## type
+float
+
+## definition
+This is the value for the duration of the relevant period of dividends declared or paid (distributions) out of profits to the shareholders of a company in proportion to their holdings of a particular class of capital.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Equity.Dividends.PaidOrDeclared.Amount
+- classification=baf/bafpo/bafpo2.02.09
+- period=duration

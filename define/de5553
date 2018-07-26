@@ -1,0 +1,18 @@
+# Organisation Control Members New Other Description
+
+## identifier
+de5553
+
+## type
+string
+
+## definition
+Description of new members joining during the relevant period classified as any member that cannot be appropriately classified in the list in which this element belongs.
+
+This is the description of the detailed line items within the balancing item within the list in which it is being used.
+
+## syntax
+### xbrl
+- name=OrganisationControl.MembersNewOther.Description
+- classification=py/pyde/pyde.02.06
+- period=duration

@@ -1,0 +1,22 @@
+# Auditor Appointment Membership CPA Australia Indicator
+
+## identifier
+de5122
+
+## type
+boolean
+
+## definition
+Is the reporting party  a member of CPA Australia?
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The reporting party is a member of CPA Australia.
+FALSE = The reporting party is not a member of CPA Australia.
+
+## syntax
+### xbrl
+- name=AuditorAppointment.MembershipCPAAustralia.Indicator
+- classification=em/emfsm/emfsm.02.04
+- period=instant

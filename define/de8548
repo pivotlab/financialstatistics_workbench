@@ -1,0 +1,16 @@
+# Income Insurance Other Description
+
+## identifier
+de8548
+
+## type
+string
+
+## definition
+This is the description of the detailed line item comprising the other income balancing item, as required to be reported on APRA Insurance forms 310_3.
+
+## syntax
+### xbrl
+- name=Income.Insurance.Other.Description
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

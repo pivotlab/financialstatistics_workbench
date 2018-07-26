@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Term Excess Repayments Due To Sale Or Refinancing Amount
+
+## identifier
+de7628
+
+## type
+float
+
+## definition
+This is the value of term loans net of scheduled repayments, that are repaid in full during the relevant period as a result of the borrower either selling or refinancing the loan held by the reporting party.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.LoansAndReceivables.TermExcessRepaymentsDueToSaleOrRefinancing.Amount
+- classification=baf/bafpo/bafpo5.02.05
+- period=duration

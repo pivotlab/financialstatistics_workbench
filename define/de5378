@@ -1,0 +1,18 @@
+# Organisation Control Members Pensioner Count
+
+## identifier
+de5378
+
+## type
+int
+
+## definition
+Report the number of members of the reporting entity who are pensioner members.
+
+A pensioner member of the reporting entity is a person who is in receipt of an income stream.
+
+## syntax
+### xbrl
+- name=OrganisationControl.MembersPensioner.Count
+- classification=py/pyde/pyde.02.06
+- period=instant

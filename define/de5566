@@ -1,0 +1,16 @@
+# Organisation Control Members Departed Count
+
+## identifier
+de5566
+
+## type
+int
+
+## definition
+This is the number, during the relevant period, of member accounts that have closed.
+
+## syntax
+### xbrl
+- name=OrganisationControl.MembersDeparted.Count
+- classification=py/pyde/pyde.02.06
+- period=duration

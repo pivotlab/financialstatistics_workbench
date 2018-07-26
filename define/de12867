@@ -1,0 +1,23 @@
+# Financial Risk Eligible Credit Support Indicator
+
+## identifier
+de12867
+
+## type
+boolean
+
+## definition
+This indicates whether the reporting entity has applied the eligible credit support to calculate the asset concentration risk charge, where the exposure is covered by an eligible collateral, guarantee, or letter of credit.
+
+## guidance
+A choice of TRUE/FALSE values. 
+
+true = The reporting entity has applied the eligible credit support. 
+
+false = The reporting entity has not applied the eligible credit support.
+
+## syntax
+### xbrl
+- name=FinancialRisk.EligibleCreditSupport.Indicator
+- classification=baf/bafot/bafot.02.12
+- period=duration

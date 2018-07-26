@@ -1,0 +1,16 @@
+# Superannuation Benefit Weighted Average Payment Term Number
+
+## identifier
+de13127
+
+## type
+float
+
+## definition
+This is, as at the relevant date, of the weighted average in years of benefit payments due to members under benefit arrangements.
+
+## syntax
+### xbrl
+- name=SuperannuationBenefit.WeightedAveragePaymentTerm.Number
+- classification=em/emsup/emsup.02.10
+- period=instant

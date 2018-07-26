@@ -1,0 +1,19 @@
+# Financial Risk Credit Fixed Assets Including Investment Property Amount
+
+## identifier
+de8157
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of investments in fixed or operational assets. The measurement and classification basis used is to be in accordance with relevant accounting standards. 
+
+For the purpose of this item include property held for both operational and investment purposes.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Credit.FixedAssetsIncludingInvestmentProperty.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

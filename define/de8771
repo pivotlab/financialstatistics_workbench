@@ -1,0 +1,19 @@
+# Assets Insurance Deferred Levies Charges Amount
+
+## identifier
+de8771
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of deferred levies and charges recognised in accordance with accounting standards.
+
+Levies and charges are expenses incurred by the reporting party in relation to obligations to government authorities that are recouped by way of income from customers. Deferred levies and charges are those paid in advance.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.DeferredLeviesCharges.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

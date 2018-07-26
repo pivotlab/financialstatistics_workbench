@@ -1,0 +1,17 @@
+# Expense Insurance Surrender And Termination Amount
+
+## identifier
+de4088
+
+## type
+float
+
+## definition
+Report benefits paid or payable in relation to the surrender or early termination of a policy, i.e. where the policy is ended by either party prior to the maturity date. Where no amount would be paid, the value to be reported is the discounted present value of the unexpired risks, future payments and/or contractual premium refunds.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.SurrenderAndTermination.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

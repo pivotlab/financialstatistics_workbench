@@ -1,0 +1,21 @@
+# Financial Risk Solvency Inadmissible Assets Cash Amount
+
+## identifier
+de5101
+
+## type
+float
+
+## definition
+Report the inadmissible value of Cash and Liquid Assets as per the solvency standard. 
+
+The inadmissible cash assets are:
+a) those cash holdings with too little diversification, or have too great an exposure to one obligor of low credit standing; and
+b) holdings in an associated or subsidiary entity which is a Financial Services entity.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.InadmissibleAssetsCash.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

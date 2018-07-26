@@ -1,0 +1,19 @@
+# Liabilities Off Balance Sheet Overdraft Available Undrawn Amount
+
+## identifier
+de5621
+
+## type
+float
+
+## definition
+Report the value, as at the relevant date, of overdraft facilities available to the reporting party. For the purposes of this item, report only the balance of the facility that has not been used or drawn down by the reporting party at the relevant date.
+
+Overdraft facilities are accounts which may be overdrawn up to a limit agreed by the parties involved.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OffBalanceSheetOverdraftAvailableUndrawn.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

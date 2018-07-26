@@ -1,0 +1,17 @@
+# Financial Risk Value Event Exposure Net Amount
+
+## identifier
+de9084
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the event exposure retained by the reporting party net of any expected insurance recoveries.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.ValueEventExposureNet.Amount
+- classification=baf/bafot/bafot.02.07
+- period=instant

@@ -1,0 +1,25 @@
+# Expense Operating Investment Asset Consultant Fees Amount
+
+## identifier
+de2488
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for  fees paid/payable to asset consultants engaged by the trustees, in relation to the management of the superannuation entity's investment portfolios. Include fees paid to independent third parties as well as related entities of the superannuation entity.
+
+Include all expenses which are associated with the generation of income on the investment portfolio of the entity. 
+
+Do not include expenses of an administrative or operating nature.
+
+Important:
+Do not net fee related income rebates off against investment expenses.
+Commissions or deductions should be shown on a gross basis here. For example, where there is a separately identifiable charge to the entity, fees charged by the asset consultants should not be netted against investment income.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.Investment.AssetConsultantFees.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

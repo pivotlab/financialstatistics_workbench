@@ -1,0 +1,24 @@
+# Organisation Details Public Offer Entity Whole Reporting Period Indicator
+
+## identifier
+de5020
+
+## type
+boolean
+
+## definition
+Has the reporting party has been a public offer entity for the whole reporting period?
+
+The meaning of public offer entity is to be determined in accordance with relevant superannuation legislation. Public offer entities may issue superannuation interests to the public and include public offer superannuation funds, Approved Deposit Funds or Pooled Superannuation Trusts.
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The reporting party has been a public offer entity for the whole reporting period.
+FALSE = The reporting party has not been a public offer entity for the whole reporting period
+
+## syntax
+### xbrl
+- name=OrganisationDetails.PublicOfferEntityWholeReportingPeriod.Indicator
+- classification=py/pyde/pyde.02.06
+- period=instant

@@ -1,0 +1,16 @@
+# Financial Risk Capital Adequacy Capital Transfer Out Occur Date
+
+## identifier
+de14143
+
+## type
+string
+
+## definition
+This is the date, during the relevant period, for all events that resulted in decreased capital in the fund that are not otherwise recorded as revenue or benefits.
+
+## syntax
+### xbrl
+- name=FinancialRisk.CapitalAdequacy.CapitalTransferOutOccur.Date
+- classification=baf/bafot/bafot.02.25
+- period=duration

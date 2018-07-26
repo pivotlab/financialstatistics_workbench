@@ -1,0 +1,17 @@
+# Expense Operating Management Fees Non Investment Amount
+
+## identifier
+de2010
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of fee expense of the reporting party that do not relate to the management of the entity's investment portfolios. Investment management fees include fees paid to investment managers and asset consultants, including independent third parties as well as related entities.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.ManagementFeesNonInvestment.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

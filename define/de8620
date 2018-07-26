@@ -1,0 +1,19 @@
+# Expense Operating Total Other APRA Insurance 310 3 Amount
+
+## identifier
+de8620
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is, for the duration of the relevant period,  of total other operating expenses as required to be reported on APRA Insurance form 310_3.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.TotalOtherAPRAInsurance3103.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

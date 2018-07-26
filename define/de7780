@@ -1,0 +1,16 @@
+# Financial Risk Credit Credit Exposures Prescribed Provisioning Facilities Count
+
+## identifier
+de7780
+
+## type
+int
+
+## definition
+This is the number of accounts at the relevant date classified by the reporting party as Category One, Two, Three or Four facilities in accordance with the Prescribed Provisioning methodology outlined in the relevant prudential standards.
+
+## syntax
+### xbrl
+- name=FinancialRisk.Credit.CreditExposuresPrescribedProvisioningFacilities.Count
+- classification=baf/bafot/bafot.02.06
+- period=instant

@@ -1,0 +1,31 @@
+# Income Other PL Item Amount
+
+## identifier
+de5356
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+Report income derived during the relevant period excluding income categorised as one of the following:
+ - Interest Income
+ - Dividend Income
+ - Rent Income
+ - Trust Distributions
+ - Realised gains or losses arising from the change in the net market value of investments
+ - Unrealised gains or losses arising from the change in the net market value of investments
+ - Fee/Commission Income
+ - Contribution Revenue
+ - Rollover of Retirement Benefits
+ - Transfer of Pre Retirement Benefits
+
+Income can be typicall defined as increases in economic benefits during the accounting period in the form of inflows or enhancements of assets, or decreases in liabilities that result in increases in equity other than those relating to contributions from equity participants.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.OtherPLItem.Amount
+- classification=baf/bafpr/bafpr1.02.05
+- period=duration

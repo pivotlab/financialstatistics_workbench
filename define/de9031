@@ -1,0 +1,29 @@
+# Regulatory Disclosures Insurance Excess Recipient Code
+
+## identifier
+de9031
+
+## type
+string
+
+## definition
+In the event of wind-up, indicate the recipient of the excess monies that were not needed, after satisfying liabilities.
+
+## guidance
+Valid enumeration values are:
+Charity;
+Members; or
+Other.
+
+## codes
+| Name    |
+| ------- |
+| Charity |
+| Members |
+| Other   |
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuranceExcessRecipient.Code
+- classification=baf/bafot/bafot.02.07
+- period=instant

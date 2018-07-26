@@ -1,0 +1,17 @@
+# Insurance Activities Net Amount
+
+## identifier
+de13115
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of the net of inflows sourced from insurance activities and outflows incurred through insurance activities.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Insurance.ActivitiesNet.Amount
+- classification=baf/bafpr/bafpr3.02.13
+- period=duration

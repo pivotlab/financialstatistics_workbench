@@ -1,0 +1,17 @@
+# Assets Intangible Intangible Assets With An Infinite Life Other Than Information Technology Accumulated Amortisation Impairment Amount
+
+## identifier
+de1227
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the total amount of accumulated impairment of intangible assets with an infinite life.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.Intangible.IntangibleAssetsWithAnInfiniteLifeOtherThanInformationTechnologyAccumulatedAmortisationImpairment.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

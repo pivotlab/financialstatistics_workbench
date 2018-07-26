@@ -1,0 +1,19 @@
+# Expense Insurance Policy Conversions Outwards Amount
+
+## identifier
+de4387
+
+## type
+float
+
+## definition
+Report the total value of outward (claim) side of conversions between statutory funds. Exclude deposit components.
+
+Deposit components are to be recognised  and measured as per the accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.PolicyConversionsOutwards.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

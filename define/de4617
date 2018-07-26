@@ -1,0 +1,17 @@
+# Equity Reserves Unallocated Benefit Fund Net Movement Amount
+
+## identifier
+de4617
+
+## type
+float
+
+## definition
+Report the value of the net movement in unallocated benefit fund reserves. This represents the value of benefit funds which have not been allocated to either the benefit fund members or to the management fund. This item is only expected to be applicable to friendly societies.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Reserves.UnallocatedBenefitFundNetMovement.Amount
+- classification=baf/bafpo/bafpo2.02.05
+- period=duration

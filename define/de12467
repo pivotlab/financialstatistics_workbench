@@ -1,0 +1,18 @@
+# Financial Risk Capital Adequacy Net Adjustments For Ineligible Unrealised Fair Value Gains Or Losses Amount
+
+## identifier
+de12467
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of any fair value gains and losses where the values do not meet the requirements for use of fair values specified in the relevant prudential standard.
+
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.NetAdjustmentsForIneligibleUnrealisedFairValueGainsOrLosses.Amount
+- classification=baf/bafot/bafot.02.09
+- period=instant

@@ -1,0 +1,23 @@
+# Financial Risk Solvency FX Adjustment DTA Amount
+
+## identifier
+de5400
+
+## type
+float
+
+## definition
+Report the value of the Adverse Exchange Movement Adjustment in relation to the admissible value of tax assets with resilience requirement, as per the solvency standard.
+
+The Adverse Exchange Movement Adjustment is an addition to the resilience reserves calculated using the prescribed Adverse Exchange Movement factor as set out in the solvency standards. The Resilience Reserve is determined as the additional amount that needs to be held before the happening of a prescribed set of changes in the economic environment, such that after the changes the admissible assets of the reporting party are able to meet the policy owner and other liabilities of the statutory fund.
+
+The admissible value of tax assets is the value as determined in accordance with the accounting standards, less the value of those deemed to be inadmissible, as per the solvency standard. 
+
+The inadmissible assets are those tax assets dependent on the ongoing conduct of business, for example tax losses that require future taxable income in order to be realised.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Solvency.FXAdjustmentDTA.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

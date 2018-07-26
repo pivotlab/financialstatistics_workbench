@@ -1,0 +1,29 @@
+# Liabilities Insurance Outstanding Claims Liability Risk Margin Group Adjustments Amount
+
+## identifier
+de12927
+
+## type
+float
+
+## definition
+This is a balancing item calculated as A - (B+C), where:
+
+     A = risk margin component of outstanding claims liability (OCL) - Total consolidated Level 2
+     B = risk margin component of outstanding claims liability (OCL) - Total direct business partially consolidated
+     C = risk margin component of outstanding claims liability (OCL) - Total reinsurance business partially consolidated
+
+For the purposes of this item the OCL risk margin component is reported as at the relevant date as determined in accordance with relevant prudential standards.  The risk margin must be assessed at the level specified by APRA for capital purposes; this may not be the same risk margin used for other purposes such as statutory accounts.
+
+OCL relates to all claims incurred prior to the valuation date, whether or not they have been reported to the insurer. The value of the OCL must include an amount in respect of the expenses that the insurer expects to incur in settling these claims. The value of OCL must not include any Government charges directly imposed on the insurer such as levies, duties and taxes, but must be gross of input tax credit recoveries.
+
+The risk margin is the component of the value of OCL that relates to the inherent uncertainty that outcomes will differ from the central estimate.
+
+The risk margin relates to the central estimate measured as the present value of the future expected payments gross of any recoveries, i.e. discounted for future investment income, determined in accordance with relevant prudential standards. The central estimate is intended to reflect the mean value in the range of possible values for the outcome (that is, the mean of the distribution of probabilistic outcomes), and the risk margin, when added to the central estimate, is intended to increase the likelihood that the OCL will be sufficient to the level required in relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.OutstandingClaimsLiabilityRiskMarginGroupAdjustments.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

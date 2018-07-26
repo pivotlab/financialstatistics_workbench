@@ -1,0 +1,23 @@
+# Expense Operating Impairment Tangible Assets Other Amount
+
+## identifier
+de7512
+
+## type
+float
+
+## definition
+This is the value of impairment charged to profit and loss in respect of tangible assets other than:
+
+- property, plant and equipment;
+-  investments in controlled entities,  associates and joint ventures; and
+-  impairment losses on financial assets not measured at fair value through profit or loss;
+
+as determined in accordance with accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.ImpairmentTangibleAssetsOther.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

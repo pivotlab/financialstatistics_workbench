@@ -1,0 +1,22 @@
+# Auditor Appointment Membership Institute Of Chartered Accountants In Australia Indicator
+
+## identifier
+de4952
+
+## type
+boolean
+
+## definition
+Is the reporting party a member of the Institute Of Chartered Accountants in Australia?
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The reporting party is a member of the Institute Of Chartered Accountants in Australia.
+FALSE = The reporting party is not a member of the Institute Of Chartered Accountants in Australia.
+
+## syntax
+### xbrl
+- name=AuditorAppointment.MembershipInstituteOfCharteredAccountantsInAustralia.Indicator
+- classification=em/emfsm/emfsm.02.04
+- period=instant

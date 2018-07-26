@@ -1,0 +1,26 @@
+# Liabilities Insurance Gross Policy Amount
+
+## identifier
+de4785
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the gross amount of insurance policy coverage or equivalent.
+
+## guidance
+For risk products this will be the sum insured plus any reversionary bonuses.
+For investment type products this will be the account balance as at the relevant date.
+For annuity and disability income products this will be the annual payment.
+For investment linked products this will be the value of units as at the relevant date.
+For income protection products, this is the aggregate monthly amount of cover.
+For group products, the value reported is the aggregate of each individual group member's policy as determined above.
+For other products, the value reported should be consistent with the above.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.GrossPolicy.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

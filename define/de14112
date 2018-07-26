@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Approved Loss Absorbing Subordinated Debt Amount
+
+## identifier
+de14112
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for security or other debt instruments, which has been approved by the relevant prudential authority under the relevant rule.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.ApprovedLossAbsorbingSubordinatedDebt.Amount
+- classification=baf/bafot/bafot.02.25
+- period=instant

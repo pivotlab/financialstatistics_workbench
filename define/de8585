@@ -1,0 +1,19 @@
+# Income Insurance Fees Commissions Other 310 3 Amount
+
+## identifier
+de8585
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value of other fee and commission income, as required on APRA Insurance form 310_3.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.FeesCommissionsOther3103.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

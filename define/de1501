@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities Hybrid Securities Amount
+
+## identifier
+de1501
+
+## type
+float
+
+## definition
+Report the value of hybrid securities on issue by the reporting party as at the reporting date. This item is to be determined in accordance with the accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.HybridSecurities.Amount
+- classification=baf/bafpo/bafpo6.02.00
+- period=instant

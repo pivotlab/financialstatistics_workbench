@@ -1,0 +1,21 @@
+# Financial Risk Capital Adequacy Inadmissible Assets reinsurance Value Amount
+
+## identifier
+de5614
+
+## type
+float
+
+## definition
+Report the inadmissible portion of the value of reinsurance assets, as determined in accordance with the capital adequacy standard, i.e. those with Associated and Subsidiary Financial Services Entities, and/or concentrated in a single reinsurer.
+
+In applying the asset concentration limits of the Standard:
+a) All exposures to a reinsurer or reinsurance group are to be considered a single counterparty exposure (within the practical context of the application of the limits concerned); and
+b) Where arrangements with a reinsurer involve both liability and asset components, these may be taken as a single net exposure to the extent they are subject to a legally enforceable right of offset.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.InadmissibleAssetsreinsuranceValue.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

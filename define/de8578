@@ -1,0 +1,21 @@
+# Profit Or Loss Realised Gains Or Losses Loans And Advances Excluding Foreign Exchange Amount
+
+## identifier
+de8578
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of realised gains (losses) on loans and advances. For the purpose of this item exclude foreign currency gains (losses) that occur due to the currency translation of the loans and advances.
+
+Loans and advances are those financial assets categorised as "Loans and Receivables" in the accounting standards, other than "Trade Receivables" and "Cash".
+
+Gains (losses) are realised where the entity disposed of an asset during the relevant period. If an asset has not been disposed of during the relevant period, then any increases or decreases in the fair value of the asset are recognised as unrealised gains (losses).
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.RealisedGainsOrLossesLoansAndAdvancesExcludingForeignExchange.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

@@ -1,0 +1,21 @@
+# Liabilities Insurance Other Than Borrowings Tax Amount
+
+## identifier
+de4519
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+Report the value of any liability used in the determination of net assets backing policy liabilities, other than:
+- Borrowings; or
+- Tax liabilities.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.OtherThanBorrowingsTax.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

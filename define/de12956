@@ -1,0 +1,20 @@
+# Liabilities Unrealised Gain Excluding Derivatives Amount
+
+## identifier
+de12956
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the cumulative life to date gains in the unrealised liability value.
+
+## guidance
+For the purposes of this item exclude all derivatives.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.UnrealisedGainExcludingDerivatives.Amount
+- classification=baf/bafpo/bafpo1.02.12
+- period=instant

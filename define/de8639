@@ -1,0 +1,19 @@
+# Assets Other Financial Assets Surplus Defined Benefit Superannuation Fund Amount
+
+## identifier
+de8639
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of any surplus in a defined benefit superannuation fund of which the reporting entity is an employer-sponsor, as determined in accordance with relevant accounting standards. 
+
+The surplus in defined superannuation fund represents the favourable difference between the plan assets and the present value of the defined benefit obligation.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.SurplusDefinedBenefitSuperannuationFundNetOfDeferredTaxLiabilities.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=instant

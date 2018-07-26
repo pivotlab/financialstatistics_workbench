@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities Securities Loaned Collateral Received Balancing Amount
+
+## identifier
+de14212
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the balancing item due to the difference between the market value of securities sold under repurchase agreements and stocks loaned (resident and non-resident assets) and the collateral received.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.SecuritiesLoanedCollateralReceivedBalancing.Amount
+- classification=baf/bafpo/bafpo6.02.16
+- period=instant

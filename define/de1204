@@ -1,0 +1,17 @@
+# Assets Other Non Financial Assets Accumulated Depreciation And Impairment On APRA Defined Fixed Assets Amount
+
+## identifier
+de1204
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for total depreciation/impairment for all fixed assets as defined by relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.OtherNonFinancialAssets.AccumulatedDepreciationandImpairmentonAPRADefinedFixedAssets.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

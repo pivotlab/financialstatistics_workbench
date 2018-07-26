@@ -1,0 +1,21 @@
+# Financial Risk Mortgages Adjustment To Probable Maximum Loss Amount
+
+## identifier
+de8832
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the adjustments made to the Probable Maximum Loss (PML) for the reporting party, as determined in accordance with relevant Prudential Standards.
+
+This item is reported to reflect a decrease in the sum insured and therefore PML as a result of the expiration of existing policies.
+
+Probable Maximum Loss (PML) is the largest gross loss to which an insurer will be exposed (within the realms of possibility) due to a concentration of risk exposures, without any allowance for potential reinsurance assets.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.MortgagesAdjustmentToProbableMaximumLoss.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

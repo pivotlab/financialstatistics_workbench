@@ -1,0 +1,22 @@
+# Service Provider Other Used SRF 250 0 And SRF 340 0 Indicator
+
+## identifier
+de5410
+
+## type
+boolean
+
+## definition
+Has the reporting party engaged the services of any other service provider not included in the applicable list on SRF_250_0 or SRF_340_0?
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The reporting party has engaged the services of any other service provider not included in the applicable list on SRF_250_0 or SRF_340_0.
+FALSE = The reporting party has not engaged the services of any other service provider not included in the applicable list on SRF_250_0 or SRF_340_0.
+
+## syntax
+### xbrl
+- name=ServiceProvider.OtherUsedSRF2500AndSRF3400.Indicator
+- classification=py/pylk/pylk.02.01
+- period=instant

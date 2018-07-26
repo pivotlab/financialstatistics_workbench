@@ -1,0 +1,17 @@
+# Expense Operating Administration Amount
+
+## identifier
+de13110
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for expenses that relate to the administration and operation of the entity.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.Administration.Amount
+- classification=baf/bafpr/bafpr2.02.14
+- period=duration

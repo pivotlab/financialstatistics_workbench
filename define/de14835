@@ -1,0 +1,17 @@
+# Assets Exposures Secured Funding Arrangement Subject Prior Notification Amount
+
+## identifier
+de14835
+
+## type
+float
+
+## definition
+This is the outstanding value (plus accrued interest)of assets that secure funding arrangements and are subject to prior notification requirements in accordance with Prudential Standard APS 120 Securitisation.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.SecuredFundingArrangementSubjectPriorNotification.Amount
+- classification=baf/bafpo/bafpo3.02.17
+- period=instant

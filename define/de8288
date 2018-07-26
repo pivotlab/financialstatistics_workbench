@@ -1,0 +1,21 @@
+# Assets Impairment Provision Other ARF 220 0 Amount
+
+## identifier
+de8288
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of other provisions for impairment in relation to loans and advances of the reporting entity, as required to be reported on forms ARF_220_0_L and ARF_220_0_C.
+
+Loans and advances are those financial assets categorised as "Loans and receivables" in the accounting standards other than "Trade receivables" and "Cash".
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.ImpairmentProvisionOtherARF2200.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

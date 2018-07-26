@@ -1,0 +1,21 @@
+# Financial Risk Capital Adequacy Prescribed Yield Adjustment Assets Non Standard Resillience Factors Amount
+
+## identifier
+de5337
+
+## type
+float
+
+## definition
+Report the value of the Prescribed Yield Adjustment in relation to admissible assets with non-standard resilience factors, as per the capital adequacy standard.
+
+The Prescribed Yield Adjustment is an addition to the resilience reserves calculated using prescribed factors, after allowing for the beneficial implications for asset risks of diversification across asset sectors, as set out in the capital adequacy standards. The Resilience Reserve is determined as the additional amount that needs to be held before the happening of a prescribed set of changes in the economic environment ( as per the capital adequacy standard), such that after the changes the admissible assets of the reporting party are able to meet the policy owner and other liabilities of the statutory fund, in an ongoing business context.
+
+Admissible assets with non-standard resilience factors are those assets where the actuary has considered that non-standard resilience factors are appropriate. This should only be used in rare cases. It is intended to cover situations where assets are disaggregated into (1) an identifiable sub-asset and (2) a residual that does not fit into any of the asset sectors specified by Life Insurance Prudential Standards for resilience purposes, or where a non-standard resilience risk has been modelled in accordance with Life Insurance Prudential Standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.PrescribedYieldAdjustmentAssetsNonStandardResillienceFactors.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

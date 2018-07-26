@@ -1,0 +1,16 @@
+# Financial Risk Stress Test Date
+
+## identifier
+de13158
+
+## type
+string
+
+## definition
+This is the date on which a stress test is undertaken with respect to the investment option.
+
+## syntax
+### xbrl
+- name=FinancialRisk.StressTest.Date
+- classification=baf/bafot/bafot.02.15
+- period=instant

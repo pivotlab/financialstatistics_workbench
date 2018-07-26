@@ -1,0 +1,32 @@
+# Assets Exposures Off Balance Sheet Investment Other SRF220 SRF320 Acquired Historical Cost Amount
+
+## identifier
+de5612
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+Report the acquisition cost, or historical cost, of off balance sheet investment exposures, excluding those arising from contribution revenue. For the purposes of this item, only report those amounts acquired during the relevant period. Where an asset is an amount held in a bank account, the value reported is the net of all movements in the account over the relevant period, but only where this net movement represents a net increase in the account's balance.
+
+This balancing item represents total off balance sheet investment asset exposures (excluding contribution revenue) less those asset exposures categorised as any of the following:
+- Cash and liquid assets
+- Receivables
+- Equity securities and unit trusts
+- Cash and fixed interest investments
+- Investment loans and advances
+- Investment Property
+- Balanced or mixed mandates, or those mandates which are unable to be allocated across this list of asset classes.
+
+Off-balance sheet asset exposures relate to those assets or rights that do not satisfy the recognition requirements of the relevant accounting standards and are therefore not recognised on the face of the balance sheet, or statement of financial position, such as contingent assets, performance-related rights and guarantees.
+
+The acquisition cost, or historical cost, of an asset is the original cost paid to acquire the asset, at the date the asset was initially acquired. Where the asset was acquired in stages, sum the initial acquisition cost of each stage, but only to the extent the acquisitions occurred during the relevant period.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.OffBalanceSheetInvestmentOtherSRF220SRF320AcquiredHistoricalCost.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=duration

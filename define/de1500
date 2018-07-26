@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities Loan Capital Amount
+
+## identifier
+de1500
+
+## type
+float
+
+## definition
+Report the value of loan capital on issue by the reporting party as at the reporting date.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.LoanCapital.Amount
+- classification=baf/bafpo/bafpo6.02.00
+- period=instant

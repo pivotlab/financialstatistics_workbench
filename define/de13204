@@ -1,0 +1,16 @@
+# Regulatory Disclosures Fees Disclosed Percent
+
+## identifier
+de13204
+
+## type
+float
+
+## definition
+This is the percentage, as at the relevant date, for fees charged as disclosed in the Product Disclosure Statement or other disclosure material.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.FeesDisclosed.Percent
+- classification=baf/bafot/bafot.02.16
+- period=instant

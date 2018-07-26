@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Status Change Date
+
+## identifier
+de13136
+
+## type
+string
+
+## definition
+This is the date of the financial position status change.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.StatusChange.Date
+- classification=em/emsup/emsup.02.10
+- period=instant

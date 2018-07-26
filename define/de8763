@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Insurance Recoveries Not Reinsurance Gross Amount
+
+## identifier
+de8763
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of recoveries receivable by the reporting party in relation to paid and unpaid insurance claims other than reinsurance recoveries, gross of any provisions for depreciation or impairment.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.InsuranceRecoveriesNotReinsuranceGross.Amount
+- classification=baf/bafpo/bafpo5.02.05
+- period=instant

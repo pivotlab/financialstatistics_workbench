@@ -1,0 +1,16 @@
+# Superannuation Contribution Active Employers Count
+
+## identifier
+de13327
+
+## type
+int
+
+## definition
+This is the number, during the relevant period, of employers who have made at least one contribution transaction that is an employer contribution or personal contribution.
+
+## syntax
+### xbrl
+- name=SuperannuationContribution.ActiveEmployers.Count
+- classification=em/emsup/emsup.02.15
+- period=duration

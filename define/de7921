@@ -1,0 +1,21 @@
+# Liabilities Off Balance Sheet Charge Or Security Granted Over Assets Excluding Fixed and Floating Amount
+
+## identifier
+de7921
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of the charge, or security, that has been granted over the assets of the reporting party, but which are not classified as any of the following:
+- Fixed charge; or
+- Floating charge.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OffBalanceSheetChargeOrSecurityGrantedOverAssetsExcludingFixedandFloating.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

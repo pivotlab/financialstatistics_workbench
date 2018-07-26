@@ -1,0 +1,17 @@
+# Equity Reconciliation Adjustment Other Amount
+
+## identifier
+de4674
+
+## type
+float
+
+## definition
+Report the total reconcilliation adjustment between net assets as per general purpose accounts and the net as per the Life Act.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Equity.ReconciliationAdjustmentOther.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

@@ -1,0 +1,19 @@
+# Assets Investment Real Estate Property Adjustment Look Through Amount
+
+## identifier
+de5464
+
+## type
+float
+
+## definition
+Report the look-through adjustment for investment property held indirectly via listed unit trusts, unlisted unit trusts or controlled unit trusts, or for owner-occupied property initially aggregated as non-investment property.
+
+A look through adjustment item represents the adjustment required to convert effective holdings in investments via trusts from aggregated amounts classified as equities or unit trusts to the appropriate categories on a look-through basis.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.RealEstateProperty.AdjustmentLookThrough.Amount
+- classification=baf/bafpo/bafpo5.02.04
+- period=instant

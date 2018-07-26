@@ -1,0 +1,16 @@
+# Income Private Health Insurance Gross Margin Percent
+
+## identifier
+de14081
+
+## type
+float
+
+## definition
+This is the percentage, during the relevant period, for the gross margin. This is calculated as the residual of dividing health insurance business benefits paid by health insurance business contribution income, given premium increase subject to the stress test assumptions constraint.
+
+## syntax
+### xbrl
+- name=Income.PrivateHealthInsuranceGrossMargin.Percent
+- classification=baf/bafpr/bafpr1.02.26
+- period=duration

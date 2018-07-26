@@ -1,0 +1,16 @@
+# Financial Risk Catastrophe Reinsurance Start Date
+
+## identifier
+de13051
+
+## type
+string
+
+## definition
+This is the commencement date of the catastrophe reinsurance program.
+
+## syntax
+### xbrl
+- name=FinancialRisk.CatastropheReinsuranceStart.Date
+- classification=baf/bafot/bafot.02.12
+- period=instant

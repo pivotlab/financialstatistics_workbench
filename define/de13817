@@ -1,0 +1,17 @@
+# Assets Equity Securities And Physical Commodities Held Amount
+
+## identifier
+de13817
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for equity securities held in accordance with the Australian Accounting Standards, as well as physical commodity positions held including gold.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.EquitySecuritiesAndPhysicalCommoditiesHeld.Amount
+- classification=baf/bafpo/bafpo1.02.22
+- period=instant

@@ -1,0 +1,17 @@
+# Assets High Quality Liquid Asset 2A Amount
+
+## identifier
+de14883
+
+## type
+float
+
+## definition
+The value of all high quality liquid assets 2A (HQLA2A) according to Prudential Standard APS 210 - Liquidity, Attachment A.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.HighQualityLiquidAsset2A.Amount
+- classification=baf/bafpo/bafpo1.02.32
+- period=instant

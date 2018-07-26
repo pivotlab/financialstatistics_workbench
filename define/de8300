@@ -1,0 +1,21 @@
+# Assets Insurance Reinsurance Other Meet DocumentationTest Amount
+
+## identifier
+de8300
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.                                                                                                                                            
+This is the value, as at the relevant date, of any asset recognised by the reporting party that relates to reinsurance,  where the reinsurer has complied with the threshold levels of reinsurance documentation set out in the relevant prudential standards, other than those relating to:                                                                                                                                                    
+- Reinsurance recoverables, being any amounts due to the reporting party under a reinsurance arrangement that arise from the recognition of Outstanding Claims Liabilities in accordance with capital and prudential standards;                                                                                                                                                    
+- Expected Reinsurance and Non Reinsurance Recoveries, being any amounts due to the reporting party, whether under a reinsurance arrangement or not, that arise from the recognition of Premiums Liabilities in accordance with capital and prudential standards; or                                                                                                                                                    
+- Deferred Reinsurance Expense, as determined in accordance with accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.ReinsuranceOtherMeetDocumentationTest.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

@@ -1,0 +1,20 @@
+# Liabilities Other Financial Liabilities Debt Securities Daily Average Amount
+
+## identifier
+de14851
+
+## type
+float
+
+## definition
+This is the daily average value of debt securities on issue by the reporting entity. The daily value of this item is to be determined in accordance with accounting standards. The daily average is calculated in accordance with the relevant legislation.
+
+## guidance
+A debt security is a transferable instrument evidencing a relationship of indebtedness. It is characterised by having a definable return that is not based on the economic performance of the issuing entity.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.DebtSecuritiesDailyAverage.Amount
+- classification=baf/bafpo/bafpo6.02.17
+- period=duration

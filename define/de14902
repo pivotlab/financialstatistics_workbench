@@ -1,0 +1,17 @@
+# Assets APRA Determined Other Off Balance Sheet Obligations Amount
+
+## identifier
+de14902
+
+## type
+float
+
+## definition
+The value of other off balance sheet obligations where the Australian Prudential Regulation Authority (APRA) has determined that an alternative required stable funding (RSF) factor applies under Prudential Standard APS 210 - Liquidity.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.APRADeterminedOtherOffBalanceSheetObligations.Amount
+- classification=baf/bafpo/bafpo1.02.32
+- period=instant

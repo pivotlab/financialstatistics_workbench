@@ -1,0 +1,16 @@
+# Regulatory Disclosures Insured Persons Movements Inwards Count
+
+## identifier
+de14050
+
+## type
+int
+
+## definition
+This is the number, during the relevant period, of inwards insured persons movements.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuredPersonsMovementsInwards.Count
+- classification=baf/bafot/bafot.02.25
+- period=duration

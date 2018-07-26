@@ -1,0 +1,19 @@
+# Assets Margin Lending Impairment Amount
+
+## identifier
+de7817
+
+## type
+float
+
+## definition
+This is the value of provisions for impairment in relation to margin loans receivable by the reporting party as at the relevant date.
+
+Margin loans are amounts lent for the purpose of purchasing equities, where the underlying security is equities.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.MarginLendingImpairment.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

@@ -1,0 +1,17 @@
+# Assets High Quality Liquid Assets Eligible Reserve Bank Of New Zealand Alternative Liquid Assets Amount
+
+## identifier
+de13294
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for all high quality liquid assets (HQLA), eligible Reserve Bank of New Zealand securities and alternative liquid assets that meet operational requirements in accordance with the relevant prudential standard.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.HighQualityLiquidAssetsEligibleReserveBankOfNewZealandAlternativeLiquidAssets.Amount
+- classification=baf/bafpo/bafpo1.02.18
+- period=instant

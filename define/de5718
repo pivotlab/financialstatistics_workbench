@@ -1,0 +1,17 @@
+# Assets Exposures Inadmissible Assets Concentration Value Amount
+
+## identifier
+de5718
+
+## type
+float
+
+## definition
+Report the value of the portion of those assets adversely impacted by a concentration of funds in a particular asset, with a particular obligor or with related parties, in accordance with the assumptions required under the relevant prudential standard.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.InadmissibleAssetsConcentrationValue.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

@@ -1,0 +1,19 @@
+# Liabilities Current Other DRF300 Amount
+
+## identifier
+de9067
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of other current liabilities as requested on DRF_300_0.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.CurrentOtherDRF300.Amount
+- classification=baf/bafpo/bafpo1.02.07
+- period=instant

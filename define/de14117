@@ -1,0 +1,17 @@
+# Liabilities Other Individual 98th Percentile Amount
+
+## identifier
+de14117
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the 98th percentile of all other individual liabilities that meet the criteria and that are not categorised elsewhere.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherIndividual98thPercentile.Amount
+- classification=baf/bafpo/bafpo1.02.25
+- period=instant

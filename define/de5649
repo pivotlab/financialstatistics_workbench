@@ -1,0 +1,30 @@
+# Assets Derivative Financial Instruments Interest Rate Contracts Principal Amount
+
+## identifier
+de5649
+
+## type
+float
+
+## definition
+Report the face value, or gross amount, of interest rate based derivative contracts held by the reporting party as at the relevant date. 
+
+An interest rate derivative contract is any contract that transfers the interest rate risk on an underlying asset from one party to another.
+
+A derivative is a financial instrument that is derived from some other asset, index, value or other variable (known as the underlying). Derivatives allow risk about the price of the underlying asset to be transferred from one party to another.
+
+Derivative contracts involve:
+- Future delivery, receipt or exchange of financial items such as cash or another derivative instrument; or
+- Future exchange of real assets for financial items where the contract may be tradeable and has a market value.
+The contracts can either be binding on both parties (e.g. as with a currency swap) or subject to the exercise by one party of a right contained within the contract (as with options).
+
+Report this item regardless of whether favourable or unfavourable to the reporting entity ie where it represents either a net gain or net loss to the entity across all open positions.
+
+The principal amount must be reported as a positive value, even for short positions in derivative financial instruments.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.DerivativeFinancialInstruments.InterestRateContractsPrincipal.Amount
+- classification=baf/bafpo/bafpo5.02.04
+- period=instant

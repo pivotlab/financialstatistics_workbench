@@ -1,0 +1,23 @@
+# Profit Or Loss Realised Gains Or Losses Other GRF 310 G Excluding Foreign Exchange Amount
+
+## identifier
+de8601
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is for the duration of the relevant period, the value of realised gains (losses) on the fair value of other investments as required on APRA form GRF_310_0_G.
+
+This item does not include foreign currency gains (losses) that occur due to currency translation.
+
+Gains (losses) are realised where the entity disposed of an asset during the relevant period. If an asset has not been disposed of during the relevant period, then any increases or decreases in the fair value of the asset are recognised as unrealised gains (losses).
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.RealisedGainsOrLossesOtherGRF310GExcludingForeignExchange.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

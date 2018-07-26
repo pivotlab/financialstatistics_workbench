@@ -1,0 +1,17 @@
+# Expense Insurance Benefits Paid No Gap Prostheses Amount
+
+## identifier
+de14068
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for benefits paid for no gap prostheses.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.BenefitsPaidNoGapProstheses.Amount
+- classification=baf/bafpr/bafpr3.02.21
+- period=duration

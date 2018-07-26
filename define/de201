@@ -1,0 +1,17 @@
+# Income Interest Cash And Liquid Assets Amount
+
+## identifier
+de201
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the amount of interest income derived from investment in cash and liquid assets.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Interest.CashAndLiquidAssets.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

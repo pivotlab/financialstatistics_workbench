@@ -1,0 +1,21 @@
+# Assets Claims Cross Border Local Amount
+
+## identifier
+de8751
+
+## type
+float
+
+## definition
+This is the value of all local financial assets of foreign affiliates of the reporting party as at the relevant date. A financial asset consists of money or a claim against another person or business (the counterparty) that can be converted into money.
+                                                                                                                 
+It does not include intangible or operational assets of the reporting party nor does it include claims arising as a result of operational requirements of the business such as trade receivables or deferred tax assets.
+                                                                                                                                      
+Local claims of foreign affiliates are those where the counterparty to the transaction is a resident of the same country as the branch, office or subsidiary (affiliate) of the reporting party that holds the claim and the affiliate is not located (resident) in Australia.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.ClaimsCrossBorderLocal.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

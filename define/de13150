@@ -1,0 +1,17 @@
+# Income Investment Realised Gains Or Losses Amount
+
+## identifier
+de13150
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for gains or losses as a result of the actual disposal or closure of investments.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Investment.RealisedGainsOrLosses.Amount
+- classification=baf/bafpr/bafpr2.02.14
+- period=duration

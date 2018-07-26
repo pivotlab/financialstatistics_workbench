@@ -1,0 +1,17 @@
+# Assets Exposures Self Securitised Assets With Repurchase Agreements Amount
+
+## identifier
+de14832
+
+## type
+float
+
+## definition
+This is the outstanding aggregate value (plus accrued interest) all of the self securitisation structures where securities have actually been used to enter into a repurchase agreement with the Reserve Bank of Australia (RBA).
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.SelfSecuritisedAssetsWithRepurchaseAgreements.Amount
+- classification=baf/bafpo/bafpo3.02.17
+- period=instant

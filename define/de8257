@@ -1,0 +1,46 @@
+# Organisation Details Service Channel Other ARF396 Indicator
+
+## identifier
+de8257
+
+## type
+boolean
+
+## definition
+If the service channel type does not meet the definition of a 'branch', 'Other Face To Face' or 'Electronic' as described below as at the relevant date, then report "Y".
+                                                                                                                                                                     
+To be considered a branch, the following minimum face-to-face services must all be provided.
+                                                                                                                                                                     
+- accepts cash and other deposits (including business deposits) and provides change;
+                                                                                                                                                                     
+- facilitates the keeping of accounts for customer access, including the provision of account balances;
+                                                                                                                                                                     
+- opens and closes accounts;
+                                                                                                                                                                     
+- can facilitate or arrange the assessment of the credit risk of existing and potential customers; and
+                                                                                                                                                                     
+- offers additional services in the one establishment such as financial services, business banking and specialist lending, if these are generally available from the reporting party. This need not mean that a financial adviser or business credit manager be available in the branch - the staff of the branch may simply act as a referral point for customers interested in these kinds of services.
+                                                                                                                                                                     
+'Other Face To Face' comprises service channel types that do not meet the definition of a 'branch' as described above as at the relevant date, but do provide  face-to-face services that do not meet the minimum branch requirements, such as, Agencies, Mobile Lenders, Head Offices etc.
+                                                                                                                                                                     
+"Electronic" service channels  include:
+                                                                                                                                                                     
+ATMs and CDs - Terminal allowing an authorised cardholder to withdraw cash from either a cheque/savings or credit account. Where the terminal is an ATM, it will also provide access to a varying range of other services such as balance inquiry, transfer of funds and acceptance of deposits. Authorisation is via a Personal Identification Number (PIN). Access is unassisted and may be 24 hours/day, depending on the terminal's location.
+                                                                                                                                                                     
+EFTPOS terminal - Terminal located at a retail outlet which enables an authorised cardholder to purchase goods and services using either deposit or credit funds and may also enable cash withdrawals using deposit funds. Authorisation is via a PIN for deposit funds and a verified signature for credit funds. Access is with the assistance of the retailer and is therefore restricted to the operating hours of the retail outlet.
+                                                                                                                                                                     
+EFTPOB terminal - Terminal located at a retail outlet which enables an authorised cardholder to withdraw cash from a cheque/savings or credit account and also provides access to a varying range of other services such as balance inquiry, transfer of funds and acceptance of deposits. Authorisation is via a PIN. Access is with the assistance of the retailer and is therefore restricted to the operating hours of the retail outlet. GiroPost terminals are not to be included in this category.
+                                                                                                                                                                     
+Credit authorised transfer (CAT)/CAT with merchant data CAPture (CAT/CAP)
+Terminal located at a retail outlet which enables an authorised cardholder to purchase goods and services using credit funds. Authorisation is via a signature. The CAT/CAP terminal does not require a paper voucher because CAP functionality allows for electronic capture and transfer of the transaction details. Access is with the assistance of the retailer and is therefore restricted to the operating hours of the retail outlet.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = the service channel type does not meet the definition of a 'branch', 'Other Face To Face' or 'Electronic' 
+FALSE = the service channel type does meet the definition of a 'branch', 'Other Face To Face' or 'Electronic'
+
+## syntax
+### xbrl
+- name=OrganisationDetails.ServiceChannelOtherARF396.Indicator
+- classification=py/pyde/pyde.02.07
+- period=instant

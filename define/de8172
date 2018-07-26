@@ -1,0 +1,22 @@
+# Financial Risk Operational Credit Loss Events Count
+
+## identifier
+de8172
+
+## type
+int
+
+## definition
+This is the number of operational risk-related credit loss events, where the discovery date is during the relevant period. For the purposes of this item, report only those losses which exceed the threshold that the reporting party has established for operational risk-related credit losses and that are treated as credit risk for the purpose of calculating the reporting party's regulatory capital. This item is to be determined in accordance with relevant prudential standards.
+
+For entities with foreign operations, report only the loss events exceeding the equivalent global reporting threshold.
+
+For the purposes of this item, report both open and closed events. Open events are those events that have been identified but may not yet have been finalised. 
+
+Operational risk represents the risk of loss resulting from inadequate or failed internal processes, people and systems or from external events. This includes legal risk, but excludes strategic and reputational risks.
+
+## syntax
+### xbrl
+- name=FinancialRisk.Operational.CreditLossEvents.Count
+- classification=baf/bafot/bafot.02.06
+- period=duration

@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Amounts Receivable From Clients Outstanding Security Settlements Amount
+
+## identifier
+de1241
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for those institutions that have broking activity (i.e. equity broking) with clients who are other than financial institutions, record the amount due from clients in relation to security settlement transactions. Do not include amounts receivable from financial institutions or clearing houses in relation to security settlements.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.AmountsReceivableFromClientsOutstandingSecuritySettlements.Amount
+- classification=baf/bafpo/bafpo5.02.00
+- period=instant

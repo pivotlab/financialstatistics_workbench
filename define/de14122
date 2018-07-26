@@ -1,0 +1,17 @@
+# Financial Risk Solvency Inflow Cash Maturing Investments Amount
+
+## identifier
+de14122
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for amounts receivable on maturity from the investment of assets of the fund.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.InflowCashMaturingInvestments.Amount
+- classification=baf/bafot/bafot.02.25
+- period=instant

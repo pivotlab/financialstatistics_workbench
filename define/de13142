@@ -1,0 +1,21 @@
+# Superannuation Fund Details Self Insurance Arrangement Status Indicator
+
+## identifier
+de13142
+
+## type
+boolean
+
+## definition
+This indicates whether, during the relevant period, the self insurance arrangement is closed to new members.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = the self insurance arrangement is closed to new members. 
+false = the self insurance arrangement is still open to new members.
+
+## syntax
+### xbrl
+- name=SuperannuationFundDetails.SelfInsuranceArrangementStatus.Indicator
+- classification=em/emsup/emsup.02.10
+- period=duration

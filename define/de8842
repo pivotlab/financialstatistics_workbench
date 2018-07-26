@@ -1,0 +1,17 @@
+# Liabilities Insurance Premiums Liabilities Net Surplus Deficit Amount
+
+## identifier
+de8842
+
+## type
+float
+
+## definition
+This is the amount, as at the relevant date, by which the premiums liabilities determined in accordance with accounting standards exceeds (or is in deficit of) the equivalent figure determined in accordance with prudential standards. Premiums liabilities relate to all future claim payments arising from future events post the valuation date that will be insured under the reporting entity's existing policies that have not yet expired. The value of the premiums liabilities must include an amount in respect of the expenses that the reporting entity expects to incur in administering and settling the relevant claims and allow for expected premium refunds. The value of premiums liabilities must not include any Government charges directly imposed on the insurer such as levies, duties and taxes. Also a deferred acquisition cost asset must not be reported.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.PremiumsLiabilitiesNetSurplusDeficit.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

@@ -1,0 +1,17 @@
+# Expense Operating Customer Retention Variable Amount
+
+## identifier
+de4401
+
+## type
+float
+
+## definition
+Report the value of commission and other incremental expenses incurred in relation to maintaining existing business. These are the variable costs of administering policies subsequent to their sale and the general administration costs.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.CustomerRetentionVariable.Amount
+- classification=baf/bafpr/bafpr2.02.05
+- period=duration

@@ -1,0 +1,17 @@
+# Insurance Expense Premium Members Death Disabilty Net Amount
+
+## identifier
+de1966
+
+## type
+float
+
+## guidance
+Represents members' total death and/or disability insurance premiums paid or payable during the reporting period less any rebates received in respect of those premiums.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Insurance.ExpensePremiumMembersDeathDisabiltyNet.Amount
+- classification=baf/bafpr/bafpr3.02.00
+- period=duration

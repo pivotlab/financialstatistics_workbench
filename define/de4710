@@ -1,0 +1,21 @@
+# Assets Loans And Receivables Receivables Excluding Accrued Income Net Amount
+
+## identifier
+de4710
+
+## type
+float
+
+## definition
+Report the net market value, or fair value, of receivables, including outstanding premiums, but not deferred acquisition costs arising in respect of policies. Do not include accrued income from investment assets. This method of disclosure differs from the Australian Accounting Standards.
+
+Acquisition costs, as defined by the Australian Accounting Standards, are the fixed and variable costs of acquiring new business including commissions and similar distribution costs, and costs of accepting, issuing and initially recording policies. (Acquisition costs relate to the costs incurred in acquiring specific life insurance contracts during the relevant period. They do not include the general growth and development costs incurred by a life insurer.)
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.ReceivablesExcludingAccruedIncomeNet.Amount
+- classification=baf/bafpo/bafpo5.02.04
+- period=instant

@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Aggregated Risk Charge Components Amount
+
+## identifier
+de13019
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the aggregate of the risk charge components resulting from the application of the asset risk stress scenarios, allowing for the likelihood of the scenarios occurring simultaneously. This item is to be determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.AggregatedRiskChargeComponents.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

@@ -1,0 +1,19 @@
+# Financial Risk Mortgages Sum Insured Amount
+
+## identifier
+de8831
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the sum of mortgages insured by the reporting party, as determined in accordance with relevant Prudential Standards.
+
+The sum insured represents the original exposure amount as stated in the mortgage insurance policy.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.MortgagesSumInsured.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

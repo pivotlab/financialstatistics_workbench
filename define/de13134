@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Benefit Certificate Date
+
+## identifier
+de13134
+
+## type
+string
+
+## definition
+This is the relevant date of the benefit certificate. A benefit certificate represents the benefit certificate that has been obtained from an actuary.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.BenefitCertificate.Date
+- classification=em/emsup/emsup.02.10
+- period=instant

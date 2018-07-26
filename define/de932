@@ -1,0 +1,17 @@
+# Assets Cash And Liquid Assets Gold Bullion Amount
+
+## identifier
+de932
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for gold coin; gold bullion held in Australia and elsewhere; and gold certificates held as investments. Exclude loans repayable in gold bullion.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.GoldBullion.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

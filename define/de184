@@ -1,0 +1,17 @@
+# Expense Interest Other Borrowings Amount
+
+## identifier
+de184
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the amount of interest expense incurred on borrowings related to other borrowings.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Interest.OtherBorrowings.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

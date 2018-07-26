@@ -1,0 +1,16 @@
+# Regulatory Disclosures Insured Persons Count
+
+## identifier
+de14047
+
+## type
+int
+
+## definition
+This is the number, as at the relevant date, of insured persons.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuredPersons.Count
+- classification=baf/bafot/bafot.02.25
+- period=instant

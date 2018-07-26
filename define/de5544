@@ -1,0 +1,19 @@
+# Income Transfer Pre Retirement Benefits Amount
+
+## identifier
+de5544
+
+## type
+float
+
+## definition
+Report amounts recieved during the relevant period from the transfer of pre retirement benefits.
+
+Include amounts received on behalf of both new and existing members. Include transfers between entities where a single employer sponsors several entities, but not between sub-plans of a single master trust.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.TransferPreRetirementBenefits.Amount
+- classification=baf/bafpr/bafpr1.02.05
+- period=duration

@@ -1,0 +1,21 @@
+# Auditor Report Opinion Except For Indicator
+
+## identifier
+de9016
+
+## type
+boolean
+
+## definition
+This is the indicator for an audit opinion of except for, for the relevant period.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = The audit opinion for the relevant period was Except for
+FALSE = The audit opinion for the relevant period was not Except for
+
+## syntax
+### xbrl
+- name=AuditorReport.OpinionExceptFor.Indicator
+- classification=em/emfsm/emfsm.02.06
+- period=duration

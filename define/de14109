@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Billed Risk Equalisation Trust Fund Liability Amount
+
+## identifier
+de14109
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the risk equalisation special account payments, for which an invoice from the relevant prudential authority has been received by the insurer but has not yet been paid by the insurer.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.BilledRiskEqualisationTrustFundLiability.Amount
+- classification=baf/bafot/bafot.02.25
+- period=instant

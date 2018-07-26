@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities Net Movement Deferred Fee Revenue Amount
+
+## identifier
+de5454
+
+## type
+float
+
+## definition
+Report the value of amortisation of liability for deferred fee revenue in respect of Life Investment Contracts, less additional deferral of fees during the relevant period that have been recognised as movements in Policy Liability.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.NetMovementDeferredFeeRevenue.Amount
+- classification=baf/bafpo/bafpo6.02.05
+- period=duration

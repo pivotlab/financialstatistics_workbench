@@ -1,0 +1,32 @@
+# Assets Investment Other Assets Net Acquisition Disposal Transactions SRF 230 0 And SRF 330 0 Amount
+
+## identifier
+de5103
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+Report the value of net acquisition and disposal transactions of investment assets during the relevant period other than those assets classified as one of the following:
+- Cash and liquid assets
+- Receivables
+- Equity securities and unit trusts
+- Cash and fixed interest investments
+- Investment loans and advances
+- Investment Property
+- Balanced or mixed mandates, or those mandates which are unable to be allocated across this list of asset classes.
+
+This balancing item is to be reported as per the requirements on APRA forms SRF_230_0 and SRF_330_0.
+
+The acquisition cost, or historical cost, of an asset is the original cost paid to acquire the asset, at the date the asset was initially acquired. Where the asset was acquired in stages, sum the initial acquisition cost of each stage, but only to the extent the acquisitions occurred during the relevant period.
+
+The disposal of an asset takes place if a change of ownership occurs, whether because of some act or event (such as damage) or by operation of law, e.g. when an asset is transferred from one person to another by way of sale or gift.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.OtherAssetsNetAcquisitionDisposalTransactionsSRF2300AndSRF3300.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=duration

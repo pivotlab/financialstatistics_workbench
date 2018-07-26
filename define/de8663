@@ -1,0 +1,21 @@
+# Regulatory Disclosures Director Indicator
+
+## identifier
+de8663
+
+## type
+boolean
+
+## definition
+Is the responsible person, as determined in accordance with relevant Prudential Standards, a director of the company?
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = the responsible person, as determined in accordance with relevant Prudential Standards, is a director of the company.
+FALSE = the responsible person, as determined in accordance with relevant Prudential Standards, is not a director of the company.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.Director.Indicator
+- classification=baf/bafot/bafot.02.06
+- period=duration

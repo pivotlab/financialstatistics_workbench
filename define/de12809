@@ -1,0 +1,17 @@
+# Assets Adjustments Fair Value Amount
+
+## identifier
+de12809
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the difference between the value of the assets/liabilities as determined per the relevant Accounting Standards and the fair value of those assets/liabilities as determined in accordance with relevant Prudential Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.AdjustmentsFairValue.Amount
+- classification=baf/bafpo/bafpo1.02.12
+- period=instant

@@ -1,0 +1,27 @@
+# Superannuation Fund Details Sub Fund Change Status Code
+
+## identifier
+de13747
+
+## type
+string
+
+## definition
+This indicates how the sub-fund, or its reported information, has changed since the previous report.
+
+## guidance
+The valid enumerated values are: Existing = where any information about an existing sub-fund has changed. Unchanged = where all information reported remains unchanged from the previous submission. Ceased = where the RSE or sub-fund is no longer offered to members and the value of assets in that RSE or sub-fund is nil. New = where the sub-fund was not previously reported.
+
+## codes
+| Name      |
+| --------- |
+| Ceased    |
+| Existing  |
+| New       |
+| Unchanged |
+
+## syntax
+### xbrl
+- name=SuperannuationFundDetails.SubFundChangeStatus.Code
+- classification=em/emsup/emsup.02.16
+- period=duration

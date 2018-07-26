@@ -1,0 +1,19 @@
+# Profit Or Loss Realised Gains Or Losses Excluding Foreign Exchange Amount
+
+## identifier
+de8579
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of realised gains (losses), excluding foreign currency gains (losses) that occur due to currency translation.
+
+Gains (losses) are realised where the entity disposed of an asset during the relevant period. If an asset has not been disposed of during the relevant period, then any increases or decreases in the fair value of the asset are recognised as unrealised gains (losses).
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.RealisedGainsOrLossesExcludingForeignExchange.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

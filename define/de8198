@@ -1,0 +1,24 @@
+# Assets Loans And Advances Other ARF117 Amount
+
+## identifier
+de8198
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of other loans and advances, as required on form ARF_117_0 and represents loans and advances other than those classified as:
+     - Revolving credit;
+     - Credit cards;
+     - Housing loans;
+     - Term loans; and
+     - Lease financing.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndAdvancesOtherARF117.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

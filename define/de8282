@@ -1,0 +1,19 @@
+# Assets Insurance Reinsurance Recoverables Paid Claims Net Amount
+
+## identifier
+de8282
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of reinsurance recoverables, that is net of provisions for doubtful debts, in relation to reinsurance contracts for claims paid by the reporting party.
+
+Reinsurance recoverables are any amounts due to the reporting party under a reinsurance arrangement that arise from the recognition of Outstanding Claims Liabilities in accordance with capital and prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.ReinsuranceRecoverablesPaidClaimsNet.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

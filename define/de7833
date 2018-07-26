@@ -1,0 +1,17 @@
+# Assets Cash And Liquid Assets Deposits Not At Call Eligible Amount
+
+## identifier
+de7833
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for deposits that are not at call but that are eligible for liquidity calculation. These are deposits that are redeemable or withdrawable by the entity within 2 business days.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.DepositsNotAtCallHQLA.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=instant

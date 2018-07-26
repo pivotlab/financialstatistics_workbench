@@ -1,0 +1,23 @@
+# Assets Exposures Derivative Instruments Amount
+
+## identifier
+de12821
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of counterparty exposures to derivative assets. 
+
+This is forward-type contracts held by the reporting entity that are favourable (i.e. where it represents net gain to the reporting entity) or option type derivatives that are brought. Credit derivatives take the form of either forward-type and option-type contracts so include under assets either when the revaluation is favourable or when the credit protection is brought. This item is to be determined in accordance with accounting standards. A derivative is a financial instrument that is derived from some other asset, index, value or other variable (known as the underlying).
+
+An exposure to a counterparty or a group of related counterparties is the aggregate of all claims, commitments arising from on-balance sheet transactions with the counterparty or group of related counterparties. 
+
+On-balance sheet refers to those assets, or exposure items, which are recognised or recorded on the statement of financial position of the reporting entity, as determined in accordance with relevant Accounting Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.DerivativeInstruments.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

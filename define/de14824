@@ -1,0 +1,17 @@
+# Financial Risk Other Outstanding Securities In Securitisation Program Amount
+
+## identifier
+de14824
+
+## type
+float
+
+## definition
+The value of outstanding securities in a securitisation program as recognised in accordance with Prudential Standard APS 120 Securitisation.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Other.OutstandingSecuritiesInSecuritisationProgram.Amount
+- classification=baf/bafot/bafot.02.30
+- period=instant

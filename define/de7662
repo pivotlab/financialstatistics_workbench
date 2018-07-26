@@ -1,0 +1,19 @@
+# Liabilities Other Total RRF320 Amount
+
+## identifier
+de7662
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the total of all liabilities classified as "Other Liabilities" in accordance with the instructions to APRA form RRF320.0
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherTotalRRF320.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

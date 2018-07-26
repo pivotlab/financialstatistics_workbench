@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Unbilled Gross Deficit Amount
+
+## identifier
+de14108
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the central estimate of the sum of the eligible benefits notionally allocated to the age-based pool and the high cost claimants pool, calculated for each risk equalisation jurisdiction and under the conditions outlined in the relevant Rules.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.UnbilledGrossDeficit.Amount
+- classification=baf/bafot/bafot.02.25
+- period=instant

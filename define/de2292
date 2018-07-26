@@ -1,0 +1,17 @@
+# Income Prospective Premium Revenue Gross Total Amount
+
+## identifier
+de2292
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for total gross premium revenue.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Prospective.PremiumRevenueGrossTotal.Amount
+- classification=baf/bafpr/bafpr3.02.00
+- period=duration

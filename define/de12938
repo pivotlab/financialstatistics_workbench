@@ -1,0 +1,29 @@
+# Liabilities Insurance Premiums Liabilities Prudential Or Accounting Amount
+
+## identifier
+de12938
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of premiums liabilities which can be determined in accordance with relevant prudential standards or in accordance with relevant accounting standards.
+                                                                           
+Prudential Premiums Liabilities relate to all future claim payments arising from future events post the valuation date that will be insured under the reporting entity's existing policies that have not yet expired. The value of Prudential Premium Liabilities must include an amount in respect of the expenses that the reporting entity expects to incur in administering and settling the relevant claims and allow for expected premium refunds. 
+
+The value of prudential premiums liabilities must not include any Government charges directly imposed on the reporting entity such as levies, duties and taxes. Also a deferred acquisition cost asset must not be reported as part of Prudential Premium Liabilities. 
+
+The Prudential Premium Liabilities will be measured as the present value of the future expected payments, i.e. discounted for future investment income, plus a risk margin determined in accordance with relevant prudential standards. The risk margin must be assessed at the level specified by APRA for capital purposes; this may not be the same risk margin used for other purposes.
+                                                  
+Accounting Premiums Liabilities are calculated as UPL - DAC, where: 
+                                                          
+UPL = Unearned Premium Liability as determined in accordance with the relevant accounting standards.
+                                                          
+DAC = Deferred Acquisition Costs as determined in accordance with the relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.PremiumsLiabilitiesPrudentialOrAccounting.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

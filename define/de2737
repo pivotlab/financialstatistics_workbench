@@ -1,0 +1,17 @@
+# Assets Other Non Financial Assets Operating Lease Receivables Machinery And Equipment Amount
+
+## identifier
+de2737
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for any receivables from operating leases of terms of one year or more for tangible assets for example motor vehicles and other plant and equipment. Exclude leasing of land and buildings.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherNonFinancialAssets.OperatingLeaseReceivablesMachineryAndEquipment.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

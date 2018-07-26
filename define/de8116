@@ -1,0 +1,21 @@
+# Financial Risk Market Options Commodities Amount
+
+## identifier
+de8116
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of commodities (excluding gold) options, as determined in accordance with relevant prudential standards.
+
+A commodities contract is any contract that transfers the commodity price risk of an underlying asset from one party to another.
+
+An option provides the purchasing entity with the right but not the obligation to buy or sell a specific amount of the underlying asset at a pre-agreed price, on or before a specific future date.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.OptionsCommodities.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

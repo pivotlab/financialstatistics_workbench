@@ -1,0 +1,17 @@
+# Income Interest Loans And Advances Overdrafts Amount
+
+## identifier
+de206
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the amount of interest income derived from overdrafts.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Interest.LoansAndAdvances.Overdrafts.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

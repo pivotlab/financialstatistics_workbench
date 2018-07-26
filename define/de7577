@@ -1,0 +1,17 @@
+# Assets Disposal Proceeds Plant Equipment Amount
+
+## identifier
+de7577
+
+## type
+float
+
+## definition
+This is the value of the proceeds on disposals of plant and equipment recognised in the accounts during the relevant period.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.Disposal.ProceedsPlantEquipment.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=duration

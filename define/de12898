@@ -1,0 +1,17 @@
+# Financial Risk Termination Value Amount
+
+## identifier
+de12898
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the Termination Value of insurance policies, as calculated by the relevant standard. The Termination Value of a policy is either: a) the amount that would be paid in the event of voluntary termination; or b) where no amount would be paid, the discounted present value of the unexpired risks, future payments and/or contractual premium refunds.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.TerminationValue.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

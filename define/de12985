@@ -1,0 +1,19 @@
+# Assets Investment Debt Securities Non Hybrid Plus Accrued Income Non Indexed Amount
+
+## identifier
+de12985
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of non-indexed pure (i.e. non hybrid) debt securities, plus income accrued but not received in relation to this asset. This method of disclosure differs from the Australian Accounting Standards.
+
+Non-indexed debt securities pay an income stream based upon an interest rate, which is not dependent on any external factor. Debt securities are transferable instruments evidencing a relationship of indebtedness. It is characterised by having a definable income stream that is not based on the economic performance of the issuing entity. Pure debt securities are financial instruments that, from the issuer's perspective, contain only a liability element.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.DebtSecuritiesNonHybridPlusAccruedIncomeNonIndexed.Amount
+- classification=baf/bafpo/bafpo7.02.12
+- period=instant

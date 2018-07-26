@@ -1,0 +1,18 @@
+# Assets In House Assets Amount
+
+## identifier
+de4505
+
+## type
+float
+
+## definition
+This is the value as at the relevant date of the net market value, or fair value, of in-house assets, as determined in accordance with the Superannuation Industry (Supervision) Act.
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.InHouseAssets.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

@@ -1,0 +1,17 @@
+# Liabilities Insurance Margin For Risk Amount
+
+## identifier
+de14100
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the dollar value of the risk margin held in relation to the relevant liability.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.MarginForRisk.Amount
+- classification=baf/bafpo/bafpo3.02.15
+- period=instant

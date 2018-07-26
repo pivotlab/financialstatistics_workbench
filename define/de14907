@@ -1,0 +1,17 @@
+# Financial Risk Foreign Currency Liquidity Coverage Ratio Amount
+
+## identifier
+de14907
+
+## type
+float
+
+## definition
+Report the amount of foreign currency liquidity coverage ratio (LCR) for all currencies where the authorised deposit taking institutions (ADI's) total liabilities in that currency (before any hedging) exceed five per cent of the ADI's total liabilities at any time during the quarter.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.ForeignCurrencyLiquidityCoverageRatio.Amount
+- classification=baf/bafot/bafot.02.32
+- period=duration

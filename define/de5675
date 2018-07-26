@@ -1,0 +1,31 @@
+# Financial Risk Solvency Admissible Assets Resilience Requirement Non Standard Resillience Factors Amount
+
+## identifier
+de5675
+
+## type
+float
+
+## definition
+Report the admissible value of assets where the actuary has considered that non-standard resilience factors are appropriate, as per the solvency standard. 
+
+This should only be used in rare cases. It is intended to cover situations where assets are disaggregated into (1) an identifiable sub-asset and (2) a residual that does not fit into any of the asset sectors specified by Life Insurance Prudential Standards for resilience purposes, or where a non-standard resilience risk has been modelled in accordance with Life Insurance Prudential Standards.
+
+The admissible value is the net market value of all assets where the actuary has considered that non-standard resilience factors are appropriate, less the value of those deemed to be inadmissible, as per the solvency standard. 
+
+The inadmissible assets are: 
+a) assets which have a value that is dependent upon the continuation of the business;
+b) holdings in an associated or subsidiary entity which is a Financial Services entity;
+c) non-realisable (in the context of the solvency tests) intangible assets;
+d) assets with too little diversification, are too illiquid or have too great an exposure to one obligor of low credit standing;
+e) reinsurance assets which may not be fully recoverable in the context of the solvency tests; and
+f) amounts by which the recorded value of an asset exceeds its net realisable value.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.AdmissibleAssetsResilienceRequirementNonStandardResillienceFactors.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

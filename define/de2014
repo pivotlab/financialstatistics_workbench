@@ -1,0 +1,17 @@
+# Expense Operating Total Amount
+
+## identifier
+de2014
+
+## type
+float
+
+## guidance
+This is a subtotal item within the list in which it is being used
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.Total.Amount
+- classification=baf/bafpr/bafpr2.02.04
+- period=duration

@@ -1,0 +1,17 @@
+# Assets Other Financial Assets Non Liquid Deposits Total Amount
+
+## identifier
+de969
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the value of deposits which are not at call, and therefore not redeemable or able to be withdrawn by the reporting party on demand or within 24 hours.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.NonLiquidDepositsTotal.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

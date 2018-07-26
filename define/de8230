@@ -1,0 +1,25 @@
+# Assets Exposures Lending Commitments Fixed Term Revolving Credit Leases New Amount
+
+## identifier
+de8230
+
+## type
+float
+
+## definition
+This is the value of new lending commitments, or firm offers, in the form of fixed-term loans, revolving credit loans and leases (operating and financing) provided by the reporting party during the relevant period, regardless of whether or not they have subsequently been withdrawn, or cancelled, during or after the period. New commitments will also include commitments that involve or make provision for the issue of bills of exchange to be accepted, discounted or drawn down, and commitment for standby agreements. Do not report commitments for the purchase of securities unless it involves a direct commitment to a client, bills of exchange and promissory notes purchased and held, commitments contingent on some specified eventuality (e.g. bill endorsement, guarantees, letter of credit) unless and until that eventuality occurs) and commitments for discounts which exists as options under acceptance commitments.
+
+A commitment is a firm offer to provide finance which has been accepted by the client. A commitment exists once the loan application has been approved, and a loan contract or letter of offer has been issued to the borrower. 
+
+Fixed-term loans generally involve a commitment for a fixed period for a specific purpose and repayments over that fixed period which reduce the loan, but do not make further finance available.
+
+A revolving credit loan is a loan secured by the borrowers equity, has no fixed term, is effectively a line of credit, and the borrower is obliged to repay interest only.
+
+With transactions involving a change of residence, you should treat the discharge of the existing loan and the commitment to a new loan as separate events, and report the total value of the new loan as a new commitment..
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.LendingCommitmentsFixedTermRevolvingCreditLeasesNew.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=duration

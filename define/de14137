@@ -1,0 +1,17 @@
+# Expense Insurance Reinsurance Recoveries Amount
+
+## identifier
+de14137
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of expense of reinsurance recoveries in respect of insurance claims. This item is to be determined in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.ReinsuranceRecoveries.Amount
+- classification=baf/bafpr/bafpr3.02.21
+- period=duration

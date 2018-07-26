@@ -1,0 +1,25 @@
+# Assets Insurance Debt Securities Not Subordinated Prudential Government GRF300G Amount
+
+## identifier
+de8807
+
+## type
+float
+
+## definition
+This is the value, at the relevant date, of debt securities other than those classified as subordinated. For the purposes of this item only include those debt securities where the issuer is:
+
+1) an Australian Government (Commonwealth, State or Local); or 
+
+2) the national government of a foreign country and either the credit rating in accordance with General Insurance Prudential Standard GPS114 is grade 1 or the country's long term foreign currency counterparty rating is grade 1.
+
+Debt securities are transferable instruments evidencing a relationship of indebtedness. They are characterised by having a definable return that is not based on the economic performance of the issuing entity. The value of this item is to be determined in accordance with accounting standards.
+
+Subordinated debt is a debt where the claim to repayment ranks lower in priority to other claims.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.DebtSecuritiesNotSubordinatedPrudentialGovernmentGRF300G.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

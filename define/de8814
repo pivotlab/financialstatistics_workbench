@@ -1,0 +1,29 @@
+# Financial Risk Credit Off Balance Sheet Non Market Related Other Transactions GRF 130L0 Amount
+
+## identifier
+de8814
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of all other non-market-related off-balance sheet transactions giving rise to credit risk, as to be reported on form GRF_130_0.
+
+This item represents total non-market related off-balance sheet transactions giving rise to credit risk, other than those transactions classified as any of the following:
+     - Direct credit substitutes;
+     - Trade-related contingencies;
+     - Sale and repurchase agreements;
+     - Assets sold with recourse;
+     - Forward asset purchases;
+     - Partly paid shares and securities;
+     - Placements of forward deposits; or
+     - Surety bonds.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Credit.OffBalanceSheetNonMarketRelatedOtherTransactionsGRF130L0.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

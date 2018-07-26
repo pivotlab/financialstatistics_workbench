@@ -1,0 +1,17 @@
+# Assets Cash And Liquid Disposal Proceeds Amount
+
+## identifier
+de5768
+
+## type
+float
+
+## definition
+Report the disposal proceeds arising from the decrease in cash and liquid assets during the relevant period.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.CashAndLiquidDisposalProceeds.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=duration

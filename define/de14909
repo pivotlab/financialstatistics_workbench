@@ -1,0 +1,16 @@
+# Regulatory Disclosures Loan Serviceability Assessment Rate Weighted Average Rate
+
+## identifier
+de14909
+
+## type
+float
+
+## definition
+This is the weighted average loan serviceability assessment rate calculated as the average of the individual loans interest rates, weighted by the credit limit during the relevant period. The loan serviceability assessment rate is the interest rate used in the lender's serviceability assessments, such as an interest-rate floor or actual interest-rate rate plus interest-rate buffer.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.LoanServiceabilityAssessmentRateWeightedAverage.Rate
+- classification=baf/bafot/bafot.02.32
+- period=duration

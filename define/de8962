@@ -1,0 +1,19 @@
+# Assets Insurance Prospective Recoveries Not Reinsurance Outstanding Claims Provision Gross Amount
+
+## identifier
+de8962
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of recoveries, other than reinsurance recoveries, receivable by the reporting party in relation to outstanding (unpaid) claims, gross of any provisions for depreciation or impairment. This item is to be determined in accordance with relevant reporting standards. 
+
+Recoveries to be included at this item include salvage, subrogation, and input tax credit recoveries, amongst others.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.Prospective.RecoveriesNotReinsuranceOutstandingClaimsProvisionGross.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

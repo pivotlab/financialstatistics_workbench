@@ -1,0 +1,21 @@
+# Financial Risk Capital Adequacy Lower Tier 2 Other Capital Instruments MRF 120 Amount
+
+## identifier
+de8901
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of all Lower Tier 2 capital instruments, other than those classified as term subordinated debt as required to be reported in the APRA MRF_120_0 form. 
+
+This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.LowerTier2OtherCapitalInstrumentsMRF120.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

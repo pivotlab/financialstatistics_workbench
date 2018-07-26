@@ -1,0 +1,17 @@
+# Assets Insurance Deferred Reinsurance Expense Prudential Amount
+
+## identifier
+de8315
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of deferred reinsurance expense (DRE), determined in accordance with prudential standards.DRE represents the deferral of reinsurance expense in accordance with the pattern of reinsurance service received. Reinsurance expense will be recognised from the attachment date over the period of indemnity of the reinsurance contract in accordance with the expected pattern of the incident of risk. This may vary according to the type of reinsurance contract as outlined below. For reinsurance written on risks attaching or, equivalently, an underwriting period basis, current reinsurance contracts are fully matched to the underlying insurance portfolios. Reinsurance coverage for the underlying portfolio is recognised as the underlying policies are written. For reinsurance written on a losses occurring basis, current reinsurance contracts provide coverage for any risks exposed during the reinsurance period irrespective of when the underlying business was written. Such reinsurance covers both the unexpired portion of policies in force at the contract commencement date and that portion of new business and renewals written during the year that is earned up to the contract expiry date. This latter portion relates to business which has not yet been written at the contract commencement date. It is expected that initially the full minimum and deposit premium would be recognised as an expense, with any necessary adjustments due to experience at subsequent relevant dates. Where payments under a reinsurance contract extend beyond the current year of cover, reinsurance expense is to be discounted using similar discount rates as required in measuring insurance liabilities in accordance with relevant accounting standard.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.DeferredReinsuranceExpensePrudential.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

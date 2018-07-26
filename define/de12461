@@ -1,0 +1,21 @@
+# Assets Loans And Advances Warehouse Funding Facilities Amount
+
+## identifier
+de12461
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the securitisation special purpose vehicles (SPVs) or secured funding arrangements to which the reporting entity has provided new warehouse funding facilities during the reporting period.
+
+An SPV is a financing vehicle that typically purchases and holds the pool for the purposes of a securitisation. The SPV's payment for the pool is typically funded by debt, including through the issue of units or securities by the SPV.
+
+Warehouse funding facilities are loan agreements entered into by a counterparty with the reporting party for the purpose of funding to warehouse special purpose vehicles (SPVs).
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndAdvancesWarehouseFundingFacilities.Amount
+- classification=baf/bafpo/bafpo1.02.08
+- period=duration

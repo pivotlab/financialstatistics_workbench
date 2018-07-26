@@ -1,0 +1,21 @@
+# Expense Write Off Indirect Exposure Property Commercial Other ARF 230 0 Amount
+
+## identifier
+de8733
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+     
+This is, for the duration of the relevant period, the amount written off against the reporting party's provisions or asset revaluation reserves for investments that result in an exposure to other commercial property, as required to be reported on APRA form ARF_230_0.
+
+Commercial property exposure is defined according to the nature of the risk. An exposure should be classified as commercial property risk, if the exposure is subject to the performance of the property market.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.WriteOffIndirectExposurePropertyCommercialOtherARF2300.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

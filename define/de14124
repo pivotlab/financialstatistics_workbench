@@ -1,0 +1,17 @@
+# Regulatory Disclosures Incurred Payments Goods Services Received Amount
+
+## identifier
+de14124
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for payments incurred by the entity relating to goods and/or services provided from a counterparty.
+
+## syntax
+### xbrl
+- balance=debit
+- name=RegulatoryDisclosures.IncurredPaymentsGoodsServicesReceived.Amount
+- classification=baf/bafot/bafot.02.25
+- period=duration

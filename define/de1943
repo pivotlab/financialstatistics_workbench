@@ -1,0 +1,17 @@
+# Superannuation Contribution Total Amount
+
+## identifier
+de1943
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for any contributions paid in from all possible sources.
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationContribution.Total.Amount
+- classification=em/emsup/emsup.02.00
+- period=duration

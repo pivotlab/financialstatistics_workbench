@@ -1,0 +1,21 @@
+# Superannuation Regulatory Information Default Investment Option Indicator
+
+## identifier
+de13160
+
+## type
+boolean
+
+## definition
+This indicates whether the investment option is a default option. A default option represents an investment option under which the asset of the fund attributed to a new member is invested under the current governing rules of the fund if no direction were given.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = The investment option is a default option. 
+false = The investment option is not a default option.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.DefaultInvestmentOption.Indicator
+- classification=em/emsup/emsup.02.10
+- period=instant

@@ -1,0 +1,23 @@
+# Insurance Net Policy Liabilities Effective Movement Amount
+
+## identifier
+de4622
+
+## type
+float
+
+## definition
+Report the value of the effective movement in net policy liabilities, calculated as:
+- increase/(decrease) in net policy liabilities;
+- less deposits received;
+- plus withdrawals of deposits;
+- plus non-premium related fees for management services (which would otherwise be recognised as a reduction in policy liabilities);
+- plus movements in the liability for deferred fee revenue (which are reported as part of Fees for Management Services Rendered but would otherwise result in a change in policy liabilities for Investment Contracts);
+- less movements in the liability for deferred acquisition costs (which are reported as part of Operating Expenses but would otherwise result in a change in policy liabilities for Investment Contracts).
+
+## syntax
+### xbrl
+- balance=debit
+- name=Insurance.NetPolicyLiabilitiesEffectiveMovement.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

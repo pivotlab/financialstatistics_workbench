@@ -1,0 +1,17 @@
+# Expense Operating Depreciation Property Plant And Equipment Amount
+
+## identifier
+de7501
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of depreciation charged to profit and loss in respect of property, plant and equipment as determined in accordance with accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.DepreciationPropertyPlantAndEquipment.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

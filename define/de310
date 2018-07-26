@@ -1,0 +1,17 @@
+# Expense Other Operating Amount
+
+## identifier
+de310
+
+## type
+float
+
+## definition
+Operating expenses are defined as expenses incurred in the ordinary activities of an entity. Other operating expenses refers to all operating expenses incurred that are not collected elsewhere.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.OtherOperating.Amount
+- classification=baf/bafpr/bafpr1.02.00
+- period=duration

@@ -1,0 +1,17 @@
+# Equity Reserves Asset Revaluation Reserve Investment In Subsidiaries Amount
+
+## identifier
+de1538
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the balance of the asset revaluation reserve relating to the revaluation of investment in subsidiaries.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Reserves.AssetRevaluationReserveInvestmentInSubsidiaries.Amount
+- classification=baf/bafpo/bafpo2.02.00
+- period=instant

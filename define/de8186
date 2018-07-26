@@ -1,0 +1,19 @@
+# Assets Exposures Loans And Advances Provided Approved Limit Amount
+
+## identifier
+de8186
+
+## type
+float
+
+## definition
+This is the value, of the total committed amount, or limit, of loans and advances receivable, which were first provided during the relevant period.
+     
+Loans and advances are those financial assets categorised as "Loans and Receivables" in the accounting standards, other than "Trade Receivables" and "Cash".
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.ExposuresLoansAndAdvancesProvidedApprovedLimit.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=duration

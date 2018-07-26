@@ -1,0 +1,28 @@
+# Liabilities Exposures Off Balance Sheet Other BS Item Net Incurrance Settlement Transactions Amount
+
+## identifier
+de5165
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+Report the net value of all incurrance and settlement transactions, during the relevant period, of off balance sheet exposures related to liabilities classified as other than any of the following: 
+- Administration Fees
+- Management Fees
+- Investment Fees
+- Trustee Fees
+- Audit and Tax Fees
+- Members benefits payable
+- Borrowings.
+
+Off-balance sheet liability exposures relate to those liabilities or obligations that do not satisfy the recognition requirements of the relevant accounting standards and are therefore not recognised on the face of the balance sheet, or statement of financial position.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Exposures.OffBalanceSheetOtherBSItemNetIncurranceSettlementTransactions.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=duration

@@ -1,0 +1,29 @@
+# Legislation Compliance Reporting Systems Internal Controls Indicator
+
+## identifier
+de5008
+
+## type
+boolean
+
+## definition
+Can the reporting party attest that it has adequate reporting systems and internal controls to ensure that financial information provided:
+1. Agrees  with the accounting records of the superannuation entity in respect of the applicable financial year ended; and 
+2. Truly represents the transactions for the year and financial position at year end, in accordance with the provisions of the SIS Act, the Collection of Data Act and to the extent that they do not contain any requirements to the contrary, Accounting Standards and other mandatory professional reporting requirements in Australia.
+
+The requirement to attest compliance within this item is not intended to exceed the requirements to report only significant breaches to APRA as required by section 29JA of the SIS Act. In the event a breach in relation to this item which was not significant as defined in section 29JA of the SIS Act, then the reporting party is not required to attest non-compliance.
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The reporting party attests that it has adequate reporting systems and internal controls to ensure that financial information provided:
+1. Agrees  with the accounting records of the superannuation entity in respect of the applicable financial year ended; and 
+2. Truly represents the transactions for the year and financial position at year end, in accordance with the provisions of the SIS Act, the Collection of Data Act and to the extent that they do not contain any requirements to the contrary, Accounting Standards and other mandatory professional reporting requirements in Australia.
+
+FALSE = The reporting party cannot attest to the above statement.
+
+## syntax
+### xbrl
+- name=LegislationCompliance.ReportingSystemsInternalControls.Indicator
+- classification=py/pyin/pyin.02.09
+- period=duration

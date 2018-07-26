@@ -1,0 +1,17 @@
+# Income Trust Distributions Non Look Through Amount
+
+## identifier
+de8595
+
+## type
+float
+
+## definition
+This is the value of distributions received from trusts where the entity has chosen a non look-through basis during the relevant period.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.TrustDistributionsNonLookThrough.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

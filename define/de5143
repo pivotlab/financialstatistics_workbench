@@ -1,0 +1,17 @@
+# Assets Exposures Inadmissible Assets Related Parties Value Amount
+
+## identifier
+de5143
+
+## type
+float
+
+## definition
+Report the amount by which the value of the reporting party's holdings in Associated and Subsidiary Financial Services Entities exceed their net tangible assets, in accordance with the assumptions required under the relevant prudential standard.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.InadmissibleAssetsRelatedPartiesValue.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

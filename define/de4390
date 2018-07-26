@@ -1,0 +1,23 @@
+# Assets Policy Liabilities Ceded Under Reinsurance Amount
+
+## identifier
+de4390
+
+## type
+float
+
+## definition
+Report the value of gross policy liabilities ceded under outwards reinsurance.
+
+This amount includes insurance liabilities, financial instrument liabilities and management services element liabilities ceded under reinsurance.
+
+Reinsurance contracts as defined by the Australian Accounting Standards, are insurance contracts issued by one insurer (the reinsurer) to compensate another insurer (the cedent) for losses on one or more contracts issued by the cedent.
+
+Outwards Reinsurance that meets the definition of an insurance contract consists of both a Reinsured Best Estimate Liability and the Value of Reinsured Profit Margins.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.PolicyLiabilitiesCededUnderReinsurance.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

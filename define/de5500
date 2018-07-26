@@ -1,0 +1,27 @@
+# Expense Other PL Operating Amount
+
+## identifier
+de5500
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+Report operating expenses incurred during the relevant period other than those operating expenses classified as:
+
+Interest expense
+General management or administration fees
+Consultancy fees
+Actuary fees
+Directors & trustee fees
+Audit and compliance fees
+Legal fees
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.OtherPLOperating.Amount
+- classification=baf/bafpr/bafpr1.02.05
+- period=duration

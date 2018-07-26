@@ -1,0 +1,17 @@
+# Financial Risk Market Incremental Risk Charge Amount
+
+## identifier
+de12478
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the regulatory capital default and migration risk on trading book positions that is incremental to the risk captured by the Value at Risk (VaR) based calculation of the reporting party. This item is to be reported where the VaR measures include an estimation of the specific risk charge, and is to be determined in accordance with relevant prudential standards
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.IncrementalRiskCharge.Amount
+- classification=baf/bafot/bafot.02.09
+- period=instant

@@ -1,0 +1,19 @@
+# Superannuation Contribution Pooled Super Trusts Contributions Amount
+
+## identifier
+de1941
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for superannuation entities that are pooled super trusts.  Record the dollar value of contributions income received and receivable from pooled super trust members for the period to date, including contributions from self-employed members.
+
+Do not include 'rollovers received'. Show contributions gross of contributions tax and do not deduct entry fees, deferred entry fees, commissions, management fees or any other ongoing fees or charges deducted from the contributions received (where applicable to the superannuation entity).
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationContribution.PooledSuperTrustsContributions.Amount
+- classification=em/emsup/emsup.02.00
+- period=duration

@@ -1,0 +1,23 @@
+# Liabilities Other Financial Liabilities Provisions Other BS ARF320 Series Excluding ARF322 Amount
+
+## identifier
+de7603
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value of total provisions excluding those classified as any of the following:
+- provision for dividends;
+- provision for employee entitlements;
+- provision for non lending losses; and
+- provision for restructuring costs.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.ProvisionsOtherBSARF320SeriesExcludingARF322.Amount
+- classification=baf/bafpo/bafpo6.02.06
+- period=instant

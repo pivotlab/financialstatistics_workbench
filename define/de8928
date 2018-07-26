@@ -1,0 +1,21 @@
+# Assets Loans And Receivables Non Current Reinsurance Recoverables Other Amount
+
+## identifier
+de8928
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is  the value, as at the relevant date, of other reinsurance asset recoverables that are non-current, as required in MRF_300_0.
+
+Reinsurance recoverables are any amounts due to the reporting party from a reinsurer that arise from the recognition of Outstanding Claims Liabilities in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.NonCurrentReinsuranceRecoverablesOther.Amount
+- classification=baf/bafpo/bafpo5.02.05
+- period=instant

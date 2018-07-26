@@ -1,0 +1,17 @@
+# Income Insurance Claim Outwards Reinsurance Deposit Component Amount
+
+## identifier
+de5517
+
+## type
+float
+
+## definition
+Report the deposit (investment) component value of outwards reinsurance claims received. This is the value of the deposit (investment) component of claims against insurance investment policies for which the reporting party has ceded the liability to a reinsurer.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.ClaimOutwardsReinsuranceDepositComponent.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

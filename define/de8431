@@ -1,0 +1,16 @@
+# Profit Or Loss Unrealised Other SRF 100 0 Description
+
+## identifier
+de8431
+
+## type
+string
+
+## definition
+This is the description of the detailed line item comprising the balancing item for other realised or unrealised gains/losses brought to account, as required to be reported on APRA form SRF_100_0.
+
+## syntax
+### xbrl
+- name=ProfitOrLoss.Unrealised.OtherSRF1000.Description
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

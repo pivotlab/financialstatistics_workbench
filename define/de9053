@@ -1,0 +1,21 @@
+# Assets Loans And Receivables Non Current Contribution Deductible Gross Amount
+
+## identifier
+de9053
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of contributions receivable and deductibles receivable from members, classified as non-current in accordance with relevant accounting standards that are gross of any provision for doubtful debts. 
+
+The contribution receivable is the contribution revenue that is receivable from members.
+
+The deductible receivable is the excess of the amount insured that is receivable from members.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.NonCurrentContributionDeductibleGross.Amount
+- classification=baf/bafpo/bafpo5.02.06
+- period=instant

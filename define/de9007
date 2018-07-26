@@ -1,0 +1,21 @@
+# Regulatory Disclosures Insurance Contract Pay Out Claim Irrespective Of Protection Wording Indicator
+
+## identifier
+de9007
+
+## type
+boolean
+
+## definition
+Indicate if the insurance contract pays out the claim, irrespective of whether the claim is within the protection wording of the cover offered to the member for all policies.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = insurance contract pays out the claim, irrespective of whether the claim is within the protection wording of the cover offered to the member for all policies
+FALSE = insurance contract does not pay out the claim, if the claim is outside the protection wording of the cover offered to the member for all policies
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuranceContractPayOutClaimIrrespectiveOfProtectionWording.Indicator
+- classification=baf/bafot/bafot.02.07
+- period=duration

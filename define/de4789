@@ -1,0 +1,21 @@
+# Liabilities Investment Fees Payable Amount
+
+## identifier
+de4789
+
+## type
+float
+
+## definition
+Record the net market value, or fair value, of investment fees payable.
+
+Investment fees are typically amounts payable to an entity that arise as a result of investing activities undertaken.
+
+Net market value or fair value is the amount which could be expected to be received from the disposal of a liability in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.InvestmentFeesPayable.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

@@ -1,0 +1,19 @@
+# Expense Interest Other APRA Insurance 310 3 Amount
+
+## identifier
+de8609
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it has been used.
+
+This is the value of interest expense associated with other interest bearing liabilities as required for APRA Insurance forms 310_3.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Interest.OtherAPRAInsurance3103.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

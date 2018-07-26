@@ -1,0 +1,17 @@
+# Income Insurance Premium Rebate Amount
+
+## identifier
+de13124
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of rebates received from the insurer in respect of members' insurance premiums paid to that insurer.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.PremiumRebate.Amount
+- classification=baf/bafpr/bafpr3.02.13
+- period=duration

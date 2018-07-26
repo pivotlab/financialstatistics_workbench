@@ -1,0 +1,27 @@
+# Off Balance Sheet Performance Related Contingencies Amount
+
+## identifier
+de5027
+
+## type
+float
+
+## definition
+In reporting this item the reporting party is to follow the basis that is used for the preparation of the annual financial statements in accordance with the Australian accounting standards. Actuarial valuations and calculations used in deriving the value of the item must be in accordance with prudential standards.
+
+Report the principal amount of performance-related contingencies. These are non-market related off-balance sheet contingent liabilities that involve an irrevocable obligation to pay a third party in the event that a counterparty fails to fulfil or perform a contractual non-monetary obligation, such as delivery of goods by a specified date, etc (i.e. the risk of loss depends on a future event that is not directly related to the creditworthiness of the counterparty involved).
+This includes but is not limited to:
+- issue of performance bond;
+- bid bonds;
+- warranties;
+- indemnities; and
+- standby letters of credit in relation to a non-monetary obligation of a counterparty under a particular transaction.
+
+The principal amount refers to the face value or gross amount of a given off-balance sheet transaction and not the fair value. The principal amount must be reported as a positive value, even for short positions in derivative financial instruments.
+
+## syntax
+### xbrl
+- balance=debit
+- name=OffBalanceSheet.PerformanceRelatedContingencies.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

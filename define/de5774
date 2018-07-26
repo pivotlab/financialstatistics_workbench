@@ -1,0 +1,21 @@
+# Financial Risk Solvency Liabilities Total Excluding Policy Liabilities Subordinated Debt Seed Capital Amount
+
+## identifier
+de5774
+
+## type
+float
+
+## definition
+Report the total liabilities as determined in accordance with the relevant accounting standards other than Solvency Liability, Approved Eligible Subordinated Debt and Seed Capital.
+
+Eligible approved subordinated debt, is determined in accordance with the approval letter received from the relevant regulatory authority.
+
+Seed capital is the preliminary contribution of funding toward the financing of a new business. Commonly this is in the form of a loan, usually provided by a related entity.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Solvency.LiabilitiesTotalExcludingPolicyLiabilitiesSubordinatedDebtSeedCapital.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

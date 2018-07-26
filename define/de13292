@@ -1,0 +1,17 @@
+# Assets Cash And Liquid Assets Securities Eligible Reserve Bank Of New Zealand Amount
+
+## identifier
+de13292
+
+## type
+float
+
+## definition
+This is the value, after the applicable Reserve Bank of New Zealand (RBNZ) haircuts, of eligible securities that are accepted by the RBNZ in its domestic market operations.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.SecuritiesEligibleReserveBankOfNewZealand.Amount
+- classification=baf/bafpo/bafpo7.02.16
+- period=instant

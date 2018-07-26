@@ -1,0 +1,17 @@
+# Assets Adjusted Covered Bond Amount
+
+## identifier
+de14920
+
+## type
+float
+
+## definition
+The values of total assets on the entities domestic books adjusted to exclude goodwill, assets in cover pools (and any related loans to a covered bond special purpose vehicle) and double-counting.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.AdjustedCoveredBond.Amount
+- classification=baf/bafpo/bafpo1.02.32
+- period=instant

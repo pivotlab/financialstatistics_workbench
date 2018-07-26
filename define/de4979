@@ -1,0 +1,19 @@
+# Expense Insurance Claim Inwards Reinsurance Amount
+
+## identifier
+de4979
+
+## type
+float
+
+## definition
+Report the value of inwards reinsurance claims expense (including current year bonus). This is the value of claims against policies for which the reporting party has accepted the liability from another insurer or reinsurer. Inwards reinsurance claims expense should be gross of retrocession recoveries. Include bonuses paid to the insurer or reinsurer as a distribution of current year profit.
+
+Retrocession is reinsurance by a reinsurer of part, or all, of a risk ceded to them by another insurer or reinsurer.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.ClaimInwardsReinsurance.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

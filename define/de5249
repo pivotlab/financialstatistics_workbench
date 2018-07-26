@@ -1,0 +1,19 @@
+# Expense Transfer Pre Retirement Benefits Amount
+
+## identifier
+de5249
+
+## type
+float
+
+## definition
+Report amounts paid during the relevant period for the transfer of pre retirement benefits.
+
+Include transfers between entities where a single employer sponsors several entities, but not between sub-plans of a single master trust.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.TransferPreRetirementBenefits.Amount
+- classification=baf/bafpr/bafpr1.02.05
+- period=duration

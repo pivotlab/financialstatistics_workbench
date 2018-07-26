@@ -1,0 +1,17 @@
+# Expense Operating Total Acquisition Amount
+
+## identifier
+de13048
+
+## type
+float
+
+## definition
+This is the value, for the duration of the relevant period, of commission and other incremental acquisition costs. They include commission or brokerage paid to agents or brokers for obtaining business for the reporting entity, and variable costs directly related to acquiring the new business that would not have been incurred if the new business were not acquired.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.TotalAcquisition.Amount
+- classification=baf/bafpr/bafpr2.02.13
+- period=duration

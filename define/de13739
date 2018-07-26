@@ -1,0 +1,21 @@
+# Superannuation Regulatory Information Employed By Registrable Superannuation Entity Licensee Associate Indicator
+
+## identifier
+de13739
+
+## type
+boolean
+
+## definition
+This indicates whether the individual is employed in any capacity by an associate of the Registrable Superannuation Entity licensee.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = the individual is employed in any capacity by an associate of the Registrable Superannuation Entity licensee. 
+false = the individual is not employed in any capacity by an associate of the Registrable Superannuation Entity licensee.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.EmployedByRegistrableSuperannuationEntityLicenseeAssociate.Indicator
+- classification=em/emsup/emsup.02.16
+- period=duration

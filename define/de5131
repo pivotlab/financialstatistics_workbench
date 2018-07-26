@@ -1,0 +1,21 @@
+# Superannuation Regulatory Information Actuarially Determined Accrued Benefits Defined Amount
+
+## identifier
+de5131
+
+## type
+float
+
+## definition
+Report the amount of actuarially determined accrued benefits that defined benefit members of the reporting entity have potential entitlement to.
+
+Defined benefit members are those members whose entitlements in the reporting entity are entirely determined on the basis of a defined benefit formula.
+
+Accrued benefits are the reporting entity's present obligation to pay benefits to members and beneficiaries and is calculated as the difference between the carrying amounts of the assets and the carrying amounts of the liabilities as at the relevant date.
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationRegulatoryInformation.ActuariallyDeterminedAccruedBenefitsDefined.Amount
+- classification=em/emsup/emsup.02.02
+- period=instant

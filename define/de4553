@@ -1,0 +1,17 @@
+# Liabilities Insurance Participating Business Future Profits Reinsurance Amount
+
+## identifier
+de4553
+
+## type
+float
+
+## definition
+Report the net present value of future Policy Owner Bonuses in relation to future profits for participating business that have been ceded under reinsurance. Current year bonuses are excluded.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Liabilities.Insurance.ParticipatingBusinessFutureProfitsReinsurance.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

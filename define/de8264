@@ -1,0 +1,17 @@
+# Assets Equity Securities Excess Identifiable Net Tangible Assets Amount
+
+## identifier
+de8264
+
+## type
+float
+
+## definition
+This is the amount by which the carrying value of an equity security by the reporting party as at the relevant date exceeds the identifiable net tangible assets of the issuing entity proportionate to the reporting party's holding in that entity.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.EquitySecuritiesExcessIdentifiableNetTangibleAssets.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

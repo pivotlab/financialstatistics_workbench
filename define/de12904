@@ -1,0 +1,17 @@
+# Income Insurance Inwards Premium Deposit Component Amount
+
+## identifier
+de12904
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for deposit elements for life investment and life insurance investment account business i.e. exclude any revenue components. Include the deposit component of premiums in respect of deferred or immediate annuities that are life investment business written as inwards reinsurance.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.InwardsPremiumDepositComponent.Amount
+- classification=baf/bafpr/bafpr3.02.11
+- period=duration

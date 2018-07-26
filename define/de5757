@@ -1,0 +1,31 @@
+# Financial Risk Management Capital Liability Component Amount
+
+## identifier
+de5757
+
+## type
+float
+
+## definition
+Report the liability component as determined in accordance with management capital standard.
+
+The Liability Component is determined as the realistic value of liabilities of the General Fund plus, in the case of a friendly society, the reserve in respect of servicing expenses and investment-linked business.
+
+The realistic value of the liabilities is the value of the liabilities increased, in the case of life insurance related activities, to reflect assumptions which are more conservative (anticipate a more adverse experience) than best estimate assumptions.
+
+Report the value of the servicing expense reserve determined in accordance with the management capital standard. This relates to a deficiency between expected management fees to be received from the benefit funds and expected servicing expenses.
+
+The investment linked business reserve is determined as 0.25% of the greater of the Policy Liability value in respect of investment linked business (as determined in accordance with the assumptions of the solvency standard) or the Minimum Termination Value (MTV) of investment linked business.
+
+MTV is the amount that the reporting party is obliged to pay to policyholders if they decided to voluntarily terminate their policies at the relevant date. The obligation might be contractual, statutory or a result of past practice. Calculated as the greater of: 
+a) the lowest Termination Value that the reporting party is obliged to pay; and 
+b) the amount calculated in accordance with the Surrender Value Standard.
+
+General Fund refers to the management fund for a friendly society or the shareholders' fund for other life companies, and is distinct and separate from the statutory funds of the life company.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.ManagementCapital.LiabilityComponent.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

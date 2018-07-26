@@ -1,0 +1,19 @@
+# Profit Or Loss Insurance Underwriting Result Prudential Amount
+
+## identifier
+de8541
+
+## type
+float
+
+## definition
+This is the value of the underwriting result for the relevant period. This represents net premium revenue as determined by the relevant Prudential Standards, less net incurred claims and underwriting expenses in accordance with the relevant Accounting Standards. 
+
+For this item net premium revenue represents premium revenue (including any fire service levy and other levies imposed by state and territory governments) determined in accordance with relevant Accounting Standards, less reinsurance expense determined in accordance with relevant Prudential Standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Insurance.UnderwritingResultPrudential.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

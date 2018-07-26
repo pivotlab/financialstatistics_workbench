@@ -1,0 +1,17 @@
+# Assets APRA Determined Interdependent Amount
+
+## identifier
+de14899
+
+## type
+float
+
+## definition
+The value of assets that the Australian Prudential Regulation Authority (APRA) has determined are interdependent under Prudential Standard APS 210 - Liquidity, Attachment C.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.APRADeterminedInterdependent.Amount
+- classification=baf/bafpo/bafpo1.02.32
+- period=instant

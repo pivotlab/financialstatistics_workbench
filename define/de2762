@@ -1,0 +1,17 @@
+# Liabilities Contingent Liabilities Arising From Bill Endorsements Amount
+
+## identifier
+de2762
+
+## type
+float
+
+## definition
+This is the value, for the relevant period, of contingent liabilities arising from the endorsement of bills of exchange by the reporting party, where the reporting party is the first endorser of a non-Australian Deposit-taking Institutions or Registered Financial Corporations accepted bill.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.ContingentLiabilitiesArisingFromBillEndorsements.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

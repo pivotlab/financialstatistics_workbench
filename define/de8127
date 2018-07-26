@@ -1,0 +1,19 @@
+# Financial Risk Market IRRBB Capital Requirement Currency Or Composite Currencies Amount
+
+## identifier
+de8127
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the interest rate risk in the banking book (IRRBB) capital requirement, for the relevant currency or composite of currencies, as determined in accordance with relevant prudential standards.
+
+IRRBB capital requirement represents the regulatory capital that an entity is required to hold against its exposure to IRRBB in accordance with Prudential Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.IRRBBCapitalRequirementCurrencyOrCompositeCurrencies.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

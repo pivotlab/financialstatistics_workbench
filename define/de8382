@@ -1,0 +1,16 @@
+# Assets Loans And Receivables Detail Other SRF 310 0 Description
+
+## identifier
+de8382
+
+## type
+string
+
+## definition
+This is the description of the detailed line item comprising the other receivables balancing item, as required to be reported on APRA form SRF_310_0.
+
+## syntax
+### xbrl
+- name=Assets.LoansAndReceivables.DetailOtherSRF3100.Description
+- classification=baf/bafpo/bafpo5.02.05
+- period=instant

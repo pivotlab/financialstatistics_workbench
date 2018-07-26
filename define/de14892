@@ -1,0 +1,17 @@
+# Liabilities Collateral Received Variation Margin Derivatives Amount
+
+## identifier
+de14892
+
+## type
+float
+
+## definition
+The value of all collateral received in the form of variation margin in connection with derivative contracts that can be included in calculating net stable funding ratio (NSFR) derivative assets in accordance with Prudential Standard APS 210 - Liquidity, Attachment C.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.CollateralReceivedVariationMarginDerivatives.Amount
+- classification=baf/bafpo/bafpo1.02.32
+- period=instant

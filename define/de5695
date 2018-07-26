@@ -1,0 +1,17 @@
+# Profit Or Loss Insurance Experience Non Earning Rates Amount
+
+## identifier
+de5695
+
+## type
+float
+
+## definition
+Report the movement in profit and loss due to changes in assumptions other than earning rates on assets backing policy liabilities for the relevant period.
+
+## syntax
+### xbrl
+- balance=debit
+- name=ProfitOrLoss.Insurance.ExperienceNonEarningRates.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

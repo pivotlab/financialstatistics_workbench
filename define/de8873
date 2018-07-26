@@ -1,0 +1,16 @@
+# Liabilities Other Financial Liabilities First Home Saver Account Closed Proceed Used For Housing Count
+
+## identifier
+de8873
+
+## type
+int
+
+## definition
+This is the number of First Home Saver Accounts (FHSAs), closed because the account holder has given the FHSA provider a notice that the holder has acquired a qualifying interest in a home.
+
+## syntax
+### xbrl
+- name=Liabilities.OtherFinancialLiabilities.FirstHomeSaverAccountClosedProceedUsedForHousing.Count
+- classification=baf/bafpo/bafpo6.02.06
+- period=duration

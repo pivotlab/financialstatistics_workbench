@@ -1,0 +1,17 @@
+# Assets Cash And Liquid Assets Exchange Settlement Account Daily Average Amount
+
+## identifier
+de14856
+
+## type
+float
+
+## definition
+The daily average balances of the entity relating to Exchange Settlement Accounts held at the Reserve Bank of Australia to settle financial obligations arising from the clearing of payments. The daily average is calculated in accordance with the relevant legislation.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.ExchangeSettlementAccountDailyAverage.Amount
+- classification=baf/bafpo/bafpo7.02.24
+- period=duration

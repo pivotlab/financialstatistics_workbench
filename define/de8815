@@ -1,0 +1,21 @@
+# Assets Inside Australia Indicator
+
+## identifier
+de8815
+
+## type
+boolean
+
+## definition
+Is the asset subject to the charge granted by the insurer  an asset "Inside Australia", as determined in accordance with relevant prudential standards as at the relevant date?
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = the asset subject to the charge granted by the insurer is an asset "Inside Australia", as determined in accordance with relevant prudential standards
+FALSE = the asset subject to the charge granted by the insurer is not an asset "Inside Australia", as determined in accordance with relevant prudential standards
+
+## syntax
+### xbrl
+- name=Assets.InsideAustralia.Indicator
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

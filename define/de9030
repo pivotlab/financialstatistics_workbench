@@ -1,0 +1,21 @@
+# Auditor Report Opinion Modification Reason Limitation Of Scope Indicator
+
+## identifier
+de9030
+
+## type
+boolean
+
+## definition
+This is the indicator for the reason of modification being limitation of scope, for the relevant period.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = If not unqualified, the reason for audit opinion modification was Limitation on Scope
+FALSE = If not unqualified, the reason for audit opinion modification was not Limitation on Scope
+
+## syntax
+### xbrl
+- name=AuditorReport.OpinionModificationReasonLimitationOfScope.Indicator
+- classification=em/emfsm/emfsm.02.06
+- period=duration

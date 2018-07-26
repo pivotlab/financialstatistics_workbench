@@ -1,0 +1,17 @@
+# Assets Cash And Liquid Assets Minimum Liquidity Holdings Other Approved Amount
+
+## identifier
+de7835
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the securities that have been approved by the Australian Prudential Regulation Authority (APRA) for inclusion as Minimum Liquidity Holdings (MLH) that do not otherwise meet the requirements of the relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.HQLAOtherApproved.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=instant

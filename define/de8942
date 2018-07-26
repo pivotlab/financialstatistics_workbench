@@ -1,0 +1,17 @@
+# Liabilities Non Current Provision Deferred Tax Amount
+
+## identifier
+de8942
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of provision for non-current deferred tax liabilities, as determined in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.NonCurrentProvisionDeferredTax.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

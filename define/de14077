@@ -1,0 +1,16 @@
+# Financial Risk Capital Adequacy Premium Increase Assumed Central Projection Percent
+
+## identifier
+de14077
+
+## type
+float
+
+## definition
+This is the percentage, during the relevant period, for the premium increase assumed in the central estimate projection. This is calculated consistent with the pricing methodology prescribed in the relevant Act.
+
+## syntax
+### xbrl
+- name=FinancialRisk.CapitalAdequacy.PremiumIncreaseAssumedCentralProjection.Percent
+- classification=baf/bafot/bafot.02.25
+- period=duration

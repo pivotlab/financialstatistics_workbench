@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities Loan Capital And Hybrid Securities Total Amount
+
+## identifier
+de1497
+
+## type
+float
+
+## definition
+Report the value of loan capital and hybrid securities on issue by the reporting party as at the reporting date. This item is to be determined in accordance with the accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.LoanCapitalAndHybridSecuritiesTotal.Amount
+- classification=baf/bafpo/bafpo6.02.00
+- period=instant

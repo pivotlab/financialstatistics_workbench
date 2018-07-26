@@ -1,0 +1,16 @@
+# Regulatory Disclosures Medical Services Gap Count
+
+## identifier
+de14072
+
+## type
+int
+
+## definition
+This is the number, during the relevant period, of medical services provided where a gap payment is applicable. A gap payment is where the fee charged by the medical practitioner exceeds the amount of benefits paid by the insurer.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.MedicalServicesGap.Count
+- classification=baf/bafot/bafot.02.25
+- period=duration

@@ -1,0 +1,22 @@
+# Superannuation Regulatory Information Trustee Financial Planning Arm Indicator
+
+## identifier
+de5542
+
+## type
+boolean
+
+## definition
+Does the trustee of the reporting party have a financial planning arm?
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The trustee of the reporting party has a financial planning arm.
+FALSE = The trustee of the reporting party does not have a financial planning arm.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.TrusteeFinancialPlanningArm.Indicator
+- classification=em/emsup/emsup.02.02
+- period=instant

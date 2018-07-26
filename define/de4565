@@ -1,0 +1,23 @@
+# Liabilities Insurance Best Estimate Bonus Cost Amount
+
+## identifier
+de4565
+
+## type
+float
+
+## definition
+Cost of Bonus at the relevant date as per prudential standards but assuming previous period Best Estimate Bonus rates
+
+Includes best estimate interim and terminal bonuses.
+
+The cost of Bonus at the relevant date (whether best estimate or declared) reflects the cash value to the policy owners of those Bonuses at the relevant date.
+
+Best Estimate Bonus is the maximum level of Bonus which (on Best Estimate Assumptions and taking into account the company's profit distribution philosophy, including shareholder entitlements) can be added to a Participating Benefit over its benefit life without supplementary income from other sources, including policy owner retained profits.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.BestEstimateBonusCost.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

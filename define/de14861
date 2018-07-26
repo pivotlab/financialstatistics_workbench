@@ -1,0 +1,16 @@
+# Financial Risk Daily Average Minimum Liquidity Holdings Ratio Percent
+
+## identifier
+de14861
+
+## type
+float
+
+## definition
+This is the percentage, for the daily average minimum liquidity holdings (MLH) ratio maintained during the reporting period.
+
+## syntax
+### xbrl
+- name=FinancialRisk.DailyAverageMinimumLiquidityHoldingsRatio.Percent
+- classification=baf/bafot/bafot.02.32
+- period=duration

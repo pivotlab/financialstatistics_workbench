@@ -1,0 +1,21 @@
+# Regulatory Disclosures Insurance Discontinued Member Refund Indicator
+
+## identifier
+de8997
+
+## type
+boolean
+
+## definition
+Indicate if the member discontinues cover mid term and contributions (after allowing for administration charges) are refunded to the member for the unexpired period of cover.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = in the event of the member wanting to discontinue cover mid-term, the member receives a pro-rata refund of contribution paid
+FALSE = in the event of the member wanting to discontinue cover mid-term, the member does not receive a pro-rata refund of contribution paid
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuranceDiscontinuedMemberRefund.Indicator
+- classification=baf/bafot/bafot.02.07
+- period=duration

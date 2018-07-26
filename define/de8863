@@ -1,0 +1,16 @@
+# Financial Services Insurance Premium Invoiced Date
+
+## identifier
+de8863
+
+## type
+string
+
+## definition
+Report the date the insurance premium was invoiced.
+
+## syntax
+### xbrl
+- name=FinancialServices.Insurance.PremiumInvoiced.Date
+- classification=baf/bafot/bafot.02.06
+- period=instant

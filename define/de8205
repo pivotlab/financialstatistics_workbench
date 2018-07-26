@@ -1,0 +1,20 @@
+# Assets Exposures Lending Commitments Operating Leases New Goods Count
+
+## identifier
+de8205
+
+## type
+int
+
+## definition
+This is the number of goods financed, or to be financed, under operating leases, for which new commitments have been provided by the reporting party during the relevant period, regardless of whether or not they have subsequently been withdrawn, or cancelled, during or after the period. This excludes commitments for commercial hire purchase agreements, for debt participation in leverages lease agreements, and for leveraged leases which are finance leases where the lessor provides a portion of the finance, with the major portion usually provided by long-term creditors and where the creditor's recourse to the lessor is restricted to the proceeds from disposal of the leased asset and any unremitted lease payments. 
+                                                                                                                                            
+A commitment is a firm offer to provide finance which has been accepted by the client. A commitment generally exists once the loan application has been approved, and a loan contract or letter of offer has been issued to the borrower. 
+
+An Operating Lease is a lease under which the lessor effectively retains substantially all the risks and benefits incidental to ownership of the leased asset. This excludes hire purchase agreements; or commitments for, or for debt participation in, leveraged leases.
+
+## syntax
+### xbrl
+- name=Assets.Exposures.LendingCommitmentsOperatingLeasesNewGoods.Count
+- classification=baf/bafpo/bafpo3.02.05
+- period=duration

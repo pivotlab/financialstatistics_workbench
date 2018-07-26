@@ -1,0 +1,16 @@
+# Miscellaneous Reporting Consolidation Sub Type Code
+
+## identifier
+de4878
+
+## type
+string
+
+## definition
+The optional part of the unique identifier for the reporting consolidation type.
+
+## syntax
+### xbrl
+- name=Miscellaneous.ReportingConsolidationSubType.Code
+- classification=baf/bafot/bafot.02.05
+- period=duration

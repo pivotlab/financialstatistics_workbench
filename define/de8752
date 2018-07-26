@@ -1,0 +1,21 @@
+# Assets Claims Cross Border External Amount
+
+## identifier
+de8752
+
+## type
+float
+
+## definition
+This is the value of all cross border external financial assets of the reporting party as at the relevant date. A financial asset consists of money or a claim against another person or business (the counterparty) that can be converted into money.
+                                                                                                                 
+It does not include intangible or operational assets of the reporting party nor does it include claims arising as a result of operational requirements of the business such as trade receivables or deferred tax assets.
+                                                                                                                                      
+Cross border external claims are those financial assets where the counterparty to the transaction is not a resident of the same country as the branch, office or subsidiary (affiliate) of the reporting party that holds the claim.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.ClaimsCrossBorderExternal.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

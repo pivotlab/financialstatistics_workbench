@@ -1,0 +1,21 @@
+# Financial Risk Capital Adequacy New Business Reserve Before Statutory Capital Reduction Amount
+
+## identifier
+de5687
+
+## type
+float
+
+## definition
+Report the value of the additional amount required to ensure that the Solvency Requirement of the statutory fund will continue to be met over the next three years, allowing for capital and profits emerging over that period from the existing business of the fund; less New Business Capital.
+
+New business capital is the aggregate of:
+a) existing, binding arrangements for the external raising of capital specific to the financing of new business within the statutory fund; and
+b) capital (existing or emerging) in any other statutory fund, to the extent it is (or would be) available to be transferred to the shareholders' fund at that time.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.NewBusinessReserveBeforeStatutoryCapitalReduction.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

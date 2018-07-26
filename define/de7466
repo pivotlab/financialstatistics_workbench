@@ -1,0 +1,17 @@
+# Insurance Proceeds Death Disability Amount
+
+## identifier
+de7466
+
+## type
+float
+
+## definition
+This is proceeds received/receivable from the insurer and/or accrued in relation to the death or disability of policyholders, including amounts for total and permanent disability and temporary disability/income protection.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Insurance.ProceedsDeathDisability.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

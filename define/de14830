@@ -1,0 +1,17 @@
+# Assets Exposures Securitised Assets In Pool Amount
+
+## identifier
+de14830
+
+## type
+float
+
+## definition
+This is the outstanding value (plus accrued interest) all of the securitised assets in a pool that have been transferred into a securitisation vehicle in accordance with Prudential Standard APS 120 Securitisation.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.SecuritisedAssetsInPool.Amount
+- classification=baf/bafpo/bafpo3.02.17
+- period=instant

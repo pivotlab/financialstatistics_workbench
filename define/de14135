@@ -1,0 +1,17 @@
+# Revenue Operational Fund Other Amount
+
+## identifier
+de14135
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for all other operational revenue, net of expenses, attributable to the fund.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Revenue.OperationalFundOther.Amount
+- classification=baf/bafpr/bafpr1.02.26
+- period=duration

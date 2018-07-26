@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities Material Contractual Cash Outflows Amount
+
+## identifier
+de14917
+
+## type
+float
+
+## definition
+The value of any other sources of material contractual cash outflows in accordance with the relevant prudential standard.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.MaterialContractualCashOutflows.Amount
+- classification=baf/bafpo/bafpo6.02.18
+- period=instant

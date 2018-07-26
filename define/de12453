@@ -1,0 +1,21 @@
+# Assets Pool Loan To Valuation Ratio Amount
+
+## identifier
+de12453
+
+## type
+float
+
+## definition
+This is, as at the relevant date, the weighted average of the Loan to Valuation ratio (LVR) for the pool.  For any resecuritisation exposure in the pool, a reporting entity must look through to the underlying pools for that exposure in calculating the overall weighted average LVR.
+
+A pool is the underlying exposure or exposures that are securitised by way of assignment or the transfer of rights and obligations to an SPV (special purpose vehicle). The pool may consist of, but need not be limited to, loans, bonds or equities.
+
+A resecuritisation exposure is a securitisation exposure in which the risk associated with an underlying pool of exposures is tranched and at least one of the underlying exposures is a securitisation exposure. In addition, an exposure to one or more resecuritisation exposures is a resecuritisation exposure.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.PoolLoanToValuationRatio.Amount
+- classification=baf/bafpo/bafpo1.02.08
+- period=duration

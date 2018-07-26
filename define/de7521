@@ -1,0 +1,17 @@
+# Income Fees Commissions Funds Management Amount
+
+## identifier
+de7521
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of any fee income or commission associated with funds management activities of the reporting party.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.FeesCommissionsFundsManagement.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

@@ -1,0 +1,23 @@
+# Assets Exposures Property Amount
+
+## identifier
+de12826
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date of counterparty exposures to property.
+
+Property is defined in accordance with the classification and measurement basis under the relevant accounting standards.
+
+An exposure to a counterparty or a group of related counterparties is the aggregate of all claims, commitments arising from on-balance sheet transactions with the counterparty or group of related counterparties. 
+
+On-balance sheet refers to those assets, or exposure items, which are recognised or recorded on the statement of financial position of the reporting entity, as determined in accordance with relevant Accounting Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.Property.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

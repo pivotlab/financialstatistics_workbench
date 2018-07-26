@@ -1,0 +1,29 @@
+# Financial Risk Capital Adequacy FX Adjustment Equities Amount
+
+## identifier
+de5050
+
+## type
+float
+
+## definition
+Report the value of the Adverse Exchange Movement Adjustment in relation to admissible equity investment securities with resilience requirement, as per the capital adequacy standard.
+
+The Adverse Exchange Movement Adjustment is an addition to the resilience reserves calculated using the prescribed Adverse Exchange Movement factor as set out in the capital adequacy standards. The Resilience Reserve is determined as the additional amount that needs to be held before the happening of a prescribed set of changes in the economic environment ( as per the capital adequacy standard), such that after the changes the admissible assets of the reporting party are able to meet the policy owner and other liabilities of the statutory fund, in an ongoing business context.
+
+Admissible equity investment securities is the value of all equity investment securities consistent with the classification and measurement basis used for Investment Securities in accordance with the accounting standards, less the value of those deemed to be inadmissible, as per the capital adequacy standard. 
+
+The inadmissible assets are: 
+a) defined benefit superannuation fund surpluses;
+b) holdings in an associated or subsidiary entity which is a Financial Services entity;
+c) non-realisable (in the context of the capital adequacy tests) intangible assets;
+d) assets with too little diversification, are too illiquid or have too great an exposure to one obligor of low credit standing;
+e) reinsurance assets which may not be fully recoverable in the context of the capital adequacy tests; and
+f) amounts by which the recorded value of an asset exceeds its net realisable value.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.FXAdjustmentEquities.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

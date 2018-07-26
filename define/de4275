@@ -1,0 +1,19 @@
+# Liabilities Insurance Participating Business Future Profits Gross Amount
+
+## identifier
+de4275
+
+## type
+float
+
+## definition
+Report the net present value of future Policy Owner Bonuses in relation to future profits for participating business. Current year bonuses are excluded.
+
+Report amounts gross of ceded reinsurance but inclusive of inwards reinsurance.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.ParticipatingBusinessFutureProfitsGross.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

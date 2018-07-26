@@ -1,0 +1,19 @@
+# Financial Risk Interest Rate Sensitivity Amount
+
+## identifier
+de8228
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the interest rate sensitivity calculated on all relevant positions.
+
+This item represents the net position/gap in the cashflows of each position due to interest rate repricing multiplied by the relevant weighting factor. Each resulting weighted position is added together to determine the net (positive or negative) weighting of all relevant positions. This provides an estimate of the sensitivity of earnings to changes in interest rates at varying durations.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.InterestRateSensitivity.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

@@ -1,0 +1,21 @@
+# Liabilities Audit Tax Fees Settlement Amount
+
+## identifier
+de5210
+
+## type
+float
+
+## definition
+Record the amount paid during the relevant period to settle liabilities classified as audit and tax agent fees.
+
+Audit and tax agent fees are typically amounts payable to an entity for performing agreed assurance and taxation services.
+
+The settlement of a liability takes place when all legal or constructive obligations are eliminated.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.AuditTaxFeesSettlement.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=duration

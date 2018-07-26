@@ -1,0 +1,17 @@
+# Liabilities Insurance Reinsured Gross Policy Amount
+
+## identifier
+de4852
+
+## type
+float
+
+## definition
+Report the gross amount of insurance policy coverage that has been reinsured.  For investment type products this will be the reinsured amount of the account balance as at the relevant date.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Liabilities.Insurance.ReinsuredGrossPolicy.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

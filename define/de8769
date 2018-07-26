@@ -1,0 +1,17 @@
+# Assets Insurance Deferred Acquisition Costs Prior Liability Adequacy Test Write Downs Amount
+
+## identifier
+de8769
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of deferred acquisition costs determined in accordance with accounting standards, which existed prior to any liability adequacy test write downs.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.DeferredAcquisitionCostsPriorLiabilityAdequacyTestWriteDowns.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

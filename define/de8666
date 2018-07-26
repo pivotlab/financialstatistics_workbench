@@ -1,0 +1,16 @@
+# Identification Details Former Name Text
+
+## identifier
+de8666
+
+## type
+string
+
+## definition
+This is a person's former name(s). This is where the person has had a change in name due to marriage or other reasons.
+
+## syntax
+### xbrl
+- name=IdentificationDetails.FormerName.Text
+- classification=py/pyid/pyid.02.03
+- period=duration

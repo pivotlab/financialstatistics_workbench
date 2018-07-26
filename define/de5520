@@ -1,0 +1,29 @@
+# Legislation Compliance Agreement With Accounting Records Indicator
+
+## identifier
+de5520
+
+## type
+boolean
+
+## definition
+Can the reporting party attest that the financial information provided:
+1. Agrees with the accounting records of the reporting party in respect of the applicable reporting period; and 
+2. Truly represents the transactions for the reporting period and financial position at reporting period end date, in accordance with the provisions of the SIS Act, the Collection of Data Act and to the extent that they do not contain any requirements to the contrary, Accounting Standards and other mandatory professional reporting requirements in Australia. This effectively means that the information reported to APRA in the eight forms designated as comprising the APRA Annual Return has been prepared in accordance with the instruction guide to the each form and the requirements of the reporting standards for each form made under the Collection of Data Act.
+
+The requirement to attest compliance within this item is not intended to exceed the requirements to report only significant breaches to APRA as required by section 29JA of the SIS Act. In the event a breach in relation to this item which was not significant as defined in section 29JA of the SIS Act, then the reporting party is not required to attest non-compliance.
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The reporting party attests that the financial information provided:
+1. Agrees with the accounting records of the reporting party in respect of the applicable reporting period; and 
+2. Truly represents the transactions for the reporting period and financial position at reporting period end date, in accordance with the provisions of the SIS Act, the Collection of Data Act and to the extent that they do not contain any requirements to the contrary, Accounting Standards and other mandatory professional reporting requirements in Australia. This effectively means that the information reported to APRA in the eight forms designated as comprising the APRA Annual Return has been prepared in accordance with the instruction guide to the each form and the requirements of the reporting standards for each form made under the Collection of Data Act.
+
+FALSE = The reporting party cannot attest to the above statement.
+
+## syntax
+### xbrl
+- name=LegislationCompliance.AgreementWithAccountingRecords.Indicator
+- classification=py/pyin/pyin.02.09
+- period=duration

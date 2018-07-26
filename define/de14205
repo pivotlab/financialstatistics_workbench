@@ -1,0 +1,17 @@
+# Assets Securities Purchased Under Agreements To Resell And Stock Borrowing Amount
+
+## identifier
+de14205
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for securities (debt) held under resale agreements and stocks (shares) borrowed.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.SecuritiesPurchasedUnderAgreementsToResellAndStockBorrowing.Amount
+- classification=baf/bafpo/bafpo1.02.26
+- period=instant

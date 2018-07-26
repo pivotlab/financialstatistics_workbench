@@ -1,0 +1,17 @@
+# Income Prospective Recoveries Total Amount
+
+## identifier
+de2306
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the revenue from all recoveries in respect of claims. Where appropriate, other recoveries revenue is to be reported net of the reinsurer's share of other recoveries revenue. It includes any movement in the value of expected reinsurance recoveries in relation to future years. It also includes the amount of recoveries received or receivable associated with claims for current and prior years.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Prospective.RecoveriesTotal.Amount
+- classification=baf/bafpr/bafpr3.02.00
+- period=duration

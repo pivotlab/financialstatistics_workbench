@@ -1,0 +1,23 @@
+# Legislation Compliance SIS Act S29JA_1 And 29JB_1 And 29JC_1 Indicator
+
+## identifier
+de5571
+
+## type
+boolean
+
+## definition
+The requirement to attest compliance within this item is not intended to exceed the requirements to report only significant breaches to APRA as required by section 29JA of the SIS Act. In the event a breach in relation to this item which was not significant as defined in section 29JA of the SIS Act, then the reporting party is not required to attest non-compliance.
+
+This item requires the reporting party to attest whether it has complied with subsections 29JA(1), 29JB(1) and 29JC(1) of the SIS Act.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = The reporting party has complied with subsections 29JA(1), 29JB(1) and 29JC(1) of the SIS Act
+FALSE = The reporting party has not complied with subsections 29JA(1), 29JB(1) and 29JC(1) of the SIS Act
+
+## syntax
+### xbrl
+- name=LegislationCompliance.SISActS29JA_1And29JB_1And29JC_1.Indicator
+- classification=py/pyin/pyin.02.09
+- period=duration

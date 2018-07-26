@@ -1,0 +1,19 @@
+# Superannuation Rollover Net Amount
+
+## identifier
+de1946
+
+## type
+float
+
+## guidance
+Record:
+* The Net value of member's benefits that have been rolled over/transferred in to the reporting superannuation entity from another superannuation entity ; less
+* The Net value of member's benefits that have been rolled over/transferred out from the reporting superannuation entity to another superannuation entity
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationRollover.Net.Amount
+- classification=em/emsup/emsup.02.00
+- period=duration

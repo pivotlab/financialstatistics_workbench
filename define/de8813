@@ -1,0 +1,25 @@
+# Financial Risk Credit Surety Bond Amount
+
+## identifier
+de8813
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of surety bonds which are treated as a type of direct credit substitute by the reporting party, in accordance with relevant prudential standards.
+
+A surety bond means an undertaking given by the reporting party at the request of a person (Customer) pursuant to an agreement (Surety Agreement) between the reporting party and the Customer made in the following circumstances: 
+     (a) the Customer enters into the Surety Agreement in order to enable the Customer to meet a requirement of another agreement (Principal Agreement) between the Customer, or a person associated with the Customer, and a person other than the reporting party (Principal); 
+     (b) under the surety bond, the reporting party undertakes to make a payment to, or perform an obligation for the benefit of, the Principal or another person nominated by the Principal (Beneficiary) in the circumstances specified in the surety bond; 
+     (c) the surety bond is issued to the Principal or the Beneficiary in relation to or in connection with an obligation owed by the Customer, or a person associated with the Customer, to the Principal under the Principal Agreement being an obligation which: 
+          (i) is a performance obligation or contains an element of performance on the part of the Customer, or a person associated with the Customer; and 
+         (ii) does not relate solely to the payment of money by the Customer, or a person associated with the Customer, to the Principal; and 
+     (d) under the Surety Agreement, the Customer is liable to the reporting party if the reporting party makes a payment or incurs a liability to the Principal or the Beneficiary under the surety bond.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Credit.SuretyBond.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

@@ -1,0 +1,21 @@
+# Assets Investment Debt Securities Excluding Securitised Net Acquisition Disposal Transactions Amount
+
+## identifier
+de5018
+
+## type
+float
+
+## definition
+Report the net of all acquisition and disposal transactions of debt securities during the relevant period, excluding those classified as securities instruments. These transactions involve the exchange of valuable consideration between counterparties. Where this results in a net decrease in the net market value of other debt securities, then report a negative figure.
+
+A debt security is a transferable instrument evidencing a relationship of indebtedness. It is characterised by having a definable income stream that is not based on the economic performance of the issuing entity.
+
+Securitised instruments represent securities using specifically selected assets (eg. mortgages, receivables) to provide backing (collateral) for the securities and generate the payment streams necessary to fulfil interest and principal requirements for investors. These forms of securities are usually issued by a Special Purpose Vehicle (SPV).
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.DebtSecuritiesExcludingSecuritisedNetAcquisitionDisposalTransactions.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=duration

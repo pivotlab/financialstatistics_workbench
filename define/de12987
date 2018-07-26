@@ -1,0 +1,17 @@
+# Assets Investment Equity Securities Hybrid Plus Accrued Income Amount
+
+## identifier
+de12987
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date of the equity component of hybrid securities, plus income accrued but not received in relation to this asset. This method of disclosure differs from the Australian Accounting Standards. Hybrid securities, or compound financial instruments, as defined by the Australian Accounting Standards, are financial instruments that, from the issuer's perspective, contain a liability and an equity element. Compound financial instruments include all equities related items such as convertible notes and other hybrid securities which, taking into account market conditions, have attributes that demonstrate exposure to equities markets.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.EquitySecuritiesHybridPlusAccruedIncome.Amount
+- classification=baf/bafpo/bafpo7.02.12
+- period=instant

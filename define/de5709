@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Actuarial Projection Investment Return Percent
+
+## identifier
+de5709
+
+## type
+float
+
+## definition
+Report the actuarial projection for investment return gross of fees and taxation.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.ActuarialProjectionInvestmentReturn.Percent
+- classification=em/emsup/emsup.02.02
+- period=instant

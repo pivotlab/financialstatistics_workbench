@@ -1,0 +1,17 @@
+# Financial Risk Other Loans Sold Or Other Originated Securitisation Arrangements Amount
+
+## identifier
+de14827
+
+## type
+float
+
+## definition
+The value of any loans that were sold, or otherwise originated, into special purpose vehicles (SPVs).
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Other.LoansSoldOrOtherOriginatedSecuritisationArrangements.Amount
+- classification=baf/bafot/bafot.02.30
+- period=duration

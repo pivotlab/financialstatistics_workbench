@@ -1,0 +1,39 @@
+# Superannuation Regulatory Information Superannuation Responsible Person Type Code
+
+## identifier
+de13751
+
+## type
+string
+
+## definition
+This indicates the type of responsible person within the superannuation industry.
+
+## guidance
+The valid enumerated values are:  
+Director = represents a director of a Registrable Superannuation Entity (RSE) licensee, within the meaning given in the relevant section of the Superannuation Industry (Supervision) Act 1993 (SIS Act). A reference to 'a director' is, in the case of a group of individual trustees, an individual trustee.  
+Director (Chair) = represents a director of an RSE licensee, within the meaning given in the relevant section of the SIS Act, who is serving as a chairperson of the Board.  
+Executive officer: CEO = represents an executive officer (within the meaning given in the relevant section of the SIS Act) who is appointed to undertake the responsibilities of the Chief Executive Officer of the RSE licensee, howsoever named.  
+Executive officer: CFO = represents an executive officer (within the meaning given in the relevant section of the SIS Act) who is appointed to undertake the responsibilities of the Chief Financial Officer of the RSE licensee, howsoever named.  
+Other executive officer = represents other executive officers of the RSE licensee.  
+Secretary = represents a person acting as a secretary of the RSE licensee.  
+Senior manager = represents a person undertaking the responsibilities of a senior manager within the meaning given in the relevant Prudential Standard.  
+Other responsible person = represents other responsible persons of the RSE licensee who are not a Director, Executive officer, Secretary or Senior manager of the RSE licensee.  Responsible persons who are the RSE auditor or the RSE actuary are not included in 'Other responsible person'.
+
+## codes
+| Name                     |
+| ------------------------ |
+| Director                 |
+| Director (Chair)         |
+| Executive officer: CEO   |
+| Executive officer: CFO   |
+| Other executive officer  |
+| Other responsible person |
+| Secretary                |
+| Senior manager           |
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.SuperannuationResponsiblePersonType.Code
+- classification=em/emsup/emsup.02.16
+- period=duration

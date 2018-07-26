@@ -1,0 +1,17 @@
+# Equity Calculated Life Amount
+
+## identifier
+de5578
+
+## type
+float
+
+## definition
+Report the value, as at the relevant date, of the total equity components that make up net assets as calculated by the Life Insurance Act 1995. This amount is not necessarily equal to net assets per the entity's general purpose accounts.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.CalculatedLife.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

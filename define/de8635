@@ -1,0 +1,17 @@
+# Assets Insurance Net Before Excluded Deductions Amount
+
+## identifier
+de8635
+
+## type
+float
+
+## definition
+This is the amount, as at the relevant date, of net assets after adding or deducting the net surplus/deficit related to insurance liabilities, but before any deductions excluded for capital adequacy purposes and determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.NetBeforeExcludedDeductions.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

@@ -1,0 +1,23 @@
+# Liabilities Insurance Premium Risk Charge Amount
+
+## identifier
+de8840
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the risk charge calculated as A+B, where:
+
+A = The risk charge calculated on future net premium income in relation to insurance contracts to which the reporting party is committed and will expose the insurer to material risks, but for which the reporting party has not otherwise recognised a capital charge.  Typically this charge will be for policies for which a written premium is not yet recognised under accounting standards, and have not been included in the premium liabilities, but for which the insurer has already committed to cover; and 
+
+B =  The risk charge calculated on premiums liabilities net of any recoveries, 
+
+Both items are to be determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.PremiumRiskCharge.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

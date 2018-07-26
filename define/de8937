@@ -1,0 +1,19 @@
+# Liabilities Current Total Other MRF300 Amount
+
+## identifier
+de8937
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This the value, as at the relevant date, of total other current liabilities as requested on MRF_300_0.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.CurrentTotalOtherMRF300.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

@@ -1,0 +1,17 @@
+# Income Interest Deposits Not At Call Amount
+
+## identifier
+de5798
+
+## type
+float
+
+## definition
+Report the value of interest income derived during the reporting period from funds placed in deposits that are not redeemable or callable within 24 hours.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Interest.DepositsNotAtCall.Amount
+- classification=baf/bafpr/bafpr2.02.05
+- period=duration

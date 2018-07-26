@@ -1,0 +1,17 @@
+# Income Prospective Recoveries Reinsurance Total Amount
+
+## identifier
+de2304
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the sum of revenue from reinsurance recoveries on direct business and inwards reinsurance business. In relation to future years, this will reflect any movement in the value of expected reinsurance recoveries that are associated with insurance liabilities recognised in the measurement of Premium Liabilities. The amount of recoveries received or receivable associated with claims for current and prior years are also included.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Prospective.RecoveriesReinsuranceTotal.Amount
+- classification=baf/bafpr/bafpr3.02.00
+- period=duration

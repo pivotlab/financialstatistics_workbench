@@ -1,0 +1,17 @@
+# Expense Bad And Doubtful Debts Amount
+
+## identifier
+de254
+
+## type
+float
+
+## definition
+For interpretation/definition of this item refer to the Australian Accounting Standards, as an example, see provided reference
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.BadAndDoubtfulDebts.Amount
+- classification=baf/bafpr/bafpr1.02.00
+- period=duration

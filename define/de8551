@@ -1,0 +1,19 @@
+# Liabilities Insurance Outstanding Claims Provision Net Not Discounted Amount
+
+## identifier
+de8551
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the outstanding claims provision (OCP), net of any related recoveries, determined in accordance with relevant accounting standards, but not discounted as required by those accounting standards.
+
+OCP relates to all claims incurred in the relevant accident or underwriting year prior to the valuation date, whether or not they have been reported to the insurer. The value of the OCP must include an amount in respect of the expenses that the insurer expects to incur in settling these claims. The value of OCP must not include any Government charges imposed such as levies, duties and taxes.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.OutstandingClaimsProvisionNetNotDiscounted.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

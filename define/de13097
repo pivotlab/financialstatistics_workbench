@@ -1,0 +1,17 @@
+# Assets Other Financial Assets Contributions Receivable Amount
+
+## identifier
+de13097
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for contributions that are accrued but not yet received.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.ContributionsReceivable.Amount
+- classification=baf/bafpo/bafpo7.02.14
+- period=instant

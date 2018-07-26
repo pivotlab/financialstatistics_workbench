@@ -1,0 +1,25 @@
+# Expense Insurance Operating Other Amount
+
+## identifier
+de4341
+
+## type
+float
+
+## definition
+This is the balancing item in the list in which it is being used. 
+
+Report all operating expenses other than;
+
+- policy acquisition and maintenance;
+- investment management expenses;
+- interest expense;
+- general insurance operating expenses; and
+- acquisition expenses reported as movement in policy liability.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.OperatingOther.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

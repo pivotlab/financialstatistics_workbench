@@ -1,0 +1,17 @@
+# Expense Operating Other Employment Related ARF331 Amount
+
+## identifier
+de8164
+
+## type
+float
+
+## definition
+This is the value of employment related expenses other than those specifically categorised on APRA form ARF331.0
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.OtherEmploymentRelatedARF331.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

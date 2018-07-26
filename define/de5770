@@ -1,0 +1,24 @@
+# Financial Risk Management Capital Inadmissible Assets Total Amount
+
+## identifier
+de5770
+
+## type
+float
+
+## definition
+Report the amount of the asset that is inadmissible for management capital purposes. These are: 
+a) assets which have a value that is dependent upon the continuation of the business;
+b) holdings in an associated or subsidiary entity which is a Financial Services entity;
+c) non-realisable (in the context of the scenarios of adverse experience) intangible assets;
+d) other assets not measured at fair value in the regulatory financial statements; and
+e) the alignment necessary to ensure the remaining assets and the other liabilities are based on net market value.
+
+Assets used in the conduct of business is determined as the amount by which the stated value of the asset in the financial statements exceeds the value the asset would have in a run-off or transfer situation.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.ManagementCapital.InadmissibleAssetsTotal.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

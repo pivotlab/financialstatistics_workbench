@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Insurance Recoveries Not Reinsurance Amount
+
+## identifier
+de12996
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for recoveries under arrangements other than reinsurance arrangements, receivable by the reporting insurer associated with the outstanding claims liability (OCL). This item is to be determined in accordance with relevant accounting standard.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.InsuranceRecoveriesNotReinsurance.Amount
+- classification=baf/bafpo/bafpo5.02.10
+- period=instant

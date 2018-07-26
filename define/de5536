@@ -1,0 +1,16 @@
+# Organisation Control Wind Up Maximum Number Of Members During Period Count
+
+## identifier
+de5536
+
+## type
+int
+
+## definition
+If the reporting party was wound up during the relevant period, report the maximum number of members in the entity during the relevant period (or part thereof), prior to its windup.
+
+## syntax
+### xbrl
+- name=OrganisationControl.WindUpMaximumNumberOfMembersDuringPeriod.Count
+- classification=py/pyde/pyde.02.06
+- period=duration

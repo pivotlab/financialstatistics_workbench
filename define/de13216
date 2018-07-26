@@ -1,0 +1,30 @@
+# Superannuation Regulatory Information Membership Profile Gender Code
+
+## identifier
+de13216
+
+## type
+string
+
+## definition
+This is the classification, as at the relevant date, of allowable gender of a member in the product.
+
+## guidance
+The valid enumerated values are:
+Female = Where women are the only determinant for membership in a lifecycle stage
+Male = Where men are the only determinant for membership in a lifecycle stage.
+Intersex or Indeterminate = Where intersex or indeterminate gender is the only determinant for membership in a lifecycle stage.
+Any = Where gender is not a determinant for membership in a lifecycle stage.
+
+## codes
+| Name   |
+| ------ |
+| Either |
+| Female |
+| Male   |
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.MembershipProfileGender.Code
+- classification=em/emsup/emsup.02.11
+- period=instant

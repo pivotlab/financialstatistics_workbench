@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Contribution Income Given Stress Test Assumption Constraint Amount
+
+## identifier
+de14080
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the contribution income in the stress test assumption constraint determined in accordance with the published methodology.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.ContributionIncomeGivenStressTestAssumptionConstraint.Amount
+- classification=baf/bafot/bafot.02.25
+- period=duration

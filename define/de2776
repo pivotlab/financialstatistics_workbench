@@ -1,0 +1,18 @@
+# Liabilities Other Financial Liabilities Non Current Debt Securities Amount
+
+## identifier
+de2776
+
+## type
+float
+
+## definition
+Report all borrowings by the reporting entity in the form of commercial paper, promissory notes and other forms of securities issued by the insurer. Commercial paper or promissory notes are short-term debt securities usually issued with an original term to maturity of less than 180 days.
+Include all notes/securities issued with a residual term to maturity of more than 12 months. Commercial paper or promissory notes with a residual maturity greater than 12 months should be reported as "non-current liability - borrowings".
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.NonCurrentDebtSecurities.Amount
+- classification=baf/bafpo/bafpo6.02.00
+- period=instant

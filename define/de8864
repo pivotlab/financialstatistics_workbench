@@ -1,0 +1,16 @@
+# Financial Services Insurance Premium Invoiced Effective Date
+
+## identifier
+de8864
+
+## type
+string
+
+## definition
+Report the date the invoiced insurance premium takes effect.
+
+## syntax
+### xbrl
+- name=FinancialServices.Insurance.PremiumInvoicedEffective.Date
+- classification=baf/bafot/bafot.02.06
+- period=instant

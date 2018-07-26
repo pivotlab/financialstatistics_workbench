@@ -1,0 +1,25 @@
+# Financial Risk Market Options Interest Rate Purchased Put Naked Positions Amount
+
+## identifier
+de8071
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of uncovered, or naked, interest rate put options the entity purchased, as determined in accordance with relevant prudential standards.
+
+For the purposes of this item, option positions which are partially covered should be reported only to the extent of their uncovered amount.
+
+Uncovered, or naked, positions represent those positions which are not backed by underlying assets, and are generally entered into for speculative trading purposes.
+
+A bought, or purchased, put option is a put option that has been purchased by an entity. It provides the purchasing entity with the right but not the obligation to sell a specific amount of the underlying asset at a pre-agreed price, on or before a specific future date.
+
+An interest rate contract is any contract that transfers the interest rate risk of an underlying asset from one party to another.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.OptionsInterestRatePurchasedPutNakedPositions.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

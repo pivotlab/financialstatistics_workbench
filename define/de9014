@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Insurance Recoveries Gross Amount
+
+## identifier
+de9014
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of insurance recoveries outstanding, gross of any provision for doubtful debts. Insurance recoveries are amounts expected to be recovered under arrangements in relation to the outstanding claims liabilities.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.InsuranceRecoveriesGross.Amount
+- classification=baf/bafpo/bafpo5.02.06
+- period=instant

@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Net Assets Adjustments APRA Approved Amount
+
+## identifier
+de12848
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of adjustments to capital, as approved by the Australian Prudential Regulation Authority.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.NetAssetsAdjustmentsAPRAApproved.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

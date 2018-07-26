@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Non Current Insurance Recoveries Not Reinsurance Net Amount
+
+## identifier
+de8922
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of recoveries receivable by the reporting party in relation to paid and unpaid insurance claims, that are non-current, other than reinsurance recoveries, net of any provisions for depreciation or impairment.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.NonCurrentInsuranceRecoveriesNotReinsuranceNet.Amount
+- classification=baf/bafpo/bafpo5.02.05
+- period=instant

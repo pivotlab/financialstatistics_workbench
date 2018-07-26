@@ -1,0 +1,19 @@
+# Assets Gross Of Provisions Excluding Derivatives Amount
+
+## identifier
+de8215
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of assets, gross of provisions for impairment, and excluding derivative financial instruments.
+
+The measurement and classification basis used for assets is to be determined in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.GrossOfProvisionsExcludingDerivatives.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

@@ -1,0 +1,16 @@
+# Expense Operating Investment Other SRF 300 0 Description
+
+## identifier
+de8435
+
+## type
+string
+
+## definition
+This is the description of the detailed line item comprising the other investment expenses  balancing item, as required to be reported on APRA form SRF_300_0.
+
+## syntax
+### xbrl
+- name=Expense.Operating.Investment.OtherSRF3000.Description
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

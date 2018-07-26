@@ -1,0 +1,17 @@
+# Expense Treatment Fees Amount
+
+## identifier
+de14074
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the known or invoiced fee charged by the provider for treatment.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.TreatmentFees.Amount
+- classification=baf/bafpr/bafpr1.02.26
+- period=duration

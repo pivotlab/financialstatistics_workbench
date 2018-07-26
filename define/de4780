@@ -1,0 +1,19 @@
+# Liabilities Insurance Reduction in Policy Liability Due To Deferred Acquisition Cost Recovery Reinsurance Amount
+
+## identifier
+de4780
+
+## type
+float
+
+## definition
+Where projection techniques are used, report nil.
+
+Where projection techniques are not used, report the component of the policy liability as at the relevant date, relating to the value of the unrecouped (deferred) acquisition expenses that have been ceded under reinsurance.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.ReductioninPolicyLiabilityDueToDeferredAcquisitionCostRecoveryReinsurance.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

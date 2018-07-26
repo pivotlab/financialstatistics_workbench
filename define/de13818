@@ -1,0 +1,17 @@
+# Assets Cash And Liquid Assets Exchange Settlement Account Balances Held Against Reserve Bank Of Australia Repos Amount
+
+## identifier
+de13818
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the Reserve Bank of Australia (RBA) domestic market activities via certain liquidity facilities. Through these facilities, eligible counterparties transact with the RBA on pre-specified terms, with liquidity made available via repurchase agreements (Repo). In the context of the RITS Regulations and Conditions of Operation, all repurchase agreements executed under the Bank's liquidity facilities are known as RBA Repos. This is separate from the RBA's open market operations.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.ExchangeSettlementAccountBalancesHeldAgainstReserveBankOfAustraliaRepos.Amount
+- classification=baf/bafpo/bafpo7.02.17
+- period=instant

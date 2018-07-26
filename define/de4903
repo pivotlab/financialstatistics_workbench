@@ -1,0 +1,21 @@
+# Financial Risk Management Capital Liabilities Realistic Amount
+
+## identifier
+de4903
+
+## type
+float
+
+## definition
+Report the realistic value of the liabilities of the general fund of the reporting party.
+
+The realistic value of the liabilities is the value of the liabilities increased, in the case of life insurance related activities, to reflect assumptions which are more conservative (anticipate a more adverse experience) than best estimate assumptions.
+
+General Fund refers to the management fund for a friendly society or the shareholders' fund for other life companies, and is distinct and separate from the statutory funds of the life company.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.ManagementCapital.LiabilitiesRealistic.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

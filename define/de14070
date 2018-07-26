@@ -1,0 +1,17 @@
+# Expense Insurance Fee Charged Gap Permitted Prostheses Amount
+
+## identifier
+de14070
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the fee charged for gap permitted prostheses.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.FeeChargedGapPermittedProstheses.Amount
+- classification=baf/bafpr/bafpr3.02.21
+- period=duration

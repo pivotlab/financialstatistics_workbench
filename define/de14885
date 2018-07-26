@@ -1,0 +1,17 @@
+# Assets Cash And Liquid Assets Claims Central Bank Other Amount
+
+## identifier
+de14885
+
+## type
+float
+
+## definition
+This is the value, of all claims on central banks that do not qualify as central bank reserves and balances.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.ClaimsCentralBankOther.Amount
+- classification=baf/bafpo/bafpo7.02.25
+- period=instant

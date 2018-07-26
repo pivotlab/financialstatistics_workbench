@@ -1,0 +1,17 @@
+# Financial Risk Other New Facilities Provided To Securitisation Arrangements Amount
+
+## identifier
+de14829
+
+## type
+float
+
+## definition
+The total value of all new facilities provided to special purpose vehicles (SPVs) which the reporting entity has provided during the relevant reporting period.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Other.NewFacilitiesProvidedToSecuritisationArrangements.Amount
+- classification=baf/bafot/bafot.02.30
+- period=duration

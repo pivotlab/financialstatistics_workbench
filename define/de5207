@@ -1,0 +1,35 @@
+# Service Provider Role Code
+
+## identifier
+de5207
+
+## type
+string
+
+## definition
+Provide the relevant description of any other service(s) provided to the reporting party during the relevant period.
+
+## guidance
+The enumerated values are:
+Accountant
+Actuary
+Insurer
+Lawyer
+Investment Advisor
+Other Advisor
+
+## codes
+| Name               |
+| ------------------ |
+| Accountant         |
+| Actuary            |
+| Insurer            |
+| Investment_Advisor |
+| Lawyer             |
+| Other_Advisor      |
+
+## syntax
+### xbrl
+- name=ServiceProvider.Role.Code
+- classification=py/pylk/pylk.02.01
+- period=duration

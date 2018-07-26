@@ -1,0 +1,16 @@
+# Regulatory Disclosures Fees And Costs Percent
+
+## identifier
+de13238
+
+## type
+float
+
+## definition
+This is the percentage, during the relevant period, for all fees and costs whether disclosed or not in the Product Disclosure Statement or other disclosure material.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.FeesAndCosts.Percent
+- classification=baf/bafot/bafot.02.16
+- period=duration

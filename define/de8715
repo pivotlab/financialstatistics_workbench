@@ -1,0 +1,19 @@
+# Assets Investment Exposure Property Commercial Land Amount
+
+## identifier
+de8715
+
+## type
+float
+
+## definition
+This is the value of the reporting party's investments that result in an exposure to the asset class of land development.
+     
+Land development exposure is defined according to the nature of the risk. An exposure should be classified as land development risk, if the exposure is subject to the performance of the property market for developed vacant land - i.e. land upon which no structures have been permanently erected. This exposure does not include property used for the reporting party's own operational use.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.ExposurePropertyCommercialLand.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=instant

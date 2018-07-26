@@ -1,0 +1,21 @@
+# Liabilities Including Prudential Provisions Excluding Derivatives Amount
+
+## identifier
+de8214
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of liabilities, including prudential provisions for impairment, residual tier 1 capital, upper tier 2 capital and lower tier 2 capital, but excluding derivative financial instruments.
+
+The measurement and classification basis used for liabilities is to be determined in accordance with relevant accounting standards. 
+
+For the purposes of this item, provisions for impairment, residual tier 1 capital, upper tier 2 capital and lower tier 2 capital, are to be determined in accordance with relevant prudential standards. This includes both specific provisions and general reserves for credit loss.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.IncludingPrudentialProvisionsExcludingDerivatives.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities Adjustment Amounts Amount
+
+## identifier
+de14850
+
+## type
+float
+
+## definition
+The value of adjustment amounts as determined by legislative instrument.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.AdjustmentAmounts.Amount
+- classification=baf/bafpo/bafpo6.02.17
+- period=instant

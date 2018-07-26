@@ -1,0 +1,19 @@
+# Income Insurance Life Policy Conversion Amount
+
+## identifier
+de4746
+
+## type
+float
+
+## definition
+Report the inward premium (received) elements of life policy conversions between statutory funds. Exclude deposit (investment) components of premiums.
+
+Life insurance policies are contracts (policies) that will pay a specified sum to beneficiaries upon the death of the insured.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.LifePolicyConversion.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

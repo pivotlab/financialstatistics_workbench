@@ -1,0 +1,21 @@
+# Profit Or Loss Realised Gains Or Losses Other Assets APRA Insurance 310 3 Excluding Foreign Exchange Amount
+
+## identifier
+de8582
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value of realised gains (losses) from the disposal of other assets, as required to be reported on APRA Insurance forms 310_3.
+
+This item does not include foreign currency gains (losses) that occur due to currency translation.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.RealisedGainsOrLossesOtherAssetsAPRAInsurance3103ExcludingForeignExchange.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

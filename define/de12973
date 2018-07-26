@@ -1,0 +1,17 @@
+# Assets Insurance Deferred Reinsurance Expense Excluding Contracts That Do Not Meet Documentation Test Or Government Law Amount
+
+## identifier
+de12973
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of deferred reinsurance expense (DRE), as determined in accordance with the relevant Accounting Standards. For the purposes of this item, exclude amounts under reinsurance contracts that do not meet the reinsurance documentation test or governing law requirements under relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.DeferredReinsuranceExpenseExcludingContractsThatDoNotMeetDocumentationTestOrGovernmentLaw.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

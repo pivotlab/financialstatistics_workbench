@@ -1,0 +1,16 @@
+# Assets Investment Ownership Percent
+
+## identifier
+de5222
+
+## type
+float
+
+## definition
+This is the percentage, as at the relevant date, of ownership or interest in an entity.
+
+## syntax
+### xbrl
+- name=Assets.Investment.Ownership.Percent
+- classification=baf/bafpo/bafpo7.02.05
+- period=instant

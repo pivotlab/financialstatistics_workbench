@@ -1,0 +1,19 @@
+# Auditor Report Opinion Modification Reason Other Text
+
+## identifier
+de9044
+
+## type
+string
+
+## definition
+This is the detailed text for the reason of modification being other than:
+- Limitation of Scope;
+- Disagreement with those charged with Governance; or
+- Not all Australian Accounting Standards applied.
+
+## syntax
+### xbrl
+- name=AuditorReport.OpinionModificationReasonOther.Text
+- classification=em/emfsm/emfsm.02.06
+- period=duration

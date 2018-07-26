@@ -1,0 +1,16 @@
+# Regulatory Disclosures Maximum Event Retention Method Other Text
+
+## identifier
+de9077
+
+## type
+string
+
+## definition
+This is, for the duration of the relevant period, the detailed text for the method used to establish Maximum Event Retention (MER) for "Other consultation" or "Other".
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.MaximumEventRetentionMethodOther.Text
+- classification=baf/bafot/bafot.02.07
+- period=duration

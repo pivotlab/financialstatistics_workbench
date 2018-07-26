@@ -1,0 +1,23 @@
+# Assets Investment Equity Securities Shares In Corporations And Interest In Other Ventures Net Market Value Plus Accrued Income Amount
+
+## identifier
+de4305
+
+## type
+float
+
+## definition
+The value to be reported is the net market value, or fair value, of equity investments or securities in corporations and interests in ventures, plus income accrued but not received in relation to these assets. This method of disclosure differs from the Australian Accounting Standards.
+
+Equity investments or securities are, as defined by the Australian Accounting Standards, contracts that evidence a residual interest in the assets of an entity after deducting all its liabilities.
+
+Interests in ventures are contracts that evidence a residual interest in the assets of a partnership, non-unitised trust or joint venture after deducting all of its liabilities.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.EquitySecuritiesSharesInCorporationsAndInterestInOtherVenturesNetMarketValuePlusAccruedIncome.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=instant

@@ -1,0 +1,17 @@
+# Superannuation Payment Benefit Lump Sum Disability Amount
+
+## identifier
+de1951
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the expense for benefits paid to members resulting from total and permanent disability, and for temporary disability/income protection.
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationPayment.BenefitLumpSumDisability.Amount
+- classification=em/emsup/emsup.02.00
+- period=duration

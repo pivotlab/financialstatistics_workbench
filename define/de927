@@ -1,0 +1,17 @@
+# Assets Cash And Liquid Assets Deposits At Call Total Amount
+
+## identifier
+de927
+
+## type
+float
+
+## definition
+Report the value of deposits at the reporting date redeemable or withdrawable by the reporting party on demand or within 24 hours.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.DepositsAtCallTotal.Amount
+- classification=baf/bafpo/bafpo7.02.04
+- period=instant

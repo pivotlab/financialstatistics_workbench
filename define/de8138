@@ -1,0 +1,19 @@
+# Financial Risk Market IRRBB Capital Requirement Amount
+
+## identifier
+de8138
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the reporting party's interest rate risk in the banking book (IRRBB) capital requirement, as determined in accordance with relevant prudential standards. For the purposes of this item a floor of zero is applied.
+
+IRRBB capital requirement represents the regulatory capital that an entity is required to hold against its exposure to IRRBB in accordance with Prudential Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.IRRBBCapitalRequirement.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

@@ -1,0 +1,21 @@
+# Regulatory Disclosures Financial Statements Based On Audited Numbers Indicator
+
+## identifier
+de9081
+
+## type
+boolean
+
+## definition
+This is the indicator for information provided by the reporting party, for the duration of the relevant period, being based on audited financial statements.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = The information provided by the reporting party, for the duration of the relevant period, being based on audited financial statements
+FALSE = The information provided by the reporting party, for the duration of the relevant period, is not based on audited financial statements
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.FinancialStatementsBasedOnAuditedNumbers.Indicator
+- classification=baf/bafot/bafot.02.07
+- period=duration

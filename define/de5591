@@ -1,0 +1,27 @@
+# Assets Exposures Receivables Net Market Value Amount
+
+## identifier
+de5591
+
+## type
+float
+
+## definition
+Report the net market value, or fair value, of exposures classified as receivables.
+
+Receivables represent claims against customers and others for money, goods or services, arising during the ordinary course of business.
+
+An exposure represents a claim or commitment of an entity, recorded both on and off the balance sheet and which can be of the following in nature:
+(a) Credit exposures (i.e. such as a money market placement with a Bank or holding of a corporation's debt securities);
+(b) Asset exposures that are not in the nature of a credit exposure (e.g. a direct property investment); and
+(c) Exposures in the nature of a liability or obligation to a single party or group of related parties.
+An off-balance sheet exposure refers to an item that is not recognised in the statement of financial position, such as contingent assets and liabilities.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.ReceivablesNetMarketValue.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

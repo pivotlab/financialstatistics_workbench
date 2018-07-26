@@ -1,0 +1,17 @@
+# Liabilities Deposits At Call Amount
+
+## identifier
+de7837
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for deposits/money market loans placed with the reporting entity on a call, 11am or 24 hours basis.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Deposits.AtCall2Days.Amount
+- classification=baf/bafpo/bafpo6.02.06
+- period=instant

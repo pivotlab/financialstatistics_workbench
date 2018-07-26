@@ -1,0 +1,22 @@
+# Assets Securitised Assets And Assets Supporting Secured Funding Arrangements Amount
+
+## identifier
+de12439
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of all securitised assets and assets involved in a fundraising arrangement that involves providing an interest in or over assets originated by the reporting entity.  
+
+This information is in accordance with the relevant prudential standards and is to include:
+(a) the securitised assets that meet the operational requirements for regulatory capital relief, and are excluded from the calculation of regulatory capital; 
+(b)  assets backing fundraising arrangements, subject to prior notification under the relevant prudential standard, that do not meet the operational requirements for regulatory capital relief, is otherwise considered a non-complying securitisation or a secured funding arrangement which APRA requires to be treated as if on-balance sheet and are included in the on-balance sheet assets of a reporting entity (or member of its Level 2 consolidated group) for capital adequacy purposes under the relevant prudential standards, as appropriate; and
+(c) the securitised assets that meet the operational requirements for regulatory capital relief, and that the reporting entity elects to treat as on-balance sheet assets for capital adequacy purposes under the relevant prudential standards, as appropriate.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.SecuritisedAssetsAndAssetsSupportingSecuredFundingArrangements.Amount
+- classification=baf/bafpo/bafpo1.02.08
+- period=instant

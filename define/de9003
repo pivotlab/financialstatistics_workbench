@@ -1,0 +1,16 @@
+# Regulatory Disclosures Maximum Event Retention basis Other Text
+
+## identifier
+de9003
+
+## type
+string
+
+## definition
+This is the detailed text for the basis used, during the relevant period, to determine Maximum Event Retention (MER) other than 'probability modelling' or 'percentage of capital' approach.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.MaximumEventRetentionbasisOther.Text
+- classification=baf/bafot/bafot.02.07
+- period=duration

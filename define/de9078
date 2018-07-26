@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Non Insurance Recoveries Gross Amount
+
+## identifier
+de9078
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of non-insurance recoveries outstanding, which may consist of subrogation, salvage or other recoveries. This item is gross of any provision for doubtful.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.NonInsuranceRecoveriesGross.Amount
+- classification=baf/bafpo/bafpo5.02.06
+- period=instant

@@ -1,0 +1,21 @@
+# Regulatory Disclosures Compliance Cash Basis Of Accounting Indicator
+
+## identifier
+de9026
+
+## type
+boolean
+
+## definition
+This is the indicator for the duration of the relevant period, that the financial statements comply with cash basis of accounting.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = The financial statements comply with Cash Basis of Accounting
+FALSE = The financial statements do not comply with Cash Basis of Accounting
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.ComplianceCashBasisOfAccounting.Indicator
+- classification=baf/bafot/bafot.02.07
+- period=duration

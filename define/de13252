@@ -1,0 +1,17 @@
+# Financial Risk Risk Charge Insurance Impact Amount
+
+## identifier
+de13252
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the impact on the insurance risk charge arising from the failure of a reinsurance counterparty.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.RiskChargeInsuranceImpact.Amount
+- classification=baf/bafot/bafot.02.17
+- period=instant

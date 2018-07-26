@@ -1,0 +1,21 @@
+# Assets Loans And Advances Households And Notes And Coins Amount
+
+## identifier
+de8158
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the following:
+- outstanding loans and advances provided to households; and 
+- cash holdings of notes and coins.
+     
+Loans and advances are those financial assets categorised as "Loans and Receivables" in the accounting standards, other than "Trade Receivables" and "Cash".
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndAdvancesHouseholdsAndNotesAndCoins.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

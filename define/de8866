@@ -1,0 +1,16 @@
+# Financial Services First Home Saver Account Provider Text
+
+## identifier
+de8866
+
+## type
+string
+
+## definition
+Report 'Yes' if the reporting party provided a First Home Saver Account (FHSA) at any time during the relevant period.
+
+## syntax
+### xbrl
+- name=FinancialServices.FirstHomeSaverAccountProvider.Text
+- classification=baf/bafot/bafot.02.06
+- period=duration

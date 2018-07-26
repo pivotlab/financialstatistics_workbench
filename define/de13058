@@ -1,0 +1,17 @@
+# Financial Risk Management Capital Unfunded Default Fund Contribution Amount
+
+## identifier
+de13058
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for unfunded default fund contribution with this central counterparty. This equates to the clearing member's proportionate liability for default fund calls (i.e. unfunded default fund commitment). It is calculated in accordance with the relevant prudential standard.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.ManagementCapital.UnfundedDefaultFundContribution.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

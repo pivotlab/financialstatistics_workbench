@@ -1,0 +1,19 @@
+# Assets Exposures Underwriting Facilities Approved Limit Amount
+
+## identifier
+de8010
+
+## type
+float
+
+## definition
+This is, as at the relevant date, the total committed amount, or limit, of underwriting facilities provided by the reporting party.
+     
+Underwriting facilities represent arrangements under which an entity agrees to buy securities from the issuing entity to facilitate their distribution to the market.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.ExposuresUnderwritingFacilitiesApprovedLimit.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

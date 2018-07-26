@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Average Monthly Premium Rate Amount
+
+## identifier
+de14075
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the average monthly premium rate.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.AverageMonthlyPremiumRate.Amount
+- classification=baf/bafot/bafot.02.25
+- period=duration

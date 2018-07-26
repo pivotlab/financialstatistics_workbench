@@ -1,0 +1,17 @@
+# Financial Risk Solvency Inadmissible Assets Going Concern Total Value Amount
+
+## identifier
+de4994
+
+## type
+float
+
+## definition
+Report the total value disclosed in the regulatory financial statements of all assets wholly or partly subject to the risk that their value would differ in the context of the reporting party being closed to new business.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.InadmissibleAssetsGoingConcernTotalValue.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

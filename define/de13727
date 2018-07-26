@@ -1,0 +1,16 @@
+# Superannuation Fund Details MySuper Product Identifier
+
+## identifier
+de13727
+
+## type
+string
+
+## definition
+This is the authorisation number of the MySuper product allocated by the Australian Prudential Regulation Authority.
+
+## syntax
+### xbrl
+- name=SuperannuationFundDetails.MySuperProduct.Identifier
+- classification=em/emsup/emsup.02.16
+- period=duration

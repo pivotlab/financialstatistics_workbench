@@ -1,0 +1,17 @@
+# Income Fees Commissions Excluding Underwriting Amount
+
+## identifier
+de8588
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of any fee income or commission. Do not include commission revenue that is associated with underwriting activities and is disclosed as commission revenue in the calculation of underwriting expenses in accordance with the relevant Accounting Standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.FeesCommissionsExcludingUnderwriting.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

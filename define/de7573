@@ -1,0 +1,17 @@
+# Capital Expenditure Electrical Machinery Amount
+
+## identifier
+de7573
+
+## type
+float
+
+## definition
+This is the value of capital expenditure on electronic and electrical machinery incurred during the relevant period other than computer hardware and communications equipment.
+
+## syntax
+### xbrl
+- balance=debit
+- name=CapitalExpenditure.ElectricalMachinery.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=duration

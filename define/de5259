@@ -1,0 +1,26 @@
+# Liabilities Other BS Fees Payable Amount
+
+## identifier
+de5259
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+Report the net market value, or fair value, of any amounts payable other than those categorised as one of the following: 
+- Administration Fees
+- Management Fees
+- Investment Fees
+- Trustee Fees
+- Audit and Tax Fees
+- Members benefits payable
+- Borrowings.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherBSFeesPayable.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

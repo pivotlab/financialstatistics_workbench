@@ -1,0 +1,21 @@
+# Regulatory Disclosures Defined Benefit Interests Indicator
+
+## identifier
+de13169
+
+## type
+boolean
+
+## definition
+This indicates whether the member has a defined benefit interest or a defined benefit pension.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = The member has a defined benefit interest or a defined benefit pension. 
+false = The member does not have a defined benefit interest or a defined benefit pension.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.DefinedBenefitInterests.Indicator
+- classification=baf/bafot/bafot.02.15
+- period=instant

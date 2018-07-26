@@ -1,0 +1,17 @@
+# Expense Insurance High Cost Claimants Pool Benefits Net After Age Based Pooling Amount
+
+## identifier
+de14057
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the net benefit paid for high cost claimants pool (HCCP) claimants for the current and the preceding 3 quarters, after Age Based Pooling (ABP) has been applied, for insured persons with a HCCP claim in the current quarter. This item is to be determined in accordance with the relevant risk equalisation rules.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.HighCostClaimantsPoolBenefitsNetAfterAgeBasedPooling.Amount
+- classification=baf/bafpr/bafpr3.02.21
+- period=duration

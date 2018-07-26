@@ -1,0 +1,23 @@
+# Profit Or Loss Insurance Experience Acquisition Expense Amount
+
+## identifier
+de4511
+
+## type
+float
+
+## definition
+Report the Acquisition Expenses component of the Experience Profit or Loss for the period.
+
+The total Experience Profit or Loss is the profit or loss arising in the period from differences between the actual experience during the period and the expected experience on the basis of the Best Estimate Assumptions at the beginning of the period.
+
+Acquisition Expenses are the fixed and variable expenses of the reporting party to the extent they are, either directly or indirectly, referable to those activities of the reporting party related to the acquiring of that new business expected to derive from the expenditure. Include any profit arising from a situation where establishment fee revenue is greater than acquisition expenses, and the surplus is not required to support future expense.
+
+Best Estimate Assumptions are assumptions about future experience determined in accordance with relevant actuarial valuation standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=ProfitOrLoss.Insurance.ExperienceAcquisitionExpense.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

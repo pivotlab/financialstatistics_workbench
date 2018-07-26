@@ -1,0 +1,24 @@
+# Expense Operating Investment Total Amount
+
+## identifier
+de2009
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for all expenses related to investment activities.
+
+Include all expenses which are associated with the generation of income on the investment portfolio of the entity. Do not include expenses of an administrative or operating nature.
+
+Important - Do not net the following revenue items off against investment expenses:
+- Fee related income rebates off against investment expenses; or
+- Rebates provided by investment managers (often in the form of extra units when investment performance does not meet targets).
+Commissions or deductions should be shown on a gross basis here. For example, where there is a separately identifiable charge to the entity, fees charged by the investment manager should not be netted against investment income.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Expense.Operating.Investment.Total.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

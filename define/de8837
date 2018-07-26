@@ -1,0 +1,27 @@
+# Liabilities Insurance Net Premium Other GRF210 1 Amount
+
+## identifier
+de8837
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used, calculated as the (DR - UPL) - (DE - DAC - DRE) where:
+
+DR = Deferred Revenue which are all unearned revenues that represent income used to meet the costs of future claims that will arise under current general insurance contracts that have been deferred in accordance with the relevant accounting standards. This includes deferred reinsurance exchange commission and unearned commission revenue.
+
+UPL = Unearned Premium Liability as determined in accordance with the relevant accounting standards.
+
+DE = Deferred Expenses which are all capitalised costs relating to the unearned portion of premium revenue (net of any write-downs resulting from the liability adequacy test), or relating to the deferred portion of existing outwards reinsurance arrangements (for deferred outwards reinsurance expenses), that have been deferred and recognised in accordance with the relevant accounting standards. This includes Deferred Acquisition Costs (DAC) and Deferred Reinsurance Expense (DRE) as determined in accordance with the relevant accounting standards.  
+
+DAC = Deferred Acquisition Costs as determined in accordance with the relevant accounting standards.
+
+DRE = Deferred Reinsurance Expense as determined in accordance with the relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.NetPremiumOtherGRF2101.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

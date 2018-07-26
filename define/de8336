@@ -1,0 +1,17 @@
+# Regulatory Disclosures Investment Entity Value Amount
+
+## identifier
+de8336
+
+## type
+float
+
+## definition
+This is the value of the entity in which the reporting party has invested, calculated as the value, as at the relevant date, of the reporting party's holding in the entity divided by the reporting party's percentage of ownership of the entity.
+
+## syntax
+### xbrl
+- balance=debit
+- name=RegulatoryDisclosures.InvestmentEntityValue.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

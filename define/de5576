@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Defined Benefits Date
+
+## identifier
+de5576
+
+## type
+string
+
+## definition
+Report the last date of the applicable (valuation or estimate) defined benefits calculation conducted.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.DefinedBenefits.Date
+- classification=em/emsup/emsup.02.02
+- period=instant

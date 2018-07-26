@@ -1,0 +1,18 @@
+# Profit Or Loss Foreign Exchange Total Amount
+
+## identifier
+de1972
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for any realised/unrealised foreign exchange gains/losses relating to the translation/conversion of all investments of the entity which are denominated in a currency other than the Australian dollar (AUD).
+Only report the gain/loss that is attributable to movements in the currency in which investments are denominated, relative to the AUD.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.ForeignExchangeTotal.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

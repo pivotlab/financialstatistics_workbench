@@ -1,0 +1,18 @@
+# Assets Other Financial Assets Government Contributions Receivable Amount
+
+## identifier
+de2039
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for  amounts receivable from Commonwealth and State Governments in respect of recognised unfunded liabilities to superannuation entities for public sector employees.
+Assets are to be measured at net market value.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.GovernmentContributionsReceivable.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

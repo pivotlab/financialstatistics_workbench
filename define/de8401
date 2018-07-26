@@ -1,0 +1,19 @@
+# Income Investment Superannuation Fund Other SRF 200 0 Amount
+
+## identifier
+de8401
+
+## type
+float
+
+## definition
+This is a balancing item within the list in which it is being used.
+
+This is, for the duration of the relevant period, the value of all other investment income of the reporting party, as required to be reported on APRA form SRF_200_0.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Investment.SuperannuationFundOtherSRF2000.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

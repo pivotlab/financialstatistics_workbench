@@ -1,0 +1,16 @@
+# Superannuation Fund Details Registration End Date
+
+## identifier
+de13762
+
+## type
+string
+
+## definition
+The date that the sub-fund, MySuper product, select investment option or lifecycle stage ceases to be effective.
+
+## syntax
+### xbrl
+- name=SuperannuationFundDetails.RegistrationEnd.Date
+- classification=em/emsup/emsup.02.21
+- period=duration

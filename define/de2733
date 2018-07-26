@@ -1,0 +1,17 @@
+# Assets Other Financial Assets Trade Day Versus Settlement Adjustments Amount
+
+## identifier
+de2733
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for any timing adjustments made to asset total for recording securities held on a settlement day rather than trade day basis.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.TradeDayVersusSettlementAdjustments.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

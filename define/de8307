@@ -1,0 +1,27 @@
+# Liabilities Other Financial Liabilities Other GRF400L Amount
+
+## identifier
+de8307
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of liabilities other than those classified as outstanding claims liability; unearned premium liability; borrowings; loan capital and hybrid securities; as determined in accordance with accounting standards.
+
+Unearned premium income is that portion of the written premium applicable to the unused part of the period for which the premium has been paid. Thus, in the case of an annual premium, at the end of the first month of the premium period, eleven-twelfths of the premium is unearned.
+
+Premiums, as defined by the Australian Accounting Standards, are amounts charged in relation to accepting risk from the insured, but does not include amounts collected on behalf of third parties.
+
+Borrowings are generally amounts of money on loan from financial institutions or other creditors with the promise or understanding that it will be repaid.
+
+For the purposes of this item, include hybrid securities classified as debt securities, loan capital, and certificates of deposit.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.OtherGRF400L.Amount
+- classification=baf/bafpo/bafpo6.02.06
+- period=instant

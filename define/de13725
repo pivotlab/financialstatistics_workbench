@@ -1,0 +1,33 @@
+# Business Termination Wind Up Method Code
+
+## identifier
+de13725
+
+## type
+string
+
+## definition
+This indicates the method of wind-up of the entity.
+
+## guidance
+The valid enumerated values are: 
+Successor fund transfer = represents a transfer of a member's benefits without the member's consent from one Registrable Superannuation Entity (RSE) to a successor fund within the meaning given in the relevant Superannuation Industry (Supervision) Regulations 1994 (SIS Regulations).  
+Via member consent = represents where the winding up was implemented via members' consent to the transfer within the meaning given in the relevant SIS Regulations, rather than a transfer to a successor fund.  
+ERF wind up = represents a transfer from an eligible rollover fund (ERF) within the meaning given in the relevant section of the Superannuation Industry (Supervision) Act 1993 (SIS Act).  
+Part 18 amalgamation = represents where APRA approves, under the relevant section of the SIS Act, the transfer of all benefits of members and beneficiaries in an RSE, small APRA fund or single member approved deposit fund to another RSE, small APRA fund or single member approved deposit fund.  
+Other method = represents other methods of wind-up that do not fall under a successor fund transfer, transfer via member consent, ERF wind up or Part 18 amalgamation.
+
+## codes
+| Name                    |
+| ----------------------- |
+| ERF wind up             |
+| Other method            |
+| Part 18 amalgamation    |
+| Successor fund transfer |
+| Via member consent      |
+
+## syntax
+### xbrl
+- name=BusinessTermination.WindUpMethod.Code
+- classification=em/emfsm/emfsm.02.10
+- period=instant

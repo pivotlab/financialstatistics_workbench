@@ -1,0 +1,23 @@
+# Liabilities Exposures Off Balance Sheet Audit Tax Fees Settlement Amount
+
+## identifier
+de5208
+
+## type
+float
+
+## definition
+Record the amount paid during the relevant period to settle off balance sheet exposures related to liabilities classified as audit and tax agent fees.
+
+Audit and tax agent fees are typically amounts payable to an entity for performing agreed assurance and taxation services.
+
+The settlement of a liability takes place when all legal or constructive obligations are eliminated.
+
+Off-balance sheet liability exposures relate to those liabilities or obligations that do not satisfy the recognition requirements of the relevant accounting standards and are therefore not recognised on the face of the balance sheet, or statement of financial position.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Exposures.OffBalanceSheetAuditTaxFeesSettlement.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=duration

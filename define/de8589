@@ -1,0 +1,17 @@
+# Profit Or Loss Gains Or Losses From Asset Revaluation Amount
+
+## identifier
+de8589
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of gains (losses) from the revaluation of assets that are recognised in the profit (loss). This item relates to any increment (write-down) in the carrying amount of assets.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.GainsOrLossesFromAssetRevaluation.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

@@ -1,0 +1,17 @@
+# Assets Net Stable Funding Ratio Initial Margin Posted Customer Amount
+
+## identifier
+de14896
+
+## type
+float
+
+## definition
+The value of the total net stable funding ratio (NSFR) initial margin posted on behalf of the authorised deposit-taking institution's customer, whether on- or off-balance sheet. Report only where the authorised deposit taking institution (ADI) does not guarantee performance of the third party.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.NetStableFundingRatioInitialMarginPostedCustomer.Amount
+- classification=baf/bafpo/bafpo1.02.32
+- period=instant

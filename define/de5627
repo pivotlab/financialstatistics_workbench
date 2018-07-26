@@ -1,0 +1,18 @@
+# Financial Risk Capital Adequacy Margin Allowance For Annuitant Mortality Improvement Per Annum Less Than Life Expectancy Percent
+
+## identifier
+de5627
+
+## type
+float
+
+## definition
+Report the Capital Adequacy Margin applied to best estimate assumptions as a percentage per annum in relation to the allowance for annuitant mortality improvements for annuitants aged lower than the current average life expectancy, as per the capital adequacy standard. The margin must be applied so as to produce a more conservative estimate of the liability than best estimate.
+
+Annuitant refers to a person who pays a single premium, and in return, receives regular payments for the remainder of the annuitants life, or for a defined term. An annuity may be payable to more than one person e.g. it may provide for reversionary payments, at a reduced rate, to the surviving souse of the original annuitant.
+
+## syntax
+### xbrl
+- name=FinancialRisk.CapitalAdequacy.MarginAllowanceForAnnuitantMortalityImprovementPerAnnumLessThanLifeExpectancy.Percent
+- classification=baf/bafot/bafot.02.05
+- period=instant

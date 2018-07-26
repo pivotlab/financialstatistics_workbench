@@ -1,0 +1,17 @@
+# Equity Dividends Paid Amount
+
+## identifier
+de864
+
+## type
+float
+
+## definition
+Dividends are distributions of profits to the shareholders of a company in proportion to their holdings of a particular class of capital.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Equity.Dividends.Paid.Amount
+- classification=baf/bafpo/bafpo2.02.00
+- period=duration

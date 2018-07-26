@@ -1,0 +1,31 @@
+# Liabilities Other Financial Liabilities Borrowings Total Amount
+
+## identifier
+de2800
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of borrowings. This represents amounts taken in the form of loans. This item is to be determined in accordance with relevant accounting standards.
+
+## guidance
+Include:
+* subordinated loans with a residual maturity of 12 months or less;
+* short-term loans due to controlled entities and associates;
+* treasury related short-term borrowings from other banks;
+* promissory notes with a residual maturity of 12 months or less;
+* commercial paper with a residual maturity of 12 months or less;
+* short-term debt securities from controlled and associated entities;
+* negotiable and transferable certificates of deposits; and
+* subordinated loans, promissory notes, commercial paper with a residual maturity greater than 12 months.
+
+Exclude:
+* deposits.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.BorrowingsTotal.Amount
+- classification=baf/bafpo/bafpo6.02.11
+- period=instant

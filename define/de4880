@@ -1,0 +1,16 @@
+# Lodgment Return Identifier Code
+
+## identifier
+de4880
+
+## type
+int
+
+## definition
+The ID of the return the form belongs to.  It is assumed that the return id can be used to uniquely identify the package the return belongs to.
+
+## syntax
+### xbrl
+- name=Lodgment.ReturnIdentifier.Code
+- classification=py/pyin/pyin.02.09
+- period=duration

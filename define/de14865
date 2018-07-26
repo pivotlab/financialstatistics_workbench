@@ -1,0 +1,17 @@
+# Liabilities Net Stable Funding Ratio Retail And Small And Medium Enterprises Intermediated Deposits Amount
+
+## identifier
+de14865
+
+## type
+float
+
+## definition
+The value of net stable funding ratio (NSFR) intermediated deposits due to retail customers and small and medium enterprises (SME) deemed to be retail customers when you look through to the original depositor. This must be reported in accordance with Prudential Standard APS 210 - Liquidity, Attachment C.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.NetStableFundingRatioRetailAndSmallAndMediumEnterprisesIntermediatedDeposits.Amount
+- classification=baf/bafpo/bafpo1.02.32
+- period=instant

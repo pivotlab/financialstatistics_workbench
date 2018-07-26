@@ -1,0 +1,17 @@
+# Assets Other Financial Assets Equity Holdings Liquidity Amount
+
+## identifier
+de14887
+
+## type
+float
+
+## definition
+The value of all Australian equities that meet the requirements of Prudential Standard APS 210 - Liquidity, Attachment C.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.EquityHoldingsLiquidity.Amount
+- classification=baf/bafpo/bafpo7.02.25
+- period=instant

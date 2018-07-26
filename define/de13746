@@ -1,0 +1,19 @@
+# Superannuation Regulatory Information Sub Fund Existence Indicator
+
+## identifier
+de13746
+
+## type
+boolean
+
+## definition
+This indicates whether the defined benefit Registrable Superannuation Entity (RSE) has at least one sub-fund.
+
+## guidance
+A choice of TRUE/FALSE values. true = the Registrable Superannuation Entity (RSE) has at least one sub-fund. false = the RSE has no sub-funds.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.SubFundExistence.Indicator
+- classification=em/emsup/emsup.02.16
+- period=duration

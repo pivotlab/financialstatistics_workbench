@@ -1,0 +1,17 @@
+# Expense Operating Non Share Based Remuneration Amount
+
+## identifier
+de7497
+
+## type
+float
+
+## definition
+This is the value of remuneration expenses, other than share-based payments, for the relevant period as determined in accordance with accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.NonShareBasedRemuneration.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

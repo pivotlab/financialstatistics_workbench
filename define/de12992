@@ -1,0 +1,17 @@
+# Assets Investment Related Party Amount
+
+## identifier
+de12992
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of investments in related partied, as determined in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.RelatedParty.Amount
+- classification=baf/bafpo/bafpo7.02.12
+- period=instant

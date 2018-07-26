@@ -1,0 +1,17 @@
+# Assets Exposures Securitised Outstanding Securities Amount
+
+## identifier
+de14841
+
+## type
+float
+
+## definition
+This is the outstanding value of securities issued by the securitisation that are backed by the assets and exposures that the reporting entity has sold, or otherwise originated, into securitisation programs (collectively transferred assets).
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.SecuritisedOutstandingSecurities.Amount
+- classification=baf/bafpo/bafpo3.02.17
+- period=instant

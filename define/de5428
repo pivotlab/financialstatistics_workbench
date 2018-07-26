@@ -1,0 +1,21 @@
+# Liabilities Insurance Profit Carrier Amount
+
+## identifier
+de5428
+
+## type
+float
+
+## definition
+Report the value of the Profit Carrier (projection approach) or Acquisition Expense Recovery Carrier (accumulation approach) used by the reporting party to calculate the profit margins in accordance with actuarial standards for the relevant period.
+
+A profit carrier is a financially measureable indicator of either the expected costs of the services provided to the policy owner; or the expected income item relating to the services. 
+
+Profit Carriers are selected and Profit Margins determined when a policy commences to enable the appropriate emergence of the expected shareholder profit over the term of the benefits.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.ProfitCarrier.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=duration

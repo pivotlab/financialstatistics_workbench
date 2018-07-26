@@ -1,0 +1,22 @@
+# Financial Risk Capital Adequacy Capital Investments Amount
+
+## identifier
+de12839
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the reporting entity's direct, indirect and synthetic holdings of Capital instruments of other Authorised Deposit-taking institutions, or overseas equivalents and their subsidiaries, insurance companies and other financial institutions. For the purposes of this item, exclude:
+(a) exposures acquired through underwriting of a new capital instrument and the exposure is disposed of within five days of the date of issue. If the exposure is not disposed of within five days of issuance, it must be reported; or
+(b) exposures that are held under a legal agreement on behalf of:
+* at Level 1 - an external third party, even if held in the name of the reporting entity; or
+* at Level 2 - a party outside the Level 2 consolidated group, even if held in the name of the reporting entity (or another member of its Level 2 consolidated group).
+This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.CapitalInvestments.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

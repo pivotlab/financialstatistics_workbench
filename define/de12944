@@ -1,0 +1,17 @@
+# Liabilities Insurance Provisions Claims Unearned Premium Amount
+
+## identifier
+de12944
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, claim payments and expenses associated with unexpired proportion of premiums received (unearned premium reserve).
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.ProvisionsClaimsUnearnedPremium.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

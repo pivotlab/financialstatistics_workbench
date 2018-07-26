@@ -1,0 +1,19 @@
+# Financial Risk Solvency Expense Reserve Offset Statutory Capital Amount
+
+## identifier
+de5518
+
+## type
+float
+
+## definition
+Report the amount of Statutory Capital which is appropriately utilised in meeting the expense reserve requirements of the reporting party in accordance with the solvency standard.
+
+This is the value of Statutory Capital to the extent it has actually been utilised in offsetting components of the statutory fund capital requirements. The Offset Statutory Capital of a reporting party should reflect the aggregate of amounts of Statutory Capital so utilised in each statutory fund and in  respect of both Expense Reserve and New Business Reserve components. The Offset Statutory Capital of a reporting party, by definition, may not exceed the Statutory Capital of that reporting party.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.ExpenseReserveOffsetStatutoryCapital.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

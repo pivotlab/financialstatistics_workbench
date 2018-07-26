@@ -1,0 +1,19 @@
+# Financial Risk Cash Flows Net Position Gap Amount
+
+## identifier
+de8226
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the net position/gap in cash flows due to interest rate repricing.
+
+This amount represents the sum of all relevant cash flows (inflows and outflows), resulting in a single positive or negative cash flow amount. This intends to illustrate the difference in timing between interest rate repricing of assets and liabilities, measuring the sensitivity of earnings to changes in interest rates at varying durations.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CashFlowsNetPositionGap.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

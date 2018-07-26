@@ -1,0 +1,21 @@
+# Profit Or Loss Insurance Experience Discontinuance Amount
+
+## identifier
+de4172
+
+## type
+float
+
+## definition
+Report the changes to the Experience Profit or Loss for the period in relation to the surrender or early termination of a policy, i.e. where the policy is ended by either party prior to the maturity date.
+
+The total Experience Profit or Loss is the profit or loss arising in the period from differences between the actual experience during the period and the expected experience on the basis of the Best Estimate Assumptions at the beginning of the period.
+
+Best Estimate Assumptions are assumptions about future experience determined in accordance with relevant actuarial valuation standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=ProfitOrLoss.Insurance.ExperienceDiscontinuance.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

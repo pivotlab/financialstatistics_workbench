@@ -1,0 +1,20 @@
+# Equity Shareholders Equity Total Amount
+
+## identifier
+de1526
+
+## type
+float
+
+## definition
+For interpretation/definition of this item refer to the Australian Accounting Standards, as an example, see provided reference
+
+## guidance
+Shareholders' equity as per accounting standards
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.ShareholdersEquityTotal.Amount
+- classification=baf/bafpo/bafpo1.02.00
+- period=instant

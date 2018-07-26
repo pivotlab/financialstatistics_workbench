@@ -1,0 +1,17 @@
+# Expense Non Operating Other Amount
+
+## identifier
+de14140
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for other non-operating expenses not reported elsewhere.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.NonOperatingOther.Amount
+- classification=baf/bafpr/bafpr1.02.26
+- period=duration

@@ -1,0 +1,19 @@
+# Financial Risk Credit Loans And Advances Security Held Amount
+
+## identifier
+de8474
+
+## type
+float
+
+## definition
+This is the total value, as at the relevant date, of any security held in relation to loans and advances receivable by the reporting party determined in accordance with the relevant accounting standards.
+
+Loans and advances are those financial assets categorised as "Loans and receivables" in the accounting standards other than "Trade receivables" and "Cash".
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Credit.LoansAndAdvancesSecurityHeld.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

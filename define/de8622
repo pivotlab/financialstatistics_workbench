@@ -1,0 +1,17 @@
+# Liabilities Insurance Premiums Liabilities Net Surplus Deficit Including Deferred Reinsurance Future Policies Amount
+
+## identifier
+de8622
+
+## type
+float
+
+## definition
+This is the amount, as at the relevant date, by which the premium liability proxy calculated from figures determined in accordance with accounting standards exceeds (or is in deficit of) the equivalent figure determined in accordance with prudential standards. This item is calculated after adjusting for the deferred reinsurance expense for future policies.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.PremiumsLiabilitiesNetSurplusDeficitIncludingDeferredReinsuranceFuturePolicies.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

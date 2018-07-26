@@ -1,0 +1,19 @@
+# Financial Risk Capital Adequacy Tier 2 Deductions Amount
+
+## identifier
+de7803
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of total Tier 2 specific capital deductions. 
+
+This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.Tier2Deductions.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

@@ -1,0 +1,17 @@
+# Financial Risk Regulatory Capital Requirement Amount
+
+## identifier
+de12885
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the regulatory capital requirement, determined in accordance with relevant legislation and standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.RegulatoryCapitalRequirement.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

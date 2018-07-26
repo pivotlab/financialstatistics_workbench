@@ -1,0 +1,17 @@
+# Income Fees Non Premium Amount
+
+## identifier
+de12903
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for all fees received arising from the provision of management services that are not related to the premium on policy.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.FeesNonPremium.Amount
+- classification=baf/bafpr/bafpr1.02.13
+- period=duration

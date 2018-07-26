@@ -1,0 +1,17 @@
+# Financial Risk Solvency Inadmissible Assets Intangibles Value Amount
+
+## identifier
+de5396
+
+## type
+float
+
+## definition
+Report the value of any intangible assets held that are related to the business of the reporting party itself and are not independently realisable, for example deferred acquisition costs assets, in accordance with the assumptions required under the solvency standard.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Solvency.InadmissibleAssetsIntangiblesValue.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

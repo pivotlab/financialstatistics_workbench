@@ -1,0 +1,19 @@
+# Assets Other GRF300LB Amount
+
+## identifier
+de8796
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of assets held by the reporting party other than those classified as cash and liquid; receivables; recoveries; investments; derivative financial instruments; deferred levies and charges; deferred acquisition costs; deferred reinsurance expenses; prepayments; surplus in defined benefit super fund; non-current assets and disposal groups classified as held for sale; plant and equipment and intangible assets.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherGRF300LB.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

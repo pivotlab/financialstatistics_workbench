@@ -1,0 +1,17 @@
+# Expense Operating Bad Debts Direct To PL Amount
+
+## identifier
+de7700
+
+## type
+float
+
+## definition
+This is the value of bad debts not provided for that have been written off directly to profit and loss during the relevant period.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.BadDebtsDirectToPL.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

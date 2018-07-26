@@ -1,0 +1,17 @@
+# Expense Operating Business Amount
+
+## identifier
+de13154
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for expenses that relate to the operation of a business in accordance with the relevant Australian accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.Business.Amount
+- classification=baf/bafpr/bafpr2.02.14
+- period=duration

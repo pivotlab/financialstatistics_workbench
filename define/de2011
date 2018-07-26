@@ -1,0 +1,25 @@
+# Expense Operating Administration Fees Amount
+
+## identifier
+de2011
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for any fees paid/payable by the entity for administration services provided to the entity. This may include, but is not limited to:
+- All internal or outsourced administration costs (unless these are charged directly to the employer or union sponsor);
+- Administration fees charged by/paid to the employer sponsor for services rendered to the entity;
+- Expenses incurred to administer switches of members' investment choices (but not investment manager fees or other investment expenses); and
+- Employee costs such as salaries and on-costs for direct employees of the entity.
+Exclude fees for the following in this item
+- Investment management services;
+- Custodian fees; and
+- Directors/trustee remuneration and expenses.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Expense.Operating.AdministrationFees.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

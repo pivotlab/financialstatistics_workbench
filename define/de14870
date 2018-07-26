@@ -1,0 +1,17 @@
+# Liabilities Variation Margin Received Non Net Stable Funding Ratio Derivative Assets Amount
+
+## identifier
+de14870
+
+## type
+float
+
+## definition
+The balance sheet liability associated with variation margin received that cannot be included in calculating net stable funding ratio (NSFR) derivative assets.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.VariationMarginReceivedNonNetStableFundingRatioDerivativeAssets.Amount
+- classification=baf/bafpo/bafpo1.02.32
+- period=instant

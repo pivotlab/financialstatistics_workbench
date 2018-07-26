@@ -1,0 +1,16 @@
+# Regulatory Disclosures Adults With Hospital Cover Count
+
+## identifier
+de14065
+
+## type
+int
+
+## definition
+This is the number, as at the relevant date, of adults with hospital cover.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.AdultsWithHospitalCover.Count
+- classification=baf/bafot/bafot.02.25
+- period=instant

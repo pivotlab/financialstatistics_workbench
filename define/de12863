@@ -1,0 +1,17 @@
+# Financial Risk Cumulative Exposures Adjustment Amount
+
+## identifier
+de12863
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date of adjustment for cumulative exposures, as determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CumulativeExposuresAdjustment.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

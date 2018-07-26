@@ -1,0 +1,21 @@
+# Regulatory Disclosures Insurance Calls Made On Members Contractual Obligation To Pay Indicator
+
+## identifier
+de9051
+
+## type
+boolean
+
+## definition
+Indicate if calls can be made on members and there is a contractual obligation to pay.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = when calls are made on members over and above contributions the member has a contractual obligation to pay
+FALSE = when calls are made on members over and above contributions the member does not have a contractual obligation to pay
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuranceCallsMadeOnMembersContractualObligationToPay.Indicator
+- classification=baf/bafot/bafot.02.07
+- period=duration

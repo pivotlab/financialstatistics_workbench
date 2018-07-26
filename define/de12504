@@ -1,0 +1,29 @@
+# Financial Risk Market Scaling Factor Stressed VaR Foreign Exchange Positions Number
+
+## identifier
+de12504
+
+## type
+float
+
+## definition
+This is, as at the relevant date, the scaling factor for the stressed Value at Risk (VaR) applicable, for positions giving rise to market risk.
+
+Stressed VaR, like VaR is a technique used to estimate the likelihood of losses in a portfolio based on analysis of historical price movements and volatilities, over a specified observation period. For the stressed VaR however, the model inputs are calibrated to historical data from a one year observation period of significant market stress relevant to the portfolio being simulated.
+
+The scaling factor consists of a multiplication factor and a plus factor, as determined in accordance with relevant prudential standards. The multiplication factor is set for each reporting party by APRA, and is subject to a minimum of three. A plus factor may also be required by APRA. This factor relates directly to back-testing results from the most recent 250 trading days prior to the relevant date.
+
+Foreign exchange positions include on and off-balance sheet exposures which are affected by changes in foreign exchange rates. This includes holdings of, or positions in:
+(a) the net spot position, i.e. all asset items less all liability items, including accrued interest and other accrued income and accrued expenses, denominated in the currency in question; 
+(b) the net forward position, i.e. all amounts to be received less all amounts to be paid under forward foreign exchange transactions, including currency futures, the principal on currency swaps not included in the spot position, and interest rate transactions such as futures and swaps denominated in a foreign currency; This amount should represent the value of positions at current spot market exchange rates or using net present values;
+(c) guarantees (and similar instruments) that are certain to be called and likely to be irrecoverable; and 
+(d) any other item representing a profit or loss in foreign currencies.
+
+Back-testing represents the process of comparing the daily trading outcome (profit or loss) with the corresponding stressed VaR number for that day.
+
+
+## syntax
+### xbrl
+- name=FinancialRisk.Market.ScalingFactorStressedVaRForeignExchangePositions.Number
+- classification=baf/bafot/bafot.02.09
+- period=instant

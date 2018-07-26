@@ -1,0 +1,17 @@
+# Liabilities Insurance Future Policy Expenses Amount
+
+## identifier
+de13066
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for future policy expenses where projection techniques are used, report the net present value, where projection techniques are not used, report nil.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.FuturePolicyExpenses.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

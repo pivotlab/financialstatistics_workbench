@@ -1,0 +1,17 @@
+# Profit Or Loss Prospective After Income Tax Attributable To Company Members Net Amount
+
+## identifier
+de2318
+
+## type
+float
+
+## definition
+This is the value, for the relevant period, of net profit or loss after tax, calculated in accordance with prospective accounting principles
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Prospective.AfterIncomeTaxAttributableToCompanyMembersNet.Amount
+- classification=baf/bafpr/bafpr3.02.00
+- period=duration

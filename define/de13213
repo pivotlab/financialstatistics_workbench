@@ -1,0 +1,16 @@
+# Regulatory Disclosures Return Target Start Date
+
+## identifier
+de13213
+
+## type
+string
+
+## definition
+This is the date the return target was established.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.ReturnTargetStart.Date
+- classification=baf/bafot/bafot.02.16
+- period=instant

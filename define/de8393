@@ -1,0 +1,19 @@
+# Superannuation Contribution Other SRF 200 0 Amount
+
+## identifier
+de8393
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is, for the duration of the relevant period, the amount of other superannuation contributions received by the reporting entity, as required to be reported on APRA form SRF_200_0.
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationContribution.OtherSRF2000.Amount
+- classification=em/emsup/emsup.02.03
+- period=duration

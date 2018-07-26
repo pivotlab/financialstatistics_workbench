@@ -1,0 +1,17 @@
+# Liabilities Insurance Claims Expenses Provisions Amount
+
+## identifier
+de12941
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of claim payments and expenses in respect of claims in course of payments, that are associated with premiums received.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.ClaimsExpensesProvisions.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

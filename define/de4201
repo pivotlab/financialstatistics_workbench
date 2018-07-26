@@ -1,0 +1,24 @@
+# Assets Investment Exposure Other Amount
+
+## identifier
+de4201
+
+## type
+float
+
+## definition
+This is a balancing item within the list in which it is being used.
+
+Report the value of asset allocations with an exposure other than to:
+
+- equities;
+- property;
+- fixed interest;
+- cash.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.ExposureOther.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=instant

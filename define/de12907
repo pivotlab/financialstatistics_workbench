@@ -1,0 +1,17 @@
+# Income Insurance Premium Deposit Component Amount
+
+## identifier
+de12907
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for all the total deposit (investment) component of premiums received from all insurance investment policies.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.PremiumDepositComponent.Amount
+- classification=baf/bafpr/bafpr3.02.11
+- period=duration

@@ -1,0 +1,17 @@
+# Liabilities Insurance Gross Policy Liabilities Direct Including Unearned Fee Revenue And Deferred Acquisition Costs Amount
+
+## identifier
+de4611
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of gross policy liabilities, valued in accordance with relevant prudential standards, Valuation of Policy Liabilities. This amount does not include any offset for reinsurance. This amount includes liabilities for deferred fee revenue and deferred acquisition costs. For participating benefits, include bonuses in respect of the relevant period. This method of disclosure differs from the Australian Accounting Standards. Fees are defined as amounts of money paid for a particular piece of work or for a particular right or service (i.e. policy management fees).
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.GrossPolicyLiabilitiesDirectIncludingUnearnedFeeRevenueAndDeferredAcquisitionCosts.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

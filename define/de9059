@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Insurance Claims Recoverable Amount
+
+## identifier
+de9059
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of amounts recoverable in relation to an insured event.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.InsuranceClaimsRecoverable.Amount
+- classification=baf/bafpo/bafpo5.02.06
+- period=instant

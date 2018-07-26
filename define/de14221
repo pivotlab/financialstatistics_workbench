@@ -1,0 +1,17 @@
+# Regulatory Disclosures Net Return Amount
+
+## identifier
+de14221
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of net return as defined within Regulation 7.9.07S of the Corporations Regulations 2001.
+
+## syntax
+### xbrl
+- balance=debit
+- name=RegulatoryDisclosures.NetReturn.Amount
+- classification=baf/bafot/bafot.02.27
+- period=instant

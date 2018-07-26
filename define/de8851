@@ -1,0 +1,36 @@
+# Liabilities Insurance Premiums Liabilities Net Adjusted Amount
+
+## identifier
+de8851
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the sum of premiums liabilities net of any recoveries, determined in accordance with relevant prudential standards (Prudential Net Premium Liabilities) plus Net Premium Liabilities after adjustments for LAT sufficiency, determined in accordance with relevant accounting standards (Adjusted Accounting NPL) .
+
+Prudential Net Premium Liabilities relates to all future claim payments arising from future events post the valuation date that will be insured under the reporting party's existing policies that have not yet expired, net of any recoveries on those claims. The value of the Prudential Net Premium Liabilities must include an amount in respect of the expenses that the reporting entity expects to incur in administering and settling the relevant claims and allow for expected premium refunds. 
+
+The value of Prudential Net Premium Liabilities must not include any Government charges directly imposed on the insurer such as levies, duties and taxes, and must be net of input tax credit recoveries. Also a deferred acquisition cost asset must not be reported as part of Prudential Premium Liabilities. 
+
+The Prudential Net Premium Liabilities will be measured as the present value of the future expected payments net of any recoveries, i.e. discounted for future investment income, plus a risk margin determined in accordance with relevant prudential standards. The risk margin must be assessed at the level specified by APRA for capital purposes; this may not be the same risk margin used for other purposes.
+
+
+Adjusted Accounting NPL is calculated as UPL - DE + DR + URL + TPD where:
+                                                                                                                                        
+UPL = Unearned Premium Liability as determined in accordance with the relevant accounting standards.
+                                                                                                                             
+DE = Deferred Expenses which are any capitalised costs relating to the unearned portion of premium revenue (net of any write-downs resulting from the liability adequacy test), or relating to the deferred portion of existing outwards reinsurance arrangements (for deferred outwards reinsurance expenses), that have been deferred and recognised in accordance with the relevant accounting standards. This includes Deferred Acquisition Costs (DAC) and Deferred Reinsurance Expense (DRE) as determined in accordance with the relevant accounting standards.  
+                                                                                                                                    
+DR = Deferred Revenue which are any unearned revenues (other than UPL) that represent income used to meet the costs of future claims that will arise under current general insurance contracts that have been deferred in accordance with the relevant accounting standards. This includes deferred reinsurance exchange commission and unearned commission revenue.
+                                                                                                                        
+URL = Unexpired Risk Liability as determined in accordance with the relevant accounting standards.
+
+TPD = Technical Provision Deficiency recognised in premium liability valuations as a result of Liability Adequacy Test determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.PremiumsLiabilitiesNetAdjusted.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

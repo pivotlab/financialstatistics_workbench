@@ -1,0 +1,28 @@
+# Liabilities Other BS Item Amount
+
+## identifier
+de5234
+
+## type
+float
+
+## definition
+Report the net market value, or fair value, of liabilities other than:
+- Borrowings
+- Trade and other payables
+- Provisions
+- Gross policy liabilities
+- Policy owner retained profits
+- Unearned premium income
+- Approved subordinated debt
+
+Liabilities, as defined by the Australian Accounting Standards, are present obligations of an entity arising from past events, the settlement of which is expected to result in an outflow from the entity of resources embodying economic benefits.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherBSItem.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

@@ -1,0 +1,21 @@
+# Financial Risk Capital Adequacy Upper Tier 2 Asset Revaluation Reserve Of Investments In Non Consolidated Controlled Entities Amount
+
+## identifier
+de8656
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of reserves arising from the revaluation of Investments in non-consolidated controlled entities not held at fair value, and which can be classified as Upper Tier 2 capital. 
+
+For the purposes of this item, exclude any reserve recognised from the revaluation of the goodwill component of investments in subsidiaries not held at fair value.
+
+This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.UpperTier2AssetRevaluationReserveOfInvestmentsInNonConsolidatedControlledEntities.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

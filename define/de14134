@@ -1,0 +1,17 @@
+# Income Non Insurance Activities Health Related Business Recorded As Health Fund Benefits Amount
+
+## identifier
+de14134
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for providing services to policy holders of the health benefits fund that are covered by their insurance premiums.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.NonInsuranceActivitiesHealthRelatedBusinessRecordedAsHealthFundBenefits.Amount
+- classification=baf/bafpr/bafpr1.02.26
+- period=duration

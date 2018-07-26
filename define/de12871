@@ -1,0 +1,21 @@
+# Financial Risk Management Capital Prefunded Default Fund Contribution Amount
+
+## identifier
+de12871
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for prefunded default fund contribution with this central counterparty (CCP). This equates to the money contributed by the clearing member that will be applied upon such clearing member's default, either along with or immediately following such member's initial margin, to reduce the CCP loss.
+
+A central counterparty is defined as a clearing house that interposes itself between counterparties to contracts traded in one or more financial markets, becoming the buyer to every seller and the seller to every buyer. A CCP becomes counterparty to trades with market participants through novation, an open offer system, or another legally binding arrangement. For the purposes of the capital framework, a CCP is a financial institution.
+
+It is calculated in accordance with the relevant prudential standard.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.ManagementCapital.PrefundedDefaultFundContribution.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

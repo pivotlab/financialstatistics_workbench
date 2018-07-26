@@ -1,0 +1,22 @@
+# Equity Movements Dividends Amount
+
+## identifier
+de13028
+
+## type
+float
+
+## definition
+This is the value, for the duration of the relevant period,  of dividends out of retained profits for the reporting period that are not attributable to:
+
+- transfers between statutory funds;
+- transfers into or out of shareholder funds;
+- foreign currency translations; or
+- transfers into or out of reserves.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Equity.Movements.Dividends.Amount
+- classification=baf/bafpo/bafpo4.02.06
+- period=duration

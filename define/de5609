@@ -1,0 +1,24 @@
+# Organisation Details Public Offer Entity Indicator
+
+## identifier
+de5609
+
+## type
+boolean
+
+## definition
+Is the reporting party  a public offer entity?
+
+The meaning of public offer entity is to be determined in accordance with relevant superannuation legislation. Public offer entities may issue superannuation interests to the public and include public offer superannuation funds, Approved Deposit Funds or Pooled Superannuation Trusts.
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The reporting party is a public offer entity.
+FALSE = The reporting party is not a public offer entity.
+
+## syntax
+### xbrl
+- name=OrganisationDetails.PublicOfferEntity.Indicator
+- classification=py/pyde/pyde.02.06
+- period=instant

@@ -1,0 +1,23 @@
+# Profit Or Loss Insurance Other Amount
+
+## identifier
+de4672
+
+## type
+float
+
+## definition
+Report realised and unrealised capital gains/losses derived from other investment assets.
+
+Other investment assets are all assets classified as investment assets other than:
+
+- property;
+- equities; and 
+- debt.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Insurance.Other.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

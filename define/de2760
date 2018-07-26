@@ -1,0 +1,18 @@
+# Liabilities Other Financial Liabilities Derivative Financial Instruments Total Amount
+
+## identifier
+de2760
+
+## type
+float
+
+## definition
+Report the value of the derivative financial instruments on issue by the reporting party as at the reporting date, and where the net position of these instruments is unfavourable to the reporting party. This item is to be determined in accordance with the accounting standards. 
+A derivative is a financial instrument that is derived from some other asset, index, value or other variable (known as the underlying). Derivatives allow risk about the price of the underlying asset to be transferred from one party to another.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.DerivativeFinancialInstrumentsTotal.Amount
+- classification=baf/bafpo/bafpo6.02.04
+- period=instant

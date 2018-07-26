@@ -1,0 +1,29 @@
+# Liabilities Insurance Technical Provision Excess Amount
+
+## identifier
+de8844
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of excess technical provisions calculated as UPL - (DRE + DAC) + URL - NPL, where:
+
+UPL = Unearned Premium Liability as determined in accordance with the relevant accounting standards.
+
+DRE = Deferred Reinsurance Expense (DRE) as determined in accordance with the relevant accounting standards.
+
+DAC = Deferred Acquisition Costs after writing down for the Liability Adequacy Test as determined in accordance with the relevant accounting standards.
+
+URL = Unexpired Risk Liability as determined in accordance with the relevant accounting standards.
+
+NPL = Premiums Liability net of recoveries, determined in accordance with the relevant prudential standards.
+
+Recoveries are determined in accordance with relevant prudential standards they are sum of expected reinsurance recoveries and non-reinsurance recoveries.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.TechnicalProvisionExcess.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

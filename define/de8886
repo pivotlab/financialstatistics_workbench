@@ -1,0 +1,16 @@
+# Liabilities Other Financial Liabilities First Home Saver Account Do Not Meet Four Year Rule Count
+
+## identifier
+de8886
+
+## type
+int
+
+## definition
+This is the number, as at the relevant date, of the First Home Saver Accounts (FHSA) held by the reporting party that do not meet the four-year-rule in accordance with relevant FHSA Act..
+
+## syntax
+### xbrl
+- name=Liabilities.OtherFinancialLiabilities.FirstHomeSaverAccountDoNotMeetFourYearRule.Count
+- classification=baf/bafpo/bafpo6.02.06
+- period=instant

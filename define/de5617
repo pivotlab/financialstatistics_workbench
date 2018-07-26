@@ -1,0 +1,22 @@
+# Auditor Appointment Membership National Tax And Accountants Association Indicator
+
+## identifier
+de5617
+
+## type
+boolean
+
+## definition
+Is the reporting party a member of the National Tax and Accountants Association?
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The reporting party is a member of the National Tax and Accountants Association.
+FALSE = The reporting party is not a member of the National Tax and Accountants Association.
+
+## syntax
+### xbrl
+- name=AuditorAppointment.MembershipNationalTaxAndAccountantsAssociation.Indicator
+- classification=em/emfsm/emfsm.02.04
+- period=instant

@@ -1,0 +1,19 @@
+# Financial Risk Capital Coverage Surplus Or Deficit Amount
+
+## identifier
+de8647
+
+## type
+float
+
+## definition
+This is the value. as at the relevant date, of the reporting party's capital coverage surplus or deficit.
+
+The capital coverage surplus or deficit represents the adequacy of an entity's current capital resources in meeting the current and future needs of the entity. Adequacy will generally be reflected in the extent of surplus capital when capital levels are considered with respect to capital adequacy requirements as determined in accordance to relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalCoverageSurplusOrDeficit.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

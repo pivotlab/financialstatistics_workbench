@@ -1,0 +1,19 @@
+# Financial Risk Mortgages Probable Maximum Loss Net Of Allowable Reinsurance Amount
+
+## identifier
+de8835
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the on the Probable Maximum Loss (PML) for the reporting party, net of allowable reinsurance amount, as determined in accordance with relevant Prudential Standards.
+
+Probable Maximum Loss (PML) is the largest gross loss to which an insurer will be exposed (within the realms of possibility) due to a concentration of risk exposures, without any allowance for potential reinsurance assets.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.MortgagesProbableMaximumLossNetOfAllowableReinsurance.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

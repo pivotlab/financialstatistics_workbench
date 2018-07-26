@@ -1,0 +1,21 @@
+# Expense Other GRF 310 0 G Amount
+
+## identifier
+de8530
+
+## type
+float
+
+## definition
+This is the value of other expenses recognised in the profit or loss during the relevant period, that are considered not to be operating  expenses(or non-recurring), as required to be reported on APRA form GRF_310_0_G.
+
+This item will include:
+- impairment of goodwill, as determined by the relevant accounting standards
+- net asset revaluation adjustments, including non-consolidated subsidiaries, as determined by the relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.OtherGRF3100G.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

@@ -1,0 +1,37 @@
+# Regulatory Disclosures Investment Risk Code
+
+## identifier
+de13225
+
+## type
+string
+
+## definition
+This indicates, as at the relevant date, the level of investment risk based on the number of negative net investment returns over a 20 year period.
+
+## guidance
+The valid enumerated values are:
+Very low = The information represents estimated number of negative annual returns over any 20 year period is 6 or greater.
+Low = This information shows the estimated number of negative annual returns over any 20 year period is 0.5 to less than 1.
+Low to medium = The information represents estimated number of negative annual returns over any 20 year period is 3 to less than 4.
+Medium = The information represents estimated number of negative annual returns over any 20 year period is 2 to less than 3.
+Medium to high = The information represents estimated number of negative annual returns over any 20 year period is 3 to less than 4.
+High = The information represents estimated number of negative annual returns over any 20 year period is 4 to 6.
+Very high = The information represents estimated number of negative annual returns over any 20 year period is 6 or greater.
+
+## codes
+| Name           |
+| -------------- |
+| High           |
+| Low            |
+| Low to medium  |
+| Medium         |
+| Medium to high |
+| Very high      |
+| Very low       |
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InvestmentRisk.Code
+- classification=baf/bafot/bafot.02.16
+- period=instant

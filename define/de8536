@@ -1,0 +1,27 @@
+# Assets Loans And Receivables Insurance Recoveries Not Reinsurance Gross Central Estimate Prudential Group Adjustments Amount
+
+## identifier
+de8536
+
+## type
+float
+
+## definition
+This is a balancing item calculated as A - (B+C), where:
+
+     A = recoveries receivable (non reinsurance) - Total consolidated Level 2
+     B = recoveries receivable (non reinsurance) - Total direct business partially consolidated
+     C = recoveries receivable (non reinsurance) - Total reinsurance business partially consolidated
+
+For the purposes of this item, report the central estimate of recoveries other than reinsurance recoveries, receivable by the reporting party gross of any provisions for depreciation or impairment, that relate to outstanding (unpaid) claims. This item is to be determined in accordance with relevant prudential standards. 
+
+Recoveries to be included at this item include salvage, subrogation, and input tax credit recoveries, amongst others.
+
+The central estimate will be measured as the present value of the future expected recoveries, i.e. discounted for future investment income, determined in accordance with relevant prudential standards. The central estimate is intended to reflect the mean value in the range of possible values for the outcome (that is, the mean of the distribution of probabilistic outcomes), and so does not include any risk margin.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.InsuranceRecoveriesNotReinsuranceGrossCentralEstimatePrudentialGroupAdjustments.Amount
+- classification=baf/bafpo/bafpo5.02.05
+- period=instant

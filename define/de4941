@@ -1,0 +1,23 @@
+# Insurance Policy Expense Claims Other Amount
+
+## identifier
+de4941
+
+## type
+float
+
+## definition
+Report the value of the adjustment to the movement in net policy liabilities attributable to policy expenses recognised as a withdrawal of deposit or change in policy liability in respect of all claims other than:
+
+- death and disability claims;
+- maturities;
+- annuities;
+- surrenders and terminations; and
+- outwards policy conversions.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Insurance.PolicyExpenseClaimsOther.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

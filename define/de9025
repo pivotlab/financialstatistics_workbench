@@ -1,0 +1,18 @@
+# Regulatory Disclosures Beneficiary Count
+
+## identifier
+de9025
+
+## type
+int
+
+## definition
+This is the number of potential beneficiaries during the relevant period.
+
+The potential beneficiary is the party that may become eligible to receive a payment once a claim is made.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.Beneficiary.Count
+- classification=baf/bafot/bafot.02.07
+- period=duration

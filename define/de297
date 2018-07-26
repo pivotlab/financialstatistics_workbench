@@ -1,0 +1,17 @@
+# Liabilities Average Balance Of Interest Bearing Other Borrowings Amount
+
+## identifier
+de297
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the average balance of interest bearing other borrowings over the reporting period.  The average may be calculated by any method consistent with internal systems of the reporting entity.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.AverageBalanceOfInterestBearing.OtherBorrowings.Amount
+- classification=baf/bafpo/bafpo3.02.00
+- period=duration

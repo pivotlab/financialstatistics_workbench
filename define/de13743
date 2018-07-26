@@ -1,0 +1,27 @@
+# Superannuation Regulatory Information Registrable Superannuation Entity Licensee Profit Status Code
+
+## identifier
+de13743
+
+## type
+string
+
+## definition
+This indicates, as at the relevant date, the profit status of the Registrable Superannuation Entity (RSE) licensee.
+
+## guidance
+The valid enumerated values are: 
+Not for profit status =  where the RSE licensee's business operations are not a source of income, profit or other financial gain to the RSE licensee owners, or associates of the RSE licensee owners, that establish, control or finance the legal entity. 
+For profit status = where an RSE licensee cannot be classified as being not for profit status.
+
+## codes
+| Name                  |
+| --------------------- |
+| For profit status     |
+| Not for profit status |
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.RegistrableSuperannuationEntityLicenseeProfitStatus.Code
+- classification=em/emsup/emsup.02.16
+- period=instant

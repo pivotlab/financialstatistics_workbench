@@ -1,0 +1,21 @@
+# Assets Investment Debt Securities Non Indexed Adjustment Look Through Amount
+
+## identifier
+de4634
+
+## type
+float
+
+## definition
+Report the look-through adjustment for non-indexed debt securities held indirectly via listed unit trusts, unlisted unit trusts or controlled unit trusts.
+
+Non-indexed debt securities pay an income stream which is not dependent on any external factors.
+
+A look through adjustment item represents the adjustment required to convert effective holdings in investments via trusts from aggregated amounts classified as debt securities or unit trusts to the appropriate categories on a look-through basis.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.DebtSecuritiesNonIndexedAdjustmentLookThrough.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=instant

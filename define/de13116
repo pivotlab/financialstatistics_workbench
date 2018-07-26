@@ -1,0 +1,16 @@
+# Organisation Control Registered Member Account Count
+
+## identifier
+de13116
+
+## type
+int
+
+## definition
+This is the number, as at the relevant date, of distinct entries recorded in the register of member accounts (or other equivalent mechanism).
+
+## syntax
+### xbrl
+- name=OrganisationControl.RegisteredMemberAccount.Count
+- classification=py/pyde/pyde.02.13
+- period=instant

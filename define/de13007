@@ -1,0 +1,25 @@
+# Assets Exposures Indexed Interest Bearing Securities Adjusted For Derivatives Amount
+
+## identifier
+de13007
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of counterparty exposures to indexed interest bearing securities, after adjusting for derivatives. 
+
+Indexed securities pay an income stream that is dependent upon any external factor. 
+
+Interest bearing securities are debt securities paying an income stream based upon an interest rate consistent with the classification and measurement basis used for investment securities in accordance with the accounting standards. 
+
+An exposure to a counterparty or a group of related counterparties is the aggregate of all claims, commitments arising from on-balance sheet transactions with the counterparty or group of related counterparties. 
+
+On-balance sheet refers to those assets, or exposure items, which are recognised or recorded on the statement of financial position of the reporting entity, as determined in accordance with relevant Accounting Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.IndexedInterestBearingSecuritiesAdjustedForDerivatives.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

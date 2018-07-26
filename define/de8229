@@ -1,0 +1,17 @@
+# Assets Exposures Lending Commitments Leases New Amount
+
+## identifier
+de8229
+
+## type
+float
+
+## definition
+This is the value of firm offers for lease financing (by way of operating and/or finance leases) provided by the reporting party during the relevant period regardless of whether or not the commitment was subsequently withdrawn during or after the relevant period. This includes offers of new facilities as well as increases in existing facilities.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.LendingCommitmentsLeasesNew.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=duration

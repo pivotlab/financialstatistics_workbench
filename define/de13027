@@ -1,0 +1,17 @@
+# Equity Minority Interests Fully Consolidated ADI Or Overseas Equivalent Amount
+
+## identifier
+de13027
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date of minority interests (as defined in accordance to relevant accounting standards) arising from the issue of ordinary shares by fully consolidated Authorised Deposit-taking institutions or overseas equivalents held by third parties. This item is calculated for capital adequacy purposes and is to be determined as per relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.MinorityInterestsFullyConsolidatedADIOrOverseasEquivalent.Amount
+- classification=baf/bafpo/bafpo1.02.12
+- period=instant

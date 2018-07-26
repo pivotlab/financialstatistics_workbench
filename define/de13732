@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Registrable Superannuation Entity Licensee Member Complaints Count
+
+## identifier
+de13732
+
+## type
+int
+
+## definition
+This is the number of expressions of dissatisfaction received by the Registrable Superannuation Entity (RSE) licensee from members, relating to its products or the complaints handling process itself, where a response is explicitly or implicitly expected.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.RegistrableSuperannuationEntityLicenseeMemberComplaints.Count
+- classification=em/emsup/emsup.02.16
+- period=duration

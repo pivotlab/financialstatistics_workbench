@@ -1,0 +1,21 @@
+# Superannuation Regulatory Information Securities Lending Program Indicator
+
+## identifier
+de13164
+
+## type
+boolean
+
+## definition
+This indicates whether the reporting entity participates in a securities lending program. This represents an arrangement that involves the transfer of legal ownership of securities between the original holder and 'borrower', including the right for the 'borrower' to on-sell the securities.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = the reporting entity participates in a securities lending program. 
+false = the reporting entity does not participate in a securities lending program.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.SecuritiesLendingProgram.Indicator
+- classification=em/emsup/emsup.02.10
+- period=instant

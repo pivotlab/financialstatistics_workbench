@@ -1,0 +1,17 @@
+# Assets Collateral Posted Variation Margin Derivatives Amount
+
+## identifier
+de14869
+
+## type
+float
+
+## definition
+The value of all collateral posted in the form of variation margin in connection with derivative contracts, regardless of asset type.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CollateralPostedVariationMarginDerivatives.Amount
+- classification=baf/bafpo/bafpo1.02.32
+- period=instant

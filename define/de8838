@@ -1,0 +1,27 @@
+# Liabilities Insurance Premiums Liabilities Net Accounting Amount
+
+## identifier
+de8838
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of Net Premiums Liabilities calculated in accordance with relevant prudential standards as UPL - DAC - DRE + URL + other items, where:
+
+UPL = Unearned Premium Liability as determined in accordance with the relevant accounting standards.
+
+DAC = Deferred Acquisition Cost as determined in accordance with the relevant accounting standards.  This represents the portion of acquisition costs that relate to the unearned portion of premium revenue and which are capitalised as a result.
+
+DRE = Deferred Reinsurance Expense as determined in accordance with the relevant accounting standards.  This represents the portion of reinsurance expenses that relate to the unearned portion of premium revenue and which are capitalised as a result.
+
+URL = Unexpired Risk Liability as determined in accordance with the relevant accounting standards.
+
+Other items include anything else required under the relevant accounting standards to be included in the calculation of Net Premium Liabilities.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.PremiumsLiabilitiesNetAccounting.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

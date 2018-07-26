@@ -1,0 +1,18 @@
+# Organisation Control Members Spouse Count
+
+## identifier
+de4924
+
+## type
+int
+
+## definition
+Report the number of members of the reporting entity who are spouse members.
+
+A spouse includes a person's legally married husband or wife, or a de facto  husband or wife, or a person who lives with another on a genuine domestic  basis for whom spouse contributions are received by the reporting entity.
+
+## syntax
+### xbrl
+- name=OrganisationControl.MembersSpouse.Count
+- classification=py/pyde/pyde.02.06
+- period=instant

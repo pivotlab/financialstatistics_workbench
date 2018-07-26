@@ -1,0 +1,17 @@
+# Assets Insurance Receivables Premium Provision Doubtful Debts Amount
+
+## identifier
+de8768
+
+## type
+float
+
+## definition
+This is the amount of provision for doubtful debts related to insurance premiums due but not yet received as at the relevant date.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.Insurance.ReceivablesPremiumProvisionDoubtfulDebts.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

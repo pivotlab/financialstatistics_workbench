@@ -1,0 +1,21 @@
+# Assets Exposures Lending Commitments Undrawn Amount
+
+## identifier
+de8680
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of all undrawn lending commitments, or firm offers, provided by the reporting party.
+
+For the purposes of this item, where an amount has been previously advanced in relation to a revolving loan, repayments of these amounts should not increase the undrawn commitment. Additions to the stock of undrawn commitments can only be made by new commitments, while reductions in the stock of undrawn commitments can only occur through advances and cancellation of those new commitments.
+
+A commitment is a firm offer to provide finance which has been accepted by the client. A commitment exists once the loan application has been approved, and a loan contract or letter of offer has been issued to the borrower.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.LendingCommitmentsUndrawn.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

@@ -1,0 +1,32 @@
+# Assets Derivative Financial Instruments Interest Rate Forwards Net Market Value Amount
+
+## identifier
+de5340
+
+## type
+float
+
+## definition
+Report the net market value, or fair value, of interest rate based forward derivative contracts consistent with the classification and measurement basis used for derivatives by institutions in accordance with accounting standards.
+
+A derivative is a financial instrument that is derived from some other asset, index, value or other variable (known as the underlying). Derivatives allow risk about the price of the underlying asset to be transferred from one party to another.
+
+Forwards are agreements to exchange a predetermined amount of financial instruments at a specified future date and at a predetermined price.
+
+An interest rate derivative contract is any contract that transfers the interest rate risk on an underlying asset from one party to another.
+
+Derivative contracts involve:
+- Future delivery, receipt or exchange of financial items such as cash or another derivative instrument; or
+- Future exchange of real assets for financial items where the contract may be tradeable and has a market value.
+The contracts can either be binding on both parties (e.g. as with a currency swap) or subject to the exercise by one party of a right contained within the contract (as with options).
+
+Report this item regardless of whether favourable or unfavourable to the reporting entity ie where it represents either a net gain or net loss to the entity across all open positions.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.DerivativeFinancialInstruments.InterestRateForwardsNetMarketValue.Amount
+- classification=baf/bafpo/bafpo5.02.04
+- period=instant

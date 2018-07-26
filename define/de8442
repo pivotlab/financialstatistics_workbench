@@ -1,0 +1,16 @@
+# Equity Other SRF 200 0 Description
+
+## identifier
+de8442
+
+## type
+string
+
+## definition
+This is the description of the detailed line item comprising the amount required to reconcile the value of net assets as calculated on APRA form SRF_200_0.
+
+## syntax
+### xbrl
+- name=Equity.OtherSRF2000.Description
+- classification=baf/bafpo/bafpo1.02.06
+- period=duration

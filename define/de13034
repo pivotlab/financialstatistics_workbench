@@ -1,0 +1,17 @@
+# Equity Reserves Share Based Payments Reserve Employee Remuneration Package Amount
+
+## identifier
+de13034
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the equity settled share based payment reserve amounts in accordance with relevant Australian Accounting Standards. For the purposes of this item include only payments granted to employees as part of their remuneration package.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Reserves.ShareBasedPaymentsReserveEmployeeRemunerationPackage.Amount
+- classification=baf/bafpo/bafpo2.02.09
+- period=instant

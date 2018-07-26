@@ -1,0 +1,19 @@
+# Assets Insurance Reinsurance Recoverables Paid Outstanding Claims Meet Documentation Test Amount
+
+## identifier
+de12981
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of reinsurance recoverables in relation to reinsurance contracts for both paid and outstanding claims against the reporting entity where the reporting entity has complied with the threshold levels of reinsurance documentation set out in the relevant prudential standards.
+
+Reinsurance recoverables are any amounts due to the reporting entity under a reinsurance arrangement that arise from paid claims and the recognition of Outstanding Claims Liabilities are in accordance with the relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.ReinsuranceRecoverablesPaidOutstandingClaimsMeetDocumentationTest.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

@@ -1,0 +1,17 @@
+# Financial Risk Operational Total Requirements Amount
+
+## identifier
+de8166
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of total operational risk requirements, as determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Operational.TotalRequirements.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

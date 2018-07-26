@@ -1,0 +1,21 @@
+# Off Balance Sheet Extent Of Indebtedness Secured By Assets Amount
+
+## identifier
+de4627
+
+## type
+float
+
+## definition
+The value reported here is the lesser of:
+
+1) the value of the assets subject to the charge; and 
+
+2) the outstanding value of the charge granted.
+
+## syntax
+### xbrl
+- balance=credit
+- name=OffBalanceSheet.ExtentOfIndebtednessSecuredByAssets.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

@@ -1,0 +1,17 @@
+# Liabilities Insurance Refund Unearned Premium Excess Amount
+
+## identifier
+de12951
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of premium refund payable, in excess of the unearned premium reserve held. The refund is due to termination of the policy and is payable based on the policy document's contractual agreement.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.RefundUnearnedPremiumExcess.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

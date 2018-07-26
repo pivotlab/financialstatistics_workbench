@@ -1,0 +1,17 @@
+# Financial Risk Solvency Supervisory Adjustment Liquidity Test Amount
+
+## identifier
+de14116
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the supervisory adjustment for the liquidity test as advised by the regulator.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Solvency.SupervisoryAdjustmentLiquidityTest.Amount
+- classification=baf/bafot/bafot.02.25
+- period=instant

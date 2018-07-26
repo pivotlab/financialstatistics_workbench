@@ -1,0 +1,27 @@
+# Financial Risk Market VaR Amount
+
+## identifier
+de8082
+
+## type
+float
+
+## definition
+This is the value at risk (VaR), calculated as at the relevant date, for positions giving rise to market risk, as determined in accordance with relevant prudential standards.
+
+Market risk positions include holdings of, or positions giving rise to:
+     - interest rate risk;
+     - equity position risk;
+     - foreign exchange risk; and
+     - commodities risk.
+
+VaR, or Value at Risk, is a technique used to estimate the likelihood of losses in a portfolio based on analysis of historical price movements and volatilities over a specified observation period.
+
+For the purposes of this item the amount reported is the 99% ten-day VaR number calculated as at the relevant date. Therefore, the number reported will represent a simulated mark-to-market loss for which there is a 1% probability of occurrence over the next ten days, assuming there is no trading of the portfolio.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.VaR.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

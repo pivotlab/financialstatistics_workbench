@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Term Drawdowns And Redraws Amount
+
+## identifier
+de7626
+
+## type
+float
+
+## definition
+This is amounts drawn down on new loans and any increases (top-up amounts) on existing loans held by the reporting party during the relevant period. This represents the gross increase in credit associated with newly originated term loans as well as redraws on existing fixed-term loans.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.TermDrawdownsAndRedraws.Amount
+- classification=baf/bafpo/bafpo5.02.05
+- period=duration

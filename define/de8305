@@ -1,0 +1,19 @@
+# Income Realised Gain Loss Equity Securities Net Amount
+
+## identifier
+de8305
+
+## type
+float
+
+## definition
+This is the net value of realised gains and (losses) in relation to the disposal of all equity securities during the relevant period.
+
+Securities are paper certificates (definitive securities) or electronic records (book-entry securities) evidencing ownership of equity or debt obligations.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.RealisedGainLossEquitySecuritiesNet.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

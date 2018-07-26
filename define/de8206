@@ -1,0 +1,19 @@
+# Assets Other ARF117 0 Amount
+
+## identifier
+de8206
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is used.
+
+For the purposes of ARF_117_0, report the value of all 'other assets' as required by the form.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherARF1170.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

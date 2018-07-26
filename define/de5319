@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Trustee Financial Advice Description
+
+## identifier
+de5319
+
+## type
+string
+
+## definition
+If the trustee of the reporting party provides financial advice, provide a description of the advice.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.TrusteeFinancialAdvice.Description
+- classification=em/emsup/emsup.02.02
+- period=duration

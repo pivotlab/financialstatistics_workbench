@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Supervisory Adjustment Concentration Of Assets Test Amount
+
+## identifier
+de14115
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the supervisory adjustment for the concentration of assets test as advised by the regulator.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.SupervisoryAdjustmentConcentrationOfAssetsTest.Amount
+- classification=baf/bafot/bafot.02.25
+- period=instant

@@ -1,0 +1,23 @@
+# Financial Risk Market Average VaR Past 60 Trading Days Foreign Exchange Positions Volatility Amount
+
+## identifier
+de8239
+
+## type
+float
+
+## definition
+This is the average value at risk (VaR), calculated over the most recent 60 trading days prior to and including the relevant date, for positions which are sensitive to changes in foreign exchange rate volatility, as determined in accordance with relevant prudential standards.
+
+Volatility represents a measure of risk based on the standard deviation of the asset return. Volatility is a variable that appears in option pricing formulas, where it denotes the volatility of the underlying asset return from now to the expiration of the option.
+
+VaR, or Value at Risk, is a technique used to estimate the likelihood of losses in a portfolio based on analysis of historical price movements and volatilities over a specified observation period.
+
+For the purposes of this item the amount reported is the average of the 99% ten-day VaR number calculated daily over the most recent 60 trading days prior to and including the relevant date. A 99% ten-day VaR represents a simulated mark-to-market loss for which there is a 1% probability of occurrence over the next ten days, assuming there is no trading of the portfolio.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.AverageVaRPast60TradingDaysForeignExchangePositionsVolatility.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

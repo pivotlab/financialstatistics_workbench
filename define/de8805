@@ -1,0 +1,17 @@
+# Assets Other Non Financial Assets Property Prudential Amount
+
+## identifier
+de8805
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of property (owner-occupied and investment) as determined in accordance with accounting standards, except in relation to owner-occupied property for which only the revaluation option under the relevant accounting standard is to be used.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherNonFinancialAssets.PropertyPrudential.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=instant

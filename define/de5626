@@ -1,0 +1,33 @@
+# Assets Derivative Financial Instruments Other Swaps Net Market Value Amount
+
+## identifier
+de5626
+
+## type
+float
+
+## definition
+This item is the balancing item in the list in which it appears.
+
+Report the market value, or fair value, of other swap derivative contracts held by the reporting party as at the relevant date. This item is to be determined in accordance with accounting standards.
+
+Swap derivative contracts are typically considered to be financial instruments representing a transaction in which two parties agree to swap or exchange some obligation, generally a series of cash flows on differing terms.
+
+This balancing item represents total swap derivative contracts less those swap derivative contracts which are classed as any of the following:
+- Interest rate contracts;
+- Foreign exchange and gold contracts; or
+- Equity contracts.
+
+Derivatives are generally defined as those instruments/contracts, where the value is based on other products, and/or on prices associated with financial products. Derivative contracts involve:
+- Future delivery, receipt or exchange of financial items such as cash or another derivative instrument; or
+- Future exchange of real assets for financial items where the contract may be tradeable and has a market value.
+The contracts can either be binding on both parties (e.g. as with a currency swap) or subject to the exercise by one party of a right contained within the contract (as with options).
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.DerivativeFinancialInstruments.OtherSwapsNetMarketValue.Amount
+- classification=baf/bafpo/bafpo5.02.04
+- period=instant

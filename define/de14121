@@ -1,0 +1,17 @@
+# Financial Risk Solvency Inflow Cash Investment Revenue Amount
+
+## identifier
+de14121
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for income from the investment of assets of the fund.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.InflowCashInvestmentRevenue.Amount
+- classification=baf/bafot/bafot.02.25
+- period=instant

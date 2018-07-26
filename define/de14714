@@ -1,0 +1,22 @@
+# Assets Ultimate Risk Claims Amount
+
+## identifier
+de14714
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for claims allocated to the country where the final risk lies. That is, the country in which the guarantor of a financial claim resides and/or the country in which the head office of a legally dependent branch is located. Collateral may be considered as an indicator of where the final risk lies to the extent that is recognised as a risk mitigant under the Basel Committee on Banking Supervision's capital framework.
+
+## guidance
+For example if credit derivatives are used to cover the counterparty risk of financial claims in the banking book, the country of ultimate risk of these positions is defined as the country in which the counterparty to the credit derivative contract resides.
+
+In case of holdings of credit linked notes, collateral debt obligations and asset-backed securities a 'look-through' approach should be adopted. The country of ultimate risk is defined as the country where the debtor of the underlying credit, security or derivative contract resides.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.UltimateRiskClaims.Amount
+- classification=baf/bafpo/bafpo1.02.28
+- period=instant

@@ -1,0 +1,17 @@
+# Income Interest Loans And Advances Housing Loans Amount
+
+## identifier
+de203
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the amount of interest income derived from housing loans.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Interest.LoansAndAdvances.HousingLoans.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

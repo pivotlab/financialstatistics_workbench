@@ -1,0 +1,17 @@
+# Expense Operating Investment Custodian Fees Amount
+
+## identifier
+de2006
+
+## type
+float
+
+## definition
+Report the value of custodian fees expense recognised by the reporting party for the reporting period. Custodian fees are those charged by an entity for holding title of assets on behalf of the reporting party, but where the powers of investment management remain with the reporting party.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Expense.Operating.Investment.CustodianFees.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

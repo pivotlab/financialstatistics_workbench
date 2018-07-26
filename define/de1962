@@ -1,0 +1,17 @@
+# Insurance Proceeds Death Amount
+
+## identifier
+de1962
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the proceeds received/receivable from the insurer for the reporting period in relation to the death of a member.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Insurance.ProceedsDeath.Amount
+- classification=baf/bafpr/bafpr3.02.00
+- period=duration

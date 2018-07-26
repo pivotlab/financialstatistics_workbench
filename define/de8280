@@ -1,0 +1,19 @@
+# Income Realised Gain Loss Other ARF 330 2 Amount
+
+## identifier
+de8280
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is, for the duration of the relevant period, the net realised profit/(loss) from the sale of other assets (other than trading and investment securities) as required to be reported on form ARF_330_2.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.RealisedGainLossOtherARF3302.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

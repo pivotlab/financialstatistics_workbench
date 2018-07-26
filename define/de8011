@@ -1,0 +1,19 @@
+# Assets Underwriting Facilities Drawn Amount
+
+## identifier
+de8011
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of underwriting facilities provided by the reporting party and which have been drawn on to purchase securities from the counterparty.
+     
+Underwriting facilities represent arrangements under which an entity agrees to buy securities from the issuing entity to facilitate their distribution to the market.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.UnderwritingFacilitiesDrawn.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

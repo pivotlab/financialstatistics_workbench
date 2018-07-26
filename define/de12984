@@ -1,0 +1,17 @@
+# Assets Investment Debt Securities Hybrid Plus Accrued Income Amount
+
+## identifier
+de12984
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the debt component of non-indexed hybrid securities, plus income accrued but not received in relation to this asset. This method of disclosure differs from the Australian Accounting Standards. Hybrid securities, or compound financial instruments, as defined by the Australian Accounting Standards, are financial instruments that, from the issuer's perspective, contain a liability (debt) and an equity element. Non-indexed securities pay an income stream that is not dependent upon any external factor. Compound financial instruments include all equities related items such as convertible notes and other hybrid securities which, taking into account market conditions, have attributes that demonstrate exposure to debt and equities markets.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.DebtSecuritiesHybridPlusAccruedIncome.Amount
+- classification=baf/bafpo/bafpo7.02.12
+- period=instant

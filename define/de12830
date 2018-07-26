@@ -1,0 +1,17 @@
+# Financial Risk Aggregation Benefit Life Business Amount
+
+## identifier
+de12830
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of aggregation benefit which relates to the recognition of diversification benefits between asset and insurance risks for life business other than variable annuities. This item must be calculated in accordance with the prescribed formula in the relevant prudential standard.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.AggregationBenefitLifeBusiness.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

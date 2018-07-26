@@ -1,0 +1,27 @@
+# Preferences Billing Code
+
+## identifier
+de13753
+
+## type
+string
+
+## definition
+This indicates the entity's preferred method for receiving invoices.
+
+## guidance
+The valid enumerated values are: 
+Mail = Where the billing contact person prefers to receive the invoice by mail. 
+Email = Where the billing contact person prefers to receive the invoice by email.
+
+## codes
+| Name  |
+| ----- |
+| Email |
+| Mail  |
+
+## syntax
+### xbrl
+- name=Preferences.Billing.Code
+- classification=py/pypr/pypr.02.02
+- period=duration

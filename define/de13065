@@ -1,0 +1,17 @@
+# Liabilities Insurance Future Policy Benefits Amount
+
+## identifier
+de13065
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for future benefit policies. Where projection techniques are used, report the net present value. For participating benefits, this includes past declared bonuses only. Current reporting period bonuses are excluded as per prudential standards. For non-participating benefits with an entitlement to discretionary additions, the cost of the current year discretionary additions should be included. Where projection techniques are not used, report the policy liability before deducting the value of deferred acquisition expenses.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.FuturePolicyBenefits.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

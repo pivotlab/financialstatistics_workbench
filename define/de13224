@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Member Profile Other Factors Text
+
+## identifier
+de13224
+
+## type
+string
+
+## definition
+This is the description, as at the relevant date, of any other factors determining membership in a product.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.MemberProfileOtherFactors.Text
+- classification=em/emsup/emsup.02.11
+- period=instant

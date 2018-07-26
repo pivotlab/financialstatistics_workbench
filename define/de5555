@@ -1,0 +1,17 @@
+# Profit Or Loss Insurance Loss Recognition Amount
+
+## identifier
+de5555
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for loss recognition and/or loss reversal as defined in the relevant prudential standards. This relates to an actuarial method for valuing policy liabilities.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Insurance.LossRecognition.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

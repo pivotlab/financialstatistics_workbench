@@ -1,0 +1,21 @@
+# Liabilities Borrowings Settlement Amount
+
+## identifier
+de4982
+
+## type
+float
+
+## definition
+Record the amount paid during the relevant period to settle liabilities, claims and obligations classified as borrowings.
+
+Borrowings are generally amounts of money on loan from financial institutions or other creditors with the promise or understanding that it will be repaid.
+
+The settlement of a liability, claim or obligation takes place when all legal or constructive obligations are eliminated.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.BorrowingsSettlement.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=duration

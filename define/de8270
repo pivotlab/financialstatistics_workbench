@@ -1,0 +1,21 @@
+# Liabilities Insurance Outstanding Claims Provision Gross Amount
+
+## identifier
+de8270
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the outstanding claims provision (OCP), gross of any recoveries, determined in accordance with relevant prudential standards.
+
+The OCP relates to all claims incurred prior to the valuation date, whether or not they have been reported to the insurer. The value of the OCP must include an amount in respect of the expenses that the insurer expects to incur in settling these claims. The value of OCP must not include any Government charges directly imposed on the insurer such as levies, duties and taxes, but must be gross of input tax credit recoveries.
+
+The OCP will be measured as the present value of the future expected payments, i.e. discounted for future investment income, plus a risk margin determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.OutstandingClaimsProvisionGross.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

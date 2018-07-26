@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Securitisation Exposure Common Equity Tier 1 Deductions Amount
+
+## identifier
+de14820
+
+## type
+float
+
+## definition
+The value of securitisation exposures that are required to be deducted from Common Equity Tier 1(CET1) capital in accordance with the requirements under Prudential Standard APS 120 Securitisation.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.SecuritisationExposureCommonEquityTier1Deductions.Amount
+- classification=baf/bafot/bafot.02.30
+- period=instant

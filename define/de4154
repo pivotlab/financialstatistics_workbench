@@ -1,0 +1,23 @@
+# Liabilities Insurance Gross Policy Liabilities Reinsurance Including Unearned Fee Revenue And Deferred Acquisition Costs Amount
+
+## identifier
+de4154
+
+## type
+float
+
+## definition
+Report the value of gross policy liabilities assumed under reinsurance, valued in accordance with prudential standards LPS 1.04, Valuation of Policy Liabilities. 
+
+This amount includes liabilities for deferred fee revenue and deferred acquisition costs. For participating benefits, include bonuses in respect of the relevant period. This method of disclosure differs from the Australian Accounting Standards.
+
+Fees are defined as amounts of money paid for a particular piece of work or for a particular right or service (i.e. policy management fees).
+
+Reinsurance contracts as defined by the Australian Accounting Standards, are insurance contracts issued by one insurer (the reinsurer) to compensate another insurer (the cedent) for losses on one or more contracts issued by the cedent.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.GrossPolicyLiabilitiesReinsuranceIncludingUnearnedFeeRevenueAndDeferredAcquisitionCosts.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

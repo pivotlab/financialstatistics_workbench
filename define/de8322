@@ -1,0 +1,29 @@
+# Financial Risk On Balance Sheet Loans And Advances Net  APS 221 Amount
+
+## identifier
+de8322
+
+## type
+float
+
+## definition
+This is the book value, as at the relevant date, of on-balance sheet loans and advances provided by the reporting party.
+
+This item is to be reported on a net basis, meaning net of exposures excluded under APS 221, specifically: 
+     - exposures (e.g. claims or equity investments) deducted from the reporting party's capital (refer APS 111); 
+     - exposures to the extent that they are secured by cash deposits (subject to satisfying the criteria in APS 112);
+     - exposures to the extent that they are guaranteed by, or secured against securities issued by, governments or central banks (subject to satisfying the conditions in APS 112); 
+     - exposures arising in the course of settlement of market-related contracts; 
+     - exposures to an ADI required as part of a liquidity support arrangement that has been certified by APRA under section 11CB of the Banking Act 1959; and 
+     - exposures to the extent that they have been written off or specifically provided for. 
+
+On-balance sheet refers to those assets, or exposure items, which are recognised or recorded on the statement of financial position of the reporting party, as determined in accordance with relevant accounting standards.
+
+Book value represents the current outstanding amount including accrued interest or revaluations, and net of any specific provision or associated depreciation.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.OnBalanceSheetLoansAndAdvancesNetAPS221.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

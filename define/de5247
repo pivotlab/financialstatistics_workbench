@@ -1,0 +1,38 @@
+# Financial Risk Capital Adequacy Greater Basic Solvency Requirement Amount
+
+## identifier
+de5247
+
+## type
+float
+
+## definition
+Report the greater of the capital adequacy requirement as determined in accordance with the capital adequacy standard and the "Basic" capital adequacy amount.
+
+The capital adequacy requirement is the amount required under the capital adequacy standard to ensure, as far as practicable, that, at any time, the financial position of each capital adequacy unit of a reporting party is such that the reporting party will be able, out of the assets of the unit, to meet all policy and other liabilities referable to the unit at that time as they become due.
+
+The "Basic" capital adequacy amount is calculated as the total of:
+
+1)  Liabilities prior to prescribed change
+2) Inadmissible Assets; and
+3) Capital Adequacy Resilience Reserve including any adjustment recognising the potential release of resilience reserves from other statutory funds in accordance with the relevant capital requirements standard.
+
+where:
+Liabilities prior to prescribed change are the total liabilities as determined in accordance with the capital adequacy prudential standard, prior to any prescribed changes to assumptions in that standard used to calculate them.
+
+Inadmissible assets are: 
+a) defined benefit superannuation fund surpluses;
+b) holdings in an associated or subsidiary entity which is a Financial Services entity;
+c) non-realisable (in the context of the capital adequacy tests) intangible assets;
+d) assets with too little diversification, are too illiquid or have too great an exposure to one obligor of low credit standing;
+e) reinsurance assets which may not be fully recoverable in the context of the capital adequacy tests; and
+f) amounts by which the recorded value of an asset exceeds its net realisable value.
+
+The Capital Adequacy Resilience Reserve is determined as the additional amount that needs to be held before the happening of a prescribed set of changes in the economic environment ( as per the capital adequacy standard), such that after the changes the admissible assets of the reporting party are able to meet the policy owner and other liabilities of the statutory fund. There is no resilience requirement where the policy owner liabilities of the statutory fund move in harmony with the assets supporting them.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.GreaterBasicSolvencyRequirement.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

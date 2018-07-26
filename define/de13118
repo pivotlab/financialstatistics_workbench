@@ -1,0 +1,17 @@
+# Financial Risk Target Amount
+
+## identifier
+de13118
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the target amount of financial resources to address the risks of the business.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Target.Amount
+- classification=baf/bafot/bafot.02.15
+- period=instant

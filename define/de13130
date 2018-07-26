@@ -1,0 +1,17 @@
+# Regulatory Disclosures Insurance Claims Admitted Amount
+
+## identifier
+de13130
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of claims where a final decision to admit the claim has been made by the insurance provider but payment has not yet been made by the insurance provider to members and/or their beneficiaries.
+
+## syntax
+### xbrl
+- balance=debit
+- name=RegulatoryDisclosures.InsuranceClaimsAdmitted.Amount
+- classification=baf/bafot/bafot.02.15
+- period=duration

@@ -1,0 +1,18 @@
+# Financial Risk Exposures Total ARF 222 0 Capital Base Percent
+
+## identifier
+de8276
+
+## type
+float
+
+## definition
+This is the percentage, as at the relevant date, of the value of total exposures as required to be reported on form ARF_222_0, divided by the value of the reporting party's capital base, as determined in accordance with relevant prudential standards.
+
+This item is to be reported as a percentage figure.
+
+## syntax
+### xbrl
+- name=FinancialRisk.ExposuresTotalARF2220CapitalBase.Percent
+- classification=baf/bafot/bafot.02.06
+- period=instant

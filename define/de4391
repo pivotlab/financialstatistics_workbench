@@ -1,0 +1,21 @@
+# Assets Receivables Other Amount
+
+## identifier
+de4391
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for receivables other than:
+- outstanding insurance premiums
+- receivables in relation to investment assets
+- income accrued- deferred acquisition costs
+as defined by the relevant Australian Accounting Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.ReceivablesOther.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

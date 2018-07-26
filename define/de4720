@@ -1,0 +1,23 @@
+# Assets Investment Equity Securities Net Market Value Amount
+
+## identifier
+de4720
+
+## type
+float
+
+## definition
+Report the net market value, or fair value, of equity investments or securities.
+
+Equity investments or securities are, as defined by the Australian Accounting Standards, contracts that evidence a residual interest in the assets of an entity after deducting all its liabilities. This includes equity securities lent or sold by the entity under repurchase agreements, where the transaction does not result in the transfer of the rights of ownership of the securities away from the entity to another party. Also included are interests in joint ventures.
+
+If the reporting party holds listed notes/hybrid securities which have chaacteristics of a debt security and an equity security, these securities should be classified in the same manner as they appear in the entity's audited financial statements.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.EquitySecuritiesNetMarketValue.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=instant

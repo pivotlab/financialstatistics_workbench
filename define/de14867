@@ -1,0 +1,17 @@
+# Liabilities Non Operational Deposits Secured And Non Deposit Unsecured Funding Amount
+
+## identifier
+de14867
+
+## type
+float
+
+## definition
+The value of all deposits and other extensions of unsecured funding not included under operational deposits, non-deposit unsecured funding and secured funding.  Non-deposit unsecured funding refers to liabilities and general obligations that are not collateralised by legal rights to specifically designated assets owned by the borrowing authorised deposit taking institution (ADI) in the case of bankruptcy, insolvency, liquidation or resolution, excluding derivatives. Report those liabilities and general obligations that are collateralised by legal rights to specifically designated assets owned by the borrowing ADI in the case of bankruptcy, insolvency, liquidation or resolution as secured funding. This item is to be determined in accordance with the relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.NonOperationalDepositsSecuredAndNonDepositUnsecuredFunding.Amount
+- classification=baf/bafpo/bafpo1.02.32
+- period=instant

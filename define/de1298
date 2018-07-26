@@ -1,0 +1,17 @@
+# Liabilities Deposits Term Deposits Total Amount
+
+## identifier
+de1298
+
+## type
+float
+
+## definition
+Term deposits refer to an account in which money has been placed for a fixed period of time for a stated interest rate.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Deposits.TermDepositsTotal.Amount
+- classification=baf/bafpo/bafpo6.02.00
+- period=instant

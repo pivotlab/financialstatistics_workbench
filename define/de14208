@@ -1,0 +1,17 @@
+# Assets Other Non Financial Assets Plant Equipment And Technology Amount
+
+## identifier
+de14208
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of plant, equipment and technology.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherNonFinancialAssets.PlantEquipmentAndTechnology.Amount
+- classification=baf/bafpo/bafpo7.02.23
+- period=instant

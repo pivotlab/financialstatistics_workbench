@@ -1,0 +1,17 @@
+# Assets Other Non Financial Assets Accumulated Depreciation And Impairment On Other Fixed Assets Amount
+
+## identifier
+de1220
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for accumulated depreciation/impairment relating to 'Other fixed assets'.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.OtherNonFinancialAssets.AccumulatedDepreciationAndImpairmentOnOtherFixedAssets.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

@@ -1,0 +1,24 @@
+# Legislation Compliance SIS Act Subsections 19_2 And 19_3 Indicator
+
+## identifier
+de5307
+
+## type
+boolean
+
+## definition
+The requirement to attest compliance within this item is not intended to exceed the requirements to report only significant breaches to APRA as required by section 29JA of the SIS Act. In the event a breach in relation to this item which was not significant as defined in section 29JA of the SIS Act, then the reporting party is not required to attest non-compliance.
+
+This item requires the reporting party to attest whether  it has complied with SIS Act Subsections 19(2) & 19(3)
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The reporting party has complied with SIS Act Subsections 19(2) & 19(3)
+FALSE = The reporting party has not complied with SIS Act Subsections 19(2) & 19(3)
+
+## syntax
+### xbrl
+- name=LegislationCompliance.SISActSubsections19_2And19_3.Indicator
+- classification=py/pyin/pyin.02.09
+- period=duration

@@ -1,0 +1,21 @@
+# Superannuation Fund Details Employer Funded Indicator
+
+## identifier
+de13141
+
+## type
+boolean
+
+## definition
+This indicates whether, during the relevant period, money is specifically provided to a Registrable Superannuation Entity (RSE) or a defined benefit sub-fund by an employer sponsor. Excludes contributions paid in compliance with super guarantee obligations.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = money is provided to a Registrable Superannuation Entity (RSE) or a defined benefit sub-fund by an employer sponsor. 
+false = money is not provided to a Registrable Superannuation Entity (RSE) or a defined benefit sub-fund by an employer sponsor.
+
+## syntax
+### xbrl
+- name=SuperannuationFundDetails.EmployerFunded.Indicator
+- classification=em/emsup/emsup.02.10
+- period=duration

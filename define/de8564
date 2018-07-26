@@ -1,0 +1,19 @@
+# Liabilities Insurance Claims Outstanding Net Amount
+
+## identifier
+de8564
+
+## type
+float
+
+## definition
+This is the value of net outstanding insurance claims as at the relevant date.
+
+This item represents the total net ultimate cost (inflated & undiscounted) of claims as at the relevant date, less net claims payment expenses recognised during the relevant period.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.ClaimsOutstandingNet.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

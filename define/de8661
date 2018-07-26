@@ -1,0 +1,21 @@
+# Regulatory Disclosures No Longer Fit And Proper Indicator
+
+## identifier
+de8661
+
+## type
+boolean
+
+## definition
+Has the person who has ceased to be a responsible person ceased because they are no longer fit and proper?
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = the person has ceased to be a responsible person because they are no longer fit and proper
+FALSE = the person who has ceased to be a responsible person did not cease because they are no longer fit and proper
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.NoLongerFitAndProper.Indicator
+- classification=baf/bafot/bafot.02.06
+- period=duration

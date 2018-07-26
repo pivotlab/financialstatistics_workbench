@@ -1,0 +1,17 @@
+# Income Interest Loans And Advances Lease Financing Amount
+
+## identifier
+de204
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the amount of interest income derived from lease financing.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Interest.LoansAndAdvances.LeaseFinancing.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

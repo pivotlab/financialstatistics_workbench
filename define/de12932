@@ -1,0 +1,17 @@
+# Liabilities Insurance Policy Liabilities And Policy Owner Retained Profits Amount
+
+## identifier
+de12932
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of policy liabilities net of all policy liabilities ceded under reinsurance, together with policy owner retained profits, determined in accordance with the methodologies stated in relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.PolicyLiabilitiesAndPolicyOwnerRetainedProfits.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

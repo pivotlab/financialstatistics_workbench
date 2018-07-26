@@ -1,0 +1,19 @@
+# Income Rollover Retirement Benefits Amount
+
+## identifier
+de5044
+
+## type
+float
+
+## definition
+Report amounts recieved during the relevant period from the rollover of retirement benefits.
+
+Include amounts received on behalf of both new and existing members. Include rollovers between entities where a single employer sponsors several entities, but not between sub-plans of a single master trust.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.RolloverRetirementBenefits.Amount
+- classification=baf/bafpr/bafpr1.02.05
+- period=duration

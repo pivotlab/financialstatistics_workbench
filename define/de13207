@@ -1,0 +1,19 @@
+# Regulatory Disclosures Gearing Percent
+
+## identifier
+de13207
+
+## type
+float
+
+## definition
+This is the percentage, as at the relevant date, of borrowings for the purpose of boosting the return on capital and income via additional investment.
+
+## guidance
+Includes: derivative securities which achieve a gearing effect.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.Gearing.Percent
+- classification=baf/bafot/bafot.02.16
+- period=instant

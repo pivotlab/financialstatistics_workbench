@@ -1,0 +1,16 @@
+# Regulatory Disclosures Insurance Types Of Cover Text
+
+## identifier
+de9060
+
+## type
+string
+
+## definition
+This is the list of types of cover (classes/risks/maximum sum insured) offered to members which fall within the protection wording and are not insured.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuranceTypesOfCover.Text
+- classification=baf/bafot/bafot.02.07
+- period=duration

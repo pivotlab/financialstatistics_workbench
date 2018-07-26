@@ -1,0 +1,17 @@
+# Profit Or Loss Prospective Underwriting Result Amount
+
+## identifier
+de2313
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the underwriting results is the net premium revenue less claims and direct underwriting expenses.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Prospective.UnderwritingResult.Amount
+- classification=baf/bafpr/bafpr3.02.00
+- period=duration

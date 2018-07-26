@@ -1,0 +1,17 @@
+# Equity Net Assets Life Amount
+
+## identifier
+de4915
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of net assets as calculated in accordance with the Life Insurance Act 1995. This amount is not necessarily equal to net assets per the entity's general purpose accounts.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Equity.NetAssetsLife.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

@@ -1,0 +1,21 @@
+# Income Fees Premium Amount
+
+## identifier
+de4664
+
+## type
+float
+
+## definition
+Report the total of all fees received in relation to insurance premiums.
+
+Fee is an amount of money paid for a particular piece of work or for a particular right or service.
+
+A premium is an amount paid/payable by a policyholder for an insurance policy, either as a single payment or as a stream of regular (eg monthly) payments.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.FeesPremium.Amount
+- classification=baf/bafpr/bafpr1.02.05
+- period=duration

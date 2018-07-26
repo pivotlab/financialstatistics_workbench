@@ -1,0 +1,17 @@
+# Superannuation Payment Benefit Lump Sum Financial Hardship Amount
+
+## identifier
+de1953
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the expense for benefits paid to members by the trustee(s) under the early release provisions relating to grounds of severe financial hardship.
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationPayment.BenefitLumpSumFinancialHardship.Amount
+- classification=em/emsup/emsup.02.00
+- period=duration

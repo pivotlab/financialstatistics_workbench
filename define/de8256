@@ -1,0 +1,31 @@
+# Organisation Details Service Channel Electronic Indicator
+
+## identifier
+de8256
+
+## type
+boolean
+
+## definition
+Does the service channel type provide electronic services as at the relevant date as described below?
+                                                                                                                                                                     
+Electronic services include:
+                                                                                                                                                                     ATMs and CDs - Terminal allowing an authorised cardholder to withdraw cash from either a cheque/savings or credit account. Where the terminal is an ATM, it will also provide access to a varying range of other services such as balance inquiry, transfer of funds and acceptance of deposits. Authorisation is via a Personal Identification Number (PIN). Access is unassisted and may be 24 hours/day, depending on the terminal's location.
+                                                                                                                                                                     
+EFTPOS terminal - Terminal located at a retail outlet which enables an authorised cardholder to purchase goods and services using either deposit or credit funds and may also enable cash withdrawals using deposit funds. Authorisation is via a PIN for deposit funds and a verified signature for credit funds. Access is with the assistance of the retailer and is therefore restricted to the operating hours of the retail outlet.
+                                                                                                                                                                     
+EFTPOB terminal - Terminal located at a retail outlet which enables an authorised cardholder to withdraw cash from a cheque/savings or credit account and also provides access to a varying range of other services such as balance inquiry, transfer of funds and acceptance of deposits. Authorisation is via a PIN. Access is with the assistance of the retailer and is therefore restricted to the operating hours of the retail outlet. GiroPost terminals are not to be included in this category.
+                                                                                                                                                                     
+Credit authorised transfer (CAT)/CAT with merchant data CAPture (CAT/CAP)
+Terminal located at a retail outlet which enables an authorised cardholder to purchase goods and services using credit funds. Authorisation is via a signature. The CAT/CAP terminal does not require a paper voucher because CAP functionality allows for electronic capture and transfer of the transaction details. Access is with the assistance of the retailer and is therefore restricted to the operating hours of the retail outlet.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = the service channel type provides electronic services
+FALSE = the service channel type does not provide electronic services
+
+## syntax
+### xbrl
+- name=OrganisationDetails.ServiceChannelElectronic.Indicator
+- classification=py/pyde/pyde.02.07
+- period=instant

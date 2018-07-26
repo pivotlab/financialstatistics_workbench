@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Actuarial Projection Wage Growth Percent
+
+## identifier
+de5301
+
+## type
+float
+
+## definition
+Report the actuarial projection for wage growth.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.ActuarialProjectionWageGrowth.Percent
+- classification=em/emsup/emsup.02.02
+- period=instant

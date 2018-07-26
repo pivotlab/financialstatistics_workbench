@@ -1,0 +1,17 @@
+# Income Insurance Inwards Reinsurance Premium Deposit Component Amount
+
+## identifier
+de4593
+
+## type
+float
+
+## definition
+Report deposit elements for life investment and life insurance investment account business written as inwards reinsurance - i.e. exclude any revenue components. Show amounts gross of outwards (retrocession) reinsurance. Include the deposit component of premiums in respect of deferred or immediate annuities that are life investment business written as inwards reinsurance.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.InwardsReinsurancePremiumDepositComponent.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

@@ -1,0 +1,17 @@
+# Assets Trading Securities Committed Liquidity Facility Eligible Self Securitised Amount
+
+## identifier
+de14881
+
+## type
+float
+
+## definition
+The value of self-securitised assets for contingent liquidity purposes that are held on-balance sheet and are eligible as committed liquidity facility (CLF) collateral that the Australian Prudential Regulation Authority (APRA) allows to be included in the numerator of the liquidity coverage ratio (LCR).
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.TradingSecurities.CommittedLiquidityFacilityEligibleSelfSecuritised.Amount
+- classification=baf/bafpo/bafpo7.02.25
+- period=instant

@@ -1,0 +1,21 @@
+# Financial Risk Mortgages Probable Maximum Loss Claims Handling Expenses Amount
+
+## identifier
+de8836
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of claims handling expenses on Probable Maximum Loss (PML) for the reporting party, net of allowable reinsurance, as determined in accordance with relevant Prudential Standards.
+
+Claims handling expenses is calculated as five per cent of the adjusted PML for the  mortgages insured by the reporting party.
+
+Probable Maximum Loss (PML) is the largest gross loss to which an insurer will be exposed (within the realms of possibility) due to a concentration of risk exposures, without any allowance for potential reinsurance assets.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.MortgagesProbableMaximumLossClaimsHandlingExpenses.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

@@ -1,0 +1,23 @@
+# Financial Risk Market VaR Volatility Amount
+
+## identifier
+de8103
+
+## type
+float
+
+## definition
+This is the value at risk (VaR), calculated as at the relevant date, in relation to positions which are sensitive to volatility changes, as determined in accordance with relevant prudential standards.
+
+Volatility represents a measure of risk based on the standard deviation of the asset return. Volatility is a variable that appears in option pricing formulas, where it denotes the volatility of the underlying asset return from now to the expiration of the option.
+
+VaR, or Value at Risk, is a technique used to estimate the likelihood of losses in a portfolio based on analysis of historical price movements and volatilities over a specified observation period.
+
+For the purposes of this item the amount reported is the 99% ten-day VaR number calculated as at the relevant date. Therefore, the number reported will represent a simulated mark-to-market loss for which there is a 1% probability of occurrence over the next ten days, assuming there is no trading of the portfolio.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.VaRVolatility.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

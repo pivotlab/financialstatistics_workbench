@@ -1,0 +1,16 @@
+# Superannuation Product Details Lifecycle Name Text
+
+## identifier
+de13749
+
+## type
+string
+
+## definition
+This is the name of the lifecycle stage.
+
+## syntax
+### xbrl
+- name=SuperannuationProductDetails.LifecycleName.Text
+- classification=em/emsup/emsup.02.16
+- period=duration

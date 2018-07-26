@@ -1,0 +1,17 @@
+# Income Unrealised Gains Or Losses From Asset Revaluations Amount
+
+## identifier
+de858
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of the increments and decrements in value when assets are revalued in the books of a business to reflect their current market price. Revaluations may also result from assessed impairment of assets. A gain (or loss) is unrealised if there is no actual disposal of an asset involved.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.UnrealisedGainsOrLossesFromAssetRevaluations.Amount
+- classification=baf/bafpr/bafpr1.02.16
+- period=duration

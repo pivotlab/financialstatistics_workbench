@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Total Amount
+
+## identifier
+de5130
+
+## type
+float
+
+## definition
+Report the amount required under the  capital adequacy standard to ensure, as far as practicable, that, at any time, the financial position of each relevant unit of a reporting party is such that the reporting party will be able, out of the assets of the unit, to meet all policy and other liabilities referable to the unit at that time as they become due, in an ongoing business context.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.Total.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

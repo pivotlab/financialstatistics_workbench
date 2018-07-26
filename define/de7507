@@ -1,0 +1,17 @@
+# Expense Operating Impairment Property Amount
+
+## identifier
+de7507
+
+## type
+float
+
+## definition
+This is the value of impairment charged to profit and loss in respect of property as determined in accordance with accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.ImpairmentProperty.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

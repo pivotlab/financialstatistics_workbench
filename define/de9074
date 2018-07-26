@@ -1,0 +1,21 @@
+# Regulatory Disclosures Compliance Indicator
+
+## identifier
+de9074
+
+## type
+boolean
+
+## definition
+This is the indicator for the duration of the relevant period, that audit opinion stating financial report complies with Australian Accounting Standards and Corporations Regulations and other mandatory reporting requirements in Australia.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = The audit opinion paragraph states that the financial report complies with Australian Accounting Standards and Corporations Regulations and other mandatory reporting requirements in Australia.
+FALSE = The audit opinion paragraph does not state that the financial report complies with Australian Accounting Standards and Corporations Regulations and other mandatory reporting requirements in Australia.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.Compliance.Indicator
+- classification=baf/bafot/bafot.02.07
+- period=duration

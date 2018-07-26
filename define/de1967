@@ -1,0 +1,17 @@
+# Income Investment Total Investment Revenue Amount
+
+## identifier
+de1967
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for total investment revenue including investment income after impairment expense (dividends, interest, trust, rental), gains/losses on investments and any other investment income measured in accordance with the relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Investment.TotalInvestment.Amount
+- classification=baf/bafpr/bafpr2.02.13
+- period=duration

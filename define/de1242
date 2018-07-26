@@ -1,0 +1,20 @@
+# Income Tax Deferred Tax Assets From Tax Losses Amount
+
+## identifier
+de1242
+
+## type
+float
+
+## definition
+For interpretation/definition of this item refer to the Australian Accounting Standards, as an example, see provided reference
+
+## guidance
+Report Deferred Tax Assets arising out of tax losses in accordance with AASB 112.
+
+## syntax
+### xbrl
+- balance=debit
+- name=IncomeTax.DeferredTaxAssetsFromTaxLosses.Amount
+- classification=rvc/rvctc/rvctc1.02.00
+- period=instant

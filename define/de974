@@ -1,0 +1,17 @@
+# Assets Other Financial Assets Net Acceptances Of Customers Amount
+
+## identifier
+de974
+
+## type
+float
+
+## definition
+Report the value of the reporting party's claim against drawers of bills of exchange and accepted by the reporting party as at the reporting date. This item is to be determined in accordance with accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.NetAcceptancesOfCustomers.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

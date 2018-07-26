@@ -1,0 +1,19 @@
+# Superannuation Payment Other SRF 300 0 Amount
+
+## identifier
+de8390
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is, for the duration of the relevant period, the amount of other types of lump sum benefits received by the reporting, as required to be reported on APRA form SRF_300_0.
+
+## syntax
+### xbrl
+- balance=debit
+- name=SuperannuationPayment.OtherSRF3000.Amount
+- classification=em/emsup/emsup.02.03
+- period=duration

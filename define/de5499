@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Resilience Additional Risks Amount
+
+## identifier
+de5499
+
+## type
+float
+
+## definition
+Report the value of any reserves established by the Actuary in relation to additional risks or costs that are not otherwise reflected in the prescribed requirements of the capital adequacy standard, including any transitional adjustment required.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.ResilienceAdditionalRisks.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

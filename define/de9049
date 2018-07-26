@@ -1,0 +1,17 @@
+# Income Insurance Contribution Cash Flow Basis Amount
+
+## identifier
+de9049
+
+## type
+float
+
+## definition
+This is the value, for the duration of relevant period, of contribution revenue received on a cash flow basis.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.ContributionCashFlowBasis.Amount
+- classification=baf/bafpr/bafpr3.02.06
+- period=duration

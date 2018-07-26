@@ -1,0 +1,17 @@
+# Income Fees Excess Spread Arrangements Amount
+
+## identifier
+de8008
+
+## type
+float
+
+## definition
+This is, for the duration of the relevant period, any income received from residual units or other excess spread arrangements.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.FeesExcessSpreadArrangements.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

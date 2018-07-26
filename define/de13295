@@ -1,0 +1,16 @@
+# Financial Risk Minimum Targeted Liquidity Coverage Ratio Percent
+
+## identifier
+de13295
+
+## type
+float
+
+## definition
+This is the percentage, as at the relevant date, for the entity's board approved minimum targeted liquidity coverage ratio (LCR) as contained in its liquidity management strategy.
+
+## syntax
+### xbrl
+- name=FinancialRisk.MinimumTargetedLiquidityCoverageRatio.Percent
+- classification=baf/bafot/bafot.02.19
+- period=instant

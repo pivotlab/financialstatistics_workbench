@@ -1,0 +1,21 @@
+# Financial Risk Management Capital Balancing Item Liability Component Adjusted Amount
+
+## identifier
+de5136
+
+## type
+float
+
+## definition
+Report the adjusted value of the liability component less the value of effective borrowings and tax liabilities.
+
+The Liability Component is determined as the realistic value of liabilities of the General Fund plus, in the case of a friendly society, the reserve in respect of servicing expenses and investment-linked business.
+
+The adjustment is for the prescribed yield change in the discount rate used in their valuation, in accordance with the solvency standard.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.ManagementCapital.BalancingItemLiabilityComponentAdjusted.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

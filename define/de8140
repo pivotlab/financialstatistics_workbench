@@ -1,0 +1,17 @@
+# Financial Risk Market Capital Charge Equity Position Risk Amount
+
+## identifier
+de8140
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the market risk capital charge calculated for equity position risk, as determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.CapitalChargeEquityPositionRisk.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

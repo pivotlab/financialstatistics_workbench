@@ -1,0 +1,25 @@
+# Income Insurance Life Premium Direct Gross Amount
+
+## identifier
+de5183
+
+## type
+float
+
+## definition
+Report premiums received from life insurance policies that are accounted for as Insurance Policy Revenue.
+
+The revenue components of amounts contractually received or receivable for insurance policies are gross of outwards reinsurance expenses. Include premiums in respect of deferred and immediate annuities that are life insurance business.
+
+Life insurance policies are contracts (policies) that will pay a specified sum to beneficiaries upon the death of the insured.
+
+An annuity is a periodic payment of a fixed or variable amount arising out of a contract obligation. Immediate annuities are those purchased with a single payment, where the income stream commences immediately. Deferred annuities are those where the income stream commences at some time in the future.
+
+Direct premiums are those collected by an insurer directly from the insured. Excludes inwards reinsurance premiums.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.LifePremiumDirectGross.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

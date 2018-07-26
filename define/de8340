@@ -1,0 +1,28 @@
+# Financial Risk Asset Liability Region GRF450G Code
+
+## identifier
+de8340
+
+## type
+string
+
+## definition
+This is the GRF450 L2 region that most appropriately reflects, as at the relevant date, the location of the majority of assets and liabilities of the entity in which the reporting party has invested.
+
+## codes
+| Name     |
+| -------- |
+| Americas |
+| AP       |
+| AU       |
+| NZ       |
+| Other    |
+| SEA      |
+| UKorEU   |
+| USA      |
+
+## syntax
+### xbrl
+- name=FinancialRisk.AssetLiabilityRegionGRF450G.Code
+- classification=baf/bafot/bafot.02.06
+- period=instant

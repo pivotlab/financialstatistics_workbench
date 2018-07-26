@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities Securities Sold Under Agreements To Repurchase Amount
+
+## identifier
+de1453
+
+## type
+float
+
+## definition
+Securities sold under agreements to repurchase, represents the payable due to counterparties with whom the stock has been lent and from whom cash has been lodged.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.SecuritiesSoldUnderAgreementsToRepurchase.Amount
+- classification=baf/bafpo/bafpo6.02.00
+- period=instant

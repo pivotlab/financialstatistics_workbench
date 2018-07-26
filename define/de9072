@@ -1,0 +1,19 @@
+# Assets Loans And Receivables Non Current Other DRF 300 Amount
+
+## identifier
+de9072
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of other receivables as required on DRF_300, classified as non-current in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.NonCurrentOtherDRF300.Amount
+- classification=baf/bafpo/bafpo5.02.06
+- period=instant

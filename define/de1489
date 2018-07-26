@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities Securities Purchased Not Delivered Security Settlements Amount
+
+## identifier
+de1489
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for payables for unsettled purchases of securities. This item only arises if securities are recorded on a trade date basis as opposed to a settlement date basis.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.SecuritiesPurchasedNotDeliveredSecuritySettlements.Amount
+- classification=baf/bafpo/bafpo6.02.00
+- period=instant

@@ -1,0 +1,19 @@
+# Income Insurance Written Premium Revenue Amount
+
+## identifier
+de12909
+
+## type
+float
+
+## definition
+This is the value of written insurance premium revenue, recognised during the relevant period, as determined in accordance with relevant accounting standards. This item includes any fire service levy or other levies imposed by state and territory governments.
+
+Written premium is an accounting term in the insurance business used to describe the total premiums on policies issued by an insurance company during a specific period of time regardless of what portions have been earned. Written premiums are the amount of premium charged for a policy that has already become effective.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.WrittenPremiumRevenue.Amount
+- classification=baf/bafpr/bafpr3.02.11
+- period=duration

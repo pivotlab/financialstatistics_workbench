@@ -1,0 +1,23 @@
+# Address Details Geocode Latitude Number
+
+## identifier
+de13091
+
+## type
+float
+
+## definition
+The geographic latitude of a point on the earth is a measurement in degrees north or south of the equator reference to a prescribed datum.  Latitudes south of the equator are expressed as a negative number, north of the equator as positive.
+
+## guidance
+Usage Example: -33.91277417
+
+## facets
+- fractionDigits=9
+- totalDigits=11
+
+## syntax
+### xbrl
+- name=AddressDetails.GeocodeLatitude.Number
+- classification=py/pyde/pyde.02.30
+- period=duration

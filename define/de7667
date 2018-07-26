@@ -1,0 +1,19 @@
+# Liabilities Other Financial Liabilities Interest Accrual RRF320 Amount
+
+## identifier
+de7667
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value of interest accrued but not paid as at the relevant date that has not been included in any other item on APRA form RRF320.0
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.InterestAccrualRRF320.Amount
+- classification=baf/bafpo/bafpo6.02.06
+- period=instant

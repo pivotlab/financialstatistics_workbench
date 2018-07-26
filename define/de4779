@@ -1,0 +1,19 @@
+# Liabilities Insurance Future Policy Premiums Gross Amount
+
+## identifier
+de4779
+
+## type
+float
+
+## definition
+Where projection techniques are used, report the component of the best estimate liability as at the relevant date, gross of reinsurance but inclusive of inwards reinsurance, relating to the net present value of Future Policy Premiums.
+
+Where projection techniques are not used, report nil.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Liabilities.Insurance.FuturePolicyPremiumsGross.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

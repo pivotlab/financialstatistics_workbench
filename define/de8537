@@ -1,0 +1,23 @@
+# Assets Loans And Receivables Insurance Recoveries Reinsurance Gross Central Estimate Prudential Group Adjustments Amount
+
+## identifier
+de8537
+
+## type
+float
+
+## definition
+This is a balancing item calculated as A - (B+C), where:
+
+     A = recoveries receivable (reinsurance) - Total consolidated Level 2
+     B = recoveries receivable (reinsurance) - Total direct business partially consolidated
+     C = recoveries receivable (reinsurance) - Total reinsurance business partially consolidated
+
+For the purposes of this item, report the value as at the relevant date, of reinsurance recoverables (net of provisions for doubtful debts), being amounts due to the reporting party under a reinsurance arrangement that arise from the recognition of Outstanding Claims Liabilities in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.InsuranceRecoveriesReinsuranceGrossCentralEstimatePrudentialGroupAdjustments.Amount
+- classification=baf/bafpo/bafpo5.02.05
+- period=instant

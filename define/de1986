@@ -1,0 +1,22 @@
+# Profit Or Loss Investment Individually Managed Mandates Amount
+
+## identifier
+de1986
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for realised gains/losses on funds placed with external investment managers in the form of individually managed mandates or discretely managed portfolios where the asset portfolio is tailored for or chosen by the entity.
+
+Realised gains/losses:
+Where the entity disposed of an asset during the reporting period, the value of the gain or loss from the disposal is to be reported.
+If an asset has not been disposed of during the annual reporting period, then any gains or losses are unrealised.
+Only include the movement in the market value of the asset, do not include the movement in the value of the currency relative to the Australian dollar (AUD) if the asset is denominated in a currency other than the AUD.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Investment.IndividuallyManagedMandates.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

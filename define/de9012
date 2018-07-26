@@ -1,0 +1,17 @@
+# Income Insurance Contribution Net Of Outwards Insurance Expense Amount
+
+## identifier
+de9012
+
+## type
+float
+
+## definition
+This is the value, for the duration of the relevant period, of contribution income received that is earned, net of any outwards insurance expense.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.ContributionNetOfOutwardsInsuranceExpense.Amount
+- classification=baf/bafpr/bafpr3.02.06
+- period=duration

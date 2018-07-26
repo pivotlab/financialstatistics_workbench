@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Tax Expense Benefit Percent
+
+## identifier
+de13202
+
+## type
+float
+
+## definition
+This is the percentage, during the relevant period, of the tax benefits/expenses derived from fees or costs charged to a member.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.TaxExpenseBenefit.Percent
+- classification=em/emsup/emsup.02.11
+- period=duration

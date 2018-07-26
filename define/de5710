@@ -1,0 +1,34 @@
+# Financial Risk Management Capital Prescribed Yield Adjustment Assets Non Standard Resillience Factors Amount
+
+## identifier
+de5710
+
+## type
+float
+
+## definition
+Report the value of the Prescribed Yield Adjustment in relation to the admissible value of assets in the General Fund where the actuary has considered that non-standard resilience factors are appropriate, as per the management capital prudential standard. 
+
+This should only be used in rare cases. It is intended to cover situations where assets are disaggregated into (1) an identifiable sub-asset and (2) a residual that does not fit into any of the asset sectors specified by Life Insurance Prudential Standards for resilience purposes, or where a non-standard resilience risk has been modelled in accordance with Life Insurance Prudential Standards.
+
+The Prescribed Yield Adjustment is an addition to the resilience reserves calculated using prescribed factors, after allowing for the beneficial implications for asset risks of diversification across asset sectors, as set out in the management capital prudential standard. The Resilience Reserve is determined as the additional amount that needs to be held before the happening of a prescribed set of changes in the economic environment ( as per the management capital prudential standard), such that after the changes the admissible assets of the General Fund are able to meet the liabilities of the General Fund, in an ongoing business context.
+
+The admissible value is the net market value of all assets where the actuary has considered that non-standard resilience factors are appropriate, less the value of those deemed to be inadmissible, as per the management capital prudential standard. 
+
+The inadmissible assets are: 
+a) assets which have a value that is dependent upon the continuation of the business;
+b) holdings in an associated or subsidiary entity which is a Financial Services entity;
+c) non-realisable (in the context of the scenarios of adverse experience) intangible assets;
+d) other assets not measured at fair value in the regulatory financial statements; and
+e) the alignment necessary to ensure the remaining assets and the other liabilities are based on net market value.
+
+General Fund refers to the management fund for a friendly society or the shareholders' fund for other life companies, and is distinct and separate from the statutory funds of the life company.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.ManagementCapital.PrescribedYieldAdjustmentAssetsNonStandardResillienceFactors.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

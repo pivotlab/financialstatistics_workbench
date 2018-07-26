@@ -1,0 +1,19 @@
+# Assets Other Financial Assets Claims Arising From Repos And Stock Borrowing Amount
+
+## identifier
+de2734
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for securities purchased under agreements to resell, stock borrowing.
+
+Treatment in accordance with relevant Australian Accounting Standards. Where the transferee of the stock effectively receives a lenders rate of return (i.e. the underlying risks and rewards of ownership of the underlying stock is not effectively transferred), these transactions are to be accounted for as collateralised lending activities. Securities purchased under agreements to resell represents the receivable due .
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.ClaimsArisingFromReposAndStockBorrowing.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

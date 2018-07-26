@@ -1,0 +1,29 @@
+# Financial Risk Solvency Credit Risk Default Adjustment Other Investment Assets Amount
+
+## identifier
+de5490
+
+## type
+float
+
+## definition
+Report the Credit Risk Default Adjustment in relation to admissible other investment assets with resilience requirement, as per the solvency standard.
+
+The Credit Risk Default Adjustment is an addition to the resilience reserves calculated using the prescribed Credit Risk Default factors as set out in the solvency standards. The Resilience Reserve is determined as the additional amount that needs to be held before the happening of a prescribed set of changes in the economic environment, such that after the changes the admissible assets of the reporting party are able to meet the policy owner and other liabilities of the statutory fund.
+
+Admissible other investment assets is the value of the total assets acquired with the intent to derive a gain either through an income stream or disposal, other than those categorised elsewhere, less the value of those deemed to be inadmissible, as per the solvency standard. 
+
+The inadmissible assets are: 
+a) assets which have a value that is dependent upon the continuation of the business;
+b) holdings in an associated or subsidiary entity which is a Financial Services entity;
+c) non-realisable (in the context of the solvency tests) intangible assets;
+d) assets with too little diversification, are too illiquid or have too great an exposure to one obligor of low credit standing;
+e) reinsurance assets which may not be fully recoverable in the context of the solvency tests; and
+f) amounts by which the recorded value of an asset exceeds its net realisable value.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Solvency.CreditRiskDefaultAdjustmentOtherInvestmentAssets.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

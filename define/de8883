@@ -1,0 +1,19 @@
+# Liabilities Other Financial Liabilities First Home Saver Account Changes Amount
+
+## identifier
+de8883
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used. This should generally be data on contributions made to accounts that existed at the start of the financial year during the relevant period.
+
+This is the value of any other changes to the First Home Saver Accounts (FHSAs) as required on FRF_100_0 form.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.FirstHomeSaverAccountChanges.Amount
+- classification=baf/bafpo/bafpo6.02.06
+- period=duration

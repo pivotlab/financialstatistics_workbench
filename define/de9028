@@ -1,0 +1,16 @@
+# Regulatory Disclosures Contingent Liabilities Details Text
+
+## identifier
+de9028
+
+## type
+string
+
+## definition
+This is the detailed text for the contingent liabilities as defined by Australian Accounting Standards. Provide brief details of any contingent liabilities and any estimates.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.ContingentLiabilitiesDetails.Text
+- classification=baf/bafot/bafot.02.07
+- period=duration

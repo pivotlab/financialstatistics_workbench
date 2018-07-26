@@ -1,0 +1,21 @@
+# Assets Exposures Off Balance Sheet Cash And Fixed Interest Amount
+
+## identifier
+de4128
+
+## type
+float
+
+## definition
+Report the net market value, or fair value, of off balance sheet exposures related to assets classified as cash and fixed interest investments.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+Off-balance sheet asset exposures relate to those assets or rights that do not satisfy the recognition requirements of the relevant accounting standards and are therefore not recognised on the face of the balance sheet, or statement of financial position, such as contingent assets, performance-related rights and guarantees.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.OffBalanceSheetCashAndFixedInterest.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

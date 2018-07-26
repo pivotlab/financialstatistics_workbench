@@ -1,0 +1,17 @@
+# Expense Occupancy And Equipment Amount
+
+## identifier
+de8615
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of expenditure incurred on occupancy and equipment as determined in accordance with relevant Accounting Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.OccupancyAndEquipment.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

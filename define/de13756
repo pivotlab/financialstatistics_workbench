@@ -1,0 +1,29 @@
+# Organisation Control Responsible Person Status Change Code
+
+## identifier
+de13756
+
+## type
+string
+
+## definition
+This indicates the status of the responsible person.
+
+## guidance
+The valid enumerated values are:  
+Changed = if any information about an existing responsible person has changed.  
+Unchanged = if all information about an existing responsible person remains unchanged.  
+No longer acting as a responsible person = if the existing responsible person is no longer a responsible person.
+
+## codes
+| Name                                     |
+| ---------------------------------------- |
+| Changed                                  |
+| No longer acting as a responsible person |
+| Unchanged                                |
+
+## syntax
+### xbrl
+- name=OrganisationControl.ResponsiblePersonStatusChange.Code
+- classification=py/pyde/pyde.02.18
+- period=duration

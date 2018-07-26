@@ -1,0 +1,25 @@
+# Financial Risk Management Capital Reserve New Business Amount
+
+## identifier
+de5085
+
+## type
+float
+
+## definition
+Report the total new business reserve amount determined in accordance with the management capital prudential standard. This is:
+
+a) the additional amount required to ensure that the Solvency Requirement of the General Fund will continue to be met over the next three years, allowing for capital and profit emerging over that period from the existing business of the fund; less
+
+b) New business capital - the amount represented by existing, binding arrangements for the external raising of capital specific to the financing of new business within the General Fund; plus
+
+c) Offset Statutory Capital, which is the amount of Statutory Capital appropriately utilised in meeting the new business reserve requirements across all the statutory funds of the reporting entity.
+
+General Fund refers to the management fund for a friendly society or the shareholders' fund for other life companies, and is distinct and separate from the statutory funds of the life company.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.ManagementCapital.ReserveNewBusiness.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

@@ -1,0 +1,28 @@
+# Liabilities Insurance Profit Margin Percent
+
+## identifier
+de5276
+
+## type
+float
+
+## definition
+Report the profit margin as per the actuarial standards.
+
+A profit carrier is a financially measureable indicator of either the expected costs of the services provided to the policy owner; or the expected income item relating to the services. 
+
+Profit Margin = Value of future Best Estimate Shareholder Profits divided by Value of Profit Carrier(s)
+
+Best Estimate Shareholder Profits are:
+- For participating business this is the value of current period Shareholder Profits as per prudential standards.
+- For non-participating business valued by projection methods this is the current period planned profit.
+- For non-participating business valued by the accumulation method this is the current period planned acquisition expense recoveries.
+- Do not report any value for investment business without discretionary participation features.
+
+Profit Carriers are selected and Profit Margins determined when a policy commences to enable the appropriate emergence of the expected shareholder profit over the term of the benefits.
+
+## syntax
+### xbrl
+- name=Liabilities.Insurance.ProfitMargin.Percent
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

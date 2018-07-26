@@ -1,0 +1,21 @@
+# Profit Or Loss Foreign Exchange Derivatives Amount
+
+## identifier
+de1971
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for any realised/unrealised foreign exchange gains/losses relating to the currency translation/conversion of derivative contracts.
+
+Such contracts may be held in relation to the underlying investment portfolios (e.g. as hedges of the interest rate or equity investment portfolios) or as outright position taking to alter the asset allocation strategy.
+
+Only report the gain/loss that is attributable to movements in the currency in which the derivative contract is denominated, relative to the Australian dollars (AUD).
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.ForeignExchangeDerivatives.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

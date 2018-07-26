@@ -1,0 +1,27 @@
+# Financial Risk Capital Adequacy Inadmissible Assets Total Amount
+
+## identifier
+de5759
+
+## type
+float
+
+## definition
+Report the amount of the asset that is inadmissible for capital adequacy purposes. These are: 
+a) defined benefit superannuation fund surpluses;
+b) holdings in an associated or subsidiary entity which is a Financial Services entity;
+c) non-realisable (in the context of the capital adequacy tests) intangible assets;
+d) assets with too little diversification, are too illiquid or have too great an exposure to one obligor of low credit standing;
+e) reinsurance assets which may not be fully recoverable in the context of the capital adequacy tests; and
+f) amounts by which the recorded value of an asset exceeds its net realisable value.
+
+Assets used in the conduct of business is determined as the amount by which the stated value of the asset in the financial statements exceeds the value the asset would have in a run-off or transfer situation.
+
+Concentrated asset exposures are the amounts by the which the value of any single asset (aggregating, where necessary, individual assets that are exposed to common risks, such as strata titles in the same property) or single credit exposure (with a particular obligor or related party) exceeds the limits as per prudential standards, or in the opinion of the Actuary creates too little diversification, is too illiquid or has too great an exposure to obligors of low credit standing.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.InadmissibleAssetsTotal.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

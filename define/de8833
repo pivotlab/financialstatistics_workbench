@@ -1,0 +1,19 @@
+# Financial Risk Mortgages Available Reinsurance On Probable Maximum Loss Amount
+
+## identifier
+de8833
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of available reinsurance on the Probable Maximum Loss (PML) for the reporting party, as determined in accordance with relevant Prudential Standards.
+
+Probable Maximum Loss (PML) is the largest gross loss to which an insurer will be exposed (within the realms of possibility) due to a concentration of risk exposures, without any allowance for potential reinsurance assets.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.MortgagesAvailableReinsuranceOnProbableMaximumLoss.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

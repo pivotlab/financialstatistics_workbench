@@ -1,0 +1,19 @@
+# Assets Other Financial Assets Investment Income Receivable Gross Amount
+
+## identifier
+de2034
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the total of all investment income that is receivable by the entity. Includes (but is not limited to): Interest, dividends, unit trust distributions, and rental income that is accrued but not yet received. Do not include receivables relating to sales of investments or outstanding fees.
+
+Assets are to be measured at net market value.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.InvestmentIncomeReceivableGross.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

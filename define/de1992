@@ -1,0 +1,23 @@
+# Profit Or Loss Investment Insurance Policies Amount
+
+## identifier
+de1992
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for  realised gains/losses associated with the investments in insurance or life policies. Include:
+- The change in net market value of unit-linked insurance or investment policies; and
+- The change in net market value of policies in respect of death, total, permanent or temporary disablement.
+
+Important:
+If the superannuation entity invests in statutory funds of a life insurer and does not know the realised gains and losses, the superannuation entity should only account for the total change in net market value.
+An estimate can be provided to calculate realised and unrealised gains and losses on a pro rata basis.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Investment.InsurancePolicies.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Supervisory Adjustment Quantum Of Assets Test Amount
+
+## identifier
+de14114
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the supervisory adjustment for the quantum of assets test as advised by the regulator.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.SupervisoryAdjustmentQuantumOfAssetsTest.Amount
+- classification=baf/bafot/bafot.02.25
+- period=instant

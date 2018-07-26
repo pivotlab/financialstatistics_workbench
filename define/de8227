@@ -1,0 +1,27 @@
+# Assets Bills Loans Advances Net Amount
+
+## identifier
+de8227
+
+## type
+float
+
+## definition
+This is the market value, as at the relevant date, of bills of exchange that have been accepted or endorsed by the reporting party, plus the value of Loans and Advances net of specific prudential provisions for impairment.
+
+A bill of exchange is an unconditional order drawn (issued) by one party, sent to another party (usually a bank) for acceptance and made out to, or to the order of, a third party, or to a bearer.
+
+Accepted bills of exchange have been signed by an entity as the drawee which 'accepts' liability to pay out the funds on the due date.
+ 
+Endorsement of a bill of exchange creates a contingent liability by the endorser to pay out the funds conditional on the bearer/holder demanding payment.
+
+Loans and advances are those financial assets categorised as "Loans and Receivables" in the accounting standards, other than "Trade Receivables" and "Cash".
+
+Market value is the amount that would be received on disposal of the asset in an orderly market.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.BillsLoansAdvancesNet.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

@@ -1,0 +1,17 @@
+# Expense Operating Computer Hardware Amount
+
+## identifier
+de8167
+
+## type
+float
+
+## definition
+This is the value of expenses recognised during the relevant period according to accounting principles that relate to computer hardware.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.ComputerHardware.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

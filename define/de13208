@@ -1,0 +1,19 @@
+# Superannuation Regulatory Information Interposed Associate Count
+
+## identifier
+de13208
+
+## type
+int
+
+## definition
+This is the number, as at the relevant date, of the interposed associates. Interposed associate represents an associate that has been engaged to manage some or all of the investments of the Registrable Superannuation Entity (RSE) that invests in other investment vehicles.
+
+## guidance
+Exclude: an investment vehicle that holds the Registrable Superannuation Entity's investment.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.InterposedAssociate.Count
+- classification=em/emsup/emsup.02.11
+- period=instant

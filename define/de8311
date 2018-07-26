@@ -1,0 +1,17 @@
+# Assets Insurance Deferred Reinsurance Expense Policies Future Accounting Amount
+
+## identifier
+de8311
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of deferred reinsurance expense that relates to future business not yet written, determined in accordance with prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.DeferredReinsuranceExpensePoliciesFutureAccounting.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

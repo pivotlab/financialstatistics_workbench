@@ -1,0 +1,21 @@
+# Income Operating Other APRA Insurance DRF310 Amount
+
+## identifier
+de8992
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, for the duration of the relevant period, of other operating income as required on DRF_310_0. For the purposes of this item exclude revenue from calls.
+
+Calls are made by the trustee for members to pay additional insurance premiums on a wide range of circumstances such as exposure to additional risk, to cover cost of default.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Operating.OtherAPRAInsuranceDRF310.Amount
+- classification=baf/bafpr/bafpr2.02.07
+- period=duration

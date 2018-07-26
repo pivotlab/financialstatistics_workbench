@@ -1,0 +1,23 @@
+# Financial Risk Operational Gross Loss Amount
+
+## identifier
+de8171
+
+## type
+float
+
+## definition
+This is the value of the gross loss (prior to any recoveries) discovered during the relevant period. Report only those losses that are treated as operational risk losses, as determined in accordance with relevant prudential standards.
+
+For entities with foreign operations, report only the loss events exceeding the equivalent global reporting threshold after currency conversions.
+
+For the purposes of this item, report both open and closed events. Open events are those events that have been identified but may not yet have been finalised. For open loss events, report the best estimate of the loss, as at the time of reporting.
+
+Operational risk represents the risk of loss resulting from inadequate or failed internal processes, people and systems or from external events. This includes legal risk, but excludes strategic and reputational risks.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Operational.GrossLoss.Amount
+- classification=baf/bafot/bafot.02.06
+- period=duration

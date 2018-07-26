@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Other Deductions GRF 110 0 B And GRF 110 0 L Amount
+
+## identifier
+de8644
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of other deductions as required for either GRF_110_0_B or GRF_110_0_L, as determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.OtherDeductionsGRF1100BAndGRF1100L.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

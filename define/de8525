@@ -1,0 +1,17 @@
+# Income Trust Distributions Look Through Amount
+
+## identifier
+de8525
+
+## type
+float
+
+## definition
+This is the value of distributions received from trusts where the entity has chosen a look-through basis during the relevant period.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.TrustDistributionsLookThrough.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

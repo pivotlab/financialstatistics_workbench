@@ -1,0 +1,19 @@
+# Superannuation Regulatory Information Responsible Person Employer Name Text
+
+## identifier
+de13752
+
+## type
+string
+
+## definition
+This is the full name by which a responsible person's employer is known.
+
+## guidance
+The employer may be the Registrable Superannuation Entity (RSE) licensee or may be another entity.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.ResponsiblePersonEmployerName.Text
+- classification=em/emsup/emsup.02.16
+- period=duration

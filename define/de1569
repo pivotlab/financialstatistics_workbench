@@ -1,0 +1,17 @@
+# Assets Other Financial Assets Non Debt Securities Held To Maturity At Amortised Cost Other Amount
+
+## identifier
+de1569
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for financial assets, other than debt securities, held to maturity at amortised cost balances categorised in accordance with relevant Australian Accounting Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.NonDebtSecuritiesHeldToMaturityAtAmortisedCostOther.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

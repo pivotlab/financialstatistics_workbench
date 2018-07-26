@@ -1,0 +1,19 @@
+# Financial Risk Capital Adequacy Surplus Or Deficit Amount
+
+## identifier
+de4908
+
+## type
+float
+
+## definition
+Report the surplus or deficit calculated as the difference between:
+a) The total assets as determined in accordance with the accounting standards; and 
+b) The total capital requirement as determined in accordance with the capital adequacy standard, being the amount required under the  capital adequacy standard to ensure, as far as practicable, that, at any time, the financial position of each relevant unit of a reporting party is such that the reporting party will be able, out of the assets of the unit, to meet all policy and other liabilities referable to the unit at that time as they become due, in an ongoing business context.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.SurplusOrDeficit.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

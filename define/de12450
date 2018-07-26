@@ -1,0 +1,17 @@
+# Assets Derivative Financial Instruments Revaluation From Derivatives Excluding Basis Swaps Amount
+
+## identifier
+de12450
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of the profit and loss impact due to derivatives, excluding basis swaps, other than net receipts or payments.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.DerivativeFinancialInstruments.RevaluationFromDerivativesExcludingBasisSwaps.Amount
+- classification=baf/bafpo/bafpo5.02.07
+- period=duration

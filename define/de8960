@@ -1,0 +1,23 @@
+# Liabilities Insurance Prospective Outstanding Claims Liability Gross Risk Margin Amount
+
+## identifier
+de8960
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the risk margin component of outstanding claims liability (OCL), gross of any recoveries, determined in accordance with relevant reporting standards.
+
+OCL relates to all claims incurred prior to the valuation date, whether or not they have been reported to the reporting party. The value of the OCL must include an amount in respect of the expenses that the reporting party expects to incur in settling these claims. The value of OCL must not include any Government charges directly imposed on the reporting party such as levies, duties and taxes, but must be gross of input tax credit recoveries.
+
+The risk margin is the component of the value of OCL that relates to the inherent uncertainty that outcomes will differ from the central estimate.
+
+The risk margin relates to the central estimate measured as the present value of the future expected payments gross of any recoveries, i.e. discounted for future investment income, determined in accordance with relevant reporting standards. The central estimate is intended to reflect the mean value in the range of possible values for the outcome (that is, the mean of the distribution of probabilistic outcomes), and the risk margin, when added to the central estimate, is intended to increase the likelihood that the OCL will be sufficient to the level required in relevant reporting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.Prospective.OutstandingClaimsLiabilityGrossRiskMargin.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

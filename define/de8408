@@ -1,0 +1,19 @@
+# Expense Non Investment Other SRF 300 0 Amount
+
+## identifier
+de8408
+
+## type
+float
+
+## definition
+This is a balancing item within the list in which it is being used.
+     
+This is, for the duration of the relevant period, the value of other expenses that have not been classified as investment expenses in accordance with the relevant accounting standards, as required on APRA form SRF_300_0.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.NonInvestmentOtherSRF3000.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

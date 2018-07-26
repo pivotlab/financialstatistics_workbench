@@ -1,0 +1,21 @@
+# Profit Or Loss Defined Benefit Actuarial Gains Or Losses Amount
+
+## identifier
+de8512
+
+## type
+float
+
+## definition
+This is the value of net gains (losses) on defined benefit plans during the relevant period recognised in the profit or loss. This item is determined in accordance with the relevant accounting standards.
+
+Defined benefit plans are formal or informal arrangements under which an entity provides post employment benefits for employee(s), other than defined contribution plans.
+
+Defined contribution plans are formal or informal arrangements under which an entity provides post employment benefits for employee(s) under which an entity pays fixed contributions to a fund and will have no legal or constructive obligation to pay further contributions if the fund does not have sufficient assets.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.DefinedBenefitActuarialGainsOrLosses.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

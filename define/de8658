@@ -1,0 +1,21 @@
+# Financial Risk Cost Of One Reinstatement Amount
+
+## identifier
+de8658
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the cost of one full reinstatement premium for the insurer's catastrophe cover as determined in accordance with relevant Prudential Standards.
+
+Following a loss occurrence recoverable under a catastrophe excess of loss reinsurance program, the cost of one reinstatement is the contracted premium payable by the insurer to fully reinstate the reinsurance program to its original level existing prior to the occurrence of that loss.  
+
+For prudential purposes, the loss occurrence is considered to be the probable maximum loss event eroding one total loss from the entire catastrophe excess of loss reinsurance program.  The cost of one reinstatement is the contracted premium of reinstating the entire catastrophe excess of loss reinsurance program.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CostOfOneReinstatement.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

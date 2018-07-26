@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Seed Capital Amount
+
+## identifier
+de13002
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of receivables classified as seed capital. Seed capital is the preliminary contribution of funding toward the financing of a new business. Commonly this is in the form of a loan, usually provided by a related entity.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.SeedCapital.Amount
+- classification=baf/bafpo/bafpo5.02.10
+- period=instant

@@ -1,0 +1,17 @@
+# Tax Offset Claim Reversionary Bonus Rebate Amount
+
+## identifier
+de2017
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for a complying superannuation entity entitled to a rebate of tax under legislation (ITAA 36 section 160AAB (5A)) where an 'eligible 26 AH amount' is included in its assessable income under ITAA36 section 26AH. These amounts are reversionary bonuses (i.e. bonuses paid on maturity, forfeiture or surrender of a life assurance policy) received under short-term life assurance policies issued by a life office whose investment income was not tax exempt or by a State Government Insurance Office or friendly society. The rebate can be offset against tax payable from any source, but is not refundable.
+
+## syntax
+### xbrl
+- balance=credit
+- name=TaxOffsetClaim.ReversionaryBonusRebate.Amount
+- classification=gfa/gfati/gfati.02.00
+- period=duration

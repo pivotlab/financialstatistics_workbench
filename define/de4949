@@ -1,0 +1,26 @@
+# Financial Risk Management Capital Expense Reserve Net Of Tax Amount
+
+## identifier
+de4949
+
+## type
+float
+
+## definition
+Report the tax multiple `M' multiplied by the value of run-off expenses as determined in accordance with the management capital standard. The effect is to reduce the amount required to be reserved to reflect the after tax effect of the expenses on the reporting party.
+
+The tax multiple `M' is the net of tax multiple. This is based on a gross multiple of 1 adjusted for the tax deductibility of expenses, only to
+the extent that a tax deduction would reasonably be expected to be realised on ceasing new business.
+
+Run-off expenses, for this purpose, is to be determined by reference to the total actual expenses of the General Fund (other than interest expenses on debt that is associated with the holding of assets in the General Fund) for the 12 months prior to the valuation:
+a) in the case of expenses related to life insurance business, the run-off expenses is total actual acquisition expenses less the variable expenses included in that amount; and
+b) otherwise, the run-off expenses is total actual expenses less the variable expenses included in that amount.
+
+General Fund refers to the management fund for a friendly society or the shareholders' fund for other life companies, and is distinct and separate from the statutory funds of the life company.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.ManagementCapital.ExpenseReserveNetOfTax.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

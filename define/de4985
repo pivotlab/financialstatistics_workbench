@@ -1,0 +1,19 @@
+# Superannuation Regulatory Information Vested Benefits Total Amount
+
+## identifier
+de4985
+
+## type
+float
+
+## definition
+Report the amount of vested benefits of members of the reporting party at the relevant date.
+
+Vested benefits are the benefits which are not conditional upon continued membership or any other factor other than resignation from the reporting entity and include benefits which members were entitled to receive had they terminated their membership as at the relevant date.
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationRegulatoryInformation.VestedBenefitsTotal.Amount
+- classification=em/emsup/emsup.02.02
+- period=instant

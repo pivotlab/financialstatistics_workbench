@@ -1,0 +1,16 @@
+# Regulatory Disclosures Insurance Default Cover Percent
+
+## identifier
+de13232
+
+## type
+float
+
+## definition
+This is the ratio, as at the relevant date, of the default coverage of an insurance cover where it is disclosed as a percentage of salary in the Product Disclosure Statement (PDS) or other disclosure material.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuranceDefaultCover.Percent
+- classification=baf/bafot/bafot.02.16
+- period=instant

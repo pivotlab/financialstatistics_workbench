@@ -1,0 +1,17 @@
+# Superannuation Payment Benefit Lump Sum Death Amount
+
+## identifier
+de1948
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the expense for benefits that have been paid by the trustee to the nominated beneficiary/dependent or the deceased member's estate due to the death of a member.
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationPayment.BenefitLumpSumDeath.Amount
+- classification=em/emsup/emsup.02.00
+- period=duration

@@ -1,0 +1,19 @@
+# Income Insurance Investment Amount
+
+## identifier
+de5630
+
+## type
+float
+
+## definition
+Report the value of investment income, including realised and unrealised capital gains/losses associated with the entity's investments.
+
+Capital gains/losses are realised where the entity disposed of an asset during the relevant period. If an asset has not been disposed of during the relevant annual period, then any gains or losses recognised as the difference between the acquisition cost of the asset and the market value are unrealised.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.Investment.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

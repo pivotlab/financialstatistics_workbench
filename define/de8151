@@ -1,0 +1,19 @@
+# Assets Investment Other ARF 323 0 Item 7 6 Amount
+
+## identifier
+de8151
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value of 'Other Investments' as per Item 7.6 on form ARF_323_0.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.OtherARF3230Item76.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=instant

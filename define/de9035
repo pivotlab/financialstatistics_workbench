@@ -1,0 +1,17 @@
+# Profit Or Loss Insurance Underwriting Result Amount
+
+## identifier
+de9035
+
+## type
+float
+
+## definition
+This is the value, for the duration of the relevant period, of the underwriting result. This represents net premium revenue, less net incurred claims and underwriting expenses in accordance with the relevant Accounting Standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Insurance.UnderwritingResult.Amount
+- classification=baf/bafpr/bafpr3.02.06
+- period=duration

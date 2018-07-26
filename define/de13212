@@ -1,0 +1,16 @@
+# Regulatory Disclosures Return Target Percent
+
+## identifier
+de13212
+
+## type
+float
+
+## definition
+This is the percentage, as at the relevant date, that represents the mean annualised estimate of the rate of net return that exceeds the growth in the Consumer Price Index (CPI) over ten years.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.ReturnTarget.Percent
+- classification=baf/bafot/bafot.02.16
+- period=instant

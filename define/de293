@@ -1,0 +1,17 @@
+# Liabilities Average Balance Of Interest Bearing Loan Capital Amount
+
+## identifier
+de293
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the average balance of interest bearing loan capital over the reporting period.  The average may be calculated by any method consistent with internal systems of the reporting entity.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.AverageBalanceOfInterestBearing.LoanCapital.Amount
+- classification=baf/bafpo/bafpo3.02.00
+- period=duration

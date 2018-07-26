@@ -1,0 +1,16 @@
+# Party Main Responsibilities Text
+
+## identifier
+de8665
+
+## type
+string
+
+## definition
+This is the main responsibilities of the person associated with the name.
+
+## syntax
+### xbrl
+- name=Party.MainResponsibilities.Text
+- classification=py/pyde/pyde.02.07
+- period=duration

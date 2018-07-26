@@ -1,0 +1,23 @@
+# Financial Risk Capital Adequacy Adjusted Yield DTA Amount
+
+## identifier
+de5427
+
+## type
+float
+
+## definition
+Report the admissible value of tax assets with a resilience requirement at the adjusted yield, as per the capital adequacy standard.
+
+The Adjusted Yield is determined in accordance with the capital adequacy standard and is applied to the value of the admissible assets as part of the calculation of the Resilience Reserve. The Resilience Reserve is determined as the additional amount that needs to be held before the happening of a prescribed set of changes in the economic environment ( as per the capital adequacy standard), such that after the changes the admissible assets of the reporting party are able to meet the policy owner and other liabilities of the statutory fund, in an ongoing business context.
+
+The admissible value of tax assets is the value as determined in accordance with the accounting standards less the value of those deemed to be inadmissible, as per the capital adequacy standard. 
+
+The inadmissible assets are those tax assets dependent on the ongoing conduct of business, for example tax losses that require future taxable income in order to be realised.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.AdjustedYieldDTA.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

@@ -1,0 +1,23 @@
+# Liabilities Insurance Best Estimate Shareholder Profits Amount
+
+## identifier
+de4382
+
+## type
+float
+
+## definition
+For participating business this is the value of current period Shareholder Profits as per prudential standards.
+
+For non-participating business valued by projection methods this is the current period planned profit.
+
+For non-participating business valued by the accumulation method this is the current period planned acquisition expense recoveries.
+
+Do not report any value for investment business without discretionary participation features.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.BestEstimateShareholderProfits.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

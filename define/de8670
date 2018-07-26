@@ -1,0 +1,21 @@
+# Liabilities Insurance Unearned Premium Income Excluding Fire Service Or Other Government Levy Amount
+
+## identifier
+de8670
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of premium income received in advance which is still unearned and is classified as a liability to the entity. For the purposes of this item, exclude the unearned portion of premium that relates to fire services levy or other levies imposed by state and territory governments.
+
+Unearned premium income is that portion of the written premium applicable to the unused part of the period for which the premium has been paid. Thus, in the case of an annual premium, at the end of the first month of the premium period, eleven-twelfths of the premium is unearned.
+
+Premiums, as defined by the Australian Accounting Standards, are amounts charged in relation to accepting risk from the insured, but does not include amounts collected on behalf of third parties.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.UnearnedPremiumIncomeExcludingFireServiceOrOtherGovernmentLevy.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

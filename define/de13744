@@ -1,0 +1,29 @@
+# Superannuation Regulatory Information Registrable Superannuation Entity Licensee Board Structure Code
+
+## identifier
+de13744
+
+## type
+string
+
+## definition
+This indicates, as at the relevant date, the board structure of the Registrable Superannuation Entity (RSE) licensee.
+
+## guidance
+The valid enumerated values are: 
+Equal representation required by legislation = where the RSE licensee is required to have an equal-representation board structure in accordance with the relevant Acts. 
+Equal representation required by governing rules = where the RSE licensee chooses to have an equal-representation board structure in accordance with the relevant Acts. 
+Non-equal representation = where the RSE licensee does not maintain any form of equal representation on the Board.
+
+## codes
+| Name                                             |
+| ------------------------------------------------ |
+| Equal representation required by governing rules |
+| Equal representation required by legislation     |
+| Non equal representation                         |
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.RegistrableSuperannuationEntityLicenseeBoardStructure.Code
+- classification=em/emsup/emsup.02.16
+- period=instant

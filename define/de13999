@@ -1,0 +1,17 @@
+# Assets Investment Movement Amount
+
+## identifier
+de13999
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the sum of the movements in all physical assets together with the movement in derivative instruments.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.Movement.Amount
+- classification=baf/bafpo/bafpo7.02.20
+- period=duration

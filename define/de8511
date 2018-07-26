@@ -1,0 +1,17 @@
+# Profit Or Loss Foreign Exchange Gain Or Loss Amount
+
+## identifier
+de8511
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of gains (losses) on foreign exchange recognised in the profit or loss. This item is determined in accordance with the relevant accounting standards. Gains (losses) on foreign exchange represents exchange differences arising on the settlement of monetary items or on translating monetary items at rates different from those at which they were translated on initial recognition during the relevant period or in the previous period.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.ForeignExchangeGainOrLoss.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

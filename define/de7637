@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Term Interest Only Amount
+
+## identifier
+de7637
+
+## type
+float
+
+## definition
+This is the balance of interest only term loans held by the reporting party as at the relevant date.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.TermInterestOnly.Amount
+- classification=baf/bafpo/bafpo5.02.05
+- period=instant

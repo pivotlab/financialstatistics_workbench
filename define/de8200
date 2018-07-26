@@ -1,0 +1,17 @@
+# Superannuation Contribution Employer Contributions Income Amount
+
+## identifier
+de8200
+
+## type
+float
+
+## definition
+This is the value of superannuation employer contributions recognised by the reporting party as income during the relevant period in accordance with accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationContribution.EmployerContributionsIncome.Amount
+- classification=em/emsup/emsup.02.03
+- period=duration

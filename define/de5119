@@ -1,0 +1,18 @@
+# Organisation Control Members Defined Benefit And Accumulation Benefit Count
+
+## identifier
+de5119
+
+## type
+int
+
+## definition
+Report the number of members of the reporting entity with both defined benefit and accumulation balances.
+
+Members with defined benefit and accumulation balances are those members whose entitlements in the reporting entity are determined partially on the basis of a defined benefit formula and partially on the basis of contributions into the reporting entity, adjusted for earnings, fees and taxes.
+
+## syntax
+### xbrl
+- name=OrganisationControl.MembersDefinedBenefitAndAccumulationBenefit.Count
+- classification=py/pyde/pyde.02.06
+- period=instant

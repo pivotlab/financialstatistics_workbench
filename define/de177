@@ -1,0 +1,17 @@
+# Expense Interest Deposits Amount
+
+## identifier
+de177
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the amount of interest expense incurred on borrowings related to deposits.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Interest.Deposits.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

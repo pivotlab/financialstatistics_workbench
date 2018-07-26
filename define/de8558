@@ -1,0 +1,25 @@
+# Liabilities Insurance Incurred But Not Reported Gross Reinsurance Recoveries And Net Non Reinsurance Recoveries Amount
+
+## identifier
+de8558
+
+## type
+float
+
+## definition
+This is the value of gross claims incurred but not reported (IBNR)/incurred but not enough reported (IBNER) included in the outstanding claims provision as at the relevant date.
+
+For the purposes of this item, the IBNR/IBNER must be reported:
+     - as the balance outstanding at the relevant date;
+     - inflated and undiscounted;
+     - gross of reinsurance recoveries;
+     - net of non-reinsurance recoveries;
+     - excluding claims handling expenses; and 
+     - as the central estimate only (i.e. do not include a risk margin).
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.IncurredButNotReportedGrossReinsuranceRecoveriesAndNetNonReinsuranceRecoveries.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

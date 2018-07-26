@@ -1,0 +1,19 @@
+# Financial Risk Management Capital Reserve New Business Before External Sources Amount
+
+## identifier
+de5046
+
+## type
+float
+
+## definition
+Report the additional amount required to ensure that the Solvency Requirement of the General Fund will continue to be met over the next three years, allowing for capital and profit emerging over that period from the existing business of the fund, as determined in accordance with the management capital prudential standard.
+
+General Fund refers to the management fund for a friendly society or the shareholders' fund for other life companies, and is distinct and separate from the statutory funds of the life company.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.ManagementCapital.ReserveNewBusinessBeforeExternalSources.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

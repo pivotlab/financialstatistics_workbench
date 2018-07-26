@@ -1,0 +1,17 @@
+# Income Tax Franking Credits Total Amount
+
+## identifier
+de2015
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the total value of dividend imputation credits associated with total dividend income received or received through distributions by unit trusts.
+
+## syntax
+### xbrl
+- balance=credit
+- name=IncomeTax.FrankingCredits.Total.Amount
+- classification=rvc/rvctc/rvctc2.02.00
+- period=duration

@@ -1,0 +1,17 @@
+# Financial Risk Other Facilities Provided To Securitisation Programs Amount
+
+## identifier
+de14825
+
+## type
+float
+
+## definition
+The value of facilities provided to securitisation programs by the reporting entity, in accordance with Prudential Standard APS 120 Securitisation.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Other.FacilitiesProvidedToSecuritisationPrograms.Amount
+- classification=baf/bafot/bafot.02.30
+- period=instant

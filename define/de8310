@@ -1,0 +1,17 @@
+# Assets Insurance Deferred Reinsurance Expense Policies Current Amount
+
+## identifier
+de8310
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of deferred reinsurance expense (DRE) that relates to current policies.  The total DRE should be determined in accordance with accounting standards, and the allocation to current policies should be determined in accordance with prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.DeferredReinsuranceExpensePoliciesCurrent.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

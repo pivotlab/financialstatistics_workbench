@@ -1,0 +1,19 @@
+# Assets Term Loans Amount
+
+## identifier
+de7480
+
+## type
+float
+
+## definition
+This is the value of term loans receivable by the reporting party as at the relevant date. This item is to be determined in accordance with accounting standards.
+
+Term loans are non securitised debt financing with a specified maturity date by which the loan must be repaid.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.TermLoans.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

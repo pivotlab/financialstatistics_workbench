@@ -1,0 +1,23 @@
+# Financial Risk Market Stressed VaR Capital Charge Amount
+
+## identifier
+de12499
+
+## type
+float
+
+## definition
+This is the value, calculated as at the relevant date, of the Stressed Value at Risk (VaR) method capital requirement, as determined in accordance with relevant prudential standards.
+
+The capital requirement is the larger of 'End of Period Stressed VaR' and 'Scaled Average Stressed VaR' across asset classes plus the 'Incremental Default Risk Charge'.
+
+Stressed VaR, like VaR is a technique used to estimate the likelihood of losses in a portfolio based on analysis of historical price movements and volatilities, over a specified observation period. For the stressed VaR however, the model inputs are calibrated to historical data from a one year observation period of significant market stress relevant to the portfolio being simulated. 
+
+Scaled average Stressed VaR represents the average Stressed VaR, calculated over the most recent 60 trading days prior to and including the relevant date, multiplied by the scaling factor applicable.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.StressedVaRCapitalCharge.Amount
+- classification=baf/bafot/bafot.02.09
+- period=instant

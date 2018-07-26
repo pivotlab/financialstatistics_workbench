@@ -1,0 +1,20 @@
+# Financial Risk Exposures Loans Indirect Holdings Details Text
+
+## identifier
+de4918
+
+## type
+string
+
+## definition
+Report, where indirect holdings of loan exposures to a counterparty exist, the details of the direct holding through which these indirect holdings are held.
+
+This information should detail the name(s) of the counterparties through which indirect holdings of the reporting party are held.
+
+An exposure to a counterparty, or a group of related counterparties, is the aggregate of all claims, commitments and contingent liabilities arising from on- and off-balance sheet transactions with the counterparty or group of related counterparties.
+
+## syntax
+### xbrl
+- name=FinancialRisk.ExposuresLoansIndirectHoldingsDetails.Text
+- classification=baf/bafot/bafot.02.05
+- period=instant

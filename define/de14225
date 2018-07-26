@@ -1,0 +1,17 @@
+# Assets Investment Non Mandated Funds Placed With Resident Investment Managers Amount
+
+## identifier
+de14225
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the gross value of non-mandated investment in wholesale trusts offered by resident investment managers.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.NonMandatedFundsPlacedWithResidentInvestmentManagers.Amount
+- classification=baf/bafpo/bafpo7.02.23
+- period=instant

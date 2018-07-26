@@ -1,0 +1,19 @@
+# Assets Exposures Loans Facilities Approved Limit Amount
+
+## identifier
+de7987
+
+## type
+float
+
+## definition
+This is, as at the relevant date, the total committed amount, or limit, of loan facilities provided by the reporting party.
+
+A Loan Facility is an arrangement in which the counterparty has the right but not the obligation to draw down funds to a specified limit.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.ExposuresLoansFacilitiesApprovedLimit.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

@@ -1,0 +1,21 @@
+# Off Balance Sheet Liquidity Support Facilities Approved Balance Amount
+
+## identifier
+de5589
+
+## type
+float
+
+## definition
+Report the approved balance of liquidity support facilities contracted by the reporting party to supplement its liquidity requirements.
+
+In reporting this item the reporting party is to follow the basis that is used for the preparation of the annual financial statements in accordance with the Australian accounting standards. Actuarial valuations and calculations used in deriving the value of the item must be in accordance with prudential standards.
+
+The approved balance of a facility is the maximum approved amount that can be drawn down in relation to that facility.
+
+## syntax
+### xbrl
+- balance=credit
+- name=OffBalanceSheet.LiquiditySupportFacilitiesApprovedBalance.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

@@ -1,0 +1,17 @@
+# Expense Claims Gross No Insurance Recovery Amount
+
+## identifier
+de9064
+
+## type
+float
+
+## definition
+This is the value of gross claims expenses recognised during the relevant period, which has no associated recoveries, because insurance cover has not been taken out.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.ClaimsGrossNoInsuranceRecovery.Amount
+- classification=baf/bafpr/bafpr1.02.07
+- period=duration

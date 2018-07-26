@@ -1,0 +1,16 @@
+# Lodgment Form Name Text
+
+## identifier
+de4879
+
+## type
+string
+
+## definition
+The name of the form this reporting taxonomy corresponds to.
+
+## syntax
+### xbrl
+- name=Lodgment.FormName.Text
+- classification=py/pyin/pyin.02.09
+- period=duration

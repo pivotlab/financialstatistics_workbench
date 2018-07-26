@@ -1,0 +1,24 @@
+# Auditor Report Opinion Modification Reason Other Indicator
+
+## identifier
+de9000
+
+## type
+boolean
+
+## definition
+This is the indicator for the reason of modification being other than:
+- Limitation of Scope;
+- Disagreement with those charged with Governance; or
+- Not all Australian Accounting Standards applied.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = If not unqualified, the reason for audit opinion modification was Other than Limitation of Scope, Disagreement with those charged with Governance or Not all Australian Accounting Standards applied.
+FALSE = If not unqualified, the reason for audit opinion modification was not Other than Limitation of Scope, Disagreement with those charged with Governance or Not all Australian Accounting Standards applied.
+
+## syntax
+### xbrl
+- name=AuditorReport.OpinionModificationReasonOther.Indicator
+- classification=em/emfsm/emfsm.02.06
+- period=duration

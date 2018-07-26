@@ -1,0 +1,22 @@
+# Financial Risk Operational Operating Income from Continuing Operations Before Tax Adjusted Amount
+
+## identifier
+de8162
+
+## type
+float
+
+## definition
+This is the value of adjusted operating income from continuing operations during the relevant period, as determined in accordance with relevant prudential standards.
+     
+This item represents the following:
+     - Total operating income from continuing operations, as determined in accordance with relevant accounting standards; less
+     - Adjustments relating to the retail banking and commercial banking areas of business, as determined in accordance with relevant prudential standards; less
+     - Any other relevant adjustments, as determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Operational.OperatingIncomefromContinuingOperationsBeforeTaxAdjusted.Amount
+- classification=baf/bafot/bafot.02.06
+- period=duration

@@ -1,0 +1,23 @@
+# Expense Insurance Operating Expenses Total Amount
+
+## identifier
+de5272
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the total operating expenses classified in accordance with the requirements. They include
+- policy acquisition and maintenance expenses;
+- investment management expenses; 
+- acquisition expenses reported as movement in policy liability; 
+- other administration expenses;
+- interest expenses; and    
+- general insurance expenses.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.OperatingExpensesLRF310.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

@@ -1,0 +1,16 @@
+# Organisation Control Members New Total Other Count
+
+## identifier
+de5701
+
+## type
+int
+
+## definition
+This is the number, during the relevant period, of new members accounts created in the reporting entity.
+
+## syntax
+### xbrl
+- name=OrganisationControl.MembersNewTotalOther.Count
+- classification=py/pyde/pyde.02.06
+- period=duration

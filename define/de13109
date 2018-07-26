@@ -1,0 +1,17 @@
+# Superannuation Benefit Funds Flow Outward Amount
+
+## identifier
+de13109
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for any flow outwards of the regulated superannuation fund that result in decreases in the liability for benefits owing to members.
+
+## syntax
+### xbrl
+- balance=debit
+- name=SuperannuationBenefit.FundsFlowOutward.Amount
+- classification=em/emsup/emsup.02.10
+- period=duration

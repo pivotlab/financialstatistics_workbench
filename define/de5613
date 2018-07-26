@@ -1,0 +1,17 @@
+# Financial Risk Management Capital Inadmissible Assets Going Concern Value Amount
+
+## identifier
+de5613
+
+## type
+float
+
+## definition
+Report the value of the inadmissible portion (as determined in accordance with the management capital prudential standard) of the assets subject to the risk that, in the context of the reporting party being closed to new business, the value of the asset differs from the value disclosed in the regulatory financial statements.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.ManagementCapital.InadmissibleAssetsGoingConcernValue.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

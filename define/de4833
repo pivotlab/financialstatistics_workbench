@@ -1,0 +1,19 @@
+# Assets Cash And Liquid Assets Deposits At Call Plus Accrued Income Amount
+
+## identifier
+de4833
+
+## type
+float
+
+## definition
+Report the value, as at the relevant date, of cash at call, including income accrued but not received.
+
+This method of disclosure differs from the Australian Accounting Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.DepositsAtCallPlusAccruedIncome.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=instant

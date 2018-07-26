@@ -1,0 +1,16 @@
+# Regulatory Disclosures Indirect Cost Ratio Portion Percent
+
+## identifier
+de13211
+
+## type
+float
+
+## definition
+This is the percentage, during the relevant period, of the portion of the indirect cost ratio associated with a specific cost. The indirect cost ratio is calculated in accordance with the Corporations Regulations and disclosed in the Product Disclosure Statement (PDS) or other disclosure material.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.IndirectCostRatioPortion.Percent
+- classification=baf/bafot/bafot.02.16
+- period=duration

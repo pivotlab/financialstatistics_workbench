@@ -1,0 +1,21 @@
+# Assets Investment Debt Securities Indexed Adjustment Look Through Amount
+
+## identifier
+de4730
+
+## type
+float
+
+## definition
+Report the look-through adjustment for indexed debt securities held indirectly via listed unit trusts, unlisted unit trusts or controlled unit trusts.
+
+Indexed debt securities pay an income stream which is dependent on an external factor.
+
+A look through adjustment item represents the adjustment required to convert effective holdings in investments via trusts from aggregated amounts classified as debt securities or unit trusts to the appropriate categories on a look-through basis.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.DebtSecuritiesIndexedAdjustmentLookThrough.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=instant

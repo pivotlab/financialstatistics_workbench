@@ -1,0 +1,41 @@
+# Financial Risk Investment Capital Factor Code
+
+## identifier
+de8506
+
+## type
+string
+
+## definition
+This is the investment capital factor associated with the reported data as determined in accordance with relevant prudential standards.
+
+## guidance
+The enumerated values are:
+0 (Zero) = no risk charge applicable
+1 = investment capital factor is 1%
+2 = investment capital factor is 2%
+3 = investment capital factor is 3%
+4 = investment capital factor is 4%
+5 = investment capital factor is 5%
+6 = investment capital factor is 6%
+7 = investment capital factor is 7%
+8 = investment capital factor is 8%
+
+## codes
+| Name |
+| ---- |
+| 0    |
+| 1    |
+| 2    |
+| 3    |
+| 4    |
+| 5    |
+| 6    |
+| 7    |
+| 8    |
+
+## syntax
+### xbrl
+- name=FinancialRisk.InvestmentCapitalFactor.Code
+- classification=baf/bafot/bafot.02.06
+- period=instant

@@ -1,0 +1,23 @@
+# Assets Investment Equity Securities Hybrid Net Market Value Plus Accrued Income Amount
+
+## identifier
+de4147
+
+## type
+float
+
+## definition
+The value to be reported is the net market value, or fair value, of the equity component of hybrid securities, plus income accrued but not received in relation to this asset. This method of disclosure differs from the Australian Accounting Standards.
+
+Hybrid securities, or compound financial instruments, as defined by the Australian Accounting Standards, are financial instruments that, from the issuer's perspective, contain a liability and an equity element. 
+
+Compound financial instruments include all equities related items such as convertible notes and other hybrid securities which, taking into account market conditions, have attributes that demonstrate exposure to equities markets.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.EquitySecuritiesHybridNetMarketValuePlusAccruedIncome.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=instant

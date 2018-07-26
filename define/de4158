@@ -1,0 +1,24 @@
+# Expense Insurance Other Amount
+
+## identifier
+de4158
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+Report the value of expenses as determined in accordance with the Life Insurance Act other than expenses in relation to
+
+-  insurance policy expense;
+- operating expenses;
+- movement in net policy liabilities and adjustments thereto; and 
+- changes in policy owner retained profits.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.Other.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

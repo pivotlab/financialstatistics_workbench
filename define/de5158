@@ -1,0 +1,17 @@
+# Profit Or Loss Insurance Operating After Tax Amount
+
+## identifier
+de5158
+
+## type
+float
+
+## definition
+Report the value of the operating profit and loss for the relevant period after tax attributable to owners as recognised and measured in accordance with Life Insurance Act 1995. This is derived from the net profit or loss for the period as per the life act after adding back profit allocations, such as bonuses and movements in policy owner retained profits or unallocated benefit fund reserves.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Insurance.OperatingAfterTax.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

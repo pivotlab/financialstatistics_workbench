@@ -1,0 +1,21 @@
+# Expense Royalties Other Amount
+
+## identifier
+de313
+
+## type
+float
+
+## definition
+A royalty is defined as a right to use the property of another person for economic gain. This is usually an intellectual property, such as a copyright (e.g. in a book) or a patent (e.g. in an invention). Natural resources are defined as unexploited products of nature that have economic value e.g. forests, petroleum deposits, ore deposits.
+
+Natural resource royalties refers to the right to use the unexploited products of nature which have economic value on land owned by another person for economic gain.
+
+Royalties expenses excluding natural resource royalties refers to the payments a business makes in exchange for the right to use the property of another person for economic gain, other than for natural resource royalties.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.RoyaltiesOther.Amount
+- classification=baf/bafpr/bafpr1.02.00
+- period=duration

@@ -1,0 +1,17 @@
+# Profit Or Loss After Tax And Discontinued Operations And Before Minority Interest Total Amount
+
+## identifier
+de216
+
+## type
+float
+
+## definition
+For interpretation/definition of this item refer to the Australian Accounting Standards, as an example, see provided reference
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.AfterTaxAndDiscontinuedOperationsAndBeforeMinorityInterestTotal.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

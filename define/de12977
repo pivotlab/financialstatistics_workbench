@@ -1,0 +1,17 @@
+# Assets Insurance Receivables Premium Amount
+
+## identifier
+de12977
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of insurance premiums due but not yet received.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.ReceivablesPremium.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

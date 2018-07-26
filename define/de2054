@@ -1,0 +1,17 @@
+# Assets Investment Securities Other Amount
+
+## identifier
+de2054
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for all other securities that are not categorised elsewhere.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.SecuritiesOther.Amount
+- classification=baf/bafpo/bafpo7.02.16
+- period=instant

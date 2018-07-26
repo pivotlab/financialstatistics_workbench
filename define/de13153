@@ -1,0 +1,17 @@
+# Superannuation Contribution Pooled Super Trusts Held Amount
+
+## identifier
+de13153
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of an amount held by the investors in the pooled superannuation trust (PST).
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationContribution.PooledSuperTrustsHeld.Amount
+- classification=em/emsup/emsup.02.10
+- period=instant

@@ -1,0 +1,17 @@
+# Assets Insurance Contractual Regular Contributions Gross Amount
+
+## identifier
+de4629
+
+## type
+float
+
+## definition
+Report the total of all Contractual Regular Contributions as at the relevant date. These are the total gross premiums that are accepted through direct debit, have a specific contractual requirement for future on-going premiums, have an expectation of renewal each year (e.g. Yearly Renewable term products) or generally cause a policy to discontinue on cessation of future payment. It should be gross of all reinsurance.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.ContractualRegularContributionsGross.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

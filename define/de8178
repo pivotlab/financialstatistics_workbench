@@ -1,0 +1,18 @@
+# Financial Risk Operational Insurance Offset To Regulatory Capital Before Insurance Offsets Percent
+
+## identifier
+de8178
+
+## type
+float
+
+## definition
+This is the percentage, as at the relevant date, of the insurance offset amount to regulatory capital before insurance offsets, as determined in accordance with relevant prudential standards.
+
+Insurance offset represents that amount of insurance that will cover potential operational risk losses and which is deemed an appropriate operational risk mitigation method.
+
+## syntax
+### xbrl
+- name=FinancialRisk.Operational.InsuranceOffsetToRegulatoryCapitalBeforeInsuranceOffsets.Percent
+- classification=baf/bafot/bafot.02.06
+- period=instant

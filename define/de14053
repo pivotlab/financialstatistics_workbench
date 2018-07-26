@@ -1,0 +1,16 @@
+# Regulatory Disclosures Treatment Episodes Count
+
+## identifier
+de14053
+
+## type
+int
+
+## definition
+This is the number, during the relevant period, of episodes of treatment.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.TreatmentEpisodes.Count
+- classification=baf/bafot/bafot.02.25
+- period=duration

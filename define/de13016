@@ -1,0 +1,17 @@
+# Assets Tax Benefits Asset Risk Stresses Amount
+
+## identifier
+de13016
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of tax benefits arising from the application of asset risk stresses. This item is to be determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.TaxBenefitsAssetRiskStresses.Amount
+- classification=baf/bafpo/bafpo1.02.12
+- period=instant

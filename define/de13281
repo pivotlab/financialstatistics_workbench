@@ -1,0 +1,17 @@
+# Assets Cash And Liquid Assets Minimum Liquidity Holdings Amount
+
+## identifier
+de13281
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for all Minimum Liquidity Holdings (MLH) as determined in accordance with the relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.MinimumLiquidityHoldings.Amount
+- classification=baf/bafpo/bafpo7.02.16
+- period=instant

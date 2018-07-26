@@ -1,0 +1,17 @@
+# Profit Or Loss Insurance Experience Earning Rates Amount
+
+## identifier
+de5731
+
+## type
+float
+
+## definition
+Report the movement in profit and loss due to changes in assumptions about earning rates on assets backing policy liabilities for the relevant period.
+
+## syntax
+### xbrl
+- balance=debit
+- name=ProfitOrLoss.Insurance.ExperienceEarningRates.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

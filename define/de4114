@@ -1,0 +1,17 @@
+# Expense Insurance Claim Death Disability Deposit Component Amount
+
+## identifier
+de4114
+
+## type
+float
+
+## definition
+Report benefits paid or payable as withdrawal of any deposit elements for death and/or disability claims on life investment business.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.ClaimDeathDisabilityDepositComponent.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

@@ -1,0 +1,19 @@
+# Expense Insurance Claims Gross Reserve Strengthening Not Discounted Amount
+
+## identifier
+de8572
+
+## type
+float
+
+## definition
+This is the value of the rise in claims expense recognised for the relevant period which is due to prior period reserve strengthening. This item refers to movements in outstanding claims provisions due to changes in the assumptions used to calculate outstanding claims in prior periods that result in increases in the provision. It includes the impact of changes in the probability of sufficiency.
+
+This item is determined in accordance with the relevant accounting standards, except that it is not discounted as required by those accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.ClaimsGrossReserveStrengtheningNotDiscounted.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

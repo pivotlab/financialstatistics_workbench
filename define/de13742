@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Registrable Superannuation Entity Licensee Ownership Type Text
+
+## identifier
+de13742
+
+## type
+string
+
+## definition
+This is the description, as at the relevant date, of the ownership type of Registrable Superannuation Entity (RSE) licensee.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.RegistrableSuperannuationEntityLicenseeOwnershipType.Text
+- classification=em/emsup/emsup.02.16
+- period=instant

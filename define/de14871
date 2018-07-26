@@ -1,0 +1,17 @@
+# Liabilities Initial Margin Received Amount
+
+## identifier
+de14871
+
+## type
+float
+
+## definition
+The balance sheet liability associated with initial margin received that cannot be included in calculating net stable funding ratio (NSFR) derivative assets.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.InitialMarginReceived.Amount
+- classification=baf/bafpo/bafpo1.02.32
+- period=instant

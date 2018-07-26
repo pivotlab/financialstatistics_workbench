@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities Interest Payable Amount
+
+## identifier
+de1483
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for interest accrued for but not yet paid.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.InterestPayable.Amount
+- classification=baf/bafpo/bafpo6.02.00
+- period=instant

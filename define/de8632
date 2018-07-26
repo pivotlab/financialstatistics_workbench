@@ -1,0 +1,17 @@
+# Financial Risk Variation In Capital Charges Approved By APRA Amount
+
+## identifier
+de8632
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of variations in capital charges as approved by APRA.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.VariationInCapitalChargesApprovedByAPRA.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

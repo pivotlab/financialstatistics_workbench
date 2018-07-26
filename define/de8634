@@ -1,0 +1,17 @@
+# Liabilities Insurance Net Of Surplus Deficit Relating To Insurance Liabilities Amount
+
+## identifier
+de8634
+
+## type
+float
+
+## definition
+This is the amount, as at the relevant date, of liabilities net of surplus/deficit relating to insurance liabilities.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.NetOfSurplusDeficitRelatingToInsuranceLiabilities.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

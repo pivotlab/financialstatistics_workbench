@@ -1,0 +1,17 @@
+# Liabilities Other Non Financial Liabilities Deficit Defined Benefit Superannuation Fund Net Amount
+
+## identifier
+de8801
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of any deficit in a defined benefit superannuation fund of which the reporting party is an employer-sponsor, net of any related deferred tax assets, determined in accordance with the relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherNonFinancialLiabilities.DeficitDefinedBenefitSuperannuationFundNet.Amount
+- classification=baf/bafpo/bafpo6.02.06
+- period=instant

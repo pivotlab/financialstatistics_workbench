@@ -1,0 +1,16 @@
+# Regulatory Disclosures Investment Related Tax Expense Benefit Percent
+
+## identifier
+de13199
+
+## type
+float
+
+## definition
+This is the percentage, during the relevant period, of income tax expense/benefit that is associated with net investment income or due to investment related activities, net of investment fees and costs.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InvestmentRelatedTaxExpenseBenefit.Percent
+- classification=baf/bafot/bafot.02.16
+- period=duration

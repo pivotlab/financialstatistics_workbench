@@ -1,0 +1,28 @@
+# Assets Derivative Financial Instruments Equity Contracts Delta Weighted Amount
+
+## identifier
+de8495
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of equity derivative contracts held, consistent with the classification and measurement basis used for derivatives by institutions in accordance with accounting standards. For the purposes of this item, derivative exposures for options is to be calculated on a delta-weighted basis.
+
+An equity contract is any contract that at least partly transfers the equity risk of an underlying equity security from one party to another.
+
+Derivatives are generally defined as those instruments/contracts, where the value is based on other products, and/or on prices associated with financial products. Derivative contracts involve:
+- Future delivery, receipt or exchange of financial items such as cash or another derivative instrument; or
+- Future exchange of real assets for financial items where the contract may be tradeable and has a market value.
+The contracts can either be binding on both parties (e.g. as with a currency swap) or subject to the exercise by one party of a right contained within the contract (as with options).
+
+Delta-weighted position is calculated by multiplying the market value of the underlying position by the absolute value of the delta on that position. Delta represents the rate of change of an options price for a unit change in the price of the underlying asset.
+
+Report this item regardless of whether favourable or unfavourable to the reporting entity.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.DerivativeFinancialInstruments.EquityContractsDeltaWeighted.Amount
+- classification=baf/bafpo/bafpo5.02.05
+- period=instant

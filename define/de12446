@@ -1,0 +1,19 @@
+# Assets Derivative Financial Instruments Basis Swap Net Receipts Or Payments Amount
+
+## identifier
+de12446
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of net receipts or scheduled payments arising from basis swaps.
+
+A basis swap is an interest rate swap aimed at limiting basis risk. For the purposes of the relevant prudential standard, a basis swap includes a payment stream on one leg of the swap based on an observable market rate or index, and a payment stream on the other leg based on rates set by a party to the swap.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.DerivativeFinancialInstruments.BasisSwapNetReceiptsOrPayments.Amount
+- classification=baf/bafpo/bafpo5.02.07
+- period=duration

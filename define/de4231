@@ -1,0 +1,21 @@
+# Assets Investment Debt Securities Net Acquisition Disposal Transactions Amount
+
+## identifier
+de4231
+
+## type
+float
+
+## definition
+Report the net of all acquisition and disposal transactions of debt securities that are classified as bonds, notes, commercial paper or promissory notes. These are written promises to pay a specified sum of money on demand or at a specified future date. They may be secured or unsecured with interest payable over the term to maturity or on maturity.
+
+This amount does not include bills of exchange or bank certificates of deposit.
+
+These transactions involve the exchange of valuable consideration between counterparties.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.DebtSecuritiesNetAcquisitionDisposalTransactions.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=duration

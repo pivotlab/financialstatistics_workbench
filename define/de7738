@@ -1,0 +1,17 @@
+# Financial Risk Credit Credit Exposures Non Accrual With Provisions Amount
+
+## identifier
+de7738
+
+## type
+float
+
+## definition
+This is the value of all exposures of the reporting party that give rise to counterparty credit risk, determined in accordance with the relevant prudential standards, where the estimates of future interest income are zero and a specific provision for impairment has been raised in respect of it.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Credit.CreditExposuresNonAccrualWithProvisions.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

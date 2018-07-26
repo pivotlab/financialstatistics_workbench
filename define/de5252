@@ -1,0 +1,25 @@
+# Assets Exposures Excluding Contribution Revenue Disposal Proceeds Amount
+
+## identifier
+de5252
+
+## type
+float
+
+## definition
+Report the proceeds received, or receivable, on the disposal of asset exposures, excluding those arising from contribution revenue. For the purposes of this item, only report those amounts received from disposals during the relevant period. Where an asset exposure is an amount held in a bank account, the value reported is the net of all movements in the account over the relevant period, but only where this net movement represents a net decrease in the account's balance.
+
+An asset exposure represents those assets or rights of an entity, recorded both on and off the balance sheet. 
+
+An on-balance sheet exposure relates to those assets or rights recognised on the face of the balance sheet, or statement of financial position. An off-balance sheet exposure relates to those assets or rights that are not recognised on the face of the balance sheet, or statement of financial position, such as contingent assets, performance-related rights and guarantees.
+
+Assets are to be determined in accordance with relevant accounting standards.
+
+The disposal of an asset exposure represents a change in ownership of that asset, whether because of some act or event, or by operation of law. Proceeds are calculated as the total consideration received, or receivable, by the reporting party arising from the change in ownership of that asset, but only to the extent the change occured during the relevant period.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.ExposuresExcludingContributionRevenueDisposalProceeds.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=duration

@@ -1,0 +1,21 @@
+# Superannuation Regulatory Information Accrued Benefits Accumulation Amount
+
+## identifier
+de5351
+
+## type
+float
+
+## definition
+Report the amount of accrued benefits that accumulation benefit members of the reporting party have potential entitlement to as at the relevant date.
+
+Accrued benefits are the reporting entity's present obligation to pay benefits to members and beneficiaries and is calculated as the difference between the carrying amounts of the assets and the carrying amounts of the liabilities as at the relevant date. 
+
+Accumulation benefit members are those members whose entitlements in the reporting entity are entirely determined on the basis of contributions into the reporting entity, adjusted for earnings, fees and taxes.
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationRegulatoryInformation.AccruedBenefitsAccumulation.Amount
+- classification=em/emsup/emsup.02.02
+- period=instant

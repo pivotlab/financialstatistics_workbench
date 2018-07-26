@@ -1,0 +1,16 @@
+# Regulatory Disclosures Prostheses Gap Permitted Count
+
+## identifier
+de14069
+
+## type
+int
+
+## definition
+This is the number, during the relevant period, of gap permitted prostheses supplied. Gap permitted prosthesis means a prosthesis of a kind where a minimum benefit amount is set out and a different maximum benefit amount is set out.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.ProsthesesGapPermitted.Count
+- classification=baf/bafot/bafot.02.25
+- period=duration

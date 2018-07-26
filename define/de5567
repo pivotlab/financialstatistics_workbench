@@ -1,0 +1,43 @@
+# Financial Risk Capital Adequacy Coverage Ratio Percent
+
+## identifier
+de5567
+
+## type
+float
+
+## definition
+Report the capital adequacy coverage ratio, calculated as Eligible Capital divided by Required Capital.
+
+Eligible Capital is:
+the Net Assets of the reporting party as determined in accordance with accounting standards, adjusted for:
+
+1) Policy Owner Retained Profits as determined in accordance with accounting standards;
+2) Eligible Amount of Approved Subordinated Debt as determined in accordance with the approval letter received from the relevant regulatory authority;
+3) Net market value, or fair value, of borrowings classified as seed capital (see below); and
+4) MTV Adjustment.
+
+Where:
+
+3) Seed capital is the preliminary contribution of funding toward the financing of a new business. Commonly this is in the form of a loan, usually provided by a related entity. Borrowings are amounts of money on loan from financial institutions or other creditors with the promise or understanding that it will be repaid. 
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+4) The MTV Adjustment is the value of the Net Policy Liabilities (net of reinsurance) less the Minimum Termination Value (MTV) net of reinsurance excluding the amount of any investment linked risk margin. Net Policy Liabilities are valued in accordance with prudential standards LPS 1.04, Valuation of Policy Liabilities, offset by the value of policy liabilities ceded under reinsurance. This amount includes liabilities for deferred fee revenue and deferred acquisition costs. For participating benefits, it includes bonuses in respect of the relevant period. This method of disclosure differs from the Australian Accounting Standards. The investment linked (IL) risk margin reflects the additional risks that may be borne by the reporting party in conducting investment-linked business.
+
+The minimum termination value (MTV) is determined by the prudential standards as the amount that a life insurer is obliged to pay to policyholders if they decided to voluntarily terminate their policies at the relevant date. The obligation might be contractual, statutory or a result of past practice. Calculated as the greater of: 
+a) the lowest Termination Value that the reporting party is obliged to pay; and 
+b) the amount calculated in accordance with the Surrender Value Standard.
+
+
+Required Capital is:
+the amount of required capital determined in accordance with the capital adequacy standard, being the difference between the net capital adequacy requirement and the adjusted liabilities.
+
+The net capital adequacy requirement is the Total Capital Adequacy Requirement less Gross Policy Liabilities ceded under reinsurance. Total Capital Adequacy Requirement is the amount required under the capital adequacy standard to ensure, as far as practicable, that, at any time, the financial position of each business unit of a reporting party is such that the reporting party will be able, out of the assets of the unit, to meet all policy and other liabilities referable to the unit at that time as they become due. Gross Policy Liabilities ceded under reinsurance are determined in accordance with the accounting standards.
+
+The adjusted liabilities are the total of the Minimum Termination Value (net of reinsurance and excluding the Investment Linked [IL] risk margin) and "Other Liabilities" (the total liabilities as determined in accordance with the relevant accounting standards other than Policy Liabilities, Approved Eligible Subordinated Debt and Seed Capital).
+
+## syntax
+### xbrl
+- name=FinancialRisk.CapitalAdequacy.CoverageRatio.Percent
+- classification=baf/bafot/bafot.02.05
+- period=instant

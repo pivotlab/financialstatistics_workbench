@@ -1,0 +1,25 @@
+# Assets Investment Placements Loans And Debt Securities Amount
+
+## identifier
+de2043
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the net market value of investments that include (but are not limited to):
+- Interest-rate related investments, loans and advances of the entity;
+- Placements, loans with, and debt securities issued by Individuals, Unlisted private incorporated entities, and Unlisted private unincorporated entities (including unlisted private trusts);
+- Other placements, loans and debt securities;
+- Short term debt securities (e.g. bills of exchange, certificates of deposit, commercial paper, promissory notes); and
+- Long term debt securities (e.g. Treasury Bonds, securitised instruments).
+This should exclude:
+- interest-rate related cash; and
+- interest rate related derivative contracts.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.PlacementsLoansAndDebtSecurities.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

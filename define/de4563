@@ -1,0 +1,21 @@
+# Income Insurance Other Life Act Amount
+
+## identifier
+de4563
+
+## type
+float
+
+## definition
+Report total revenue, as determined in accordance with the Life Act, other than:
+
+- investment revenue;
+- fees for management services rendered; and 
+- insurance policy revenue.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.OtherLifeAct.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

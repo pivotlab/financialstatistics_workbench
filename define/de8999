@@ -1,0 +1,16 @@
+# Financial Risk Maximum Event Retention Percentage Of Capital Percent
+
+## identifier
+de8999
+
+## type
+float
+
+## definition
+This is the percentage of capital applied to determine the Maximum Event Retention (MER).
+
+## syntax
+### xbrl
+- name=FinancialRisk.MaximumEventRetentionPercentageOfCapital.Percent
+- classification=baf/bafot/bafot.02.07
+- period=instant

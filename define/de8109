@@ -1,0 +1,27 @@
+# Financial Risk Market Average VaR Past 60 Trading Days Commodity Positions Amount
+
+## identifier
+de8109
+
+## type
+float
+
+## definition
+This is the average value at risk (VaR), calculated over the most recent 60 trading days prior to and including the relevant date, for positions giving rise to commodities risk, as determined in accordance with relevant prudential standards.
+
+Commodity positions include both on and off-balance sheet exposures which are affected by changes in commodity prices. This includes holdings of, or positions in:
+     - commodity forwards;
+     - commodity futures; 
+     - commodity swaps;
+     - and other applicable commodity instruments (e.g. commodity options).
+
+VaR, or Value at Risk, is a technique used to estimate the likelihood of losses in a portfolio based on analysis of historical price movements and volatilities over a specified observation period. 
+
+For the purposes of this item the amount reported is the average of the 99% ten-day VaR number calculated daily over the most recent 60 trading days prior to and including the relevant date. A 99% ten-day VaR represents a simulated mark-to-market loss for which there is a 1% probability of occurrence over the next ten days, assuming there is no trading of the portfolio.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.AverageVaRPast60TradingDaysCommodityPositions.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

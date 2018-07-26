@@ -1,0 +1,32 @@
+# Assets Other Financial Assets Other Debt Securities SRF 110 1 B Amount
+
+## identifier
+de5288
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+Report the net market value, or fair value, of debt securities other than those classified as any of the following:
+     - Bills of Exchange;
+     - Certificates of Deposit issued by banks; or
+     - Bonds, notes, commercial paper or promissory notes.
+
+A debt security is a transferable instrument evidencing a relationship of indebtedness. It is characterised by having a definable income stream that is not based on the economic performance of the issuing entity.
+
+Bills of Exchange are unconditional orders drawn (issued) by one party, sent to another party for acceptance and made out to, or to the order of, a third party, or to bearer. It is a negotiable instrument that binds each endorser of the bill to pay on redemption should the acceptor fail to do so. These securities are issued at a discount to face value.     
+
+Certificates of Deposit are certificates issued by a bank or other financial institution that indicate a specified sum of money has been deposited at the issuing depository institution.     
+
+Notes are unconditional promises in writing made by one party to another, signed by the maker, engaging to pay on demand or at a fixed or determinable future time a sum certain in money for or to the order of a specified person or to bearer. It does not bind any other party to payment on redemption. These securities are issued at a discount to face value.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.OtherDebtSecuritiesSRF1101B.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=instant

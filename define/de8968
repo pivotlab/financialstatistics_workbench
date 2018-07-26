@@ -1,0 +1,33 @@
+# Assets Loans And Advances International Exposures Amount
+
+## identifier
+de8968
+
+## type
+float
+
+## definition
+Report the value, including interest and principal in arrears where appropriate, of those financial assets listed below:
+
+- any financial assets that are created through the lending of funds by a creditor (lender) to a debtor (borrower) and that are not represented by negotiable securities, including interbank borrowings, loans and inter-office balances; 
+- foreign trade-related credits; 
+- holdings of international notes and coins that are in circulation
+- international loans granted and deposits made on a trust basis
+- Sale and repurchase transactions (repos)
+- financial leases 
+- promissory notes
+- non-negotiable debt securities
+-  endorsement liabilities arising from bills rediscounted abroad
+- subordinated loans (including subordinated non-negotiable debt securities)
+- Loans which have become negotiable de facto should be classified under debt securities (For doing so there needs to be evidence of a secondary market trading.)
+
+Borrowing and lending of securities and gold without cash collateral should not be reported.
+
+The reporting of negative positions is accepted in those cases where it is the result of the short selling of securities acquired in the context of repo or bond lending transactions.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndAdvancesInternationalExposures.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

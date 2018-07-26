@@ -1,0 +1,17 @@
+# Assets Insurance Receivables Premium Net Amount
+
+## identifier
+de4589
+
+## type
+float
+
+## definition
+Report the amount related to insurance premiums due but not yet received as at the relevant date, net of provision for doubtful debts.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.ReceivablesPremiumNet.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

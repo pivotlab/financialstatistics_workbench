@@ -1,0 +1,16 @@
+# Financial Risk Hedging Percent
+
+## identifier
+de13147
+
+## type
+float
+
+## definition
+This is the ratio, as at the relevant date, of the level of investments that are protected against adverse changes in the market as a portion of total investments. A hedge is a transaction where the purpose of the transaction is to protect against adverse changes in the market.
+
+## syntax
+### xbrl
+- name=FinancialRisk.Hedging.Percent
+- classification=baf/bafot/bafot.02.15
+- period=instant

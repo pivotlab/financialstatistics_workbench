@@ -1,0 +1,17 @@
+# Liabilities Insurance Policy Liabilities Adjust Tax Effect Amount
+
+## identifier
+de12931
+
+## type
+float
+
+## definition
+This is the amount, as at the relevant date, of the tax effect relating to adjustments to policy liabilities as determined in accordance with relevant Prudential Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Liabilities.Insurance.PolicyLiabilitiesAdjustTaxEffect.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

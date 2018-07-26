@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Calls For Additional Insurance Premiums Amount
+
+## identifier
+de8995
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of calls receivable for additional contribution revenue. This is made by the governing body to cover a wide range of circumstances such as exposure to additional risk, to cover cost of default.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.CallsForAdditionalInsurancePremiums.Amount
+- classification=baf/bafpo/bafpo5.02.06
+- period=instant

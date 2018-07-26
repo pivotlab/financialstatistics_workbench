@@ -1,0 +1,17 @@
+# Income Fee Rebate Paid Amount
+
+## identifier
+de13161
+
+## type
+float
+
+## definition
+This is the value, during the relevant period of rebates or discounts applied against fees charged.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Income.FeeRebatePaid.Amount
+- classification=baf/bafpr/bafpr1.02.16
+- period=duration

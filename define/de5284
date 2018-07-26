@@ -1,0 +1,22 @@
+# Off Balance Sheet Charge Type Text
+
+## identifier
+de5284
+
+## type
+string
+
+## definition
+The following is not an exhaustive list but is provided as an example:
+
+Fixed charge
+A fixed charge is generally given in relation to a specific asset or assets and it will generally limit the ability or right of the life company to deal with those assets.
+
+Floating charge
+A floating charge may be given over specific assets or all assets of the life company and may generally only crystallise and become a fixed charge on the occurrence of a specific event that is agreed between the parties (i.e. default on payment, or not maintaining specified interest coverage ratios).
+
+## syntax
+### xbrl
+- name=OffBalanceSheet.ChargeType.Text
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

@@ -1,0 +1,19 @@
+# Liabilities Insurance Future Policy Expenses Reinsurance Amount
+
+## identifier
+de4609
+
+## type
+float
+
+## definition
+Where projection techniques are used, report the net present value of Future Policy Expenses that have been ceded under reinsurance as at the relevant date.
+
+Where projection techniques are not used, report nil.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Liabilities.Insurance.FuturePolicyExpensesReinsurance.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

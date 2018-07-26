@@ -1,0 +1,16 @@
+# Superannuation Fund Details Investment Strategies Count
+
+## identifier
+de5080
+
+## type
+int
+
+## definition
+If the reporting entity provides members with a choice of investment strategy, report the number of investment choices that are offered.
+
+## syntax
+### xbrl
+- name=SuperannuationFundDetails.InvestmentStrategies.Count
+- classification=em/emsup/emsup.02.02
+- period=instant

@@ -1,0 +1,21 @@
+# Profit Or Loss Investment Debt Securities Realised And Unrealised Amount
+
+## identifier
+de5092
+
+## type
+float
+
+## definition
+Report realised and unrealised capital gains/losses associated with the entity's investment in debt securities.
+
+Capital gains/losses are realised where the entity disposed of an asset during the relevant period. If an asset has not been disposed of during the relevant annual period, then any gains or losses recognised as the difference between the acquisition cost of the asset and the market value are unrealised.
+
+Debt securities are transferable instruments evidencing a relationship of indebtedness. It is characterised by having a definable income stream that is not based on the economic performance of the issuing entity.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Investment.DebtSecuritiesRealisedAndUnrealised.Amount
+- classification=baf/bafpr/bafpr2.02.05
+- period=duration

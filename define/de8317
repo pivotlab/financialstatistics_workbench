@@ -1,0 +1,19 @@
+# Assets Securities Other Excluding Government ARF 321 0 Amount
+
+## identifier
+de8317
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of all other securities of the reporting, as required to be reported on APRA form ARF_321_0. This amount will include securities other than Commonwealth government securities, other Australian government securities and foreign government securities.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.SecuritiesOtherExcludingGovernmentARF3210.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

@@ -1,0 +1,17 @@
+# Expense Operating Fees Paid Or Payable To Trustees Or Directors Amount
+
+## identifier
+de2012
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for fees paid/payable by the entity to the Directors/trustee(s) for the services in carrying out the functions of a trustee/director, including any consulting or administration services provided. Do not include amounts paid to Directors/trustee(s) that represent a direct reimbursement of expenses incurred by the Directors/trustee(s) on behalf of the entity. Do not include the expense for trustee indemnity insurance. Do not include commissions collected by the trustee for payment to a third party.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Expense.Operating.FeesPaidOrPayableToTrusteesOrDirectors.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

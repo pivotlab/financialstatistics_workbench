@@ -1,0 +1,17 @@
+# Profit Or Loss Insurance After Tax Attributable To Non Controlling Interests Amount
+
+## identifier
+de8597
+
+## type
+float
+
+## definition
+This is the profit (loss) after tax for the relevant period attributable to non-controlling interests. This item is calculated in accordance with the relevant Prudential Standards and represents the proportion of profit (loss) after tax of both continuing and discontinued operations not attributable directly, or indirectly to the parent of the reporting party.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Insurance.AfterTaxAttributableToNonControllingInterests.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

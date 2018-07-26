@@ -1,0 +1,19 @@
+# Liabilities Counterparty Amount
+
+## identifier
+de4900
+
+## type
+float
+
+## definition
+Report the value, as at the relevant date, of the liabilities of the relevant counterparty.
+
+Liabilities are to be determined in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Counterparty.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

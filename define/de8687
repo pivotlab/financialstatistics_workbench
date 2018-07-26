@@ -1,0 +1,17 @@
+# Expense Operating other Not Investment On Assets Backing Insurance Liabilities Amount
+
+## identifier
+de8687
+
+## type
+float
+
+## definition
+This is the value, for the duration of the relevant period, of other operating expense. This item represents all expense which is not associated with the generation of investment income (i.e. expenses that are not related to investment portfolios) on assets backing insurance liabilities (ABI. This item is determined in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.OperatingotherNotInvestmentOnAssetsBackingInsuranceLiabilities.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

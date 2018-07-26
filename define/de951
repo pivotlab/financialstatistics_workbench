@@ -1,0 +1,17 @@
+# Assets Trading Securities Asset Backed Trading Debt Securities Amount
+
+## identifier
+de951
+
+## type
+float
+
+## definition
+Asset backed securities are a type of debt security that are secured or supported by a pool of assets. These are transferable instruments evidencing a relationship of indebtedness. They are characterised by having a definable income stream that is not based on the economic performance of the issuing entity
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.TradingSecurities.AssetBackedTradingDebtSecurities.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

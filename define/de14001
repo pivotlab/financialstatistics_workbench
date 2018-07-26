@@ -1,0 +1,16 @@
+# Superannuation Fund Details Select Investment Option Name Text
+
+## identifier
+de14001
+
+## type
+string
+
+## definition
+This is the name of the select investment option.
+
+## syntax
+### xbrl
+- name=SuperannuationFundDetails.SelectInvestmentOptionName.Text
+- classification=em/emsup/emsup.02.21
+- period=duration

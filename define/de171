@@ -1,0 +1,17 @@
+# Assets Cash And Liquid Assets Securities Sold Not Delivered Or Security Settlements Amount
+
+## identifier
+de171
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, to record receivables for unsettled sales of securities. This item arises only if the reporting institution records securities on a trade date basis as opposed to settlement date basis
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.SecuritiesSoldNotDeliveredOrSecuritySettlements.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

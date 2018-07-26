@@ -1,0 +1,17 @@
+# Liabilities Insurance Accumulated Loss Recognition Amount
+
+## identifier
+de4428
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the total amount of losses recognised and not reversed.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Liabilities.Insurance.AccumulatedLossRecognition.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

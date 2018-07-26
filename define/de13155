@@ -1,0 +1,16 @@
+# Financial Services Investment Options Count
+
+## identifier
+de13155
+
+## type
+int
+
+## definition
+This is the number, as at the relevant date, of investment options offered in the reporting entity.
+
+## syntax
+### xbrl
+- name=FinancialServices.InvestmentOptions.Count
+- classification=baf/bafot/bafot.02.15
+- period=instant

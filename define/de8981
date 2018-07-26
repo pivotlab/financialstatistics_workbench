@@ -1,0 +1,21 @@
+# Regulatory Disclosures Reporting Entity Under Corporation Act Indicator
+
+## identifier
+de8981
+
+## type
+boolean
+
+## definition
+This is the indicator for the duration of the relevant period, of the reporting party being a reporting entity under the Corporations Act.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = reporting party being a reporting entity under the Corporations Act.
+FALSE = reporting party not being a reporting entity under the Corporations Act.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.ReportingEntityUnderCorporationAct.Indicator
+- classification=baf/bafot/bafot.02.07
+- period=duration

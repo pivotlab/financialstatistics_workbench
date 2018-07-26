@@ -1,0 +1,17 @@
+# Expense Insurance Customer Retention Other Amount
+
+## identifier
+de4493
+
+## type
+float
+
+## definition
+Report the value of all fixed costs plus variable expenses incurred in relation to maintaining existing business other than commissions and other incremental insurance related costs.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.CustomerRetentionOther.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

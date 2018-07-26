@@ -1,0 +1,22 @@
+# Service Provider External Investment Manager Indicator
+
+## identifier
+de5524
+
+## type
+boolean
+
+## definition
+Has the reporting party has engaged an external investment manager for funds under management?
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE =The reporting party has engaged an external investment manager for funds under management.
+FALSE = The reporting party has not engaged an external investment manager for funds under management.
+
+## syntax
+### xbrl
+- name=ServiceProvider.ExternalInvestmentManager.Indicator
+- classification=py/pylk/pylk.02.01
+- period=instant

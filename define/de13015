@@ -1,0 +1,17 @@
+# Assets Surplus Deficit Deferred Tax Assets Over Liabilities Amount
+
+## identifier
+de13015
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of any surplus/deficit of deferred tax assets (DTA) over deferred tax liabilities (DTL). DTA and DTL are determined in accordance with relevant accounting standards; the netting of these items is in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.SurplusDeficitDeferredTaxAssetsOverLiabilities.Amount
+- classification=baf/bafpo/bafpo1.02.12
+- period=instant

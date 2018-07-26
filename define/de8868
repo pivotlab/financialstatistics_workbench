@@ -1,0 +1,16 @@
+# Liabilities Other Financial Liabilities First Home Saver Account Count
+
+## identifier
+de8868
+
+## type
+int
+
+## definition
+This is the number, as at the relevant date, of the First Home Saver Accounts (FHSA) held by the reporting party.
+
+## syntax
+### xbrl
+- name=Liabilities.OtherFinancialLiabilities.FirstHomeSaverAccount.Count
+- classification=baf/bafpo/bafpo6.02.06
+- period=instant

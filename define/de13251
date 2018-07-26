@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Capital Base Impact Amount
+
+## identifier
+de13251
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the impact on the capital base arising from the failure of a reinsurance counterparty.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.CapitalBaseImpact.Amount
+- classification=baf/bafot/bafot.02.17
+- period=instant

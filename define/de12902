@@ -1,0 +1,23 @@
+# Financial Services Insurance Non APRA Authorised Reinsurer Indicator
+
+## identifier
+de12902
+
+## type
+boolean
+
+## definition
+This indicates whether the exposure is to a non-APRA-authorised reinsurer.
+
+## guidance
+A choice of TRUE/FALSE values.
+
+true = The exposure is to a non-APRA authorised reinsurer. 
+
+false = The exposure is not to a non-APRA authorised reinsurer.
+
+## syntax
+### xbrl
+- name=FinancialServices.Insurance.NonAPRAAuthorisedReinsurer.Indicator
+- classification=baf/bafot/bafot.02.12
+- period=instant

@@ -1,0 +1,17 @@
+# Expense Operating Water Amount
+
+## identifier
+de2112
+
+## type
+float
+
+## definition
+The amount incurred on water charges during the reporting period.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.Water.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Representative Member Net Return Percent
+
+## identifier
+de13210
+
+## type
+float
+
+## definition
+This is the percentage, during the relevant period, of the net return for a representative member. It equates to the net investment return that is also net of administration and advice fees, costs and taxes calculated for a representative member.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.RepresentativeMemberNetReturn.Percent
+- classification=em/emsup/emsup.02.11
+- period=duration

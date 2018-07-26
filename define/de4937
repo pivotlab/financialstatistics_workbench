@@ -1,0 +1,25 @@
+# Financial Risk Solvency Effective Risk Mitigation Difference Of Greater Policy Liability MTV Net Aggregate Amount
+
+## identifier
+de4937
+
+## type
+float
+
+## definition
+Report the effective amount to be included as an offset or addition to the value of the "greater of Policy Liability (as determined in accordance with the assumptions of the solvency standard) and Minimum Termination Value" resulting from effective risk mitigation activities.
+
+Risk mitigation difference is the difference in the value of risk mitigation arrangements as per prudential standards (reinsurance and other similar risk mitigating arrangements and contracts, that while not legally reinsurance, have similar effects) and the value as reflected in the financial statements. 
+
+The greater of policy liability and minimum termination value is the aggregate of the greater of the Policy Liability value or the Minimum Termination Value (MTV) of each related product group (RPG), gross of reinsurance.
+
+MTV is the amount that a life insurer is obliged to pay to policyholders if they decided to voluntarily terminate their policies at the relevant date. The obligation might be contractual, statutory or a result of past practice. Calculated as the greater of: 
+a) the lowest Termination Value that the reporting party is obliged to pay; and 
+b) the amount calculated in accordance with the Surrender Value Standard.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.EffectiveRiskMitigationDifferenceOfGreaterPolicyLiabilityMTVNetAggregate.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

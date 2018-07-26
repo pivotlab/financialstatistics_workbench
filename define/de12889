@@ -1,0 +1,17 @@
+# Financial Risk Risk Charge Concentration Asset Amount
+
+## identifier
+de12889
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date of the asset concentration risk capital charge, determined in accordance with relevant prudential standards. The asset concentration risk charge is the minimum amount of capital required to be held against asset concentration risks. The asset concentration risk charge relates to the risk of concentration in particular assets resulting in adverse movements in the capital base.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.RiskChargeConcentrationAsset.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

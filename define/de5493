@@ -1,0 +1,21 @@
+# Financial Risk Solvency Borrowings Adjusted Amount
+
+## identifier
+de5493
+
+## type
+float
+
+## definition
+Report the effective borrowings, adjusted for the prescribed yield change in the discount rate used in their valuation, in accordance with the Solvency prudential standards.
+
+The valuation of effective borrowings includes overdrafts and is determined under stress test scenarios in accordance with the Solvency prudential standards. This method differs from the Australian Accounting Standards.
+
+Borrowings are amounts of money on loan from financial institutions or other creditors with the promise or understanding that it will be repaid.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Solvency.BorrowingsAdjusted.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

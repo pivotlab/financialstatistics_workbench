@@ -1,0 +1,29 @@
+# Regulatory Disclosures Insurance Maximum Call Amount Basis Code
+
+## identifier
+de9032
+
+## type
+string
+
+## definition
+If calls can be made on members and there is a contractual obligation to pay, report the basis used for determining the maximum call amount.
+
+## guidance
+Valid enumeration values are:
+Specified Amount;
+Percent of contribution; or
+Other.
+
+## codes
+| Name              |
+| ----------------- |
+| % of contribution |
+| Other             |
+| Specified Amount  |
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuranceMaximumCallAmountBasis.Code
+- classification=baf/bafot/bafot.02.07
+- period=duration

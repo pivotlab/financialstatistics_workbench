@@ -1,0 +1,21 @@
+# Auditor Report Opinion Modification Reason Disagreement With Those Charged With Governance Indicator
+
+## identifier
+de9020
+
+## type
+boolean
+
+## definition
+This is the indicator for the reason of modification being disagreement with those charged with governance, for the relevant period.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = If not unqualified, the reason for audit opinion modification was Disagreement with those charged with Governance
+FALSE = If not unqualified, the reason for audit opinion modification was not Disagreement with those charged with Governance
+
+## syntax
+### xbrl
+- name=AuditorReport.OpinionModificationReasonDisagreementWithThoseChargedWithGovernance.Indicator
+- classification=em/emfsm/emfsm.02.06
+- period=duration

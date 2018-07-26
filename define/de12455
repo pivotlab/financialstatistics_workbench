@@ -1,0 +1,25 @@
+# Assets Exposures Facilities And Derivatives Approved Limit Amount
+
+## identifier
+de12455
+
+## type
+float
+
+## definition
+This is the value, as at the reporting date, of the total committed amount, or limit, of total funding and liquidity type facilities and derivatives. For the purpose of this item, report the notional principal amount of derivatives. 
+
+This item represents the following:
+      - liquidity, funding and warehouse funding facilities provided to securitisation programs;  
+      - lending facilities provided to investors for the purpose of investing in securitisation programs;
+      - credit enhancements  provided to securitisation programs;
+      - derivatives entered into with securitisation programs; and
+      - underwriting facilities provided to securitisation programs;
+      - any other facilities provided to securitisation programs.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.ExposuresFacilitiesAndDerivativesApprovedLimit.Amount
+- classification=baf/bafpo/bafpo1.02.08
+- period=instant

@@ -1,0 +1,17 @@
+# Fringe Benefits Tax Expense Amount
+
+## identifier
+de363
+
+## type
+float
+
+## definition
+Fringe benefits tax is a tax on the value of benefits provided to an employee or an employees associate by an employer in respect of the employees duties. The employer is liable for payment of fringe benefits tax. A benefit is widely defined to include any right, privilege, service or facility.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FringeBenefitsTax.Expense.Amount
+- classification=rvc/rvctc/rvctc3.02.00
+- period=duration

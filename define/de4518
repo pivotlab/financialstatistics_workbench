@@ -1,0 +1,23 @@
+# Income Insurance Life Premium Direct Deposit Component Amount
+
+## identifier
+de4518
+
+## type
+float
+
+## definition
+Report the deposit components of regular and single premiums received or receivable for life investment and life insurance investment account business written directly - i.e. exclude any revenue components. Show amounts gross of outwards reinsurance, but exclude amounts for inwards reinsurance. Include the deposit component of premiums in respect of deferred or immediate annuities that are life investment business.
+
+Life insurance policies are contracts that will pay a specified sum to beneficiaries upon the death of the insured.
+
+An annuity is a periodic payment of a fixed or variable amount arising out of a contract obligation. Immediate annuities are those purchased with a single payment, where the income stream commences immediately. Deferred annuities are those where the income stream commences at some time in the future.
+
+Direct premiums are those collected by an insurer directly from the insured.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.LifePremiumDirectDepositComponent.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

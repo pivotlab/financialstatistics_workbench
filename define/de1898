@@ -1,0 +1,16 @@
+# Report Comments Form Comments Text
+
+## identifier
+de1898
+
+## type
+string
+
+## definition
+This is the text, during the relevant period, for comments that give the reporter of data the opportunity to add extra information.
+
+## syntax
+### xbrl
+- name=Report.Comments.FormComments.Text
+- classification=py/pyin/pyin.02.27
+- period=duration

@@ -1,0 +1,17 @@
+# Assets Cash And Liquid Assets Due From Clearing Houses Amount
+
+## identifier
+de933
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for amounts receivable by the reporting party from clearing houses for unsettled exchanges of securities and derivatives. This item arises only if the reporting institution records securities on a settlement date basis as opposed to trade date basis.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.DueFromClearingHouses.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

@@ -1,0 +1,23 @@
+# Miscellaneous Preferred Invoice Format Code
+
+## identifier
+de8667
+
+## type
+string
+
+## definition
+Indicates the entity's preferred method for receiving APRA levy invoices.
+
+## codes
+| Name  |
+| ----- |
+| Email |
+| Fax   |
+| Mail  |
+
+## syntax
+### xbrl
+- name=Miscellaneous.PreferredInvoiceFormat.Code
+- classification=baf/bafot/bafot.02.06
+- period=duration

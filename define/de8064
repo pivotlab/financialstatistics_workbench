@@ -1,0 +1,19 @@
+# Financial Risk Market Stress Testing Equity Scenarios Amount
+
+## identifier
+de8064
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the effect on equity positions (both short and long) due to movements in prices and volatilities as specified in stress testing scenarios. This represents the change in the portfolio value of these positions given stress testing scenarios applied.
+
+For the purposes of this item the reporting party may report long and short positions in instruments relating to the same issuer on a net basis.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.StressTestingEquityScenarios.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

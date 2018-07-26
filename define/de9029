@@ -1,0 +1,21 @@
+# Auditor Report Opinion Adverse Indicator
+
+## identifier
+de9029
+
+## type
+boolean
+
+## definition
+This is the indicator for an audit opinion of adverse, for the relevant period.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = The audit opinion for the relevant period was Adverse
+FALSE = The audit opinion for the relevant period was not Adverse
+
+## syntax
+### xbrl
+- name=AuditorReport.OpinionAdverse.Indicator
+- classification=em/emfsm/emfsm.02.06
+- period=duration

@@ -1,0 +1,17 @@
+# Financial Risk Market Capital Charge Commodities Risk Amount
+
+## identifier
+de8143
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the market risk capital charge calculated for commodities risk (excluding gold price risk), as determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.CapitalChargeCommoditiesRisk.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

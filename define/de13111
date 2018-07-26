@@ -1,0 +1,17 @@
+# Expense Operating Advertising And Marketing Amount
+
+## identifier
+de13111
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for any advertising and marketing expense incurred by the reporting entity. That is activities associated with the promotion or delivery of goods or services, brand or entity. Includes: promotion and sponsorship activities.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.AdvertisingAndMarketing.Amount
+- classification=baf/bafpr/bafpr2.02.14
+- period=duration

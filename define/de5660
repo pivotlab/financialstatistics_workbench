@@ -1,0 +1,22 @@
+# Financial Risk Solvency Expense Reserve Fixed Acquisition Net Of Tax Amount
+
+## identifier
+de5660
+
+## type
+float
+
+## definition
+Report the tax multiple 'M' multiplied by the value of fixed acquisition expenses. The effect is to reduce the amount required to be reserved to reflect the after tax effect of the expenses on the reporting party.
+
+The tax multiple 'M' is the net of tax multiple. This is based on a gross multiple of 1 adjusted for the tax deductibility of expenses, only to
+the extent that a tax deduction would reasonably be expected to be realised on ceasing new business.
+
+Fixed acquisition expenses, for this purpose, are to be determined as the total actual Acquisition Expenses for the reporting party for the 12 months prior to the valuation date less the variable expenses included in that amount.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Solvency.ExpenseReserveFixedAcquisitionNetOfTax.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

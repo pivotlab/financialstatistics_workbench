@@ -1,0 +1,23 @@
+# Profit Or Loss Investment Realised Gains Or Losses On Changes In Fair Value Excluding Foreign Exchange Amount
+
+## identifier
+de8532
+
+## type
+float
+
+## definition
+This is the value of realised gains (losses) associated with changes in the fair value of investments during the relevant period.
+
+Investments are assets or liabilities acquired principally for profit-taking purposes.
+
+This item does not include foreign currency gains (losses) that occur due to currency translation.
+
+Gains (losses) are realised where the entity disposed of an asset during the relevant period. If an asset has not been disposed of during the relevant period, then any increases or decreases in the fair value of the asset are recognised as unrealised gains (losses).
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Investment.RealisedGainsOrLossesOnChangesInFairValueExcludingForeignExchange.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

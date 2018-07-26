@@ -1,0 +1,17 @@
+# Income Contribution Earned Gross Of Outwards Insurance Expense Amount
+
+## identifier
+de9010
+
+## type
+float
+
+## definition
+This is the value, for the duration of the relevant period, of contribution income received that is earned, gross of any outwards insurance expense, as determined in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.ContributionEarnedGrossOfOutwardsInsuranceExpense.Amount
+- classification=baf/bafpr/bafpr1.02.07
+- period=duration

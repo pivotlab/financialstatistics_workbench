@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Membership Coverage Count
+
+## identifier
+de13234
+
+## type
+int
+
+## definition
+This is the number, as at the relevant date, of member accounts entitled to be offered the insurance cover as disclosed in the Product Disclosure Statement (PDS) or other disclosure material.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.MembershipCoverage.Count
+- classification=em/emsup/emsup.02.11
+- period=instant

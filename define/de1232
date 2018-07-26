@@ -1,0 +1,17 @@
+# Assets Other Financial Assets Interest Receivable Amount
+
+## identifier
+de1232
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for interest accrued for but not yet received.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.InterestReceivable.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

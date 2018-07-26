@@ -1,0 +1,17 @@
+# Expense Operating Continuing Operations Total Amount
+
+## identifier
+de172
+
+## type
+float
+
+## definition
+For interpretation/definition of this item refer to the Australian Accounting Standards, as an example, see provided reference
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.ContinuingOperationsTotal.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

@@ -1,0 +1,17 @@
+# Income Prospective Recoveries Other Amount
+
+## identifier
+de2305
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the balancing item within the list in which it is being used.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Prospective.RecoveriesOther.Amount
+- classification=baf/bafpr/bafpr3.02.00
+- period=duration

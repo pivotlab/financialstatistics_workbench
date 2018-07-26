@@ -1,0 +1,16 @@
+# Superannuation Benefit Weighted Average Payment Term Date
+
+## identifier
+de13128
+
+## type
+string
+
+## definition
+This is the relevant effective date of the weighted average duration calculation.
+
+## syntax
+### xbrl
+- name=SuperannuationBenefit.WeightedAveragePaymentTerm.Date
+- classification=em/emsup/emsup.02.10
+- period=instant

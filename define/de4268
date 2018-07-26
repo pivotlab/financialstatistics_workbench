@@ -1,0 +1,17 @@
+# Profit Or Loss Insurance Management Services Component Amount
+
+## identifier
+de4268
+
+## type
+float
+
+## definition
+Management Services Profit is determined as the sum of all cash flows relating to the management service element of Life Investment Contracts (as per Australian Accounting Standards), plus/(less) the change in the value of any asset/(liability) arising in respect of the management services element. Essentially fees less expenses for that component of the business, where fees include changes in deferred fee revenue and expenses include changes in deferred acquisition costs.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Insurance.ManagementServicesComponent.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

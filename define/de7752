@@ -1,0 +1,17 @@
+# Income Credit Exposures Non Accrual With Provisions Amount
+
+## identifier
+de7752
+
+## type
+float
+
+## definition
+This is the amount of any income actually received during the relevant period from all exposures of the reporting party that give rise to counterparty credit risk, determined in accordance with the relevant prudential standards, where the estimates of future interest income are zero and a specific provision for impairment has been raised in respect of it.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.CreditExposuresNonAccrualWithProvisions.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

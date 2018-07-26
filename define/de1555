@@ -1,0 +1,20 @@
+# Assets Other Financial Assets Other Financial Assets Available For Sale Amount
+
+## identifier
+de1555
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for total financial assets available for sale balances categorised in accordance with relevant Australian Accounting Standards, other than:
+- Debt Securities Available for Sale
+- Equity Securities Available for Sale
+- Loans and Advances available-for-sale, including those "tainted" held-to-maturity investments that can no longer be classified as held-to-maturity investments.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.OtherFinancialAssetsAvailableForSale.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

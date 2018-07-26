@@ -1,0 +1,19 @@
+# Financial Risk Solvency Liabilities Other Adjusted Amount
+
+## identifier
+de5314
+
+## type
+float
+
+## definition
+This is the balancing item in the list in which it is being used.
+
+Report the value of total liabilities, adjusted for the prescribed yield change in the discount rate used in their valuation, for solvency purposes excluding tax liabilities and effective borrowings. Therefore this item includes approved subordinated debt and seed capital.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Solvency.LiabilitiesOtherAdjusted.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

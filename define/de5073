@@ -1,0 +1,19 @@
+# Assets Counterparty Amount
+
+## identifier
+de5073
+
+## type
+float
+
+## definition
+Report the value, as at the relevant date, of the assets of the relevant counterparty.
+
+Assets are to be determined in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Counterparty.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

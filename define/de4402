@@ -1,0 +1,19 @@
+# Expense Insurance Policy Conversions Outwards Deposit Component Amount
+
+## identifier
+de4402
+
+## type
+float
+
+## definition
+Report the value of the deposit (investment component) elements of Conversions out of this statutory fund.
+
+Life insurance policies are contracts (policies) that will pay a specified sum to beneficiaries upon the death of the insured.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.PolicyConversionsOutwardsDepositComponent.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

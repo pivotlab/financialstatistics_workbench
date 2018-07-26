@@ -1,0 +1,21 @@
+# Liabilities Other Financial Liabilities Borrowings Other SRF 210 0 Amount
+
+## identifier
+de8385
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of all other borrowings of the reporting party, as required to be reported on APRA form SRF_210_0.
+
+The total of: * Securities sold under agreements to repurchase, representing the payable due to counterparties with whom the stock has been lent and from whom cash has been lodged. These transactions are to be recorded consistently with AASB 139. Where the transferee of the stock effectively receives a lenders rate of return (i.e. the underlying risks and rewards of ownership of the underlying stock is not effectively transferred), these transactions are to be accounted for as collateralised lending activities (treating stock lending as on balance sheet exposures). Under this method of accounting the banks physical stock positions recorded on the balance sheet in either Trading Securities or Investment Securities sections is not affected. * Commercial paper or promissory notes - short-term debt securities issued with a residual term to maturity of 12 months or less. * Short term loans. A loan is considered to be short term if its residual term to maturity is of 12 months or less. * All other debt securities issued with a residual term to maturity of 12 months or less.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.BorrowingsOtherSRF2100.Amount
+- classification=baf/bafpo/bafpo6.02.06
+- period=instant

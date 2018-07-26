@@ -1,0 +1,16 @@
+# Financial Services Insurance Period Of Current Cover Count
+
+## identifier
+de9037
+
+## type
+int
+
+## definition
+This is the period of current insurance cover, expressed in months,  provided by an insurer to the reporting party.
+
+## syntax
+### xbrl
+- name=FinancialServices.Insurance.PeriodOfCurrentCover.Count
+- classification=baf/bafot/bafot.02.07
+- period=instant

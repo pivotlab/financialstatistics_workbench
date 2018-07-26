@@ -1,0 +1,16 @@
+# Financial Services Investment Return Percent
+
+## identifier
+de8892
+
+## type
+float
+
+## definition
+This is the investment return, the change in unit price or crediting rate, for the relevant period.
+
+## syntax
+### xbrl
+- name=FinancialServices.InvestmentReturn.Percent
+- classification=baf/bafot/bafot.02.06
+- period=duration

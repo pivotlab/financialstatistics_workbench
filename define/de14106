@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Future Claims Liability 50th Percentile Amount
+
+## identifier
+de14106
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the future claims liability, as defined in the Rules, that includes no risk margin to produce a 50% probability of adequacy.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.FutureClaimsLiability50thPercentile.Amount
+- classification=baf/bafot/bafot.02.25
+- period=instant

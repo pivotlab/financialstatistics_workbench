@@ -1,0 +1,19 @@
+# Expense Insurance Full Cost Of Reinsurance Amount
+
+## identifier
+de8504
+
+## type
+float
+
+## definition
+This is the value of the full cost of reinsurance entered into during the relevant period.
+ 
+The full cost of reinsurance entered into during the relevant period includes both reinsurance costs recognised as an expense in the relevant period and reinsurance costs deferred for recognition in future periods.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.FullCostOfReinsurance.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Previously Approved Subordinated Debt Amount
+
+## identifier
+de14113
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for security or other debt instruments, which has been previously approved by the relevant prudential authority as subordinated debt under the relevant rules.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.PreviouslyApprovedSubordinatedDebt.Amount
+- classification=baf/bafot/bafot.02.25
+- period=instant

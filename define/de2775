@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities Non Current Finance Lease Amount
+
+## identifier
+de2775
+
+## type
+float
+
+## definition
+Report the value of finance lease liability not due and payable within 12 months.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.NonCurrentFinanceLease.Amount
+- classification=baf/bafpo/bafpo6.02.00
+- period=instant

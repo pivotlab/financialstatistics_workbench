@@ -1,0 +1,32 @@
+# Assets Derivative Financial Instruments Foreign Exchange And Gold Bought Options Principal Amount
+
+## identifier
+de5283
+
+## type
+float
+
+## definition
+Report the face value, or gross amount, of foreign exchange and gold bought option contracts held by the reporting party as at the relevant date. This item is to be determined in accordance with accounting standards.
+
+A bought option includes both put and call options that have been purchased by an entity. It provides the purchasing entity with the right but not the obligation to buy or sell a specific amount of an underlying asset at a pre-agreed price, on or before a specific future date.
+
+A foreign exchange contract is any contract that transfers the exchange rate risk on an underlying asset from one party to another.
+
+A gold contract is any contract that transfers the gold price risk associated with an underlying asset from one party to another.
+
+Derivatives are generally defined as those instruments/contracts, where the value is based on other products, and/or on prices associated with financial products. Derivative contracts involve:
+- Future delivery, receipt or exchange of financial items such as cash or another derivative instrument; or
+- Future exchange of real assets for financial items where the contract may be tradeable and has a market value.
+The contracts can either be binding on both parties (e.g. as with a currency swap) or subject to the exercise by one party of a right contained within the contract (as with options).
+
+Report this item regardless of whether favourable or unfavourable to the reporting entity ie where it represents either a net gain or net loss to the entity across all open positions.
+
+The principal amount must be reported as a positive value, even for short positions in derivative financial instruments.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.DerivativeFinancialInstruments.ForeignExchangeAndGoldBoughtOptionsPrincipal.Amount
+- classification=baf/bafpo/bafpo5.02.04
+- period=instant

@@ -1,0 +1,17 @@
+# Assets Cash And Liquid Assets Debt Securities Eligible Collateral Offshore Central Bank Amount
+
+## identifier
+de14913
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for debt securities that have been notified by the offshore central Bank as being acceptable collateral in its domestic market operations.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.DebtSecuritiesEligibleCollateralOffshoreCentralBank.Amount
+- classification=baf/bafpo/bafpo7.02.25
+- period=instant

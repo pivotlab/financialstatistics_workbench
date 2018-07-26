@@ -1,0 +1,27 @@
+# Financial Risk Solvency MTV Adjustment Amount
+
+## identifier
+de5194
+
+## type
+float
+
+## definition
+Report the value of the Net Policy Liabilities (net of reinsurance) less the Net Minimum Termination Value (MTV).
+
+Net Policy Liabilities are valued in accordance with prudential standards LPS 1.04, Valuation of Policy Liabilities, offset by the value of policy liabilities ceded under reinsurance. This amount includes liabilities for deferred fee revenue and deferred acquisition costs. For participating benefits, it includes bonuses in respect of the relevant period. This method of disclosure differs from the Australian Accounting Standards.
+
+Net Minimum Termination Value (MTV) is the minimum termination value (net of reinsurance) excluding the amount of any investment linked risk margin.
+
+The minimum termination value (MTV) is determined by the prudential standards as the amount that a life insurer is obliged to pay to policyholders if they decided to voluntarily terminate their policies at the relevant date. The obligation might be contractual, statutory or a result of past practice. Calculated as the greater of: 
+a) the lowest Termination Value that the reporting party is obliged to pay; and 
+b) the amount calculated in accordance with the Surrender Value Standard.
+
+The investment linked (IL) risk margin reflects the additional risks that may be borne by the reporting party in conducting investment-linked business.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.MTVAdjustment.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

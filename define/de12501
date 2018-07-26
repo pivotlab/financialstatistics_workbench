@@ -1,0 +1,21 @@
+# Financial Risk Market Other Positions For Hedging The Correlation Trading Portfolio Long Position Amount
+
+## identifier
+de12501
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of long positions used for hedging the correlation trading portfolio which are neither securitisation exposures nor nth-to-default credit derivatives
+
+Correlation trading is a strategy in which traders or investors take both long and short positions in credit correlation products such as synthetic CDOs and basket credit derivatives. Exposures reported under this category require special approval from APRA.
+
+Long positions represent positions where a rise in the value of the asset or derivative would result in a profit.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.OtherPositionsForHedgingTheCorrelationTradingPortfolioLongPosition.Amount
+- classification=baf/bafot/bafot.02.09
+- period=instant

@@ -1,0 +1,21 @@
+# Assets Loans And Advances Liquidity Facilities Amount
+
+## identifier
+de12459
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the securitisation special purpose vehicles (SPVs) or secured funding arrangements to which the reporting entity has provided new liquidity facilities, during the reporting period.
+
+An SPV is a financing vehicle that typically purchases and holds the pool for the purposes of a securitisation. The SPV's payment for the pool is typically funded by debt, including through the issue of units or securities by the SPV.
+
+Liquidity facilities are loan agreements entered into by a counterparty with the reporting party for the purpose of liquidity, being to fund any timing mismatches between receipts of fund on underlying exposures and payments on securities issued by the counterparty, or to cover the inability of the counterparty to roll-over securities due to market disruption.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndAdvancesLiquidityFacilities.Amount
+- classification=baf/bafpo/bafpo1.02.08
+- period=duration

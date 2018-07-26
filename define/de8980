@@ -1,0 +1,17 @@
+# Income Insurance Recoveries Cashflow Basis Amount
+
+## identifier
+de8980
+
+## type
+float
+
+## definition
+This is the value, for the duration of the relevant period, of revenue received (on cashflow basis) in respect of claims from insurance recoveries.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.InsuranceRecoveriesCashflowBasis.Amount
+- classification=baf/bafpr/bafpr1.02.07
+- period=duration

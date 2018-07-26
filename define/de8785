@@ -1,0 +1,17 @@
+# Equity Reserves Asset Revaluation Other GRF300L1 Amount
+
+## identifier
+de8785
+
+## type
+float
+
+## definition
+This is the value, determined in accordance with relevant accounting standards, as at the relevant date, of asset revaluation reserves other than those relating to property, plant and equipment; intangibles revaluation surplus; investments in associates; share of asset revaluation reserves of associates; and non-current assets for disposal groups held for sale.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Reserves.AssetRevaluationOtherGRF300L1.Amount
+- classification=baf/bafpo/bafpo2.02.06
+- period=instant

@@ -1,0 +1,56 @@
+# Financial Risk Capital Adequacy Balancing Item Amount
+
+## identifier
+de5198
+
+## type
+float
+
+## definition
+This is a balancing item within the list in which it is being used.
+
+Balance of Resilience Reserve (RRB) is expected to be calculated as:
+ RRB    = RR  -  RRCR
+
+Where:
+RR    =  Resilience Reserve  =  L' x [A / A"] - L;
+
+RRCR    = (L' / A") x (DELTA ACRY + DELTA ACRD)
+
+A      =  Assets prior to prescribed change; 
+
+L       =  Liabilities prior to prescribed change.
+
+L'    =  Liabilities adjusted for the prescribed yield change in the discount rate used in their valuation, in accordance with the capital adequacy standard.
+
+A"    =  Adjusted value of admissible assets (see below); 
+
+DELTA ACRY       =  Credit Risk Yield Adjustment - an addition to the resilience reserves (see below) made in accordance with the capital adequacy standards; and
+
+DELTA ACRD       =  Credit Risk Default Adjustment - an addition to the resilience reserves (see below) calculated using the prescribed Credit Risk Default factors as set out in the capital adequacy standards.
+
+Adjusted value of admissible assets is the value of total admissible assets with resilience requirement adjusted for:
+- Credit Risk Yield Changes;
+- Prescribed Yield Changes (allowing for diversification factor);
+- Adverse Exchange Movement factor; and
+- Credit Risk Default factors
+as determined in accordance with the capital adequacy standards.
+
+Total admissible assets is the value of total assets as determined in accordance with the accounting standards less the value of those deemed to be inadmissible, as per the capital adequacy capital requirement standards. 
+
+The inadmissible assets are: 
+a) defined benefit superannuation fund surpluses;
+b) holdings in an associated or subsidiary entity which is a Financial Services entity;
+c) non-realisable (in the context of the solvency tests) intangible assets;
+d) assets with too little diversification, are too illiquid or have too great an exposure to one obligor of low credit standing;
+e) reinsurance assets which may not be fully recoverable in the context of the solvency tests; and
+f) amounts by which the recorded value of an asset exceeds its net realisable value.
+
+The Resilience Reserve is determined as the additional amount that needs to be held before the happening of a prescribed set of changes in the economic environment, such that after the changes the admissible assets of the reporting party are able to meet the policy owner and other liabilities of the statutory fund. There is no resilience requirement where the policy owner liabilities of the statutory fund move in harmony with the assets supporting them.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.BalancingItem.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

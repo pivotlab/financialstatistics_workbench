@@ -1,0 +1,17 @@
+# Assets Insurance Deferred Reinsurance Expense Not Meet Doc Test Net Amount
+
+## identifier
+de8295
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of deferred reinsurance expense (determined in accordance with accounting standards) where the reinsurer has not complied with the threshold levels of reinsurance documentation set out in the relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.DeferredReinsuranceExpenseNotMeetDocTestNet.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

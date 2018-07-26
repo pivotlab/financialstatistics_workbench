@@ -1,0 +1,19 @@
+# Liabilities Audit Tax Fees Net Incurrence Settlement Transactions Amount
+
+## identifier
+de5726
+
+## type
+float
+
+## definition
+Record the net of all incurrance and settlement transactions, during the relevant period, of audit and tax agent fees payable.
+
+Audit and tax agent fees are typically amounts payable to an entity for performing agreed assurance and taxation services.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.AuditTaxFeesNetIncurrenceSettlementTransactions.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=duration

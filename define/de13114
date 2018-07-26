@@ -1,0 +1,17 @@
+# Expense Insurance Activities Amount
+
+## identifier
+de13114
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for outflows incurred through insurance activities.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.Activities.Amount
+- classification=baf/bafpr/bafpr3.02.13
+- period=duration

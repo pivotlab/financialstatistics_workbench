@@ -1,0 +1,16 @@
+# Organisation Details Main Business Brief Description
+
+## identifier
+de8323
+
+## type
+string
+
+## definition
+Provide a brief description of the main business conducted by the entity during the relevant period.
+
+## syntax
+### xbrl
+- name=OrganisationDetails.MainBusinessBrief.Description
+- classification=py/pyde/pyde.02.07
+- period=duration

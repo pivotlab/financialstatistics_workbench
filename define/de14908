@@ -1,0 +1,16 @@
+# Regulatory Disclosures Interest Rate Variable Weighted Average Rate
+
+## identifier
+de14908
+
+## type
+float
+
+## definition
+This is the weighted average interest rate for variable-rate loans calculated as the average of the individual loans' contractual interest rates, weighted by the credit limit during the relevant period.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InterestRateVariableWeightedAverage.Rate
+- classification=baf/bafot/bafot.02.32
+- period=duration

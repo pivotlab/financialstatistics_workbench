@@ -1,0 +1,17 @@
+# Expense Operating Personnel Amount
+
+## identifier
+de8612
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of personnel related expenses as determined in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.Personnel.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

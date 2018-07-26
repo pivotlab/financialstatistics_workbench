@@ -1,0 +1,17 @@
+# Expense Prospective Incurred Claims Net Amount
+
+## identifier
+de2307
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the net claims being gross claims less recoveries revenue.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Prospective.IncurredClaimsNet.Amount
+- classification=baf/bafpr/bafpr3.02.00
+- period=duration

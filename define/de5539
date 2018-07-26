@@ -1,0 +1,22 @@
+# Auditor Appointment Membership Other SRF 250 0 And SRF 340 0 Indicator
+
+## identifier
+de5539
+
+## type
+boolean
+
+## definition
+Is the reporting party a member of any other professional accounting body not included in the list, as required on APRA forms SRF_250_0 and SRF_340_0?
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The reporting party is a member of any other professional accounting body not included in the list, as required on APRA forms SRF_250_0 and SRF_340_0.
+FALSE = The reporting party is not a member of any other professional accounting body not included in the list, as required on APRA forms SRF_250_0 and SRF_340_0.
+
+## syntax
+### xbrl
+- name=AuditorAppointment.MembershipOtherSRF2500AndSRF3400.Indicator
+- classification=em/emfsm/emfsm.02.04
+- period=instant

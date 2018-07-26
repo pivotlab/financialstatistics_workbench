@@ -1,0 +1,17 @@
+# Financial Risk Risk Charge Asset Impact Amount
+
+## identifier
+de13254
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the impact on the asset risk charge arising from the failure of a reinsurance counterparty. The amount reported must be after the aggregation formula is applied.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.RiskChargeAssetImpact.Amount
+- classification=baf/bafot/bafot.02.17
+- period=instant

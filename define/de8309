@@ -1,0 +1,21 @@
+# Organisation Details Branch Insurer Indicator
+
+## identifier
+de8309
+
+## type
+boolean
+
+## definition
+Is the reporting party a Foreign General  Insurer as defined in the relevant prudential standards as at the relevant date? A Foreign General Insurer is a foreign insurer operating as a foreign branch in Australia and could be a branch of a foreign mutual or shareholder company.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = the reporting party is a Foreign General  Insurer as defined in the relevant prudential standards
+FALSE = the reporting party is not a Foreign General  Insurer as defined in the relevant prudential standards
+
+## syntax
+### xbrl
+- name=OrganisationDetails.BranchInsurer.Indicator
+- classification=py/pyde/pyde.02.07
+- period=instant

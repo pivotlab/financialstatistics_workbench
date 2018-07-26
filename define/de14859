@@ -1,0 +1,17 @@
+# Tax Major Bank Levy Amount
+
+## identifier
+de14859
+
+## type
+float
+
+## definition
+The amount of the major bank levy payable.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Tax.MajorBankLevy.Amount
+- classification=rvc/rvctc/rvctc3.02.38
+- period=instant

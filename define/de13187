@@ -1,0 +1,21 @@
+# Superannuation Regulatory Information Employer Sponsor Participation Limited Indicator
+
+## identifier
+de13187
+
+## type
+boolean
+
+## definition
+This indicates whether the employer sponsor participation is limited during the relevant period.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = employer sponsor participation is limited during the relevant period. 
+false = employer sponsor participation is not limited during the relevant period.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.EmployerSponsorParticipationLimited.Indicator
+- classification=em/emsup/emsup.02.11
+- period=duration

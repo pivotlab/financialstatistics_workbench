@@ -1,0 +1,20 @@
+# Superannuation Regulatory Information ATO Or ASIC Trustee Review Date
+
+## identifier
+de5376
+
+## type
+string
+
+## definition
+If the trustee of the reporting party has been subject to a review by either the Australian Taxation Office (ATO) or the Australian Securities and Investments Commission (ASIC) during the relevant period, report the date of the review.
+     
+Where there have been multiple reviews or requests for information during the relevant period by either the ATO or ASIC, report the date of the last (i.e. most recent) meeting or request for information.
+     
+A 'review' will normally involve, at a minimum, a formal written request for information from the regulator and may involve meeting with the regulator.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.ATOOrASICTrusteeReview.Date
+- classification=em/emsup/emsup.02.02
+- period=duration

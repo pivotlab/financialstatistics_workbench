@@ -1,0 +1,30 @@
+# Liabilities Insurance Premiums Liabilities Gross Amount
+
+## identifier
+de8849
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the sum of the premiums liabilities gross of any recoveries determined in accordance with relevant prudential standards (Prudential Gross Premiums Liabilities) plus gross premiums liabilities determined in accordance with relevant accounting standards (Accounting Gross Premiums Liabilities).
+                                                                                                                                                                                                                                             
+Prudential Gross Premiums Liabilities relate to all future claim payments arising from future events post the valuation date that will be insured under the reporting party's existing policies that have not yet expired, gross of any recoveries on those claims. The value of Prudential Gross Premium Liabilities must include an amount in respect of the expenses that the reporting entity expects to incur in administering and settling the relevant claims and allow for expected premium refunds. 
+
+The value of prudential gross premiums liabilities must not include any Government charges directly imposed on the reporting party such as levies, duties and taxes and must be gross of input tax credit recoveries. Also a deferred acquisition cost asset must not be reported as part of Prudential Gross Premium Liabilities. 
+
+The Prudential Gross Premium Liabilities will be measured as the present value of the future expected gross payments, i.e. discounted for future investment income, plus a risk margin determined in accordance with relevant prudential standards. The risk margin must be assessed at the level specified by APRA for capital purposes; this may not be the same risk margin used for other purposes.
+
+                                                                                                                                                                                                                  
+Accounting Gross Premiums Liabilities are calculated as UPL - DAC, where: 
+                                                                                                                                          
+UPL = Unearned Premium Liability as determined in accordance with the relevant accounting standards.
+                                                                                                                                          
+DAC = Deferred Acquisition Costs as determined in accordance with the relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.PremiumsLiabilitiesGross.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

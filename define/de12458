@@ -1,0 +1,19 @@
+# Assets Securitised Loans And Advances Value Of Funding Received Amount
+
+## identifier
+de12458
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the funding provided in exchange for the transferred loans, during the reporting period.  Data are reported as at the effective date of the transaction.
+
+An SPV is a financing vehicle that typically purchases and holds the pool for the purposes of a securitisation. The SPV's payment for the pool is typically funded by debt, including through the issue of units or securities by the SPV.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.SecuritisedLoansAndAdvancesValueOfFundingReceived.Amount
+- classification=baf/bafpo/bafpo1.02.08
+- period=duration

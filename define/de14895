@@ -1,0 +1,17 @@
+# Assets Net Stable Funding Ratio Initial Margin Posted ADIs Own Derivative Positions Amount
+
+## identifier
+de14895
+
+## type
+float
+
+## definition
+The value of the total net stable funding ratio (NSFR) initial margin posted on the authorised deposit-taking institution's (ADI) own derivative positions, whether on- or off-balance sheet. For securities or other assets posted as initial margin on the ADI's own derivative positions, report only where the securities or other assets would otherwise receive a required stable funding (RSF) factor of 85 per cent or lower.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.NetStableFundingRatioInitialMarginPostedADIsOwnDerivativePositions.Amount
+- classification=baf/bafpo/bafpo1.02.32
+- period=instant

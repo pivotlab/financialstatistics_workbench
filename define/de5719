@@ -1,0 +1,17 @@
+# Superannuation Payment Benefit Pensions Deposit Component Amount
+
+## identifier
+de5719
+
+## type
+float
+
+## definition
+Report benefits paid or payable as withdrawal of any deposit elements for annuity benefits on life investment business. Includes complying pension, allocated pension and annuity payments. Do not include amounts resulting from the commutation of pension benefits.
+
+## syntax
+### xbrl
+- balance=debit
+- name=SuperannuationPayment.BenefitPensionsDepositComponent.Amount
+- classification=em/emsup/emsup.02.02
+- period=duration

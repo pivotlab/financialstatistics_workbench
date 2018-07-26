@@ -1,0 +1,17 @@
+# Assets Net Tangible Assets Issuing Entity Amount
+
+## identifier
+de8337
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the net tangible assets of the entity in which the reporting party has invested, as determined in accordance with the relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.NetTangibleAssetsIssuingEntity.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

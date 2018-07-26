@@ -1,0 +1,23 @@
+# Financial Risk Market IRRBB Capital Requirement Diversification Benefit Between Currencies On Repricing And Yield Curve Risks Amount
+
+## identifier
+de8128
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of assumed diversification benefits between currencies for the estimated repricing and yield curve risks. This amount will reduce the reporting party's total IRRBB capital requirement, as determined in accordance with relevant prudential standards.
+
+IRRBB capital requirement represents the regulatory capital that an entity is required to hold against its exposure to IRRBB in accordance with Prudential Standards.
+
+Repricing risk represents the risk of loss in earnings or economic value caused by a change in the overall level of interest rates (that is, a 'parallel shift' in the yield curve). This risk arises from mismatches in the repricing dates of an entity's banking book items.
+
+Yield curve risk represents the risk of loss in earnings or economic value caused by a change in the relative levels of interest rates for different tenors (that is, a change in the slope or shape of the yield curve). This risk arises from mismatches in the repricing dates of an entity's banking book items.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.IRRBBCapitalRequirementDiversificationBenefitBetweenCurrenciesOnRepricingAndYieldCurveRisks.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

@@ -1,0 +1,17 @@
+# Expense Insurance Total Claims Amount
+
+## identifier
+de13042
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of benefits paid or payable as withdrawal of deposit elements for claims on life investment business.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.TotalClaims.Amount
+- classification=baf/bafpr/bafpr3.02.11
+- period=duration

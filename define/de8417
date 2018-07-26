@@ -1,0 +1,16 @@
+# Liabilities Other Financial Liabilities Borrowings Including Off Balance Sheet Borrowings Other SRF 210 0 Description
+
+## identifier
+de8417
+
+## type
+string
+
+## definition
+This is the description of the detailed line item comprising the other borrowings balancing item, as required to be reported on APRA form SRF_210_0.
+
+## syntax
+### xbrl
+- name=Liabilities.OtherFinancialLiabilities.BorrowingsIncludingOffBalanceSheetBorrowingsOtherSRF2100.Description
+- classification=baf/bafpo/bafpo6.02.06
+- period=instant

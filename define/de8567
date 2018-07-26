@@ -1,0 +1,17 @@
+# Liabilities Insurance Claims Handling On Net Outstanding Claims Amount
+
+## identifier
+de8567
+
+## type
+float
+
+## definition
+This is the value of claims handling expenses on net outstanding claims. This includes the claims handling expense allowance in the net actuarial central estimate of outstanding claims.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.ClaimsHandlingOnNetOutstandingClaims.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

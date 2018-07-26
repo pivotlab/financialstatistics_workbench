@@ -1,0 +1,21 @@
+# Assets Loans And Advances Funding Facilities Excluding Warehouse Amount
+
+## identifier
+de12460
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the securitisation special purpose vehicles (SPVs) or secured funding arrangements to which the reporting entity has provided new funding facilities, excluding warehouse, during the reporting period.
+
+An SPV is a financing vehicle that typically purchases and holds the pool for the purposes of a securitisation. The SPV's payment for the pool is typically funded by debt, including through the issue of units or securities by the SPV.
+
+Funding facilities, excluding warehouse, are loan agreements entered into by a counterparty with the reporting party for the purpose of funding purchases of exposures for a pool.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndAdvancesFundingFacilitiesExcludingWarehouse.Amount
+- classification=baf/bafpo/bafpo1.02.08
+- period=duration

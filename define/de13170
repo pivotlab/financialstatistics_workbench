@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Registered Member Account With Tax File Number Percent
+
+## identifier
+de13170
+
+## type
+float
+
+## definition
+This is the portion, as at the relevant date, of member accounts for which the Registrable Superannuation Entity (RSE) has the member's tax file number recorded to identify the member.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.RegisteredMemberAccountWithTaxFileNumber.Percent
+- classification=em/emsup/emsup.02.10
+- period=instant

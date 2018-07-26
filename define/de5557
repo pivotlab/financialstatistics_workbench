@@ -1,0 +1,25 @@
+# Financial Risk Capital Adequacy Admissible Assets Total Amount
+
+## identifier
+de5557
+
+## type
+float
+
+## definition
+Report the value of total assets determined in accordance with the accounting standards, less the value of those deemed to be inadmissible, as per the capital adequacy standard. 
+
+The inadmissible assets are: 
+a) defined benefit superannuation fund surpluses;
+b) holdings in an associated or subsidiary entity which is a Financial Services entity;
+c) non-realisable (in the context of the capital adequacy tests) intangible assets;
+d) assets with too little diversification, are too illiquid or have too great an exposure to one obligor of low credit standing;
+e) reinsurance assets which may not be fully recoverable in the context of the capital adequacy tests; and
+f) amounts by which the recorded value of an asset exceeds its net realisable value.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.AdmissibleAssetsTotal.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

@@ -1,0 +1,19 @@
+# Liabilities Bill Acceptance Discount Facilities Available Approved Limit Amount
+
+## identifier
+de5374
+
+## type
+float
+
+## definition
+Report the value, as at the relevant date, of bill acceptance and discount facilities provided to the reporting party. For the purposes of this item, report the total approved balance of the facility.
+
+Bill acceptance and discount facilities are a form of liquidity, or funding, provided to entity through a facility that discounts bills (e.g. bank accepted bills). Principal and interest (discount) owing on the bill is repaid or 'rolled over' by the reporting party on maturity of the bill.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.BillAcceptanceDiscountFacilitiesAvailableApprovedLimit.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

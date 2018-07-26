@@ -1,0 +1,29 @@
+# Financial Risk Solvency Adjusted Yield Loans Amount
+
+## identifier
+de5327
+
+## type
+float
+
+## definition
+Report the value of admissible loan assets with resilience requirement at the adjusted yield.
+
+The Adjusted Yield is determined in accordance with the solvency capital requirement standards and is applied to the value of the admissible assets as part of the calculation of the Resilience Reserve. The Resilience Reserve is determined as the additional amount that needs to be held before the happening of a prescribed set of changes in the economic environment, such that after the changes the admissible assets of the reporting party are able to meet the policy owner and other liabilities of the statutory fund.
+
+Admissible loan assets is the value of total Loans and Advances as determined in accordance with the accounting standards, including accrued income, less the value of those deemed to be inadmissible, as per the solvency standard. 
+
+The inadmissible assets are: 
+a) assets which have a value that is dependent upon the continuation of the business;
+b) holdings in an associated or subsidiary entity which is a Financial Services entity;
+c) non-realisable (in the context of the solvency tests) intangible assets;
+d) assets with too little diversification, are too illiquid or have too great an exposure to one obligor of low credit standing;
+e) reinsurance assets which may not be fully recoverable in the context of the solvency tests; and
+f) amounts by which the recorded value of an asset exceeds its net realisable value.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.AdjustedYieldLoans.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

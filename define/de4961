@@ -1,0 +1,21 @@
+# Liabilities Exposures Off Balance Sheet Management Fees Net Incurrence Settlement Transactions Amount
+
+## identifier
+de4961
+
+## type
+float
+
+## definition
+Report the net value of all incurrance and settlement transactions, during the relevant period, of off balance sheet exposures related to liabilities classified as management fees payable.
+
+Management Fees are typically amounts payable to an entity for performing agreed management activities.
+
+Off-balance sheet liability exposures relate to those liabilities or obligations that do not satisfy the recognition requirements of the relevant accounting standards and are therefore not recognised on the face of the balance sheet, or statement of financial position.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Exposures.OffBalanceSheetManagementFeesNetIncurrenceSettlementTransactions.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=duration

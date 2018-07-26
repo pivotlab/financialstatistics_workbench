@@ -1,0 +1,17 @@
+# Financial Risk Variation In Deduction Approved By APRA Amount
+
+## identifier
+de8645
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of variations in deduction as approved by APRA.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.VariationInDeductionApprovedByAPRA.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

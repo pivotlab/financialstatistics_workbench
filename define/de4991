@@ -1,0 +1,31 @@
+# Business Termination Wind Up Reason Code
+
+## identifier
+de4991
+
+## type
+string
+
+## definition
+If the reporting party was wound up during the relevant period, report the reason the entity was wound up.
+
+## guidance
+The enumerated values are:
+     1 = Transferred to another Superannuation Entity
+     2 = Never Operated
+     3 = Employer sponsor ceased operations
+     4 = Other reasons given
+
+## codes
+| Name                                         |
+| -------------------------------------------- |
+| Employer sponsor ceased operations           |
+| Never operated                               |
+| Other reasons given                          |
+| Transferred to another Superannuation Entity |
+
+## syntax
+### xbrl
+- name=BusinessTermination.WindUpReason.Code
+- classification=em/emfsm/emfsm.02.04
+- period=instant

@@ -1,0 +1,20 @@
+# Financial Risk Capital Adequacy Xth Percentile Percent
+
+## identifier
+de14086
+
+## type
+float
+
+## definition
+This is the percentage, during the relevant period, for the percentile with which the:
+ (a) net margin for the health insurance business; and
+ (b) investment income; and
+ (c) health related business income and all other income, less associated expenses;
+must be measured at, in order to achieve a second percentile profit margin, incorporating allowance for correlation between (a), (b) and (c).
+
+## syntax
+### xbrl
+- name=FinancialRisk.CapitalAdequacy.XthPercentile.Percent
+- classification=baf/bafot/bafot.02.25
+- period=duration

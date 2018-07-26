@@ -1,0 +1,17 @@
+# Financial Risk Risk Charge Concentration Insurance Amount
+
+## identifier
+de12890
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date of the insurance concentration risk capital charge, determined in accordance with relevant prudential standards. The Insurance Concentration Risk Charge represents the net financial impact on the reporting insurer from either a single event, or a series of multiple events, within a one year period.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.RiskChargeConcentrationInsurance.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

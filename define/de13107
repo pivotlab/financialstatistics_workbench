@@ -1,0 +1,21 @@
+# Regulatory Disclosures Offshoring Indicator
+
+## identifier
+de13107
+
+## type
+boolean
+
+## definition
+This indicates whether the service provided is classified as offshoring.  Offshoring means the outsourcing of a material business activity to a service provider where the outsourced activity is to be conducted outside Australia.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = The service provided is classified as offshoring. 
+false = The service provided is not classified as offshoring.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.Offshoring.Indicator
+- classification=baf/bafot/bafot.02.15
+- period=instant

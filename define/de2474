@@ -1,0 +1,19 @@
+# Liabilities Provisions Non Current Restructuring Costs Amount
+
+## identifier
+de2474
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for all provisions raised for the restructuring of an organisation that are not due and payable within the next 12 months, including:
+- severance, termination and redundancy payments; and
+- integration cost.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Liabilities.Provisions.NonCurrentRestructuringCosts.Amount
+- classification=baf/bafpo/bafpo6.02.00
+- period=instant

@@ -1,0 +1,17 @@
+# Equity Reserves Foreign Currency Translation Reserve Excluding Unrealised Gains Losses FX Hedge Investment For Operation Amount
+
+## identifier
+de13032
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the reserve relating to exchange rate differences arising on a monetary item that forms part of a reporting entity's net investment in a foreign operation in accordance with Australian accounting standards. For the purposes of this item, exclude unrealised gains and losses from a foreign currency hedge of a net investment in a foreign operation.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Reserves.ForeignCurrencyTranslationReserveExcludingUnrealisedGainsLossesFXHedgeInvestmentForOperation.Amount
+- classification=baf/bafpo/bafpo2.02.09
+- period=instant

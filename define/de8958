@@ -1,0 +1,17 @@
+# Income Operating Total Other APRA Insurance Amount
+
+## identifier
+de8958
+
+## type
+float
+
+## definition
+This is the value, for the duration of the relevant period, of other operating income. This item represents all income which is not associated with the generation of investment income (i.e. income that is not related to investment portfolios). This item is determined in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Operating.TotalOtherAPRAInsurance.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

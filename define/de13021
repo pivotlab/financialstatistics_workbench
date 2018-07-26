@@ -1,0 +1,17 @@
+# Financial Risk Credit Central Counterparty Trade Exposure Amount
+
+## identifier
+de13021
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the trade exposures for exchange traded and centrally cleared OTC derivatives. This item is calculated in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Credit.CentralCounterpartyTradeExposure.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

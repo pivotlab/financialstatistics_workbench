@@ -1,0 +1,19 @@
+# Liabilities Creditors And Other Liabilities ARF 325 0 Amount
+
+## identifier
+de8268
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of Creditors and all Other Liabilities, as required to be reported on form ARF_325_0.
+
+The measurement and classification basis used is to be determined in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.CreditorsAndOtherLiabilitiesARF3250.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

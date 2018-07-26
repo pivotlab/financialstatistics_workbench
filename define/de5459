@@ -1,0 +1,22 @@
+# Superannuation Payment Repatriation To Employer Indicator
+
+## identifier
+de5459
+
+## type
+boolean
+
+## definition
+Has  there been repatriation to the employer during the relevant period?
+
+## guidance
+A choice of Y/N values.
+
+Y = There has been repatriation to the employer during the relevant period.
+N = There has not been repatriation to the employer during the relevant period.
+
+## syntax
+### xbrl
+- name=SuperannuationPayment.RepatriationToEmployer.Indicator
+- classification=em/emsup/emsup.02.02
+- period=duration

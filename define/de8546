@@ -1,0 +1,17 @@
+# Profit Or Loss Insurance After Tax Amount
+
+## identifier
+de8546
+
+## type
+float
+
+## definition
+This is the profit (loss) after tax or the relevant period. This item is calculated in accordance with the relevant Prudential Standards and represents profit (loss) after tax of both continuing and discontinued operations.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Insurance.AfterTax.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

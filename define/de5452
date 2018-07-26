@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Independent Actuarial Advice Commissioned Date
+
+## identifier
+de5452
+
+## type
+string
+
+## definition
+If independent actuarial advice has been commissioned by the reporting party during the relevant period, record the date of the last actuarial report.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.IndependentActuarialAdviceCommissioned.Date
+- classification=em/emsup/emsup.02.02
+- period=duration

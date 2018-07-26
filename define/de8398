@@ -1,0 +1,19 @@
+# Profit Or Loss Investment Realised Other SRF 200 0 Amount
+
+## identifier
+de8398
+
+## type
+float
+
+## definition
+This is a balancing item within the list in which it is being used.
+     
+This is, for the duration of the relevant period, the net value of other realised gains/losses brought to account, as required by APRA form SRF_200_0.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Investment.RealisedOtherSRF2000.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

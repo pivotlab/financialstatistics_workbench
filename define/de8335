@@ -1,0 +1,26 @@
+# Assets Insurance Investments Other GRF300G Amount
+
+## identifier
+de8335
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of any assets held by unit trusts or managed investment schemes invested in by the reporting party, or mandates individually managed on behalf of the reporting party, other than:
+     - debt obligations;
+     - equity securities;
+     - property (real estate or property trusts);
+     - cash management trust;
+     - cash (notes and coins) 
+     - assets in respect of anticipated recoveries from the Commonwealth Government or from an Australian State or Territory government; and
+     - GST receivables (input tax credits).
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.InvestmentsOtherGRF300G.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

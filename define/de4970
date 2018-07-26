@@ -1,0 +1,40 @@
+# Off Balance Sheet Charge Purpose Code
+
+## identifier
+de4970
+
+## type
+string
+
+## definition
+The purposes are set out in the Life Insurance Act 1995, Sections 38 and 40.
+
+38 (3)  A life company must not mortgage or charge any of the assets of a statutory fund except: 
+                     (a)  to secure a bank overdraft; or 
+                     (b)  in connection with the undertaking of a major development project and in accordance with section 40; or 
+                     (c)  for such other purposes, and subject to such other conditions, as are prescribed by the regulations.
+
+40 (1)  A life company may mortgage or charge an asset of a statutory fund, otherwise than for a purpose of the kind referred to in paragraph 38(3)(a) or (c), if: 
+                     (a)  the mortgage or charge is to be given in connection with the undertaking of a major development project; and 
+                     (b)  the giving of the mortgage or charge has been approved by APRA.
+
+## guidance
+The enumerated values are: 
+Derivatices
+Major Development Project
+Other
+Overdraft
+
+## codes
+| Name                      |
+| ------------------------- |
+| Derivatives               |
+| Major development project |
+| Other                     |
+| Overdraft                 |
+
+## syntax
+### xbrl
+- name=OffBalanceSheet.ChargePurpose.Code
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

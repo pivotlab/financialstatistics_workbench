@@ -1,0 +1,17 @@
+# Expense Operating Paper Printing Stationery Amount
+
+## identifier
+de7563
+
+## type
+float
+
+## definition
+This is the value of paper, printing and stationery expenses incurred for office supplies and printing carried out by or for the reporting party during the relevant period.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.PaperPrintingStationery.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

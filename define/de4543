@@ -1,0 +1,21 @@
+# Profit Or Loss Insurance Components Experience Profit Loss Other Amount
+
+## identifier
+de4543
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+     
+Report the value of components of experience profit or loss related to Life Investment Contracts (as defined in the accounting standards) that have not been specifically categorised elsewhere on APRA form LRF430.
+     
+The total Experience Profit or Loss is the profit or loss arising in the period from differences between the actual experience during the period and the expected experience on the basis of the Best Estimate Assumptions at the beginning of the period.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Insurance.ComponentsExperienceProfitLossOther.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

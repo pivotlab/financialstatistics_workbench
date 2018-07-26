@@ -1,0 +1,17 @@
+# Liabilities Debt Securities Sold Under Agreements To Repurchase Or Stock Lending Daily Average Amount
+
+## identifier
+de14852
+
+## type
+float
+
+## definition
+This is the daily average value of the amount payable in relation to debt securities sold under agreements to repurchase or stock lending. The daily value of this item is to be determined in accordance with accounting standards. The daily average is calculated in accordance with the relevant legislation.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.DebtSecuritiesSoldUnderAgreementsToRepurchaseOrStockLendingDailyAverage.Amount
+- classification=baf/bafpo/bafpo1.02.31
+- period=duration

@@ -1,0 +1,16 @@
+# Regulatory Disclosures Insurance Claims Paid Count
+
+## identifier
+de13131
+
+## type
+int
+
+## definition
+This is the number, during the relevant period, of insurance claims paid.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuranceClaimsPaid.Count
+- classification=baf/bafot/bafot.02.15
+- period=duration

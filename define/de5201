@@ -1,0 +1,24 @@
+# Legislation Compliance SIS Act Par 29E_1_e Indicator
+
+## identifier
+de5201
+
+## type
+boolean
+
+## definition
+Can the reporting party attest that it has complied with each measure and procedure of the Risk Management Plan in accordance with paragraph 29E(1)(e) of the SIS Act?
+
+The requirement to attest compliance within this item is not intended to exceed the requirements to report only significant breaches to APRA as required by section 29JA of the SIS Act. In the event a breach in relation to this item which was not significant as defined in section 29JA of the SIS Act, then the reporting party is not required to attest non-compliance.
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The reporting party attests that it has complied with each measure and procedure of the Risk Management Plan in accordance with paragraph 29E(1)(e) of the SIS Act.
+FALSE = The reporting party cannot attest that it has complied with each measure and procedure of the Risk Management Plan in accordance with paragraph 29E(1)(e) of the SIS Act.
+
+## syntax
+### xbrl
+- name=LegislationCompliance.SISActPar29E_1_e.Indicator
+- classification=py/pyin/pyin.02.09
+- period=duration

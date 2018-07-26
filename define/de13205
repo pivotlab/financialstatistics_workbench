@@ -1,0 +1,17 @@
+# Regulatory Disclosures Fees Disclosed Cap Amount
+
+## identifier
+de13205
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the top limit placed on a fee charged, as disclosed in the Product Disclosure Statement or other disclosure material.
+
+## syntax
+### xbrl
+- balance=credit
+- name=RegulatoryDisclosures.FeesDisclosedCap.Amount
+- classification=baf/bafot/bafot.02.16
+- period=instant

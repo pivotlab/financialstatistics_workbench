@@ -1,0 +1,25 @@
+# Financial Risk Market Exposure Actual Property Commercial Other ARF 230 0 Amount
+
+## identifier
+de8742
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+     
+This is the value, as at the relevant date, of the reporting party's actual exposure to other commercial property, as required to be reported on APRA form ARF_230_0.
+
+Actual exposures include:
+     - claims and commitments recorded on-balance sheet; and
+     - the credit equivalent amounts of off-balance sheet claims and commitments
+     
+Commercial property exposure is defined according to the nature of the risk. An exposure should be classified as commercial property risk, if the exposure is subject to the performance of the property market.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.ExposureActualPropertyCommercialOtherARF2300.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

@@ -1,0 +1,17 @@
+# Assets Other Financial Assets Non Current Derivative Financial Instruments Total Amount
+
+## identifier
+de2382
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for all non current derivatives consistent with the classification and measurement basis used for derivatives by institutions in accordance with relevant Australian Accounting Standards where the value is positive. 
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.NonCurrentDerivativeFinancialInstrumentsTotal.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

@@ -1,0 +1,30 @@
+# Liabilities Creditors And Other Liabilities APRA Defined Total Amount
+
+## identifier
+de1480
+
+## type
+float
+
+## definition
+This is a balancing item, being the Total Liabilities as per accounting standards other than:
+- Intra-company borrowings,
+- Total bonds, notes and long-term borrowings,
+- Unvested policy holder benefits,
+- Life insurance policy liabilities,
+- General insurance outstanding claims and unearned premium,
+- Total provisions,
+- Total income tax liability,
+- Total other borrowings,
+- Total Deposits,
+- Acceptances,
+- Total due to financial institutions,
+- Due to clearing houses
+- Total loan capital and hybrid securities
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.CreditorsAndOtherLiabilitiesAPRADefinedTotal.Amount
+- classification=baf/bafpo/bafpo1.02.00
+- period=instant

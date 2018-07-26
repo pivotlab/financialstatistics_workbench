@@ -1,0 +1,22 @@
+# Auditor Appointment Registered Company Auditor Indicator
+
+## identifier
+de5139
+
+## type
+boolean
+
+## definition
+Is the reporting party a registered company auditor?
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The reporting party is a registered company auditor.
+FALSE = The reporting party is not a registered company auditor.
+
+## syntax
+### xbrl
+- name=AuditorAppointment.RegisteredCompanyAuditor.Indicator
+- classification=em/emfsm/emfsm.02.04
+- period=instant

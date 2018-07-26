@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Non Compliance Description
+
+## identifier
+de5177
+
+## type
+string
+
+## definition
+Provide details of the non-compliance with the SIS Act and or the Corporations Act 2001.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.NonCompliance.Description
+- classification=em/emsup/emsup.02.02
+- period=duration

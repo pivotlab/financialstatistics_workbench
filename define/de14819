@@ -1,0 +1,19 @@
+# Financial Risk Capital Adequacy Countercyclical Capital Buffer Percent
+
+## identifier
+de14819
+
+## type
+float
+
+## definition
+The countercyclical capital buffer is an additional holding of Common Equity Tier 1 (CET1) capital applied as a percentage of total risk-weighted assets, which can be imposed by the national authority to protect the banking sector from periods of excess credit growth. This may vary over time according to market conditions.
+
+## guidance
+Refer Prudential Standard APS 110 for further information. For an Authorised Deposit taking Institutions(ADI) with exposures in Australia only, the ADI-specific buffer is equal to the Australian jurisdictional countercyclical buffer.
+
+## syntax
+### xbrl
+- name=FinancialRisk.CapitalAdequacy.CountercyclicalCapitalBuffer.Percent
+- classification=baf/bafot/bafot.02.30
+- period=instant

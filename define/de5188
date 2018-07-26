@@ -1,0 +1,18 @@
+# Organisation Control Members Accumulation Benefit Count
+
+## identifier
+de5188
+
+## type
+int
+
+## definition
+Report the number of members of the reporting entity who are only accumulation benefit members.
+
+Accumulation benefit members are those members whose entitlements in the reporting entity are entirely determined on the basis of contributions into the reporting entity, adjusted for earnings, fees and taxes.
+
+## syntax
+### xbrl
+- name=OrganisationControl.MembersAccumulationBenefit.Count
+- classification=py/pyde/pyde.02.06
+- period=instant

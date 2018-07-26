@@ -1,0 +1,21 @@
+# Financial Risk Market Options Equity Amount
+
+## identifier
+de8114
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of equity options, as determined in accordance with relevant prudential standards.
+
+An equity contract is any contract that transfers the equity price risk of an underlying asset from one party to another.
+
+An option provides the purchasing entity with the right but not the obligation to buy or sell a specific amount of the underlying asset at a pre-agreed price, on or before a specific future date.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.OptionsEquity.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

@@ -1,0 +1,19 @@
+# Liabilities Borrowings Net Incurrence Settlement Transactions Amount
+
+## identifier
+de5031
+
+## type
+float
+
+## definition
+Record the net of all incurrance and settlement transactions, during the relevant period, relating to borrowings payable.
+
+Borrowings are generally amounts of money on loan from financial institutions or other creditors with the promise or understanding that it will be repaid.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.BorrowingsNetIncurrenceSettlementTransactions.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=duration

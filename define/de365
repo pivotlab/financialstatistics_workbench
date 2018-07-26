@@ -1,0 +1,17 @@
+# Payroll Tax Expense Amount
+
+## identifier
+de365
+
+## type
+float
+
+## definition
+Payroll tax is a tax levied on the amount of the business payroll at a rate determined in proportion to the number of employees the business has.
+
+## syntax
+### xbrl
+- balance=debit
+- name=PayrollTax.Expense.Amount
+- classification=rvc/rvctc/rvctc5.02.00
+- period=duration

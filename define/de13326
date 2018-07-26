@@ -1,0 +1,17 @@
+# Superannuation Contribution Processing Cost Amount
+
+## identifier
+de13326
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the cost of processing contribution transactions.
+
+## syntax
+### xbrl
+- balance=debit
+- name=SuperannuationContribution.ProcessingCost.Amount
+- classification=em/emsup/emsup.02.15
+- period=duration

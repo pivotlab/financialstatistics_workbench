@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Adjustment Investments Related Parties Amount
+
+## identifier
+de12834
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of deductions for investments in related parties that are subject to regulatory capital requirements in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.AdjustmentInvestmentsRelatedParties.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

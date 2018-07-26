@@ -1,0 +1,17 @@
+# Liabilities Provisions FX Adjustments Amount
+
+## identifier
+de7698
+
+## type
+float
+
+## definition
+This is the net value of all increases/decreases during the relevant period in provisions for impairment of loans and advances that resulted from movements in foreign currency exchange rates.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Provisions.FXAdjustments.Amount
+- classification=baf/bafpo/bafpo6.02.06
+- period=duration

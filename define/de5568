@@ -1,0 +1,22 @@
+# Service Provider External Administrator Indicator
+
+## identifier
+de5568
+
+## type
+boolean
+
+## definition
+Has the reporting party engaged an external administrator for the fund?
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The reporting party has engaged an external administrator for the fund.
+FALSE = The reporting party has not engaged an external administrator for the fund.
+
+## syntax
+### xbrl
+- name=ServiceProvider.ExternalAdministrator.Indicator
+- classification=py/pylk/pylk.02.01
+- period=instant

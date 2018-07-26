@@ -1,0 +1,17 @@
+# Financial Risk Surplus Reserve Distributed Amount
+
+## identifier
+de13174
+
+## type
+float
+
+## definition
+This is the value of surplus reserve distributed during the relevant period. This represents an amount of financial resources that exceed the target amount which therefore are available to distribute.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.SurplusReserveDistributed.Amount
+- classification=baf/bafot/bafot.02.15
+- period=duration

@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities First Home Saver Account Amount
+
+## identifier
+de8867
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the First Home Saver Accounts (FHSA) held by the reporting party.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.FirstHomeSaverAccount.Amount
+- classification=baf/bafpo/bafpo6.02.06
+- period=instant

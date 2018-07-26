@@ -1,0 +1,17 @@
+# Assets Net Stable Funding Ratio Other Amount
+
+## identifier
+de14900
+
+## type
+float
+
+## definition
+The value of all assets not reported elsewhere in net stable funding ratio (NSFR), under Prudential Standard APS 210 - Liquidity, Attachment C.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.NetStableFundingRatioOther.Amount
+- classification=baf/bafpo/bafpo1.02.32
+- period=instant

@@ -1,0 +1,16 @@
+# Superannuation Fund Details Defined Benefit Registered Member Account Count
+
+## identifier
+de13788
+
+## type
+int
+
+## definition
+This is the number of distinct entries recorded in the register of member accounts (or other equivalent mechanism) of the defined benefit Registrable Superannuation Entity or sub-fund.
+
+## syntax
+### xbrl
+- name=SuperannuationFundDetails.DefinedBenefitRegisteredMemberAccount.Count
+- classification=em/emsup/emsup.02.16
+- period=duration

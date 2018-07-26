@@ -1,0 +1,19 @@
+# Assets Cash And Liquid Assets Cash At Bank And In Hand Amount
+
+## identifier
+de8983
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of cash at bank and in hand. For the purposes of this item, include notes and coins; overnight money (deposits at call); cash management trusts; and commercial paper.
+
+Commercial paper is an unsecured promissory note with a fixed maturity of 1 to 270 days. Commercial Paper is a money-market security issued (sold) by large banks and corporations to get money to meet short term debt obligations (for example, payroll), and is only backed by an issuing bank or corporation's promise to pay the face amount on the maturity date specified on the note.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.CashAtBankAndInHand.Amount
+- classification=baf/bafpo/bafpo7.02.07
+- period=instant

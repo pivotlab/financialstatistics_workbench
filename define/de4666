@@ -1,0 +1,18 @@
+# Expense Interest Not Subordinated Debt Amount
+
+## identifier
+de4666
+
+## type
+float
+
+## definition
+Report the value of interest expense as determined in accordance with accounting standards that does not relate to subordinated debt.     
+Subordinated debt is a debt where the claim to repayment ranks lower in priority to other claims.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Interest.NotSubordinatedDebt.Amount
+- classification=baf/bafpr/bafpr2.02.05
+- period=duration

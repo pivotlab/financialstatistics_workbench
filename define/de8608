@@ -1,0 +1,17 @@
+# Expense Interest Borrowings Amount
+
+## identifier
+de8608
+
+## type
+float
+
+## definition
+This is the value of interest expense from borrowings as determined in accordance with relevant Accounting Standards. For the purposes of this item exclude interest expense associated with derivative contracts or funds classified as loan capital.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Interest.Borrowings.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

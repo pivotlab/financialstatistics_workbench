@@ -1,0 +1,19 @@
+# Financial Risk Credit Credit Card Past Due Amount
+
+## identifier
+de7854
+
+## type
+float
+
+## definition
+This is the past due amount of credit card balances receivable by the reporting party as at the relevant date, i.e. the amount that has remained continuously outside contractual or approved arrangements.
+
+A credit card is a card whose holder has been granted a revolving credit line up to a pre-arranged limit.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Credit.CreditCardPastDue.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

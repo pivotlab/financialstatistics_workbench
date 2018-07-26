@@ -1,0 +1,16 @@
+# Regulatory Disclosures Level Investment Risk Number
+
+## identifier
+de13214
+
+## type
+float
+
+## definition
+This is the level of investment risk, as at the relevant date, represented by the estimated number of years in a 20 year period that negative net investment returns are expected to be incurred.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.LevelInvestmentRisk.Number
+- classification=baf/bafot/bafot.02.16
+- period=instant

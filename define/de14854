@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities Adjustment Amounts Daily Average Amount
+
+## identifier
+de14854
+
+## type
+float
+
+## definition
+The daily average value of adjustment amounts as determined by the relevant legislation.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.AdjustmentAmountsDailyAverage.Amount
+- classification=baf/bafpo/bafpo6.02.17
+- period=duration

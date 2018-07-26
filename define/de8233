@@ -1,0 +1,23 @@
+# Financial Risk Market VaR Interest Rate Positions Delta Amount
+
+## identifier
+de8233
+
+## type
+float
+
+## definition
+This is the value at risk (VaR), calculated as at the relevant date, in relation to positions which are sensitive to interest rate movements, assuming all other factors (e.g. interest rate volatility) remain equal, as determined in accordance with relevant prudential standards.
+
+Delta, in this context, represents the impact of underlying interest rate movements on the overall portfolio value.
+
+VaR, or Value at Risk, is a technique used to estimate the likelihood of losses in a portfolio based on analysis of historical price movements and volatilities over a specified observation period.
+
+For the purposes of this item the amount reported is the 99% ten-day VaR number calculated as at the relevant date. Therefore, the number reported will represent a simulated mark-to-market loss for which there is a 1% probability of occurrence over the next ten days, assuming there is no trading of the portfolio.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.VaRInterestRatePositionsDelta.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

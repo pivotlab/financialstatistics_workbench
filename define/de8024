@@ -1,0 +1,17 @@
+# Income Insurance Life Business Amount
+
+## identifier
+de8024
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of income received in relation to life insurance business. This income includes fee and commission income derived from selling Life Insurance products, as determined in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.LifeBusiness.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

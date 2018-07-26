@@ -1,0 +1,37 @@
+# Financial Risk Capital Adequacy Required Capital Amount
+
+## identifier
+de5760
+
+## type
+float
+
+## definition
+Report the amount of required capital determined in accordance with the capital adequacy standard, being the difference between the net capital adequacy requirement and the adjusted liabilities.
+
+The net capital adequacy requirement is the Total Capital Adequacy Requirement less Gross Policy Liabilities ceded under reinsurance.
+
+Total capital adequacy Requirement is the amount required under the capital adequacy standard to ensure, as far as practicable, that, at any time, the financial position of each business unit of a reporting party is such that the reporting party will be able, out of the assets of the unit, to meet all policy and other liabilities referable to the unit at that time as they become due.
+
+Gross Policy Liabilities ceded under reinsurance are determined in accordance with the accounting standards.
+
+The adjusted liabilities are the total of the Minimum Termination Value (net of reinsurance and excluding the Investment Linked [IL] risk margin) and "Other Liabilities" (see below).
+
+The minimum termination value (MTV) is determined by the prudential standards as the amount that a life insurer is obliged to pay to policyholders if they decided to voluntarily terminate their policies at the relevant date. The obligation might be contractual, statutory or a result of past practice. Calculated as the greater of: 
+a) the lowest Termination Value that the reporting party is obliged to pay; and 
+b) the amount calculated in accordance with the Surrender Value Standard.
+
+The investment linked (IL) risk margin reflects the additional risks that may be borne by the reporting party in conducting investment-linked business.
+
+Other Liabilities are the total liabilities as determined in accordance with the relevant accounting standards other than Policy Liabilities, Approved Eligible Subordinated Debt and Seed Capital.
+
+Eligible approved subordinated debt, is determined in accordance with the approval letter received from the relevant regulatory authority. 
+
+Seed capital is the preliminary contribution of funding toward the financing of a new business. Commonly this is in the form of a loan, usually provided by a related entity.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.RequiredCapital.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

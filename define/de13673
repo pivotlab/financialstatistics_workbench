@@ -1,0 +1,17 @@
+# Equity Movements Retained Profits Transfers Into General Fund Amount
+
+## identifier
+de13673
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for transfers of retained profits from a type of business of the entity to the general fund.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Movements.RetainedProfitsTransfersIntoGeneralFund.Amount
+- classification=baf/bafpo/bafpo4.02.08
+- period=duration

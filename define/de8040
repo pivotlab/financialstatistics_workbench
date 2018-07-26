@@ -1,0 +1,27 @@
+# Financial Risk Market Commodities Long Positions Amount
+
+## identifier
+de8040
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, in relation to long positions giving rise to commodities risk (excluding gold risk), as determined in accordance with relevant prudential standards.
+ 
+This item includes long positions (both on-balance sheet and off-balance sheet) in:
+     - commodity forwards;
+     - commodity futures; 
+     - commodity swaps; and
+     - other applicable commodity instruments (e.g. commodity options, where the entity uses a particular capital treatment approach).
+
+Long positions represent assets, or instruments, that have been purchased with the expectation that the asset will rise in value.
+
+For the purposes of this item and subject to prior approval from APRA, positions in foreign currency denominated commodities may be segmented into a commodities exposure and a foreign currency exposure. Only report the commodities exposure at this item.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.CommoditiesLongPositions.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

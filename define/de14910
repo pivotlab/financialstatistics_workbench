@@ -1,0 +1,20 @@
+# Assets Loans And Receivables Credit Limit Increase Amount
+
+## identifier
+de14910
+
+## type
+float
+
+## definition
+The value of any increase in credit limit during the relevant period where the credit limit is the maximum amount of funds available to the business entity without additional authorisation or approval.
+
+## guidance
+This amount should include outstanding balances (including capitalised interest or fees) and any other funds that can be drawn without additional approval by the lender.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.CreditLimitIncrease.Amount
+- classification=baf/bafpo/bafpo5.02.15
+- period=duration

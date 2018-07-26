@@ -1,0 +1,21 @@
+# Superannuation Regulatory Information Member Account Held In Registrable Superannuation Entity Indicator
+
+## identifier
+de13740
+
+## type
+boolean
+
+## definition
+This indicates whether the individual currently holds a member account in a Registrable Superannuation Entity (RSE) within the RSE licensee's business operations.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = the individual currently holds a member account in a Registrable Superannuation Entity (RSE) within the RSE licensee's business.
+false = the individual does not currently hold a member account in a Registrable Superannuation Entity (RSE) within the RSE licensee's business.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.MemberAccountHeldInRegistrableSuperannuationEntity.Indicator
+- classification=em/emsup/emsup.02.16
+- period=duration

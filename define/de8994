@@ -1,0 +1,21 @@
+# Regulatory Disclosures Compliance Accounting Standards AASB 1023 General Insurance Contracts Indicator
+
+## identifier
+de8994
+
+## type
+boolean
+
+## definition
+This is the indicator for the duration of the relevant period, that the financial statements comply with Accounting Standard AASB 1023 General Insurance contracts.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = The financial statements comply with Accounting Standard AASB 1023 General Insurance contracts
+FALSE = The financial statements do not comply with Accounting Standard AASB 1023 General Insurance contracts
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.ComplianceAccountingStandardsAASB1023GeneralInsuranceContracts.Indicator
+- classification=baf/bafot/bafot.02.07
+- period=duration

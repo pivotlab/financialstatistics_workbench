@@ -1,0 +1,16 @@
+# Miscellaneous Business Activity Percent
+
+## identifier
+de13104
+
+## type
+float
+
+## definition
+This is the portion, in percentage terms, as at the relevant date of business activity undertaken by the reporting entity.
+
+## syntax
+### xbrl
+- name=Miscellaneous.BusinessActivity.Percent
+- classification=baf/bafot/bafot.02.15
+- period=instant

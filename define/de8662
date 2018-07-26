@@ -1,0 +1,29 @@
+# Regulatory Disclosures Assessed Fit And Proper Code
+
+## identifier
+de8662
+
+## type
+string
+
+## definition
+This item indicates whether the person has been assessed under the entity's Fit and Proper Policy.
+
+## guidance
+The valid enumerated values are: 
+Yes = the person has been assessed under the entity's Fit and Proper Policy. 
+No = the person has not been assessed under the entity's Fit and Proper Policy. 
+Interim = the appointment has been made with a pending fit and proper assessment.
+
+## codes
+| Name    |
+| ------- |
+| Interim |
+| No      |
+| Yes     |
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.AssessedFitAndProper.Code
+- classification=baf/bafot/bafot.02.06
+- period=duration

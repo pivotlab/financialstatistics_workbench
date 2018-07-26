@@ -1,0 +1,17 @@
+# Assets Other Non Financial Assets Plant And Equipment Excluding Property Net Total Amount
+
+## identifier
+de2793
+
+## type
+float
+
+## definition
+This is the value, for the relevant period, of plant and equipment net of accumulated depreciation and impairment, as determined in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherNonFinancialAssets.PlantAndEquipmentExcludingPropertyNetTotal.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=instant

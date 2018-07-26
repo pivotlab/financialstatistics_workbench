@@ -1,0 +1,17 @@
+# Financial Risk Risk Charge Prescribed Capital Adjustment Amount
+
+## identifier
+de12895
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date of the combined stress scenario adjustment to the prescribed capital amount in respect of the tax benefits and the management actions that can be recognised in determining the insurance risk charge and the asset risk charge.  This item also recognises the second order interactions between the asset and insurance risk stresses and is to be determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.RiskChargePrescribedCapitalAdjustment.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

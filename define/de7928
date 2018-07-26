@@ -1,0 +1,23 @@
+# Financial Risk Credit Trade Related Contingencies Amount
+
+## identifier
+de7928
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of any potential credit exposures arising from trade-related contingencies.
+     
+A trade-related contingency is a contingent (off-balance sheet) liability arising from a trade-related obligation that is secured against an underlying shipment of goods for both issuing and confirming parties. This includes but is not limited to:
+     - documentary letters of credit issued;
+     - acceptances on trade bills;
+     - shipping guarantees issued; and
+     - any other trade-related contingencies.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Credit.TradeRelatedContingencies.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

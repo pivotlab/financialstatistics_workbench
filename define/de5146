@@ -1,0 +1,17 @@
+# Financial Risk Solvency Inadmissible Assets Related Parties Total Value Amount
+
+## identifier
+de5146
+
+## type
+float
+
+## definition
+Report the total value disclosed in the regulatory financial statements of the reporting party's holdings in Associated and Subsidiary Financial Services Entities.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.InadmissibleAssetsRelatedPartiesTotalValue.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

@@ -1,0 +1,17 @@
+# Profit Or Loss Cumulative Gains And Losses Amount
+
+## identifier
+de13193
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of the cumulative change including gains and losses in value since the exposure/holding was established.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.CumulativeGainsAndLosses.Amount
+- classification=baf/bafpr/bafpr2.02.15
+- period=duration

@@ -1,0 +1,17 @@
+# Equity Reserves Asset Revaluation Controlled Entities Amount
+
+## identifier
+de8784
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of asset revaluation reserves relating to investments in controlled entities other than non-consolidated subsidiaries, as determined in accordance with accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Reserves.AssetRevaluationControlledEntities.Amount
+- classification=baf/bafpo/bafpo2.02.06
+- period=instant

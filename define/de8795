@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Total Plus Income Tax Current Amount
+
+## identifier
+de8795
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of amounts receivable by the reporting party plus the value of current income tax assets, determined in accordance with accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.TotalPlusIncomeTaxCurrent.Amount
+- classification=baf/bafpo/bafpo5.02.05
+- period=instant

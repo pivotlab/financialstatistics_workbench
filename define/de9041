@@ -1,0 +1,21 @@
+# Regulatory Disclosures Member Of External Dispute Resolution Body Indicator
+
+## identifier
+de9041
+
+## type
+boolean
+
+## definition
+Indicates that the reporting party is a member of an external resolution body.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = reporting party is a member of an external resolution body
+FALSE = reporting party is not a member of an external resolution body
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.MemberOfExternalDisputeResolutionBody.Indicator
+- classification=baf/bafot/bafot.02.07
+- period=instant

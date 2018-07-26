@@ -1,0 +1,17 @@
+# Income Investment Fees And Commissions Underwriting Amount
+
+## identifier
+de2000
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for any fee income or commission associated with the entity providing or guaranteeing to underwrite the issue of securities (e.g. equity securities).
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Investment.FeesAndCommissionsUnderwriting.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

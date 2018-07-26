@@ -1,0 +1,17 @@
+# Assets Insurance Loans Premium Funding Gross Amount
+
+## identifier
+de8626
+
+## type
+float
+
+## definition
+This is, as at the relevant date, the principal amount of loans provided to an insured for the purposes of funding their premium, gross of associated provisions for impairment and deferred fee income, and including any accrued interest.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.LoansPremiumFundingGross.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

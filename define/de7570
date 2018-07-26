@@ -1,0 +1,17 @@
+# Expense Operating Selected Expenses ARF332 Amount
+
+## identifier
+de7570
+
+## type
+float
+
+## definition
+This is the total value of all the selected expenses in Part A of forms ARF_332_0 and RRF_332_0.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.SelectedExpensesARF332.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

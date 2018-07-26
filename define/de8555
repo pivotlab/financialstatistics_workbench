@@ -1,0 +1,19 @@
+# Expense Insurance Claims Payments Net Reinsurance And Non Reinsurance Recoveries Amount
+
+## identifier
+de8555
+
+## type
+float
+
+## definition
+This is the value of insurance claims payments, as at the relevant date. This item is to be reported net of any associated reinsurance and non-reinsurance recoveries.
+
+This includes reinsurance and non-reinsurance recoveries that have been received or are expected to be received only in relation to claims already paid.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.ClaimsPaymentsNetReinsuranceAndNonReinsuranceRecoveries.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=instant

@@ -1,0 +1,19 @@
+# Income Prospective Commission Amount
+
+## identifier
+de2311
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for recognised upfront fees and commission revenue related to the insurance business. This does not include 'premium rebates' received from reinsurers.
+
+For regulatory reporting purposes it is fully recognised from the date of acceptance of the risk. Do not defer and amortise in accordance with Accounting Standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Prospective.Commission.Amount
+- classification=baf/bafpr/bafpr3.02.00
+- period=duration

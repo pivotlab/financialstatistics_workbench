@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Variable Annuities Including Hedging Amount
+
+## identifier
+de12857
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the estimate of capital requirement, for variable annuities business, covering the associated insurance and asset risks under the combined scenario. This includes the effects of hedging/risk mitigation arrangements, as determined in accordance with relevant prudential standards. Variable annuity means a policy with benefits calculated by reference to the value of the units allocated to the policy, but the benefits may exceed the value of those units in specified circumstances.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.VariableAnnuitiesIncludingHedging.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

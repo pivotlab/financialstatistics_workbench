@@ -1,0 +1,19 @@
+# Assets Non Current Total Other DRF300 Amount
+
+## identifier
+de9017
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of total other assets classified as non-current in accordance with relevant accounting standards, as required in DRF_300_0.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.NonCurrentTotalOtherDRF300.Amount
+- classification=baf/bafpo/bafpo1.02.07
+- period=instant

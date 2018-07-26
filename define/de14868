@@ -1,0 +1,17 @@
+# Liabilities Liquidity Derivative Instruments Gross Amount
+
+## identifier
+de14868
+
+## type
+float
+
+## definition
+The value of liabilities, gross of variation margin posted, resulting from contracts that meet the criteria of being accounted for as derivative instruments in accordance with Prudential Standard APS 210 - Liquidity, Attachment C.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.LiquidityDerivativeInstrumentsGross.Amount
+- classification=baf/bafpo/bafpo1.02.32
+- period=instant

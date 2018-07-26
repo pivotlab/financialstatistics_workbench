@@ -1,0 +1,16 @@
+# Lodgment Nil Form Indicator
+
+## identifier
+de4881
+
+## type
+boolean
+
+## definition
+This will only be present in the Report Header tuple if the D2A form version can be nillable. The value of this item may be true or false.
+
+## syntax
+### xbrl
+- name=Lodgment.NilForm.Indicator
+- classification=py/pyin/pyin.02.09
+- period=duration

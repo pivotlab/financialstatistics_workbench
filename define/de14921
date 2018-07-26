@@ -1,0 +1,17 @@
+# Liabilities Net Stable Funding Ratio Non Retail And SME Intermediated Deposits Amount
+
+## identifier
+de14921
+
+## type
+float
+
+## definition
+The value of intermediated deposits when you look through to the original transaction for net stable funding ratio calculation purposes for any customers  other than retail and small and medium enterprise (SME) and SME deemed to be retail customers; and those depositors that get a 100 per cent run-off rate in the liquidity coverage ratio (LCR). This must be reported in accordance with Prudential Standard APS 210 - Liquidity, Attachment C.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.NetStableFundingRatioNonRetailAndSMEIntermediatedDeposits.Amount
+- classification=baf/bafpo/bafpo1.02.32
+- period=instant

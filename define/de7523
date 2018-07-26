@@ -1,0 +1,17 @@
+# Income Fees Commissions Syndication Amount
+
+## identifier
+de7523
+
+## type
+float
+
+## definition
+Record any fee income or commission associated with the syndication activities of the reporting party.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.FeesCommissionsSyndication.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

@@ -1,0 +1,18 @@
+# Organisation Control Members New Count
+
+## identifier
+de5118
+
+## type
+int
+
+## definition
+Report the number of new members that have joined as members of the reporting entity during the relevant period. Only include new members that cannot be appropriately classified in the list in which this element belongs.
+
+This is the balancing amount in the given list of items.
+
+## syntax
+### xbrl
+- name=OrganisationControl.MembersNew.Count
+- classification=py/pyde/pyde.02.06
+- period=duration

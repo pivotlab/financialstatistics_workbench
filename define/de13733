@@ -1,0 +1,16 @@
+# Organisation Control Board Meetings Attended Count
+
+## identifier
+de13733
+
+## type
+int
+
+## definition
+This is the number of board meetings attended during the relevant period.
+
+## syntax
+### xbrl
+- name=OrganisationControl.BoardMeetingsAttended.Count
+- classification=py/pyde/pyde.02.18
+- period=duration

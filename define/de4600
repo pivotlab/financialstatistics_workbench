@@ -1,0 +1,17 @@
+# Liabilities Insurance Policy Reinsured Excluding Current Bonus Amount
+
+## identifier
+de4600
+
+## type
+float
+
+## definition
+Report the total gross policy liability ceded under reinsurance as per prudential standards, excluding current year bonuses. Note that this differs to the accounting standards treatment.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Liabilities.Insurance.PolicyReinsuredExcludingCurrentBonus.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

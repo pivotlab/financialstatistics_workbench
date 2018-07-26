@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Securitisation Related Adjustments Other Amount
+
+## identifier
+de12854
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used. This is the value, as at the relevant date, of adjustments to all other applicable securitisation related amounts. This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards. A securitisation represents a structure where the cash flow from a pool is used to service obligations to at least two different tranches or classes of creditors (typically holders of debt securities), with each class or tranche reflecting a different degree of credit risk (i.e. one class of creditors is entitled to receive payments from the pool before another class of creditors).
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.SecuritisationRelatedAdjustmentsOther.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

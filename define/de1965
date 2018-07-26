@@ -1,0 +1,17 @@
+# Insurance Rebate Premium Members Death Disabilty Amount
+
+## identifier
+de1965
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for any rebates received/receivable from insurers in relation to members' total death and/or disability insurance premiums paid or payable.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Insurance.RebatePremiumMembersDeathDisabilty.Amount
+- classification=baf/bafpr/bafpr3.02.00
+- period=duration

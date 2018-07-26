@@ -1,0 +1,17 @@
+# Income Fees Commissions Corporate Advisory Amount
+
+## identifier
+de7524
+
+## type
+float
+
+## definition
+Record any fee income or commission associated with the corporate advisory activities of the reporting party.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.FeesCommissionsCorporateAdvisory.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

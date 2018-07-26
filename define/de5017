@@ -1,0 +1,25 @@
+# Financial Risk Management Capital Reserve Ratio Percent
+
+## identifier
+de5017
+
+## type
+float
+
+## definition
+Report the Management Capital Reserve Ratio calculated as:
+MCR   divided by   TLGF
+where:
+TLGF = The Total Liabilities of the General Fund determined as the value of liabilities including allowance for acquisition costs arising in respect of policies. This method of disclosure differs from the Australian Accounting Standards..
+
+MCR = the Management Capital Reserve determined in accordance with the management capital prudential standard, as the total Management Capital Requirement less the Total Liabilities of the General Fund (TLGF).
+
+The total Management Capital Requirement is the value of the minimum capital requirement determined in accordance with the management capital prudential standard and held outside the statutory funds to ensure that under a range of adverse operating circumstances the company would be expected to be in a position to meet its trading commitments and adequately service its policy owners.
+
+General Fund refers to the management fund for a friendly society or the shareholders' fund for other life companies, and is distinct and separate from the statutory funds of the life company.
+
+## syntax
+### xbrl
+- name=FinancialRisk.ManagementCapital.ReserveRatio.Percent
+- classification=baf/bafot/bafot.02.05
+- period=instant

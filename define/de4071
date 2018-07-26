@@ -1,0 +1,26 @@
+# Assets Investment Including Accrued Income Other Net Market Value Amount
+
+## identifier
+de4071
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+Report, the net market value, or fair value, plus the value of accrued income, of any asset that has been classified as an investment asset, other than:
+- Cash;
+- Property;
+- Equities;
+- Interest bearing securities; or
+- Loans
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.InvestmentIncludingAccruedIncomeOtherNetMarketValue.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

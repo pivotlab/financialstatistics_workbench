@@ -1,0 +1,23 @@
+# Liabilities Exposures Off Balance Sheet Administration Fees Incurred Face Value Amount
+
+## identifier
+de4947
+
+## type
+float
+
+## definition
+Record the face value, or principle value, of off balance sheet exposures related to liabilities incurred during the relevant period and classified as administration fees.
+
+Adminitstration Fees are typically amounts payable to an entity for performing required administration activities.
+
+The face value or principle value of a liability represents the amount that an issuer agrees to pay at the maturity date.
+
+Off-balance sheet liability exposures relate to those liabilities or obligations that do not satisfy the recognition requirements of the relevant accounting standards and are therefore not recognised on the face of the balance sheet, or statement of financial position.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Exposures.OffBalanceSheetAdministrationFeesIncurredFaceValue.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=duration

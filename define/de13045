@@ -1,0 +1,17 @@
+# Expense Operating Depreciation Tangible Assets Amount
+
+## identifier
+de13045
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of depreciation charged to profit and loss in respect of tangible assets as determined in accordance with relevant Accounting Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.DepreciationTangibleAssets.Amount
+- classification=baf/bafpr/bafpr2.02.13
+- period=duration

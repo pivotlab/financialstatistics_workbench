@@ -1,0 +1,17 @@
+# Assets Cash And Liquid Assets Securities Purchased Under Agreements To Resell Amount
+
+## identifier
+de170
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for when the transferee of the stock effectively receives a lender's rate of return (i.e. the underlying risks and rewards of ownership of the underlying stock is not effectively transferred), these transactions are to be accounted for as collateralised borrowing activities (treating stock borrowing as on balance sheet exposures). Securities purchased under agreements to resell, represents the receivable due from counterparties from whom the stock has been borrowed and with whom cash has been lodged. Under this method of accounting the bank's physical stock positions recorded on the balance sheet in either Trading Securities or Investment Securities sections is not affected. This is consistent with accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.SecuritiesPurchasedUnderAgreementsToResell.Amount
+- classification=baf/bafpo/bafpo7.02.10
+- period=instant

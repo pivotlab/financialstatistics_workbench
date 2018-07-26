@@ -1,0 +1,21 @@
+# Financial Risk Adequate Capital Indicator
+
+## identifier
+de8338
+
+## type
+boolean
+
+## definition
+Is the entity in which the reporting party has invested adequately capitalised on a stand alone basis as at the relevant date?
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = the entity in which the reporting party has invested is adequately capitalised on a stand alone basis
+FALSE = the entity in which the reporting party has invested is not adequately capitalised on a stand alone basis
+
+## syntax
+### xbrl
+- name=FinancialRisk.AdequateCapital.Indicator
+- classification=baf/bafot/bafot.02.06
+- period=instant

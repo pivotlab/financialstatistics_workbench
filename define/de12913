@@ -1,0 +1,19 @@
+# Liabilities Borrowings Plus Overdrafts Amount
+
+## identifier
+de12913
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, borrowings, including overdrafts. This method of disclosure differs from the Australian Accounting Standards.
+
+Borrowings are amounts of money on loan from financial institutions or other creditors with the promise or understanding that it will be repaid.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.BorrowingsPlusOverdrafts.Amount
+- classification=baf/bafpo/bafpo1.02.12
+- period=instant

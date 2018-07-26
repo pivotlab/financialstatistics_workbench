@@ -1,0 +1,17 @@
+# Auditor Disclosures Remuneration Total Amount
+
+## identifier
+de2013
+
+## type
+float
+
+## definition
+Report the value of all fees and expenses recognised during the reporting period, as determined in accordance with relevant accounting standards, for the rendering of professional services to the reporting party by an external audit firm. This includes all fees and expenses paid to the firm which is conducting the external audit of the reporting party, for the provision of both audit and non-audit services.
+
+## syntax
+### xbrl
+- balance=credit
+- name=AuditorDisclosures.RemunerationTotal.Amount
+- classification=em/emfsm/emfsm.02.00
+- period=duration

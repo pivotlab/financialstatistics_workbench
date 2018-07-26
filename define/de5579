@@ -1,0 +1,19 @@
+# Superannuation Contribution Default Investment Strategy Amount
+
+## identifier
+de5579
+
+## type
+float
+
+## definition
+If the reporting entity provides members with a choice of investment strategy, report the value of member funds that have been placed into the default investment strategy as a result of the default mechanism when the member has not advised their preferred choice of investment strategy to the entity.
+
+This excludes member funds where the member has actively chosen the default investment strategy.
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationContribution.DefaultInvestmentStrategy.Amount
+- classification=em/emsup/emsup.02.02
+- period=instant

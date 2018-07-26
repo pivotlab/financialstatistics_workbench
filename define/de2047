@@ -1,0 +1,17 @@
+# Assets Investment Real Estate Property Complete Amount
+
+## identifier
+de2047
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the  reporting party's holdings of real property that has been completed, i.e. where the value of the holding is contingent on the development being approved or completed.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.RealEstatePropertyComplete.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

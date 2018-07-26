@@ -1,0 +1,19 @@
+# Financial Risk Retention Amount
+
+## identifier
+de9062
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the risk retained by the reporting party.
+
+Risk retention involves accepting the loss, or benefit of gain, from a risk when it occurs. All risks that are not avoided or transferred are retained by default. This includes risks that are so large or catastrophic that they either cannot be insured against or the premiums would be infeasible.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Retention.Amount
+- classification=baf/bafot/bafot.02.07
+- period=instant

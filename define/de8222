@@ -1,0 +1,23 @@
+# Assets Loans And Advances Not Funded Net Amount
+
+## identifier
+de8222
+
+## type
+float
+
+## definition
+This is the value (net of provision for impairment) of loans and advances receivable by the reporting party, as at the relevant date, other than Funded Loans.
+         
+Funded Loans are all loans and advances for which the interest rate is set by reference to money market rates, such as cash and bank bill rates. 
+
+The interest rate charged to the borrower (i.e. the indicator or reference rate plus a margin for credit risk) should be reported.
+
+Loans and advances are those financial assets categorised as "Loans and Receivables" in the accounting standards, other than "Trade Receivables" and "Cash".
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndAdvancesNotFundedNet.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

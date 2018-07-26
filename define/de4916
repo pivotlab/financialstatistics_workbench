@@ -1,0 +1,24 @@
+# Legislation Compliance SIS Regulation 13_17A Indicator
+
+## identifier
+de4916
+
+## type
+boolean
+
+## definition
+The requirement to attest compliance within this item is not intended to exceed the requirements to report only significant breaches to APRA as required by section 29JA of the SIS Act. In the event a breach in relation to this item which was not significant as defined in section 29JA of the SIS Act, then the reporting party is not required to attest non-compliance.
+
+This item requires the reporting party to attest whether  it has complied with SIS Act Regulation 13.17A
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The reporting party has complied with SIS Act Regulation 13.17A
+FALSE = The reporting party has not complied with SIS Act Regulation 13.17A
+
+## syntax
+### xbrl
+- name=LegislationCompliance.SISRegulation13_17A.Indicator
+- classification=py/pyin/pyin.02.09
+- period=duration

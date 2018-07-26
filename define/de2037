@@ -1,0 +1,23 @@
+# Assets Other Financial Assets Member Contributions Receivable Amount
+
+## identifier
+de2037
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for  contributions from members which are receivable i.e. due but not received. Includes, but is not limited to:
+- member post-tax contributions;
+- contributions from self-employed members; 
+- member contributions required under an industrial agreement or the entity's governing rules; and
+- ETP or 'golden handshake' amounts from the employer where they represent pre-tax contributions;
+- Capital gains tax (CGT) exempt contributions.
+Assets are to be measured at net market value.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.MemberContributionsReceivable.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

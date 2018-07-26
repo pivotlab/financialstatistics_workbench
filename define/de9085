@@ -1,0 +1,21 @@
+# Regulatory Disclosures Place Insurance Via Broker Indicator
+
+## identifier
+de9085
+
+## type
+boolean
+
+## definition
+Indicate if the reporting party used an insurance broker at any time during the relevant period to place insurance.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = reporting party used an insurance broker to place insurance
+FALSE = reporting party did not use an insurance broker to place insurance
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.PlaceInsuranceViaBroker.Indicator
+- classification=baf/bafot/bafot.02.07
+- period=duration

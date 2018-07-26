@@ -1,0 +1,17 @@
+# Auditor Disclosures Remuneration On Internal Audit Services Amount
+
+## identifier
+de2562
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for fees for all internal audit services.
+
+## syntax
+### xbrl
+- balance=debit
+- name=AuditorDisclosures.RemunerationOnInternalAuditServices.Amount
+- classification=em/emfsm/emfsm.02.00
+- period=duration

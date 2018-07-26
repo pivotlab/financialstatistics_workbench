@@ -1,0 +1,17 @@
+# Liabilities Insurance Reinsurance Deposit Component Fair Value Amount
+
+## identifier
+de4795
+
+## type
+float
+
+## definition
+Report the fair value of the contractual obligation in relation to the deposit (investment) component of insurance policies that have been ceded under reinsurance as at the relevant date.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Liabilities.Insurance.ReinsuranceDepositComponentFairValue.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=instant

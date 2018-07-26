@@ -1,0 +1,17 @@
+# Financial Risk APRA Approved Adjustments To LMICRC Amount
+
+## identifier
+de12831
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of adjustments to the loan mortgage insurance concentration risk charge (LMICRC) as approved by APRA and in accordance to the relevant prudential standards
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.APRAApprovedAdjustmentsToLMICRC.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

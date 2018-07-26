@@ -1,0 +1,17 @@
+# Profit Or Loss Insurance Experience Total Amount
+
+## identifier
+de4254
+
+## type
+float
+
+## definition
+The total Experience Profit or Loss is the profit or loss arising in the period from differences between the actual experience during the period and the expected experience on the basis of the Best Estimate Assumptions at the beginning of the period.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Insurance.ExperienceTotal.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

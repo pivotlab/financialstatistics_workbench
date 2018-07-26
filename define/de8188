@@ -1,0 +1,19 @@
+# Assets Exposures Credit Enhancements Provided Approved Limit Amount
+
+## identifier
+de8188
+
+## type
+float
+
+## definition
+This is the total committed amount, or limit, of credit enhancements first provided by the reporting party during the relevant period.
+     
+Credit enhancements represent arrangements in which the provider holds a securitisation exposure that is able to absorb losses in the pool and thereby provides credit protection to investors or other parties to the securitisation. A first loss credit enhancement is available to absorb losses in the first instance. A second loss credit enhancement is available to absorb losses after significant first loss credit enhancements have been exhausted.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.ExposuresCreditEnhancementsProvidedApprovedLimit.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=duration

@@ -1,0 +1,17 @@
+# Liabilities And Equity Items Net Stable Funding Ratio Balance Sheet Other Amount
+
+## identifier
+de14873
+
+## type
+float
+
+## definition
+The value for all other liabilities and equity items not reported elsewhere on the net stable funding ratio (NSFR) balance sheet.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.AndEquityItemsNetStableFundingRatioBalanceSheetOther.Amount
+- classification=baf/bafpo/bafpo1.02.32
+- period=instant

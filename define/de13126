@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Shortfall Limit Percent
+
+## identifier
+de13126
+
+## type
+float
+
+## definition
+This is the portion, as at the relevant date, of net assets available for member benefits (net of operational risk financial requirements reserves) to vested benefits determined by the Board of the Registrable Superannuation Entity (RSE) licensee to be the shortfall limit within the meaning given in the relevant Prudential Standard.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.ShortfallLimit.Percent
+- classification=em/emsup/emsup.02.10
+- period=instant

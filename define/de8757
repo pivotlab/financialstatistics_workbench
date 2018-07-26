@@ -1,0 +1,20 @@
+# Assets Exposures Guarantees Amount
+
+## identifier
+de8757
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of contingent liabilities arising from an irrevocable obligation to pay to a third party beneficiary when a client fails to perform some contractual obligations.
+
+## guidance
+This includes secured, bid and performance bonds, warranties and indemnities, confirmed documentary credits, irrevocable and stand-by letters of credits, acceptances and endorsements. Guarantees also include the contingent liabilities of the protection seller of credit derivative contracts. Guarantees should be reported to the extent that they represent the unutilised portions of both binding contractual obligations and any other irrevocable commitments. Performance bonds and other forms of guarantee should only be reported if, in the event of the contingency occurring, the resulting claim would have an impact on total cross-border claims and local claims in any currency.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.OffBalanceSheetGuaranteesCrossBorder.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

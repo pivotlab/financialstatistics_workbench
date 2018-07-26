@@ -1,0 +1,17 @@
+# Assets Exposures Uncompensated Loss Amount
+
+## identifier
+de14097
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the capital adequacy default loss amount as defined in the relevant prudential standards. The capital adequacy default loss amount of a health benefits fund is a prudent estimate of the projected default loss.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.UncompensatedLoss.Amount
+- classification=baf/bafpo/bafpo3.02.15
+- period=instant

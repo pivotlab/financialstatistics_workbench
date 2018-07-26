@@ -1,0 +1,17 @@
+# Financial Risk Operational Requirements Before Expected Loss Offsets Amount
+
+## identifier
+de8179
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of operational risk regulatory capital requirements, after taking into consideration any insurance offsets and diversification benefits but prior to the recognition of any expected loss offset amounts. This item is to be determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Operational.RequirementsBeforeExpectedLossOffsets.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

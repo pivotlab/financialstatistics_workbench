@@ -1,0 +1,17 @@
+# Expense Insurance Total Deposit Component Amount
+
+## identifier
+de4098
+
+## type
+float
+
+## definition
+Report the total value of policy expenses recognised as a withdrawal of the deposit (investment) component or change in policy liability, net of reinsurance.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.TotalDepositComponent.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

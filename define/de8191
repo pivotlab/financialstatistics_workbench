@@ -1,0 +1,25 @@
+# Liabilities Off Balance Sheet Liquidity Support Facilities Available Other Undrawn Amount
+
+## identifier
+de8191
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value, as at the relevant date, of off-balance sheet liquidity support facilities available to the reporting party, other than those facilities classified as any of the following:
+- Standby facilities;
+- Bill acceptance and discount facilities;
+- Letter of credit facilities; and
+- Overdrafts.
+
+For the purposes of this item, report only the balance of the facility that has not been used or drawn down by the reporting party at the relevant date.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OffBalanceSheetLiquiditySupportFacilitiesAvailableOtherUndrawn.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

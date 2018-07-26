@@ -1,0 +1,17 @@
+# Liabilities APRA Determined Other Amount
+
+## identifier
+de14875
+
+## type
+float
+
+## definition
+The value of all other liability and equity items where the Australian Prudential Regulation Authority (APRA) has determined that an alternative available stable funding (ASF) factor applies under Prudential Standard APS 210 - Liquidity.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.APRADeterminedOther.Amount
+- classification=baf/bafpo/bafpo1.02.32
+- period=instant

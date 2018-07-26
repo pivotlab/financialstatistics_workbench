@@ -1,0 +1,17 @@
+# Assets Investment Investment Including Accrued Income Other Amount
+
+## identifier
+de12989
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date which equates to the balancing item in the list in which it is being used. Report the actual value, plus the value of accrued income, of any asset that has been classified as an investment asset, other than: - Cash; - Property; - Equities; - Interest bearing securities; or- Loans.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.InvestmentIncludingAccruedIncomeOther.Amount
+- classification=baf/bafpo/bafpo7.02.12
+- period=instant

@@ -1,0 +1,17 @@
+# Profit Or Loss Prospective Continuing Operations Before Tax Amount
+
+## identifier
+de2316
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the profit or loss of an entity before income tax, for the purposes of prudential reporting using prospective accounting basis.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Prospective.ContinuingOperationsBeforeTax.Amount
+- classification=baf/bafpr/bafpr3.02.00
+- period=duration

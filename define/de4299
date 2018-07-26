@@ -1,0 +1,23 @@
+# Assets Insurance Contractual Regular Contributions Decrease Due To Claims Maturities Amount
+
+## identifier
+de4299
+
+## type
+float
+
+## definition
+Report the total of all decreases to Contractual Regular Contributions due to claims or maturities during the period.
+
+Decreases due to claims refer to the reduction in contractual regular contributions following a claim arising from the occurrence of an insured event. Note that it is only included when an insurance claim causes alteration or cessation of the premium, e.g. premiums paid on disability income policies will sometimes remain unaffected following a claim, depending on the policy terms and conditions.
+
+Decreases due to maturities refer to the cessation of contractual regular contributions due to the maturity of a policy, i.e. following the completion of a policy's term. This would occur when a member retires and is paid his/her superannuation benefit, a policy owner reaches a defined age on an Endowment policy or the termination of a savings plan on or after the contractual period
+
+Contractual Regular Contributions are the total gross premiums for the current relevant period that are accepted through direct debit, have a specific contractual requirement for future on-going premiums, have an expectation of renewal each year (e.g. Yearly Renewable term products) or generally cause a policy to discontinue on cessation of future payment.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.Insurance.ContractualRegularContributionsDecreaseDueToClaimsMaturities.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=duration

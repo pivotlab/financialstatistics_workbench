@@ -1,0 +1,17 @@
+# Financial Risk Solvency Resilience Additional Risks Amount
+
+## identifier
+de5179
+
+## type
+float
+
+## definition
+Report the value of any reserves established by the Actuary in relation to additional risks or costs that are not otherwise reflected in the prescribed requirements of the solvency standard, including any transitional adjustment required.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Solvency.ResilienceAdditionalRisks.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

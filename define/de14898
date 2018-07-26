@@ -1,0 +1,17 @@
+# Financial Risk Capital Deduction Amount
+
+## identifier
+de14898
+
+## type
+float
+
+## definition
+The value of deductions from regulatory capital , as approved by the Australian Prudential Regulation Authority and in accordance with Prudential Standard APS 111 - Capital Adequacy: Measurement of Capital.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalDeduction.Amount
+- classification=baf/bafot/bafot.02.32
+- period=instant

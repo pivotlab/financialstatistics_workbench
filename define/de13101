@@ -1,0 +1,17 @@
+# Assets Insurance Reinsurance Amount
+
+## identifier
+de13101
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of reinsurance assets. This represents assets arising from net contractual rights under a reinsurance contract with respect to insurance benefits offered to beneficiaries. A reinsurance contract is an insurance contract issued by one insurer (the reinsurer) to compensate another insurer (the cedent) for losses on one or more contracts issued by the cedent. This item is determined in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.Reinsurance.Amount
+- classification=baf/bafpo/bafpo3.02.10
+- period=instant

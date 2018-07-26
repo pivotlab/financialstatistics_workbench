@@ -1,0 +1,17 @@
+# Assets Trading Securities Committed Liquidity Facility Eligible Debt Amount
+
+## identifier
+de14880
+
+## type
+float
+
+## definition
+The value of committed liquidity facility (CLF) eligible debt securities, being Reserve Bank of Australia (RBA) repo-eligible securities excluding self-securitisations and securities recognised as high quality liquid assets (HQLA).
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.TradingSecurities.CommittedLiquidityFacilityEligibleDebt.Amount
+- classification=baf/bafpo/bafpo7.02.25
+- period=instant

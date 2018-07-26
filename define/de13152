@@ -1,0 +1,17 @@
+# Superannuation Regulatory Information Repatriation To Employer Sponsor Amount
+
+## identifier
+de13152
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for any repatriations out of the fund that go to an employer.
+
+## syntax
+### xbrl
+- balance=debit
+- name=SuperannuationRegulatoryInformation.RepatriationToEmployerSponsor.Amount
+- classification=em/emsup/emsup.02.10
+- period=duration

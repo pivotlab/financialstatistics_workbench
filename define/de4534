@@ -1,0 +1,27 @@
+# Assets Exposures Excluding Contribution Revenue Net Market Value Amount
+
+## identifier
+de4534
+
+## type
+float
+
+## definition
+Report the net market value, or fair value, of asset exposures, excluding contribution revenue received or receivable.
+
+An asset exposure represents those assets or rights of an entity, recorded both on and off the balance sheet. 
+
+An on-balance sheet exposure relates to those assets or rights recognised on the face of the balance sheet, or statement of financial position. An off-balance sheet exposure relates to those assets or rights that are not recognised on the face of the balance sheet, or statement of financial position, such as contingent assets, performance-related rights and guarantees.
+
+Assets, as defined by the Australian Accounting Standards, are resources:
+(a) controlled by an entity as a result of past events; and
+(b) from which future economic benefits are expected to flow to the entity.
+
+Net market value or fair value is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.ExposuresExcludingContributionRevenueNetMarketValue.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

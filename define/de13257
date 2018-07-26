@@ -1,0 +1,17 @@
+# Financial Risk Prescribed Capital Adjustment Impact Amount
+
+## identifier
+de13257
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the impact on prescribed capital amount arising from the failure of a reinsurance counterparty.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.PrescribedCapitalAdjustmentImpact.Amount
+- classification=baf/bafot/bafot.02.17
+- period=instant

@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Actuarial Projection Consumer Price Index Percent
+
+## identifier
+de5451
+
+## type
+float
+
+## definition
+This is the actuarial projection for consumer price index.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.ActuarialProjectionConsumerPriceIndex.Percent
+- classification=em/emsup/emsup.02.10
+- period=instant

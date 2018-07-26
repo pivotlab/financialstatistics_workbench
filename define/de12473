@@ -1,0 +1,17 @@
+# Financial Risk Credit Exposures Unrated Facilities Approved by APRA Excluding Revolving With Early Amortisation Amount
+
+## identifier
+de12473
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of securitisation (including resecuritisation) exposures where the reporting entity, subject to a written approval from APRA, applies the approach detailed in the relevant prudential standard, to an eligible facility. The unrated facilities can not be subject to ratings-based approach (RBA),internal assessment approach (IAA) or supervisory formula (SF).
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Credit.ExposuresUnratedFacilitiesApprovedbyAPRAExcludingRevolvingWithEarlyAmortisation.Amount
+- classification=baf/bafot/bafot.02.09
+- period=instant

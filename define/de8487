@@ -1,0 +1,19 @@
+# Income Insurance Earned Premium Revenue Gross Excluding Fire Service Or Other Government Levy Amount
+
+## identifier
+de8487
+
+## type
+float
+
+## definition
+This is the value of premium revenue earned during the relevant period.  This item is to be determined in accordance with the relevant accounting standards.
+
+This item excludes any fire service levy or other levies imposed by state and territory governments and is gross of any associated outwards reinsurance expense.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.EarnedPremiumRevenueGrossExcludingFireServiceOrOtherGovernmentLevy.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

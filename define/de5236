@@ -1,0 +1,17 @@
+# Financial Risk Solvency Expense Reserve Amount
+
+## identifier
+de5236
+
+## type
+float
+
+## definition
+Report the value of the expense reserve. This is the component of the determination of the requirement under the solvency standard that reflects capital requirements arising from expense risks in a closed fund scenario.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Solvency.ExpenseReserve.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

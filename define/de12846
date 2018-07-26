@@ -1,0 +1,22 @@
+# Financial Risk Capital Adequacy Holdings Of Own Capital Instruments Amount
+
+## identifier
+de12846
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the reporting entity's holdings of its own capital instruments, unless exempted by APRA. Include:
+
+- any unused trading limit on these instruments where agreed with APRA
+- instruments that the entity is obliged to purchase.
+
+This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.HoldingsOfOwnCapitalInstruments.Amount
+- classification=baf/bafot/bafot.02.13
+- period=instant

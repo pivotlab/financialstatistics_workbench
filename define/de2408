@@ -1,0 +1,19 @@
+# Assets Trade and Receivables Goods And Services Tax Amount
+
+## identifier
+de2408
+
+## type
+float
+
+## definition
+Report the value, as at the reporting date, of Goods and Services Tax (GST) that is receivable on purchases, as determined in accordance with the Goods and Services Tax Act 1999.
+
+GST is a tax on the supply of most goods and services and other taxable supplies (for example, real property and rights) in Australia, including things that are imported. In most cases it does not apply to exports of goods or services, and other things consumed outside Australia. It is similar to 'value-added taxes' applying in other countries. The GST is a multi-stage tax, that is, GST is paid at each stage of the supply chain. Liability for this tax rests on the supplier.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.TradeandReceivablesGoodsAndServicesTax.Amount
+- classification=baf/bafpo/bafpo1.02.00
+- period=instant

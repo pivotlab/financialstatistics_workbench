@@ -1,0 +1,18 @@
+# Income Annual Private Health Insurance Net Margin Percent
+
+## identifier
+de14091
+
+## type
+float
+
+## definition
+This is the percentage, during the relevant period, for the private health insurer's estimate of its health benefits fund's xth percentile net margin percentage for the health insurance business for 12 months after the relevant day calculated:
+ (a) applying the same premium increases as those assumed in calculating the premium income estimate; and
+ (b) excluding any possible changes in the unexpired risk liability or constructive obligation during that period.
+
+## syntax
+### xbrl
+- name=Income.AnnualPrivateHealthInsuranceNetMargin.Percent
+- classification=baf/bafpr/bafpr1.02.26
+- period=duration

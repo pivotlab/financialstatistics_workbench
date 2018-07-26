@@ -1,0 +1,58 @@
+# Financial Risk Credit Counterparty Rating After Collateral Guarantee Code
+
+## identifier
+de13054
+
+## type
+string
+
+## definition
+This is the rating grade, as at the relevant date, of the collateralised or guaranteed counterparty exposure, set according to the long-term and short-term credit rating grades of the counterparty as determined by various rating agencies.
+
+## guidance
+For long-term ratings the valid enumerated values are:
+
+Grade1 = Standard & Poor's AAA; Moody's Aaa; AM Best Debt aaa; AM Best FSR A++; Fitch AAA;
+
+Grade2 = Standard & Poor's AA+, AA, AA-; Moody's Aa1, Aa2, Aa3; AM Best Debt aa+, aa, aa-; AM Best FSR A+; Fitch AA+, AA, AA-;
+
+Grade3 = Standard & Poor's A+, A, A-; Moody's A1, A2, A3; AM Best Debt a+, a, a-; AM Best FSR A, A-; Fitch A+, A, A-;
+
+Grade4 = Standard & Poor's BBB+, BBB, BBB-; Moody's Baa1, Baa2, Baa3; AM Best Debt bbb+, bbb, bbb-; AM Best FSR B++, B+; Fitch BBB+, BBB, BBB-;
+
+Grade5 = Standard & Poor's BB+, BB, BB- ; Moody's Ba1, Ba2, Ba3; AM Best Debt bb+, bb, bb-; AM Best FSR B, B-; Fitch BB+, BB, BB-;
+
+Grade6 = Standard & Poor's B+, B, B- ; Moody's B1, B2, B3; AM Best Debt b+, b, b-; AM Best FSR C++, C+, C, C-; Fitch B+, B, B-;
+
+Grade7 = Standard & Poor's Below B-; Moody's Below B3; AM Best Debt Below b-; AM Best FSR Below C-; Fitch CCC or Below;
+
+For short-term ratings the valid enumerated values are:
+
+Grade1 = Standard & Poor's A+, AM Best AMB-1+; Fitch F1+;
+
+Grade2 = Standard & Poor's A1; Moody's P1; AM Best AMB-1; Fitch F1;
+
+Grade3 = Standard & Poor's A2; Moody's P2; AM Best AMB-2; Fitch F2;
+
+Grade4 = Standard & Poor's A3; Moody's P3; AM Best AMB-3; Fitch F3;
+
+Grade6 = Standard & Poor's B; Moody's NP Vulnerable; AM Best AMB-4; Fitch B;
+
+Grade7 = Standard & Poor's C; Moody's NP Currently Vulnerable; Fitch C;
+
+## codes
+| Name   |
+| ------ |
+| Grade1 |
+| Grade2 |
+| Grade3 |
+| Grade4 |
+| Grade5 |
+| Grade6 |
+| Grade7 |
+
+## syntax
+### xbrl
+- name=FinancialRisk.Credit.CounterpartyRatingAfterCollateralGuarantee.Code
+- classification=baf/bafot/bafot.02.12
+- period=instant

@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities Share Capital Repayable On Demand Amount
+
+## identifier
+de1491
+
+## type
+float
+
+## definition
+Report the value, as at the reporting date, of share capital repayable on demand. This includes members' shares in co-operatives classified as liabilities, as determined in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.ShareCapitalRepayableOnDemand.Amount
+- classification=baf/bafpo/bafpo6.02.00
+- period=instant

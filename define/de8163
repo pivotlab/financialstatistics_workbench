@@ -1,0 +1,21 @@
+# Expense Operating Labour Services Excluding Wages Amount
+
+## identifier
+de8163
+
+## type
+float
+
+## definition
+This is the value of amounts paid or payable to self employed persons such as consultants, contractors and persons paid solely by commission without a retainer, for the provision of labour services during the relevant period.
+
+This item excludes wages and salaries paid to employees, provisions for employee entitlements, severances, terminations and redundancies, salaries and fees of directors and executives, retainers and commissions of persons who received a retainer, bonuses, and recreation and other types of leave.
+
+This amount is to be reported gross of taxation and other deductions, and excludes payroll or fringe benefits tax.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.LabourServicesExcludingWages.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

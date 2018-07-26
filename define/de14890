@@ -1,0 +1,17 @@
+# Assets Other Financial Assets Securities Non HQLA Amount
+
+## identifier
+de14890
+
+## type
+float
+
+## definition
+The value of securities that do not qualify as high quality liquid assets (HQLA) in accordance with Prudential Standard APS 210 - Liquidity, and physical traded commodities, including gold.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.SecuritiesNonHQLA.Amount
+- classification=baf/bafpo/bafpo7.02.25
+- period=instant

@@ -1,0 +1,23 @@
+# Liabilities Insurance Outstanding Claims Provision And Premiums Liabilities Net Surplus Deficit After Tax Effect Adjustment Amount
+
+## identifier
+de8625
+
+## type
+float
+
+## definition
+This is the amount, as at the relevant date, of the outstanding claims provision (OCP) surplus/deficit and premiums liabilities surplus/deficit adjusted for tax effect. This item is calculated as A + B - C where:
+
+A = OCP surplus/deficit, being the outstanding claims provision (OCP), net of any recoveries, determined in accordance with accounting standards in excess/deficit of the equivalent figure determined in accordance with prudential standards.
+
+B = premium liabilities surplus/deficit, being the premium liability proxy calculated from figures determined in accordance with accounting standards in excess/deficit of the equivalent figure determined in accordance with prudential standards. This item includes deferred reinsurance expense for future policies.
+
+C = tax effect of net OCP and premiums liabilities surplus/deficit, being of the tax effect relating to the OCP surplus/deficit and premiums liabilities surplus/deficit (i.e. the corporate tax rate multiplied by the net amount).
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.OutstandingClaimsProvisionAndPremiumsLiabilitiesNetSurplusDeficitAfterTaxEffectAdjustment.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

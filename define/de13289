@@ -1,0 +1,17 @@
+# Assets Securities Encumbered Amount
+
+## identifier
+de13289
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for securities subject to encumbrance by a legal, regulatory, contractual or other restriction that may affect an entity's ability to liquidate, sell, transfer, or assign the asset.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.SecuritiesEncumbered.Amount
+- classification=baf/bafpo/bafpo1.02.18
+- period=instant

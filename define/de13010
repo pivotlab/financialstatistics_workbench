@@ -1,0 +1,21 @@
+# Assets Property Plant And Equipment Plus Accrued Income Amount
+
+## identifier
+de13010
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of holdings of property acquired or held which is available for sale, excluding owner-occupied property. 
+
+Report the value after deducting accumulated depreciation. 
+
+Investment property should be consistent with the classification and measurement basis used in the relevant accounting standard.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.PropertyPlantAndEquipment.PlusAccruedIncome.Amount
+- classification=baf/bafpo/bafpo7.02.12
+- period=instant

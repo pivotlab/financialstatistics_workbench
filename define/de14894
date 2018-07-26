@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Households Net Stable Funding Ratio Loans Other Amount
+
+## identifier
+de14894
+
+## type
+float
+
+## definition
+The value of any other non-financial institution net stable funding ratio (NSFR) loans that are subject to, or would qualify for, the relevant risk weight of Prudential Standard APS 112 - Capital Adequacy: Standardised Approach to Credit Risk.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.LoansAndReceivables.Households.NetStableFundingRatioLoansOther.Amount
+- classification=baf/bafpo/bafpo5.02.15
+- period=instant

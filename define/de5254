@@ -1,0 +1,17 @@
+# Income Insurance Claim Outwards Reinsurance Amount
+
+## identifier
+de5254
+
+## type
+float
+
+## definition
+Report the value of outwards reinsurance claims revenue. This is the value of claims against policies for which the reporting party has ceded the liability to a reinsurer.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.ClaimOutwardsReinsurance.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

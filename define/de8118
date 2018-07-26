@@ -1,0 +1,16 @@
+# Miscellaneous Composite Of Immaterial Currencies Description
+
+## identifier
+de8118
+
+## type
+string
+
+## definition
+Provide a self-explanatory description for the composite of immaterial currencies being reported.
+
+## syntax
+### xbrl
+- name=Miscellaneous.CompositeOfImmaterialCurrencies.Description
+- classification=baf/bafot/bafot.02.06
+- period=instant

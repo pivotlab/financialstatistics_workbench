@@ -1,0 +1,21 @@
+# Organisation Control Group Board Indicator
+
+## identifier
+de13735
+
+## type
+boolean
+
+## definition
+This indicates whether the board remuneration committee is a group board remuneration committee.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = the board remuneration committee is a group board remuneration committee.
+false = the board remuneration committee is not a group board remuneration committee.
+
+## syntax
+### xbrl
+- name=OrganisationControl.GroupBoard.Indicator
+- classification=py/pyde/pyde.02.18
+- period=duration

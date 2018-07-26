@@ -1,0 +1,16 @@
+# Regulatory Disclosures Policies Existing Two Years Percent
+
+## identifier
+de14064
+
+## type
+float
+
+## definition
+This is the percentage, as at the relevant date, of in force policies that have existed for two years or more, over all states.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.PoliciesExistingTwoYears.Percent
+- classification=baf/bafot/bafot.02.25
+- period=instant

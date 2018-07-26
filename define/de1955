@@ -1,0 +1,17 @@
+# Superannuation Payment Lump Sum Pooled Super Trusts Amount
+
+## identifier
+de1955
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for superannuation entities that are pooled super trusts. Report the expense for payments to unit holders.
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationPayment.LumpSumPooledSuperTrusts.Amount
+- classification=em/emsup/emsup.02.00
+- period=duration

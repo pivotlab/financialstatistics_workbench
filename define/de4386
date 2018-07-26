@@ -1,0 +1,17 @@
+# Expense Operating Acquisition Costs Deferred Net Movement Amount
+
+## identifier
+de4386
+
+## type
+float
+
+## definition
+Report the value of amortization and impairment of existing deferred acquisition costs (DAC) related to the risk component of premiums acquired, less additional deferrals of acquisition expenses for life insurance (risk) components during the relevant period as per the Australian Accounting Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.AcquisitionCostsDeferredNetMovement.Amount
+- classification=baf/bafpr/bafpr2.02.05
+- period=duration

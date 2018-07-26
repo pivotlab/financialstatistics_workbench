@@ -1,0 +1,17 @@
+# Equity Movements Retained Profits Transfers To Or From Reserves Amount
+
+## identifier
+de5155
+
+## type
+float
+
+## definition
+Report the value of transfers into or out of foreign currency translation reserves for the relevant period.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Movements.RetainedProfitsTransfersToOrFromReserves.Amount
+- classification=baf/bafpo/bafpo4.02.04
+- period=duration

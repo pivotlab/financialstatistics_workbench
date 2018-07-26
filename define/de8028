@@ -1,0 +1,21 @@
+# Liabilities Other Financial Liabilities Exposures Deposits And Borrowings Amount
+
+## identifier
+de8028
+
+## type
+float
+
+## definition
+This is the value of the reporting party's deposits and borrowings as at the relevant date. This represents the sum of the following:
+     - deposits held by the reporting party as at the relevant date, and which are redeemable or withdrawable by depositors from the reporting party; plus 
+     - negotiable bearer debt securities classified as certificates of deposit; plus
+     - debt securities, excluding negotiable certificates of deposit, preference shares and convertible notes; plus
+     - loans, being liabilities incurred by the reporting party through the lending of funds to it via means of a non-tradeable document, certificate or security.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.ExposuresDepositsAndBorrowings.Amount
+- classification=baf/bafpo/bafpo6.02.06
+- period=instant

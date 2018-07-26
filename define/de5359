@@ -1,0 +1,21 @@
+# Income Insurance General Premium Gross Amount
+
+## identifier
+de5359
+
+## type
+float
+
+## definition
+Report premiums received from general insurance policies that are accounted for as Insurance Policy Revenue.
+
+The revenue components of amounts contractually received or receivable for insurance policies should be shown net of outwards reinsurance expense.
+
+General insurance policies are all insurance business other than Life and Health insurance. Life insurance policies are contracts (policies) that will pay a specified sum to beneficiaries upon the death of the insured. Health insurance policies are contracts (policies) that will pay a specified sum to beneficiaries in relation to healthcare expenses of the insured.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.GeneralPremiumGross.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

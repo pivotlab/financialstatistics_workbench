@@ -1,0 +1,17 @@
+# Financial Risk Whole Of Portfolio Loss Amount
+
+## identifier
+de12900
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of whole-of-portfolio loss, as determined in accordance with relevant prudential standards. Whole-of-portfolio loss is the loss arising from the occurrence of a single event where that loss is not less than the whole-of-portfolio annual loss with a probability of occurrence stated in the relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.WholeOfPortfolioLoss.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Funding And Solvency Certificate Date
+
+## identifier
+de13132
+
+## type
+string
+
+## definition
+This is the relevant effective date of the funding and solvency certificate.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.FundingAndSolvencyCertificate.Date
+- classification=em/emsup/emsup.02.10
+- period=instant

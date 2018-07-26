@@ -1,0 +1,21 @@
+# Assets Insurance Investment Capital Factor Six Pct Amount
+
+## identifier
+de8333
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the following assets:
+     - Cash management trusts with a counterparty rating of Grade 4 or unrated
+     - Any debt obligation with a counterparty rating of Grade 4 or unrated, excluding subordinated debt and debt obligations of government that meet the following criteria:
+          - Debt obligations of any Australian government; or 
+          - Debt obligations of the national government of a foreign country where the security has a Grade 1 counterparty rating or, if not rated, the long-term, foreign currency counterparty rating of that country is Grade 1.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.InvestmentCapitalFactorSixPct.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

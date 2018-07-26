@@ -1,0 +1,23 @@
+# Equity Reserves Other MRF300 Amount
+
+## identifier
+de8944
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value of the balance of the reserves relating to assets other than:
+- general reserve;
+- capital profits reserve;
+- asset revaluation reserve; and
+- foreign currency translation reserve.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Reserves.OtherMRF300.Amount
+- classification=baf/bafpo/bafpo2.02.06
+- period=instant

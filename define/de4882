@@ -1,0 +1,16 @@
+# Lodgment Return Version Number
+
+## identifier
+de4882
+
+## type
+int
+
+## definition
+The version of the return the form belongs to.
+
+## syntax
+### xbrl
+- name=Lodgment.ReturnVersion.Number
+- classification=py/pyin/pyin.02.09
+- period=duration

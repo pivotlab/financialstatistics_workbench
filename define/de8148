@@ -1,0 +1,17 @@
+# Income Sale Of Goods Credit Card Transactions Acquired Amount
+
+## identifier
+de8148
+
+## type
+float
+
+## definition
+This is the aggregate credit card transaction dollar value acquired by the reporting party over the relevant period.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.SaleOfGoods.CreditCardTransactionsAcquired.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

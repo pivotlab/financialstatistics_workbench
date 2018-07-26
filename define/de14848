@@ -1,0 +1,21 @@
+# Assets Loans And Receivables Foreclosure Count
+
+## identifier
+de14848
+
+## type
+int
+
+## definition
+The number of business entities for which a foreclosure process has been initiated.
+
+## guidance
+Proceeding in which a reporting institution may take possession of property used to secure a loan or lease.
+
+Where a reporting institution appoints an administrator or receiver, this should be considered as an instance of a foreclosure.
+
+## syntax
+### xbrl
+- name=Assets.LoansAndReceivables.Foreclosure.Count
+- classification=baf/bafpo/bafpo5.02.14
+- period=duration

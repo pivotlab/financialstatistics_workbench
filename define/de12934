@@ -1,0 +1,17 @@
+# Liabilities Insurance Policy Liabilities Unallocated Surplus Amount
+
+## identifier
+de12934
+
+## type
+float
+
+## definition
+This is the value as at the relevant date of policy liabilities, of which are unallocated surpluses (Unallocated surplus classified as liabilities included in this item relates to all other unallocated surpluses that have not been included as unallocated benefit fund reserves). It equates to the unallocated surplus remaining after distributions to benefit fund members. This number is to be determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.PolicyLiabilitiesUnallocatedSurplus.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

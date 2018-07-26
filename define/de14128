@@ -1,0 +1,17 @@
+# Income Insurance Premium Revenue Amount
+
+## identifier
+de14128
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the premium payable by the policyholder, which is net of discounts and promotions, but gross of any commissions and/or fees taken by intermediaries. This is calculated in accordance with the relevant accounting standard.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.PremiumRevenue.Amount
+- classification=baf/bafpr/bafpr3.02.21
+- period=duration

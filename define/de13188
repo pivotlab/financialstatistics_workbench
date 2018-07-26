@@ -1,0 +1,22 @@
+# Superannuation Regulatory Information Benefit Payments Made In Accordance With Actuarial Recommendations Code
+
+## identifier
+de13188
+
+## type
+boolean
+
+## definition
+This indicates whether members benefit payments were made in accordance with actuarial recommendations during the relevant period.
+
+## guidance
+The valid enumerated values are:
+Yes = members benefit payments were made in accordance with actuarial recommendations during the relevant period.
+No = members benefit payments were not made in accordance with actuarial recommendations during the relevant period.
+Not applicable = no members benefit payments were made during the relevant period.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.BenefitPaymentsMadeInAccordanceWithActuarialRecommendations.Indicator
+- classification=em/emsup/emsup.02.11
+- period=duration

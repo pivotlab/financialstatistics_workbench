@@ -1,0 +1,17 @@
+# Liabilities Insurance Bonus Declared Excluding Terminal Interim Amount
+
+## identifier
+de4278
+
+## type
+float
+
+## definition
+The cost of declared bonuses at the relevant date reflecting the cash value to the policy owners of those bonuses at the relevant date. Excludes interim and terminal bonuses.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Liabilities.Insurance.BonusDeclaredExcludingTerminalInterim.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=duration

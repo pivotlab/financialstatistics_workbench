@@ -1,0 +1,23 @@
+# Address Details Geocode Longitude Number
+
+## identifier
+de13092
+
+## type
+float
+
+## definition
+The geographic longitude of a point on the earth is a measurement in degrees east or west of the Greenwich Meridian to a prescribed datum. Longitudes east of Greenwich are expressed as a positive number, west of Greenwich as negative.
+
+## guidance
+Usage Example: -150.91277417
+
+## facets
+- fractionDigits=9
+- totalDigits=12
+
+## syntax
+### xbrl
+- name=AddressDetails.GeocodeLongitude.Number
+- classification=py/pyde/pyde.02.30
+- period=duration

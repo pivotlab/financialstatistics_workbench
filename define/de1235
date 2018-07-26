@@ -1,0 +1,17 @@
+# Assets Intangible Capitalised Expenses Comprising Of Costs Associated With Debt Raisings Or Funding Amount
+
+## identifier
+de1235
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for the costs associated with debt raisings and other similar transaction related costs.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Intangible.CapitalisedExpensesComprisingOfCostsAssociatedWithDebtRaisingsorfunding.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=instant

@@ -1,0 +1,16 @@
+# Financial Risk Market Scaling Factor VaR Number
+
+## identifier
+de8085
+
+## type
+float
+
+## definition
+This is the scaling factor (Value at Risk(VaR)) applicable.The scaling factor consists of a multiplication factor and a plus factor, as determined in accordance with relevant prudential standards. The multiplication factor is set for each reporting party by APRA, and is subject to a minimum of three. A plus factor may also be required by APRA. This factor relates directly to back-testing results from the most recent 250 trading days prior to the relevant date.Back-testing represents the process of comparing the daily trading outcome (profit or loss) with the corresponding VaR number for that day.
+
+## syntax
+### xbrl
+- name=FinancialRisk.Market.ScalingFactor.Number
+- classification=baf/bafot/bafot.02.06
+- period=instant

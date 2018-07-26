@@ -1,0 +1,17 @@
+# Liabilities APRA Determined Interdependent Amount
+
+## identifier
+de14874
+
+## type
+float
+
+## definition
+The value of liabilities that the Australian Prudential Regulation Authority (APRA) has determined are interdependent under Prudential Standard APS 210 - Liquidity, Attachment C.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.APRADeterminedInterdependent.Amount
+- classification=baf/bafpo/bafpo1.02.32
+- period=instant

@@ -1,0 +1,17 @@
+# Assets Intangible Finite Life Excluding Goodwill Net Amount
+
+## identifier
+de8777
+
+## type
+float
+
+## definition
+This is the value of intangible assets, other than goodwill, held by the reporting party as at the relevant date, net of any provision for impairment, and which are deemed to have a finite life. The measurement and classification basis used is to be in accordance with the accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Intangible.FiniteLifeExcludingGoodwillNet.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=instant

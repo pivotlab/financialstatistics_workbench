@@ -1,0 +1,23 @@
+# Financial Risk Market Assets With No Resilience Reserve Requirement Amount
+
+## identifier
+de5530
+
+## type
+float
+
+## definition
+Report the net market value, or fair value, of assets for which there is no resilience reserve requirement.
+
+Mismatching of asset and liability exposures necessitates the provision of a reserve for adverse movements in the investment markets to the extent they will not be matched by a corresponding movement in the liabilities. Where the policy owner liabilities of the statutory fund move in harmony with the assets supporting them, the Resilience Reserve in respect of those liabilities can be zero. It is not necessary to hold resilience reserves for that part of an asset which is inadmissible nor the free assets (in excess of the Capital Adequacy or Solvency Requirement) of the fund.
+
+Inadmissible assets are those assets: 1) the value of which is dependent on the ongoing conduct of business; 2) holdings in associated financial entities; and 3) concentrated asset exposures.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.AssetsWithNoResilienceReserveRequirement.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

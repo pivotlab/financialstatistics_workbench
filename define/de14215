@@ -1,0 +1,17 @@
+# Liabilities Gross Negative Market Amount
+
+## identifier
+de14215
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for all liabilities resulting from the aggregate amount of all exposures with a negative market value.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.GrossNegativeMarket.Amount
+- classification=baf/bafpo/bafpo1.02.26
+- period=instant

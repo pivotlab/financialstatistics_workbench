@@ -1,0 +1,25 @@
+# Assets Non Investment Other Other Net Market Value Amount
+
+## identifier
+de4572
+
+## type
+float
+
+## definition
+This is a balancing item.
+
+Report the net market value, or fair value, of any asset that has not been classified as an investment asset, other than 
+- receivables
+- deferred tax
+- property; or
+- gross policy liabilities ceded under reinsurance
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.NonInvestmentOtherOtherNetMarketValue.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

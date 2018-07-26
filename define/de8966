@@ -1,0 +1,17 @@
+# Financial Risk Exposures Accounting Amount
+
+## identifier
+de8966
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of all exposures regardless of whether it has been recognised on or off-balance sheet.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.ExposuresAccounting.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

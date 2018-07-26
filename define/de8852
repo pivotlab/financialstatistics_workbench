@@ -1,0 +1,29 @@
+# Financial Services Insurance Basis Used Premiums Liabilities Code
+
+## identifier
+de8852
+
+## type
+string
+
+## definition
+This item represents the basis used by which premiums liabilities are reported.
+
+## guidance
+Allowable values for this item are:     
+- Prudential;    
+- Accounting; and   
+- Mix
+
+## codes
+| Name       |
+| ---------- |
+| Accounting |
+| Mix        |
+| Prudential |
+
+## syntax
+### xbrl
+- name=FinancialServices.Insurance.BasisUsedPremiumsLiabilities.Code
+- classification=baf/bafot/bafot.02.12
+- period=instant

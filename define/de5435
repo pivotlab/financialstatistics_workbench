@@ -1,0 +1,19 @@
+# Financial Risk Management Capital Solvency Requirement Amount
+
+## identifier
+de5435
+
+## type
+float
+
+## definition
+Report the amount required under the management capital standard to ensure, as far as practicable, that:
+(a) the financial position of the reporting party reflects an appropriate capital commitment, outside of its statutory/benefit funds, to its life insurance business; and
+(b) the reporting party will be able to meet its obligations in respect of any business it carries on that is not life insurance business as those obligations fall due.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.ManagementCapital.SolvencyRequirement.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

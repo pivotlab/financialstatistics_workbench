@@ -1,0 +1,16 @@
+# Liabilities Other Financial Liabilities New First Home Saver Account Transfer Count
+
+## identifier
+de8871
+
+## type
+int
+
+## definition
+This is the number of new First Home Saver Accounts (FHSAs), held by the reporting party at any time during the relevant period, and opened as the result of a transfer of FHSA business from another provider.
+
+## syntax
+### xbrl
+- name=Liabilities.OtherFinancialLiabilities.NewFirstHomeSaverAccountTransfer.Count
+- classification=baf/bafpo/bafpo6.02.06
+- period=duration

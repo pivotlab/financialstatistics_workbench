@@ -1,0 +1,16 @@
+# Organisation Control No Longer Fit And Proper Assessment Date
+
+## identifier
+de13754
+
+## type
+string
+
+## definition
+This is the date when an individual person was assessed as being no longer fit and proper to hold a position of responsibility.
+
+## syntax
+### xbrl
+- name=OrganisationControl.NoLongerFitAndProperAssessment.Date
+- classification=py/pyde/pyde.02.18
+- period=duration

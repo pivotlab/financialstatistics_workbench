@@ -1,0 +1,17 @@
+# Profit Or Loss Insurance Reconcilliation Adjustment General Purpose Life Act Amount
+
+## identifier
+de4804
+
+## type
+float
+
+## definition
+Report the total reconcilliation adjustment between operating profit after tax as per general purpose accounts and the operating profit after tax as per the Life Act.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.Insurance.ReconcilliationAdjustmentGeneralPurposeLifeAct.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

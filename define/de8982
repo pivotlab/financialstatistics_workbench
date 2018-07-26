@@ -1,0 +1,21 @@
+# Regulatory Disclosures Insurance Feature Reduces Deductible Indicator
+
+## identifier
+de8982
+
+## type
+boolean
+
+## definition
+Indicate if all insurances have a feature that reduces the deductible to nil when the underlying pool of funds (aggregate deductible) is exhausted.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = when the pool of funds/aggregate deductible becomes nil, the insurer pays the full claim of the member net of any member excess or franchise
+FALSE = when the pool of funds/aggregate deductible becomes nil, the insurer does not pay the full claim of the member
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuranceFeatureReducesDeductible.Indicator
+- classification=baf/bafot/bafot.02.07
+- period=duration

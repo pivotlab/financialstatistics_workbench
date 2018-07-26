@@ -1,0 +1,19 @@
+# Financial Risk Solvency Liabilities Other Amount
+
+## identifier
+de5028
+
+## type
+float
+
+## definition
+This is the balancing item in the list in which it is being used.
+
+Report the value of total liabilities for solvency purposes excluding tax liabilities and effective borrowings. Therefore this item includes approved subordinated debt.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Solvency.LiabilitiesOther.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

@@ -1,0 +1,16 @@
+# Financial Risk Earnings Yield Percent
+
+## identifier
+de12866
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the average earnings yield before taxes, used in determining the reduction in infrastructure asset values under the property stress scenario. This item is to be determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- name=FinancialRisk.EarningsYield.Percent
+- classification=baf/bafot/bafot.02.12
+- period=instant

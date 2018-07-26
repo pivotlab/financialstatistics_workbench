@@ -1,0 +1,28 @@
+# Assets Risk Transfer Inward Amount
+
+## identifier
+de8819
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of inward risk transfers that reallocated risk to the country of the immediate borrower from the country of ultimate risk as a result of guarantees, collateral, and credit derivatives which are part of the banking book. This includes risk-transfers between different economic sectors in the same country.
+
+## guidance
+There are four potential forms of risk reallocation:
+
+i. Lending to a non-resident that is guaranteed by a non-resident third party. In this case both the outward risk transfer from the original borrower and the risk transfer to the guarantor have to be reported.
+
+ii. Lending to a non-resident that is guaranteed by an Australian resident third party. In  this  case  both  the  outward  risk  transfer  from  the  original  non-resident borrower has to be reported as well as the inward risk transfer to Australia.
+
+iii. Lending to a resident that is guaranteed by a non-resident third party. In this case, report the outward risk transfer from Australia as well as the inward risk transfer to the non-resident guarantor.
+
+iv. Lending to a non-resident where the exposure is extinguished by receiving a cash collateral. In  this  case  only  the  outward  risk  transfer  from  the  original  non-resident borrower has to be reported (but no inward risk transfer to Australia).
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.ClaimsCrossBorderRiskTransferInward.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

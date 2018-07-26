@@ -1,0 +1,22 @@
+# Financial Risk Market Scaling Factor Interest Rate Positions Delta Number
+
+## identifier
+de8245
+
+## type
+float
+
+## definition
+This is the scaling factor applicable for positions which are sensitive to interest rate movements, assuming all other factors (e.g. interest rate volatility) remain equal.
+
+Delta, in this context, represents the impact of underlying interest rate movements on the overall portfolio value.
+
+The scaling factor consists of a multiplication factor and a plus factor, as determined in accordance with relevant prudential standards. The multiplication factor is set for each reporting party by APRA, and is subject to a minimum of three. A plus factor may also be required by APRA. This factor relates directly to back-testing results from the most recent 250 trading days prior to the relevant date.
+
+Back-testing represents the process of comparing the daily trading outcome (profit or loss) with the corresponding VaR number for that day.
+
+## syntax
+### xbrl
+- name=FinancialRisk.Market.ScalingFactorInterestRatePositionsDelta.Number
+- classification=baf/bafot/bafot.02.06
+- period=instant

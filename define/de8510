@@ -1,0 +1,21 @@
+# Profit Or Loss Non Current Assets Or Disposal Groups Held For Sale And Discontinued Operations Amount
+
+## identifier
+de8510
+
+## type
+float
+
+## definition
+This is the value of profit (loss) from non-current assets and disposal groups classified as held for sale and discontinued operations recognised during the relevant period.
+
+Profit (loss) from non-current assets and disposal groups classified as held for sale is determined in accordance with the relevant Accounting Standards.
+
+Profit (loss) from discontinued operations for this item represents only remeasurement gains or losses of non-current assets or disposal groups classified as held for sale which meet the definition of a discontinued operation according to the relevant Accounting Standards. It excludes operating results of discontinued operations that are or will be discontinued during the current financial year; and the gain or loss on sale of the discontinued operations.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.NonCurrentAssetsOrDisposalGroupsHeldForSaleAndDiscontinuedOperations.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

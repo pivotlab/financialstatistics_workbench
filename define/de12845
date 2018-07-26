@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Guarantees And Credit Derivatives That Provide Materiality Threshold Amount
+
+## identifier
+de12845
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of guarantees and credit derivatives that provide for a materiality threshold below which no payment will be made in the event of a loss. This item is calculated for capital adequacy purposes and is to be determined in accordance with relevant Prudential Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.CapitalAdequacy.GuaranteesAndCreditDerivativesThatProvideMaterialityThreshold.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

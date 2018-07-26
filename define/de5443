@@ -1,0 +1,32 @@
+# Assets Derivative Financial Instruments Foreign Exchange And Gold Sold Options Net Market Value Amount
+
+## identifier
+de5443
+
+## type
+float
+
+## definition
+Report the fair value of foreign exchange and gold short sold option contracts held by the reporting party as at the relevant date. This item is to be determined in accordance with accounting standards.
+
+A sold/written option includes both put and call options that have been sold by an entity. It obliges the selling entity to buy or sell a specific amount of an underlying asset at a pre-agreed price, on or before a specific future date.
+
+A foreign exchange contract is any contract that transfers the exchange rate risk on an underlying asset from one party to another.
+
+A gold contract is any contract that transfers the gold price risk associated with an underlying asset from one party to another.
+
+Derivatives are generally defined as those instruments/contracts, where the value is based on other products, and/or on prices associated with financial products. Derivative contracts involve:
+- Future delivery, receipt or exchange of financial items such as cash or another derivative instrument; or
+- Future exchange of real assets for financial items where the contract may be tradeable and has a market value.
+The contracts can either be binding on both parties (e.g. as with a currency swap) or subject to the exercise by one party of a right contained within the contract (as with options).
+
+Report this item regardless of whether favourable or unfavourable to the reporting entity ie where it represents either a net gain or net loss to the entity across all open positions.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.DerivativeFinancialInstruments.ForeignExchangeAndGoldSoldOptionsNetMarketValue.Amount
+- classification=baf/bafpo/bafpo5.02.05
+- period=instant

@@ -1,0 +1,18 @@
+# Organisation Control Members Departed Other Count
+
+## identifier
+de5220
+
+## type
+int
+
+## definition
+Number of members exiting during the relevant period for any reason that cannot be appropriately classified in the list in which this element belongs.
+
+This is the amount of the detailed line items within the balancing item within the list in which it is being used.
+
+## syntax
+### xbrl
+- name=OrganisationControl.MembersDepartedOther.Count
+- classification=py/pyde/pyde.02.06
+- period=duration

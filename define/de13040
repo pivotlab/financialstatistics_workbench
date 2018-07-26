@@ -1,0 +1,17 @@
+# Expense Insurance Net Policy Liability Movement Unallocated Surplus Classified Amount
+
+## identifier
+de13040
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of the movement in the unallocated surplus classified as net policy liabilities that relates only to the current year profits. This unallocated surplus relates to all other unallocated surpluses that have not been included as unallocated benefit fund reserves in balance sheet.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.NetPolicyLiabilityMovementUnallocatedSurplusClassified.Amount
+- classification=baf/bafpr/bafpr3.02.11
+- period=duration

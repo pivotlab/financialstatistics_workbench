@@ -1,0 +1,20 @@
+# Assets Loans And Receivables Reverse Product Count
+
+## identifier
+de7648
+
+## type
+int
+
+## definition
+This is the number of individual reverse loans held by the reporting party as at the relevant date.
+
+Reverse loans are generally loans where the loan is repayable when the borrower is deceased or, in the case of a reverse mortgage loan, no longer lives in the property.
+
+For the purposes of this form, exclude term loans written-off.
+
+## syntax
+### xbrl
+- name=Assets.LoansAndReceivables.ReverseProduct.Count
+- classification=baf/bafpo/bafpo5.02.05
+- period=instant

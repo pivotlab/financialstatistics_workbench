@@ -1,0 +1,17 @@
+# Expense Insurance Expense Acquisition Other Amount
+
+## identifier
+de9021
+
+## type
+float
+
+## definition
+This is the value, for the duration of the relevant date, of underwriting expenses other than those associated with acquisition costs. This item is to be determined in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.ExpenseAcquisitionOther.Amount
+- classification=baf/bafpr/bafpr3.02.06
+- period=duration

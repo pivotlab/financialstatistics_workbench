@@ -1,0 +1,25 @@
+# Organisation Details Specialist Reinsurer Indicator
+
+## identifier
+de12970
+
+## type
+boolean
+
+## definition
+This indicates whether the reporting entity is a specialist reinsurer.
+
+Specialist reinsurer refers to statutory fund of a registered life company where all policies referable to the fund are reinsurance policies and none of the policies are owned by a related entity of the life company.
+
+## guidance
+A choice of TRUE/FALSE values.
+
+true = The reporting entity is a specialist reinsurer. 
+
+false = The reporting entity is not a specialist reinsurer.
+
+## syntax
+### xbrl
+- name=OrganisationDetails.SpecialistReinsurer.Indicator
+- classification=py/pyde/pyde.02.10
+- period=instant

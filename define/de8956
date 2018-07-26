@@ -1,0 +1,17 @@
+# Expense Insurance Claims Paid Amount
+
+## identifier
+de8956
+
+## type
+float
+
+## definition
+This is the value, for the duration of relevant period, claims paid on a cash flow basis in the current financial year, regardless of the financial year in which the reinsurance recovery may have been recognised as revenue.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.ClaimsPaid.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

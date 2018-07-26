@@ -1,0 +1,31 @@
+# Service Provider Trustee Representation Code
+
+## identifier
+de5690
+
+## type
+string
+
+## definition
+Where the reporting party has a corporate trustee, indicate whom the director of the corporate trustee is representing.
+
+## guidance
+An individual may represent one and only one of the following:
+Employer - where the individual is an employer representative.
+Member - where the individual is a member representative.
+Independent - where the individual is an independent trustee (i.e. a trustee who does not represent members or employers, but not a director of a professional trustee company.)
+Professional - for directors of a professional trustee company.
+
+## codes
+| Name         |
+| ------------ |
+| Employer     |
+| Independent  |
+| Member       |
+| Professional |
+
+## syntax
+### xbrl
+- name=ServiceProvider.TrusteeRepresentation.Code
+- classification=py/pylk/pylk.02.01
+- period=instant

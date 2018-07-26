@@ -1,0 +1,17 @@
+# Income Insurance Premium Net Of Reinsurance Deposit Component Amount
+
+## identifier
+de4334
+
+## type
+float
+
+## definition
+Report the total deposit (investment) component of premiums received from all insurance investment policies, net of reinsurance.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.PremiumNetOfReinsuranceDepositComponent.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

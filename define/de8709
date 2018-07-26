@@ -1,0 +1,21 @@
+# Financial Risk Market Exposure Property Commercial Other Security Held ARF 230 0 Amount
+
+## identifier
+de8709
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+     
+This is the value, as at the relevant date, of the amount of security held in relation to the reporting party's exposure to other commercial property, as required to be reported on APRA form ARF_230_0.
+     
+Commercial property exposure is defined according to the nature of the risk. An exposure should be classified as commercial property risk, if the exposure is subject to the performance of the property market.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.ExposurePropertyCommercialOtherSecurityHeldARF2300.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

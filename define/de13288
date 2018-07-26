@@ -1,0 +1,17 @@
+# Assets Cash And Liquid Assets Balances Amount
+
+## identifier
+de13288
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for notes and coins and central bank balances.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.Balances.Amount
+- classification=baf/bafpo/bafpo7.02.16
+- period=instant

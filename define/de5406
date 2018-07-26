@@ -1,0 +1,24 @@
+# Business Termination Successor Fund Transfer Indicator
+
+## identifier
+de5406
+
+## type
+boolean
+
+## definition
+If the reporting party was wound up during the relevant period, did the winding up of the entity occurr due to a successor fund transfer?
+
+A 'successor fund' is a superannuation entity which agrees to, and does, confer on members equivalent rights in respect of benefit entitlements, to those which the member had in the transferor superannuation entity.
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = If the reporting party was wound up during the relevant period, the winding up of the entity occurred due to a successor fund transfer.
+FALSE = If the reporting party was wound up during the relevant period, the winding up of the entity did not occur due to a successor fund transfer.
+
+## syntax
+### xbrl
+- name=BusinessTermination.SuccessorFundTransfer.Indicator
+- classification=em/emfsm/emfsm.02.04
+- period=instant

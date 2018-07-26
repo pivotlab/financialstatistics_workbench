@@ -1,0 +1,21 @@
+# Assets Exposures Lending Commitments Cancelled Amount
+
+## identifier
+de8193
+
+## type
+float
+
+## definition
+This is the value of lending commitments, or firm offers, provided by the reporting party that have been withdrawn, or cancelled, during the relevant period. This includes reductions in the approved amount of the lending commitment.
+
+A commitment is a firm offer to provide finance which has been accepted by the client. A commitment exists once the loan application has been approved, and a loan contract or letter of offer has been issued to the borrower. 
+
+With transactions involving a change of residence, you should treat the discharge of the existing loan and the commitment to a new loan as separate events, and report the total value of the discharged commitment as a cancelled commitment.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.Exposures.LendingCommitmentsCancelled.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=duration

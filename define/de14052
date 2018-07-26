@@ -1,0 +1,17 @@
+# Expense Insurance Benefits Paid Amount
+
+## identifier
+de14052
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the benefits paid by the private health insurance fund.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.BenefitsPaid.Amount
+- classification=baf/bafpr/bafpr3.02.21
+- period=duration

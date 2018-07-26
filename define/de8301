@@ -1,0 +1,17 @@
+# Assets Insurance Reinsurance Net Amount
+
+## identifier
+de8301
+
+## type
+float
+
+## definition
+This is the value, net of any provisions for impairment, of any asset recognised by the reporting party as at the relevant date that relates to reinsurance.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Insurance.ReinsuranceNet.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

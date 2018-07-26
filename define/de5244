@@ -1,0 +1,21 @@
+# Liabilities Administration Fees Settlement Amount
+
+## identifier
+de5244
+
+## type
+float
+
+## definition
+Record the amount paid during the relevant period to settle liabilities classified as administration fees.
+
+Adminitstration Fees are typically amounts payable to an entity for performing required administration activities.
+
+The settlement of a liability takes place when all legal or constructive obligations are eliminated.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.AdministrationFeesSettlement.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=duration

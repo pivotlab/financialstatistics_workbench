@@ -1,0 +1,28 @@
+# Assets Derivative Financial Instruments Bought Call Options Net Market Value Amount
+
+## identifier
+de5793
+
+## type
+float
+
+## definition
+Report the net market value, or fair value, of the net position of derivative contracts classified as bought call options, consistent with the classification and measurement basis used for derivatives by institutions in accordance with accounting standards.
+
+A bought call option is a call option that has been purchased by an entity. It provides the purchasing entity with the right but not the obligation to buy a specific amount of the underlying asset at a pre-agreed price, on or before a specific future date.
+
+Derivatives are generally defined as those instruments/contracts, where the value is based on other products, and/or on prices associated with financial products. Derivative contracts involve:
+- Future delivery, receipt or exchange of financial items such as cash or another derivative instrument; or
+- Future exchange of real assets for financial items where the contract may be tradeable and has a market value.
+The contracts can either be binding on both parties (e.g. as with a currency swap) or subject to the exercise by one party of a right contained within the contract (as with options).
+
+Report this item regardless of whether favourable or unfavourable to the reporting entity ie where it represents either a net gain or net loss to the entity across all open positions.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.DerivativeFinancialInstruments.BoughtCallOptionsNetMarketValue.Amount
+- classification=baf/bafpo/bafpo5.02.04
+- period=instant

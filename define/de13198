@@ -1,0 +1,17 @@
+# Regulatory Disclosures Investment Related Tax Expense Benefit Amount
+
+## identifier
+de13198
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of income tax expense/benefit that is associated with net investment income or due to investment related activities, net of investment fees and costs.
+
+## syntax
+### xbrl
+- balance=debit
+- name=RegulatoryDisclosures.InvestmentRelatedTaxExpenseBenefit.Amount
+- classification=baf/bafot/bafot.02.16
+- period=duration

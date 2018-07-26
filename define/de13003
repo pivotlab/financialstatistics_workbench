@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Receivables Total General Insurance Amount
+
+## identifier
+de13003
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of total receivables, including investment income, total net recoveries other than reinsurance receivable, premium receivables, net amount recoverable from reinsurance contracts on outstanding claims and paid claims, other reinsurance assets, current tax assets, GST receivable, and any other general insurance receivables. This method of disclosure differs from the Australian Accounting Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.ReceivablesTotalGeneralInsurance.Amount
+- classification=baf/bafpo/bafpo5.02.10
+- period=instant

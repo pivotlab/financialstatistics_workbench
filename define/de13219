@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Member Profile Minimum Account Balance Amount
+
+## identifier
+de13219
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the minimum allowable member account balance in the product.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.MemberProfileMinimumAccountBalance.Number
+- classification=em/emsup/emsup.02.11
+- period=instant

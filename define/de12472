@@ -1,0 +1,17 @@
+# Financial Risk Credit Exposures Liquidity Or Underwriting Or Funding Facility Excluding Revolving With Early Amortisation Amount
+
+## identifier
+de12472
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of securitisation (including resecuritisation) exposures relating to liquidity, underwriting or funding facilities.  A liquidity, underwriting or funding facility will be considered an eligible facility when it meets the requirements as  detailed in the relevant prudential standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Credit.ExposuresLiquidityOrUnderwritingOrFundingFacilityExcludingRevolvingWithEarlyAmortisation.Amount
+- classification=baf/bafot/bafot.02.09
+- period=instant

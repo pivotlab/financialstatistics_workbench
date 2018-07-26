@@ -1,0 +1,29 @@
+# Regulatory Disclosures Funding Arrangement Code
+
+## identifier
+de13144
+
+## type
+string
+
+## definition
+This is the arrangement, during the relevant period, that a Registrable Superannuation Entity (RSE) licensee has in place to fund self-insurance arrangements.
+
+## guidance
+Valid values are 
+Self insurance reserve = a reserve designated by the Registrable Superannuation Entity (RSE) licensee as being for the purposes of funding self insurance arrangements. 
+Other arrangement = a funding arrangement that is not a self-insurance reserves. This includes where the actuary makes a regular assessment of accrued self-insured claims liability which is taken into account in determining contribution levels. 
+Both = a funding arrangement includes both Self insurance reserve and other arrangement.
+
+## codes
+| Name                   |
+| ---------------------- |
+| Both                   |
+| Other arrangement      |
+| Self insurance reserve |
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.FundingArrangement.Code
+- classification=baf/bafot/bafot.02.15
+- period=duration

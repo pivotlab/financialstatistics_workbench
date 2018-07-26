@@ -1,0 +1,21 @@
+# Auditor Report Opinion Unqualified Indicator
+
+## identifier
+de9057
+
+## type
+boolean
+
+## definition
+This is the indicator for an audit opinion of unqualified, for the relevant period.
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = The audit opinion for the relevant period was Unqualified
+FALSE = The audit opinion for the relevant period was not Unqualified
+
+## syntax
+### xbrl
+- name=AuditorReport.OpinionUnqualified.Indicator
+- classification=em/emfsm/emfsm.02.06
+- period=duration

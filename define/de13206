@@ -1,0 +1,16 @@
+# Superannuation Regulatory Information Employer Sponsor Count
+
+## identifier
+de13206
+
+## type
+int
+
+## definition
+This is the number, as at the relevant date, of employer-sponsors within the meaning given in the Superannuation Industry (Supervision) Act (SIS Act).
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.EmployerSponsor.Count
+- classification=em/emsup/emsup.02.11
+- period=instant

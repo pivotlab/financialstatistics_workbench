@@ -1,0 +1,17 @@
+# Expense Insurance Claim Handling Portion Amount
+
+## identifier
+de14139
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the claim handling portion of other business expenses.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.ClaimHandlingPortion.Amount
+- classification=baf/bafpr/bafpr3.02.21
+- period=duration

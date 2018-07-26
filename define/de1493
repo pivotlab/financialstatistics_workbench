@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities Due To Merchants Amount
+
+## identifier
+de1493
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for Specialised Credit Card Institutions, to report any amounts owed to merchants as a result of acquiring credit card transactions.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.DueToMerchants.Amount
+- classification=baf/bafpo/bafpo6.02.00
+- period=instant

@@ -1,0 +1,17 @@
+# Assets Investment Effective Exposure Amount
+
+## identifier
+de13998
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for all physical assets together with the equivalent asset position of the derivative instruments. The equivalent asset position of a derivative is the dollar amount of the underlying physical asset that needs to be held to generate the same return as holding the derivative.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.EffectiveExposure.Amount
+- classification=baf/bafpo/bafpo7.02.20
+- period=instant

@@ -1,0 +1,17 @@
+# Assets Net Stable Funding Ratio Contribute Default Fund Central Counterparty Amount
+
+## identifier
+de14897
+
+## type
+float
+
+## definition
+The value of the cash or other assets provided to contribute to the default fund of a central counterparty (CCP).
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.NetStableFundingRatioContributeDefaultFundCentralCounterparty.Amount
+- classification=baf/bafpo/bafpo1.02.32
+- period=instant

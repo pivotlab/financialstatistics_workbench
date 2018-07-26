@@ -1,0 +1,17 @@
+# Assets Exposures Investment Vehicle Amount
+
+## identifier
+de12823
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of counterparty exposures to investment vehicles, which represent the net assets of unit trusts or managed investment schemes invested in by the reporting party, or mandates individually managed on behalf of the reporting entity.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.InvestmentVehicle.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

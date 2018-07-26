@@ -1,0 +1,23 @@
+# Assets Investment Debt Securities Net Market Value Plus Accrued Income Non Indexed Amount
+
+## identifier
+de4624
+
+## type
+float
+
+## definition
+Report the net market value, or fair value, of non-indexed debt securities, including income accrued but not received. This method of disclosure differs from the Australian Accounting Standards.
+
+Debt securities are transferable instruments evidencing a relationship of indebtedness. It is characterised by having a definable income stream that is not based on the economic performance of the issuing entity.
+
+Non-indexed debt securities pay an income stream that is not dependent on any external factor.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.DebtSecuritiesNetMarketValuePlusAccruedIncomeNonIndexed.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=instant

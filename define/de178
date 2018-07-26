@@ -1,0 +1,17 @@
+# Expense Interest Derivatives Banking Book Amount
+
+## identifier
+de178
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the amount of interest expense incurred on borrowings related to banking book derivatives.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Interest.DerivativesBankingBook.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

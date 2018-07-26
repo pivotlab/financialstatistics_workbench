@@ -1,0 +1,17 @@
+# Regulatory Disclosures Outstanding Payable Amount
+
+## identifier
+de14127
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for outstanding payable to an entity for goods and/or services provided by a counterparty.
+
+## syntax
+### xbrl
+- balance=credit
+- name=RegulatoryDisclosures.OutstandingPayable.Amount
+- classification=baf/bafot/bafot.02.25
+- period=instant

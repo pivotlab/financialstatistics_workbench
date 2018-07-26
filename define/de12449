@@ -1,0 +1,17 @@
+# Assets Derivative Financial Instruments Net Receipts Payments From Derivatives Excluding Basis Swaps Amount
+
+## identifier
+de12449
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, due to derivatives, excluding basis swaps, of net receipts or payments on scheduled payments.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.DerivativeFinancialInstruments.NetReceiptsPaymentsFromDerivativesExcludingBasisSwaps.Amount
+- classification=baf/bafpo/bafpo5.02.07
+- period=duration

@@ -1,0 +1,19 @@
+# Identifiers Australian Financial Services Licence Number Identifier
+
+## identifier
+de1603
+
+## type
+string
+
+## definition
+This is an identifier issued by the Australian Securities and Investments Commission (ASIC) for authorised licensees who provide financial services.
+
+## guidance
+Provide the AFSL number.
+
+## syntax
+### xbrl
+- name=Identifiers.AustralianFinancialServicesLicenseeNumber.Identifier
+- classification=py/pyid/pyid.02.00
+- period=duration

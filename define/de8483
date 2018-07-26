@@ -1,0 +1,17 @@
+# Income Insurance Reinsurance Recoveries Amount
+
+## identifier
+de8483
+
+## type
+float
+
+## definition
+This is the value, for the duration of the relevant period, of revenue from reinsurance recoveries in respect of insurance claims. This item is to be determined in accordance with relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.ReinsuranceRecoveries.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

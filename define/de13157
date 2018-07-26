@@ -1,0 +1,17 @@
+# Expense Fees Total Amount
+
+## identifier
+de13157
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for all fees paid for the provision of services.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Expense.FeesTotal.Amount
+- classification=baf/bafpr/bafpr1.02.16
+- period=duration

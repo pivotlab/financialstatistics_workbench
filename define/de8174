@@ -1,0 +1,19 @@
+# Financial Risk Operational Threshold For Risk Loss Events Amount
+
+## identifier
+de8174
+
+## type
+float
+
+## definition
+This is the threshold for collection of data on internal operational risk loss events, including operational risk losses related to market risk, as determined according to relevant prudential standards.
+
+Operational risk represents the risk of loss resulting from inadequate or failed internal processes, people and systems or from external events. This includes legal risk, but excludes strategic and reputational risks.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Operational.ThresholdForRiskLossEvents.Amount
+- classification=baf/bafot/bafot.02.06
+- period=duration

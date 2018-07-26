@@ -1,0 +1,19 @@
+# Expense Insurance General  Deposit Component Amount
+
+## identifier
+de4729
+
+## type
+float
+
+## definition
+Report any withdrawal of deposit elements corresponding to general insurance policies.
+
+General insurance policies are all insurance business other than Life and Health insurance. Life insurance policies are contracts (policies) that will pay a specified sum to beneficiaries upon the death of the insured. Health insurance policies are contracts (policies) that will pay a specified sum to beneficiaries in relation to healthcare expenses of the insured.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.GeneralDepositComponent.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

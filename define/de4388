@@ -1,0 +1,19 @@
+# Income Insurance Premium Net Of Reinsurance Amount
+
+## identifier
+de4388
+
+## type
+float
+
+## definition
+Report the value, for the duration of the relevant period, of premium revenue.  This item is to be determined in accordance with the relevant accounting standards.
+
+This item is net of any associated outwards reinsurance expense.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Insurance.PremiumNetOfReinsurance.Amount
+- classification=baf/bafpr/bafpr3.02.04
+- period=duration

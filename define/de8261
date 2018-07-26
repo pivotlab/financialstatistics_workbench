@@ -1,0 +1,16 @@
+# Organisation Details Service Points Part Time Count
+
+## identifier
+de8261
+
+## type
+int
+
+## definition
+This is the number of service points operating part time as at the relevant date.
+
+## syntax
+### xbrl
+- name=OrganisationDetails.ServicePointsPartTime.Count
+- classification=py/pyde/pyde.02.07
+- period=instant

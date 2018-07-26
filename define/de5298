@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Liabilities Total Amount
+
+## identifier
+de5298
+
+## type
+float
+
+## definition
+Report the total liabilities as determined in accordance with the capital adequacy prudential standard.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.LiabilitiesTotal.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

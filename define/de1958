@@ -1,0 +1,17 @@
+# Superannuation Payment Benefit Total Amount
+
+## identifier
+de1958
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the total of all lump sum and pension benefit paid directly to members, i.e. excluding rollovers.
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationPayment.BenefitTotal.Amount
+- classification=em/emsup/emsup.02.00
+- period=duration

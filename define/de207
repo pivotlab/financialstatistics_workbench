@@ -1,0 +1,17 @@
+# Income Interest Loans And Advances Term Loans Amount
+
+## identifier
+de207
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the amount of interest income derived from term loans.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Interest.LoansAndAdvances.TermLoans.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

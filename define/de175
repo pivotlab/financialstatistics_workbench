@@ -1,0 +1,20 @@
+# Income Operating Continuing Operations After Bad And Doubtful Debts Charge Total Amount
+
+## identifier
+de175
+
+## type
+float
+
+## definition
+For interpretation/definition of this item refer to the Australian Accounting Standards, as an example, see provided reference
+
+## guidance
+This is the total of operating Revenue plus any Other Income as described in the Accounting Standard references provided less any charge for bad and doubtful debts.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Operating.ContinuingOperationsAfterBadAndDoubtfulDebtsChargeTotal.Amount
+- classification=baf/bafpr/bafpr2.02.00
+- period=duration

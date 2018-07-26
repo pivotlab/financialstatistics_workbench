@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Insurance Recoveries Reinsurance Amount
+
+## identifier
+de12999
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for reinsurance recoverables, being amounts due to the reporting insurer under a reinsurance arrangement that arise from the recognition of outstanding claims liability (OCL). This item is to be determined in accordance with relevant accounting standard.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.InsuranceRecoveriesReinsurance.Amount
+- classification=baf/bafpo/bafpo5.02.10
+- period=instant

@@ -1,0 +1,20 @@
+# Superannuation Benefit Defined Benefit Payments Amount
+
+## identifier
+de13789
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for benefit payments made to the member of a defined benefit Registrable Superannuation Entity or sub-fund.
+
+## guidance
+Includes insurance claim benefits or proceeds first credited to members' accounts and subsequently disbursed along with members' benefits to the member or beneficiary.
+
+## syntax
+### xbrl
+- balance=debit
+- name=SuperannuationBenefit.DefinedBenefitPayments.Amount
+- classification=em/emsup/emsup.02.16
+- period=duration

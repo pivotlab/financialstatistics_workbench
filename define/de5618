@@ -1,0 +1,21 @@
+# Financial Risk Solvency Inadmissible Assets Reinsurance Total Value Amount
+
+## identifier
+de5618
+
+## type
+float
+
+## definition
+Report the total value of reinsurance assets subject to inadmissibility rules in accordance with the solvency standard, i.e. those with Associated and Subsidiary Financial Services Entities, and/or concentrated in a single reinsurer.
+
+In applying the asset concentration limits of the Standard:
+a) All exposures to a reinsurer or reinsurance group are to be considered a single counterparty exposure (within the practical context of the application of the limits concerned); and
+b) Where arrangements with a reinsurer involve both liability and asset components, these may be taken as a single net exposure to the extent they are subject to a legally enforceable right of offset.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.InadmissibleAssetsReinsuranceTotalValue.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

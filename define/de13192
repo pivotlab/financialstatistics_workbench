@@ -1,0 +1,16 @@
+# Assets Exposures Contract Count
+
+## identifier
+de13192
+
+## type
+int
+
+## definition
+This is the number, as at the relevant date, of contracts underlying the exposure.
+
+## syntax
+### xbrl
+- name=Assets.Exposures.Contract.Count
+- classification=baf/bafpo/bafpo3.02.11
+- period=instant

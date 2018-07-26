@@ -1,0 +1,46 @@
+# Financial Risk Solvency Resilience Credit Risk Component Amount
+
+## identifier
+de5398
+
+## type
+float
+
+## definition
+Report the Credit Risk component of Resilience Reserve (RRCR), to be calculated as:
+ RRCR    = (L' / A") x (DELTA ACRY + DELTA ACRD)
+
+Where:
+L'    =  Liabilities adjusted for the prescribed yield change in the discount rate used in their valuation, in accordance with the solvency standard.
+
+A"    =  Adjusted value of admissible assets (see below); 
+
+-ACRY       =  the value of the Credit Risk Yield Adjustment - an addition to the resilience reserves (see below) made in accordance with the solvency standards; and
+
+-ACRD       =  the value of the Credit Risk Default Adjustment - an addition to the resilience reserves (see below) calculated using the prescribed Credit Risk Default factors as set out in the solvency standards.
+
+Adjusted value of admissible assets is the value of total admissible assets with resilience requirement adjusted for:
+- Credit Risk Yield Changes;
+- Prescribed Yield Changes (allowing for diversification factor);
+- Adverse Exchange Movement factor; and
+- Credit Risk Default factors
+as determined in accordance with the solvency standards.
+
+Total admissible assets is the value of total assets as determined in accordance with the accounting standards, including accrued income, less the value of those deemed to be inadmissible, as per the solvency standard. 
+
+The inadmissible assets are: 
+a) assets which have a value that is dependent upon the continuation of the business;
+b) holdings in an associated or subsidiary entity which is a Financial Services entity;
+c) non-realisable (in the context of the solvency tests) intangible assets;
+d) assets with too little diversification, are too illiquid or have too great an exposure to one obligor of low credit standing;
+e) reinsurance assets which may not be fully recoverable in the context of the solvency tests; and
+f) amounts by which the recorded value of an asset exceeds its net realisable value.
+
+The Resilience Reserve is determined as the additional amount that needs to be held before the happening of a prescribed set of changes in the economic environment, such that after the changes the admissible assets of the reporting party are able to meet the policy owner and other liabilities of the statutory fund.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Solvency.ResilienceCreditRiskComponent.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

@@ -1,0 +1,16 @@
+# Financial Risk Outstanding Claims Capital Factor Percent
+
+## identifier
+de12877
+
+## type
+float
+
+## definition
+This is the outstanding claims risk capital factor determined in accordance with relevant prudential standards.
+
+## syntax
+### xbrl
+- name=FinancialRisk.OutstandingClaimsCapitalFactor.Percent
+- classification=baf/bafot/bafot.02.12
+- period=instant

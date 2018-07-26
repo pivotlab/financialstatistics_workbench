@@ -1,0 +1,17 @@
+# Superannuation Payment Member Benefits Amount
+
+## identifier
+de13098
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of benefits payable, which represent the liability to members who remain unpaid in lieu of having exited or drawing a benefit payment.
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationPayment.MemberBenefits.Amount
+- classification=em/emsup/emsup.02.10
+- period=instant

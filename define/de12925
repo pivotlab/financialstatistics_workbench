@@ -1,0 +1,19 @@
+# Liabilities Insurance Outstanding Claims Liability Not Discounted Amount
+
+## identifier
+de12925
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the outstanding, outstanding claims liability (OCL) determined in accordance with relevant accounting standards, but not discounted as required by those accounting standards.
+
+OCL relates to all claims incurred in the relevant accident or underwriting year prior to the valuation date, whether or not they have been reported to the insurer. The value of the OCL must include an amount in respect of the expenses that the insurer expects to incur in settling these claims. The value of OCL must not include any Government charges imposed such as levies, duties and taxes.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.OutstandingClaimsLiabilityNotDiscounted.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Inadmissible Assets NMV Alignment Amount
+
+## identifier
+de4955
+
+## type
+float
+
+## definition
+Report the net difference between the value disclosed in the financial statements and the net realisable market value of all assets and financial liabilities (other than policy liabilities) of the reporting entity, in accordance with the assumptions required under the capital adequacy standard.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.InadmissibleAssetsNMVAlignment.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

@@ -1,0 +1,17 @@
+# Goods And Services Tax Liability Payable Amount
+
+## identifier
+de8782
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of Goods and Services Tax (GST) payable on all sales that attract a GST component, as determined in accordance with the Goods and Services Tax Act 1999.
+
+## syntax
+### xbrl
+- balance=credit
+- name=GoodsAndServicesTax.LiabilityPayable.Amount
+- classification=rvc/rvctc/rvctc3.02.05
+- period=instant

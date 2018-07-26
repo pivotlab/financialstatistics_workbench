@@ -1,0 +1,17 @@
+# Financial Risk Premiums Liability Offset Amount
+
+## identifier
+de12880
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the premiums liability offset, the portion of the premiums liability provision which relates to catastrophic losses, as determined in accordance with relevant prudential standards by the relevant actuary.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.PremiumsLiabilityOffset.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

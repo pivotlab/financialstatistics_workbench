@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Contribution Income Central Estimate Projection Amount
+
+## identifier
+de14078
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the contribution income assumed in the central estimate projection.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.ContributionIncomeCentralEstimateProjection.Amount
+- classification=baf/bafot/bafot.02.25
+- period=duration

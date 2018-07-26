@@ -1,0 +1,23 @@
+# Profit Or Loss Realised Gains Or Losses Debt Securities Excluding Subordinated Debt And Foreign Exchange Amount
+
+## identifier
+de8581
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of realised gains (losses) on the fair value of debt securities.
+
+This item does not include foreign currency gains (losses) that occur due to currency translation of the debt securities during the period.
+
+Gains (losses) are realised where the entity disposed of an asset during the relevant period. If an asset has not been disposed of during the relevant period, then any increases or decreases in the fair value of the asset are recognised as unrealised gains (losses).
+
+Debt securities are transferable instruments evidencing a relationship of indebtedness. It is characterised by having a definable income stream that is not based on the economic performance of the issuing entity. This item excludes loans and advances, and subordinated debt.
+
+## syntax
+### xbrl
+- balance=credit
+- name=ProfitOrLoss.RealisedGainsOrLossesDebtSecuritiesExcludingSubordinatedDebtAndForeignExchange.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

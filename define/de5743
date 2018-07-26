@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Policy Liability Net Aggregate Amount
+
+## identifier
+de5743
+
+## type
+float
+
+## definition
+Report the aggregated value of the policy liability for all related product groups, as calculated by the capital adequacy standard, net of reinsurance. These are the guaranteed liabilities under life insurance policies on the basis of assumptions which are more conservative (anticipate a more adverse experience) than best estimate assumptions.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.PolicyLiabilityNetAggregate.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

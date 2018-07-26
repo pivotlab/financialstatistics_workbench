@@ -1,0 +1,17 @@
+# Assets Exposures Value Funding Received For Securities Sold Under Repurchase Agreements Amount
+
+## identifier
+de14834
+
+## type
+float
+
+## definition
+This is the outstanding value of funding received for securities sold under agreement to repurchase, where the counterparty is the Reserve Bank of Australia (RBA).
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.ValueFundingReceivedForSecuritiesSoldUnderRepurchaseAgreements.Amount
+- classification=baf/bafpo/bafpo3.02.17
+- period=instant

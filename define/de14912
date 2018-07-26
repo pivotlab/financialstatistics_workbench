@@ -1,0 +1,20 @@
+# Liabilities Deposits Offset Account Amount
+
+## identifier
+de14912
+
+## type
+float
+
+## definition
+The gross deposit balance in deposit accounts that are offset against the balance of an outstanding loan when calculating the interest owing.
+
+## guidance
+Exclude accounts with no credit outstanding associated with them, and all-in-one facilities where it is not possible to separate the loan balance from the borrower's deposits.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Deposits.OffsetAccount.Amount
+- classification=baf/bafpo/bafpo6.02.18
+- period=instant

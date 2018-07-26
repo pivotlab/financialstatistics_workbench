@@ -1,0 +1,19 @@
+# Financial Risk Operational Threshold For Credit Loss Amount
+
+## identifier
+de8175
+
+## type
+float
+
+## definition
+This is the threshold for collection of data on operational risk-related credit losses, as determined according to relevant prudential standards.
+
+Operational risk represents the risk of loss resulting from inadequate or failed internal processes, people and systems or from external events. This includes legal risk, but excludes strategic and reputational risks.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Operational.ThresholdForCreditLoss.Amount
+- classification=baf/bafot/bafot.02.06
+- period=duration

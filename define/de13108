@@ -1,0 +1,17 @@
+# Superannuation Benefit Fund Inflows Amount
+
+## identifier
+de13108
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for any flows into the regulated superannuation fund that result in increases in the liability for benefits owing to members.
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationBenefit.FundInflows.Amount
+- classification=em/emsup/emsup.02.10
+- period=duration

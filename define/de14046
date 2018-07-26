@@ -1,0 +1,16 @@
+# Regulatory Disclosures Insurance Policies Private Health Count
+
+## identifier
+de14046
+
+## type
+int
+
+## definition
+This is the number, as at the relevant date, of private health insurance policies.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsurancePoliciesPrivateHealth.Count
+- classification=baf/bafot/bafot.02.25
+- period=instant

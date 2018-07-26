@@ -1,0 +1,17 @@
+# Financial Risk Solvency Inflow Cash Other Due Amount
+
+## identifier
+de14123
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for any other money due to be received by the insurer in connection with its conduct of the business of the fund.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Solvency.InflowCashOtherDue.Amount
+- classification=baf/bafot/bafot.02.25
+- period=instant

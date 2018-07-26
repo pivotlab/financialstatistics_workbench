@@ -1,0 +1,19 @@
+# Liabilities Insurance Non Current Payable On Reinsurance Contracts Amount
+
+## identifier
+de8940
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of amounts payable by the reporting party on reinsurance contracts, classified non-current as per relevant accounting standards.
+
+For the purposes of this item, include the net amount payable by the insurer to reinsurers or retrocessionaires where a legal right of set-off exists. This reflects the current working balance due for settlement. Include premiums payable but not yet due for payment under the terms of the reinsurance contracts and deposits withheld from reinsurers which should correspond to the recognition of DRE under prudential standards and represent the total premium payable under reinsurance contracts. Include items such as the reinsurer's portion of recoveries and salvage and commissions due to reinsurers.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.NonCurrentPayableOnReinsuranceContracts.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

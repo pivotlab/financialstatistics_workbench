@@ -1,0 +1,17 @@
+# Assets Exposures Credit Commitments Amount
+
+## identifier
+de8758
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of arrangements that irrevocably obligate an institution, at a client's request, to extend credit in the form of loans, participation in loans, lease financing receivables, mortgages, overdrafts, other loan substitutes, commitments to extend credit in the form of the purchase of loans, securities or other assets, such as back-up facilities including those under note issuance facilities and revolving underwriting facilities.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.OffBalanceSheetCreditCommitmentsCrossBorder.Amount
+- classification=baf/bafpo/bafpo3.02.05
+- period=instant

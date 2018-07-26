@@ -1,0 +1,19 @@
+# Expense Insurance Reinsurance Prudential Amount
+
+## identifier
+de8499
+
+## type
+float
+
+## definition
+This is the value of reinsurance expense recognised during the relevant period, as determined in accordance with the relevant prudential standards.
+ 
+Reinsurance expense represents the full costs of reinsurance entered into during the relevant period plus deferred reinsurance expense (DRE) at the beginning of the period, less deferred reinsurance expense (DRE) at the end of the relevant period.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.ReinsurancePrudential.Amount
+- classification=baf/bafpr/bafpr3.02.05
+- period=duration

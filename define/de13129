@@ -1,0 +1,16 @@
+# Regulatory Disclosures Insurance Claims Admitted Count
+
+## identifier
+de13129
+
+## type
+int
+
+## definition
+This is the number, during the relevant period, of insurance claims admitted but not yet paid.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuranceClaimsAdmitted.Count
+- classification=baf/bafot/bafot.02.15
+- period=duration

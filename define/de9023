@@ -1,0 +1,21 @@
+# Regulatory Disclosures Insurance Product Sold Under Australian Financial Services License Indicator
+
+## identifier
+de9023
+
+## type
+boolean
+
+## definition
+Indicate if products are sold under a Australian Financial Services License (AFSL).
+
+## guidance
+A choice of TRUE/FALSE values
+TRUE = products are sold under a Australian Financial Services License
+FALSE = products are not sold under a Australian Financial Services License
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuranceProductSoldUnderAustralianFinancialServicesLicense.Indicator
+- classification=baf/bafot/bafot.02.07
+- period=duration

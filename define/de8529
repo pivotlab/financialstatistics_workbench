@@ -1,0 +1,24 @@
+# Expense Operating Other GRF 310 0 G Amount
+
+## identifier
+de8529
+
+## type
+float
+
+## definition
+This is the value of other expenses recognised in the profit or loss during the relevant period, that are considered to be operating (or recurring), as required to be reported on APRA form GRF_310_0_G.
+
+This item consists of operating expenses that do not relate to:
+- expenses included in the underwriting result;
+- investment expenses on assets backing insurance liabilities;
+- investment expenses on shareholders' funds;
+- net foreign exchange losses; and
+- defined benefit actuarial losses.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.OtherGRF3100G.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

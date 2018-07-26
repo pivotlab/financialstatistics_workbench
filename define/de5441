@@ -1,0 +1,24 @@
+# Legislation Compliance General Compliance With Corporations Act 2001 Indicator
+
+## identifier
+de5441
+
+## type
+boolean
+
+## definition
+The requirement to attest compliance within this item is not intended to exceed the requirements to report only significant breaches to APRA as required by section 29JA of the SIS Act. In the event a breach in relation to this item which was not significant as defined in section 29JA of the SIS Act, then the reporting party is not required to attest non-compliance.
+
+This requires the Trustee to attest whether the superannuation entity has or has not complied with the relevant requirements of the applicable provisions (to the extent applicable) of the Corporations Act.
+
+## guidance
+A choice of TRUE/FALSE values.
+
+TRUE = The Trustee attests that the superannuation entity has complied with the relevant requirements of the applicable provisions (to the extent applicable) of the Corporations Act.
+FALSE = The Trustee attests that the superannuation entity has not complied with the relevant requirements of the applicable provisions (to the extent applicable) of the Corporations Act.
+
+## syntax
+### xbrl
+- name=LegislationCompliance.GeneralComplianceWithCorporationsAct2001.Indicator
+- classification=py/pyin/pyin.02.09
+- period=duration

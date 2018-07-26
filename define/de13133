@@ -1,0 +1,21 @@
+# Superannuation Regulatory Information Notifiable Event Indicator
+
+## identifier
+de13133
+
+## type
+boolean
+
+## definition
+This indicates whether a notifiable event has occurred during the relevant period.
+
+## guidance
+A choice of TRUE/FALSE values. 
+true = a notifiable event has occurred during the relevant period. 
+false = a notifiable event has not occurred during the relevant period.
+
+## syntax
+### xbrl
+- name=SuperannuationRegulatoryInformation.NotifiableEvent.Indicator
+- classification=em/emsup/emsup.02.10
+- period=duration

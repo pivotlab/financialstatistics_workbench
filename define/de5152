@@ -1,0 +1,25 @@
+# Financial Risk Solvency Prescribed Yield Adjustment Assets Non Standard Resillience Factors Amount
+
+## identifier
+de5152
+
+## type
+float
+
+## definition
+Report the value of the Prescribed Yield Adjustment in relation to admissible assets with non-standard resilience factors with resilience requirement, as per the solvency standard.
+
+The Prescribed Yield Adjustment is an addition to the resilience reserves calculated using prescribed factors, after allowing for the beneficial implications for asset risks of diversification across asset sectors, as set out in the solvency standards. The Resilience Reserve is determined as the additional amount that needs to be held before the happening of a prescribed set of changes in the economic environment, such that after the changes the admissible assets of the reporting party are able to meet the policy owner and other liabilities of the statutory fund.
+
+Admissible assets with non-standard resilience factors is the net market value, or fair value, of assets where the actuary has considered that non-standard resilience factors are appropriate.
+
+This should only be used in rare cases. It is intended to cover situations where assets are disaggregated into (1) an identifiable sub-asset and (2) a residual that does not fit into any of the asset sectors specified by Life Insurance Prudential Standards for resilience purposes, or where a non-standard resilience risk has been modelled in accordance with Life Insurance Prudential Standards.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.Solvency.PrescribedYieldAdjustmentAssetsNonStandardResillienceFactors.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

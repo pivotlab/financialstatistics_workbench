@@ -1,0 +1,17 @@
+# Financial Risk Capital Adequacy Other Income Estimate Amount
+
+## identifier
+de14089
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the other income estimate of the health benefits fund which is the private health insurer's estimate of its health benefits fund's xth percentile of its health related business and all other income, less associated expenses for the 12 months after the relevant day.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.OtherIncomeEstimate.Amount
+- classification=baf/bafot/bafot.02.25
+- period=duration

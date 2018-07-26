@@ -1,0 +1,20 @@
+# Financial Risk Risk Charge Variable Annuities Amount
+
+## identifier
+de12896
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date of the capital risk charge for variable annuity business that relates to asset and insurance risks, after allowance for diversification. This item is determined in accordance with relevant prudential standards. 
+Variable annuity means a policy with benefits calculated by reference to the value of the units allocated to the policy, but the benefits may exceed the value of those units in specified circumstances.
+The asset risk charge relates to the risk of adverse movements in the value of a fund's on-balance sheet and off-balance sheet exposures. Asset risk can be derived from a number of sources, including market risk and credit risk.
+The insurance risk charge is the minimum amount of capital required to be held against insurance risks. The insurance risk charge relates to the risk of adverse impacts due to movements in future mortality, morbidity, longevity, servicing expenses and lapses.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.RiskChargeVariableAnnuities.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

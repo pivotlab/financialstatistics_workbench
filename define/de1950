@@ -1,0 +1,17 @@
+# Superannuation Payment Benefit Lump Sum Retrenchment And Redundancies Amount
+
+## identifier
+de1950
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the expense for benefits paid to members as a result of retrenchment or redundancy.
+
+## syntax
+### xbrl
+- balance=credit
+- name=SuperannuationPayment.BenefitLumpSumRetrenchmentAndRedundancies.Amount
+- classification=em/emsup/emsup.02.00
+- period=duration

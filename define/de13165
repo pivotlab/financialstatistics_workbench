@@ -1,0 +1,16 @@
+# Organisation Control Registered Member Account With Rebate Count
+
+## identifier
+de13165
+
+## type
+int
+
+## definition
+The number of distinct entries recorded in the register of member accounts (or other equivalent mechanism) with fee rebate applied.
+
+## syntax
+### xbrl
+- name=OrganisationControl.RegisteredMemberAccountWithRebate.Count
+- classification=py/pyde/pyde.02.13
+- period=instant

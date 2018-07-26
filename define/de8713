@@ -1,0 +1,19 @@
+# Assets Investment Exposure Property Commercial Retail Amount
+
+## identifier
+de8713
+
+## type
+float
+
+## definition
+This is the value of the reporting party's investments that result in an exposure to the asset class of retail property.
+     
+Retail property exposure is defined according to the nature of the risk. An exposure should be classified as retail property risk, if the exposure is subject to the performance of the retail property market. This exposure does not include property used for the reporting party's own operational use.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.ExposurePropertyCommercialRetail.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=instant

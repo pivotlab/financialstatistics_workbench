@@ -1,0 +1,19 @@
+# Income Interest Other Excluding Derivatives Amount
+
+## identifier
+de8515
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+This is the value of other interest income for the relevant period, as required to be reported on relevant APRA forms.  This item represents interest income from parties that are not related, as determined by the accounting standards, and excludes interest income from derivatives.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Interest.OtherExcludingDerivatives.Amount
+- classification=baf/bafpr/bafpr2.02.06
+- period=duration

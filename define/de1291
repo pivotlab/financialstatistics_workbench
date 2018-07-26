@@ -1,0 +1,17 @@
+# Liabilities Deposits Total Amount
+
+## identifier
+de1291
+
+## type
+float
+
+## definition
+Report the value of deposits held at the reporting date redeemable or withdrawable by depositors from the reporting party. This item is to be determined in accordance with accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Deposits.Total.Amount
+- classification=baf/bafpo/bafpo6.02.05
+- period=instant

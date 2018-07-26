@@ -1,0 +1,17 @@
+# Equity Reserves Cash Flow Hedge Reserve Amount
+
+## identifier
+de1545
+
+## type
+float
+
+## definition
+Report the value of the reserve in relation to the effective portion of the gain or loss on the cash flow hedging instrument as determined in accordance with the accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Reserves.CashFlowHedgeReserve.Amount
+- classification=baf/bafpo/bafpo2.02.05
+- period=instant

@@ -1,0 +1,17 @@
+# Liabilities Other Balance Sheet Liabilities Amount
+
+## identifier
+de12954
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for liabilities other than: - Borrowings- Trade and other payables- Provisions- Gross policy liabilities- Policy owner retained profits- Unearned premium income- Approved subordinated debt Liabilities, as defined by the Australian Accounting Standards, are present obligations of an entity arising from past events, the settlement of which is expected to result in an outflow from the entity of resources embodying economic benefits.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherBalanceSheetLiabilities.Amount
+- classification=baf/bafpo/bafpo1.02.12
+- period=instant

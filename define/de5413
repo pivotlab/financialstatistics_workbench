@@ -1,0 +1,28 @@
+# Assets Exposures Off Balance Sheet Other BS Assets Disposal Proceeds Amount
+
+## identifier
+de5413
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+Report the proceeds of off balance sheet exposures to investment disposals during the relevant period other than those categorised as one of the following:
+- Cash and liquid assets
+- Receivables
+- Equity securities and unit trusts
+- Cash and fixed interest investments
+- Investment loans and advances
+- Investment Property
+- Balanced or mixed mandates, or those mandates which are unable to be allocated across this list of asset classes.
+
+Off-balance sheet asset exposures relate to those assets or rights that do not satisfy the recognition requirements of the relevant accounting standards and are therefore not recognised on the face of the balance sheet, or statement of financial position, such as contingent assets, performance-related rights and guarantees.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.Exposures.OffBalanceSheetOtherBSAssetsDisposalProceeds.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=duration

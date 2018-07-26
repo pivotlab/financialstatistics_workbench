@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Term Scheduled Repayments Amount
+
+## identifier
+de7627
+
+## type
+float
+
+## definition
+This is the value of scheduled repayments (interest plus principal) during the relevant period in accordance with the conditions of term loans held by the reporting party.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.LoansAndReceivables.TermScheduledRepayments.Amount
+- classification=baf/bafpo/bafpo5.02.05
+- period=duration

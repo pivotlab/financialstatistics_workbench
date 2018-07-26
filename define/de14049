@@ -1,0 +1,16 @@
+# Regulatory Disclosures Policy Movements Outwards Count
+
+## identifier
+de14049
+
+## type
+int
+
+## definition
+This is the number, during the relevant period, of outwards policy movements.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.PolicyMovementsOutwards.Count
+- classification=baf/bafot/bafot.02.25
+- period=duration

@@ -1,0 +1,31 @@
+# Liabilities Exposures Off Balance Sheet Other BS Item Settlement Amount
+
+## identifier
+de5148
+
+## type
+float
+
+## definition
+This is a balancing item in the list in which it is being used.
+
+Report the amount paid, during the relevant period, to settle off balance sheet exposures related to liabilities other than those categorised as one of the following: 
+
+- Administration Fees
+- Management Fees
+- Investment Fees
+- Trustee Fees
+- Audit and Tax Fees
+- Members benefits payable
+- Borrowings.
+
+The settlement of a liability takes place when all legal or constructive obligations are eliminated.
+
+Off-balance sheet liability exposures relate to those liabilities or obligations that do not satisfy the recognition requirements of the relevant accounting standards and are therefore not recognised on the face of the balance sheet, or statement of financial position.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Exposures.OffBalanceSheetOtherBSItemSettlement.Amount
+- classification=baf/bafpo/bafpo3.02.04
+- period=duration

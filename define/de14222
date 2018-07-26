@@ -1,0 +1,17 @@
+# Superannuation Regulatory Information Fees Costs Amount
+
+## identifier
+de14222
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of total fees and costs for a representative member.
+
+## syntax
+### xbrl
+- balance=debit
+- name=SuperannuationRegulatoryInformation.FeesCosts.Amount
+- classification=em/emsup/emsup.02.24
+- period=instant

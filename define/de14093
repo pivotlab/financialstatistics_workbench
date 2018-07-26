@@ -1,0 +1,17 @@
+# Assets Other Non Financial Assets Earnt Unclosed Business Contribution Amount
+
+## identifier
+de14093
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for unclosed business contributions. Only earned unclosed contributions/premiums are recognised. These are premiums in arrears, including those collected by third parties, measured up to the relevant balance date only.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherNonFinancialAssets.EarntUnclosedBusinessContribution.Amount
+- classification=baf/bafpo/bafpo7.02.21
+- period=instant

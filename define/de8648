@@ -1,0 +1,18 @@
+# Financial Risk Solvency Coverage Ratio Fraction
+
+## identifier
+de8648
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of solvency coverage ratio, as determined in accordance with relevant prudential standards.
+
+Solvency refers to the ability of an entity to meet its obligations (liabilities) under all contracts at any time.
+
+## syntax
+### xbrl
+- name=FinancialRisk.SolvencyCoverageRatio.Fraction
+- classification=baf/bafot/bafot.02.06
+- period=instant

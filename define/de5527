@@ -1,0 +1,31 @@
+# Financial Risk Capital Adequacy Credit Risk Yield Adjustment Non Indexed IBS Amount
+
+## identifier
+de5527
+
+## type
+float
+
+## definition
+Report the value of the Credit Risk Yield Adjustment in relation to admissible non indexed interest bearing securities with resilience requirement, as per the capital adequacy standard.
+
+Non-indexed securities pay an income stream that is not dependent upon any external factor.
+
+The Credit Risk Yield Adjustment is an addition to the resilience reserves made in accordance with the capital adequacy standards. The Resilience Reserve is determined as the additional amount that needs to be held before the happening of a prescribed set of changes in the economic environment ( as per the capital adequacy standard), such that after the changes the admissible assets of the reporting party are able to meet the policy owner and other liabilities of the statutory fund, in an ongoing business context.
+
+Admissible interest bearing securities is the value of all debt securities paying an income stream based upon an interest rate consistent with the classification and measurement basis used for investment securities in accordance with the accounting standards, less the value of those deemed to be inadmissible, as per the capital adequacy standard. 
+
+The inadmissible assets are: 
+a) defined benefit superannuation fund surpluses;
+b) holdings in an associated or subsidiary entity which is a Financial Services entity;
+c) non-realisable (in the context of the capital adequacy tests) intangible assets;
+d) assets with too little diversification, are too illiquid or have too great an exposure to one obligor of low credit standing;
+e) reinsurance assets which may not be fully recoverable in the context of the capital adequacy tests; and
+f) amounts by which the recorded value of an asset exceeds its net realisable value.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.CapitalAdequacy.CreditRiskYieldAdjustmentNonIndexedIBS.Amount
+- classification=baf/bafot/bafot.02.05
+- period=instant

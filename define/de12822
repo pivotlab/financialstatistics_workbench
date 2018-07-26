@@ -1,0 +1,23 @@
+# Assets Exposures Equity Securities Amount
+
+## identifier
+de12822
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date of counterparty exposures to equity securities. 
+
+An exposure to a counterparty or a group of related counterparties is the aggregate of all claims, commitments arising from on-balance sheet transactions with the counterparty or group of related counterparties. 
+
+Equity securities are, as defined by the Australian Accounting Standards, contracts that evidence a residual interest in the assets of an entity after deducting all its liabilities. This includes equity securities lent or sold by the entity under repurchase agreements, where the transaction does not result in the transfer of the rights of ownership of the securities away from the entity to another party.
+
+On-balance sheet refers to those assets, or exposure items, which are recognised or recorded on the statement of financial position of the reporting entity, as determined in accordance with relevant Accounting Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.EquitySecurities.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

@@ -1,0 +1,19 @@
+# Assets Other Financial Assets Balancing Item Form RRF320 Amount
+
+## identifier
+de7635
+
+## type
+float
+
+## definition
+This is the balancing item in the list in which it is being used.
+
+This is the value of all financial assets that have not been reported elsewhere on APRA form RRF 320.0
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.BalancingItemFormRRF320.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=instant

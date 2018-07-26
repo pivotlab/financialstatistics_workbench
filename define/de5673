@@ -1,0 +1,16 @@
+# Financial Risk Market Unhedged Currency Risk Exposure Net Assets Backing Policy Liabilities Percent
+
+## identifier
+de5673
+
+## type
+float
+
+## definition
+Report the proportion (as a percentage) of the net total assets backing policy liabilities that are exposed to unhedged currency risks associated with foreign currencies.
+
+## syntax
+### xbrl
+- name=FinancialRisk.Market.UnhedgedCurrencyRiskExposureNetAssetsBackingPolicyLiabilities.Percent
+- classification=baf/bafot/bafot.02.05
+- period=instant

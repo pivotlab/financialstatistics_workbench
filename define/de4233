@@ -1,0 +1,21 @@
+# Liabilities Borrowings Including Overdrafts Amount
+
+## identifier
+de4233
+
+## type
+float
+
+## definition
+Report the net market value, or fair value, of borrowings, including overdrafts. This method of disclosure differs from the Australian Accounting Standards.
+
+Borrowings are amounts of money on loan from financial institutions or other creditors with the promise or understanding that it will be repaid.
+
+Net market value, or fair value, is the amount which could be expected to be received from the disposal of an asset in an orderly market; or in an arm's length transaction between knowledgeable, willing parties; after deducting costs expected to be incurred in realising the proceeds of such a disposal.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.BorrowingsIncludingOverdrafts.Amount
+- classification=baf/bafpo/bafpo1.02.05
+- period=instant

@@ -1,0 +1,17 @@
+# Liabilities Insurance Outstanding Claims Liability Accounting Amount
+
+## identifier
+de12920
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of the outstanding claims liability (OCL) as determined in accordance with relevant Accounting Standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Insurance.OutstandingClaimsLiabilityAccounting.Amount
+- classification=baf/bafpo/bafpo3.02.09
+- period=instant

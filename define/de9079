@@ -1,0 +1,16 @@
+# Regulatory Disclosures Insurance Dispute Resolution Body List Text
+
+## identifier
+de9079
+
+## type
+string
+
+## definition
+This is the list of dispute resolution bodies that a member can lodge a complaint with.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuranceDisputeResolutionBodyList.Text
+- classification=baf/bafot/bafot.02.07
+- period=duration

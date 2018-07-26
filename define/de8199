@@ -1,0 +1,17 @@
+# Assets Investment Total Other ARF 117 Amount
+
+## identifier
+de8199
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of "Total Other Investments" as required on ARF_117_0.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.TotalOtherARF117.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=instant

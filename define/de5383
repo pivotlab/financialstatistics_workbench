@@ -1,0 +1,31 @@
+# Financial Risk Capital Adequacy Reserve Ratio Percent
+
+## identifier
+de5383
+
+## type
+float
+
+## definition
+Report the ratio of the capital adequacy reserve to the sum of the termination value (as per the capital adequacy standard) and other liabilities.
+
+The Capital Adequacy Reserve Ratio should be calculated as:
+SR / Absolute(MTV + OL)
+where:
+SR = the amount reserved, including the amount of any investment linked risk margin (see below), in accordance with the capital adequacy standard
+
+MTV = the minimum termination value (net of reinsurance) excluding the amount of any investment linked risk margin (see below)
+
+OL = Other Liabilities - the total liabilities as determined in accordance with the relevant accounting standards other than Policy Liabilities, Borrowings, Approved Eligible Subordinated Debt and Seed Capital.
+
+The minimum termination value (MTV) is determined by the prudential standards as the amount that a life insurer is obliged to pay to policyholders if they decided to voluntarily terminate their policies at the relevant date. The obligation might be contractual, statutory or a result of past practice. Calculated as the greater of: 
+a) the lowest Termination Value that the reporting party is obliged to pay; and 
+b) the amount calculated in accordance with the Surrender Value Standard.
+
+The investment linked (IL) risk margin reflects the additional risks that may be borne by the reporting party in conducting investment-linked business.
+
+## syntax
+### xbrl
+- name=FinancialRisk.CapitalAdequacy.ReserveRatio.Percent
+- classification=baf/bafot/bafot.02.05
+- period=instant

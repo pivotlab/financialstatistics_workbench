@@ -1,0 +1,17 @@
+# Equity Reserves Unallocated Benefit Fund Amount
+
+## identifier
+de4073
+
+## type
+float
+
+## definition
+Report the value of benefit funds which has not been allocated to either the benefit fund members or to the management fund.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Reserves.UnallocatedBenefitFund.Amount
+- classification=baf/bafpo/bafpo2.02.05
+- period=instant

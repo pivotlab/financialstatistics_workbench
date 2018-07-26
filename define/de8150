@@ -1,0 +1,17 @@
+# Assets Property Including Trusts Amount
+
+## identifier
+de8150
+
+## type
+float
+
+## definition
+This is the value of property held by the reporting party as at the relevant date. Property includes both real estate and property trusts.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.PropertyIncludingTrusts.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

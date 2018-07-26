@@ -1,0 +1,17 @@
+# Financial Risk Probable Maximum Loss Adjustment Amount
+
+## identifier
+de12884
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, of adjustment to the probable maximum loss that is already specifically allowed for in the premiums liabilities of the insurer.
+
+## syntax
+### xbrl
+- balance=credit
+- name=FinancialRisk.ProbableMaximumLossAdjustment.Amount
+- classification=baf/bafot/bafot.02.12
+- period=instant

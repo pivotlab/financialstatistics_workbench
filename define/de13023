@@ -1,0 +1,16 @@
+# Financial Risk Credit Credit Value Adjustment Calculating Approach Risk Charge Text
+
+## identifier
+de13023
+
+## type
+string
+
+## definition
+The reporting entity must identify the calculation approach used in determining the credit value adjustment (CVA) risk capital charge.
+
+## syntax
+### xbrl
+- name=FinancialRisk.Credit.CreditValueAdjustmentCalculatingApproachRiskCharge.Text
+- classification=baf/bafot/bafot.02.12
+- period=instant

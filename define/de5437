@@ -1,0 +1,17 @@
+# Equity Movements Retained Profits Transfers Out To Shareholder Funds Non Participating Amount
+
+## identifier
+de5437
+
+## type
+float
+
+## definition
+Report the value of transfers of retained profits from non participating business of the reporting party to shareholder funds.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Equity.Movements.RetainedProfitsTransfersOutToShareholderFundsNonParticipating.Amount
+- classification=baf/bafpo/bafpo4.02.04
+- period=duration

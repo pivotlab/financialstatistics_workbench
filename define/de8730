@@ -1,0 +1,19 @@
+# Expense Write Off Indirect Exposure Property Commercial Land Amount
+
+## identifier
+de8730
+
+## type
+float
+
+## definition
+This is the amount written off other than directly to Profit & Loss (i.e. via provisions or asset revaluation reserves), of the value of the reporting party's investments that result in an exposure to the asset class of land development.
+     
+land development property exposure is defined according to the nature of the risk. An exposure should be classified as land development property risk, if the exposure is subject to the performance of the property market for vacant land - i.e. that land upon which no permanent structure has been erected. This exposure does not include property used for the reporting party's own operational use.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.WriteOffIndirectExposurePropertyCommercialLand.Amount
+- classification=baf/bafpr/bafpr1.02.06
+- period=duration

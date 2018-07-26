@@ -1,0 +1,21 @@
+# Assets Claims Risk Transfer From ECB Gross Amount
+
+## identifier
+de8759
+
+## type
+float
+
+## definition
+This is the value of outwards risk transfers from the European Central Bank (ECB) as at the relevant date, being the value of all claims in which the risk has been reallocated from an immediate counterparty that is the ECB to a counterparty that is not, by way of guarantees, collateral and banking book credit derivatives.
+                                                                                                                  
+The immediate counterparty is the one from whom the reporting party directly derives its return on investment in the financial asset and on whom the reporting party has the primary claim when liquidating the asset.
+                                                                                                                                                            
+A claim is a financial asset and consists of money or a claim against another person or business (the counterparty) that can be converted into money.  It does not include intangible or operational assets of the reporting party nor does it include claims arising as a result of operational requirements of the business such as trade receivables or deferred tax assets.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.ClaimsRiskTransferFromECBGross.Amount
+- classification=baf/bafpo/bafpo1.02.06
+- period=instant

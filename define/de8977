@@ -1,0 +1,16 @@
+# Regulatory Disclosures Insurance Types Not Automatically Reinstated Text
+
+## identifier
+de8977
+
+## type
+string
+
+## definition
+Detail types of insurance (classes/risks/maximum sum insured) which are not automatically reinstated.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.InsuranceTypesNotAutomaticallyReinstated.Text
+- classification=baf/bafot/bafot.02.07
+- period=duration

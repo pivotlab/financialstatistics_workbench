@@ -1,0 +1,19 @@
+# Assets Investment Debt Securities Asset Backed Net Acquisition Disposal Transactions Amount
+
+## identifier
+de4099
+
+## type
+float
+
+## definition
+Report the net of all acquisition and disposal transactions of securitised instruments. These transactions involve the exchange of valuable consideration between counterparties. Where this results in a net decrease in the net market value of securitised instruments, then report a negative figure.
+
+Securitised instruments represent securities using specifically selected assets (eg. mortgages, receivables) to provide backing (collateral) for the securities and generate the payment streams necessary to fulfil interest and principal requirements for investors. These forms of securities are usually issued by a Special Purpose Vehicle (SPV).
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.DebtSecuritiesAssetBackedNetAcquisitionDisposalTransactions.Amount
+- classification=baf/bafpo/bafpo7.02.05
+- period=duration

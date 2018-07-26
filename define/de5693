@@ -1,0 +1,16 @@
+# Organisation Control Members New Employer Sponsored Count
+
+## identifier
+de5693
+
+## type
+int
+
+## definition
+Report the number of new members that have joined as members of the reporting entity during the relevant period and are classified as employer sponsored members.
+
+## syntax
+### xbrl
+- name=OrganisationControl.MembersNewEmployerSponsored.Count
+- classification=py/pyde/pyde.02.06
+- period=duration

@@ -1,0 +1,17 @@
+# Income Investment Other Total Amount
+
+## identifier
+de2003
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for any other investment income that is not already listed in the form.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Investment.OtherTotal.Amount
+- classification=baf/bafpr/bafpr2.02.14
+- period=duration

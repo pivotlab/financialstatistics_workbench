@@ -1,0 +1,21 @@
+# Financial Risk Market Exposure Property Land Development Amount
+
+## identifier
+de8691
+
+## type
+float
+
+## definition
+This is the value of the reporting party's total  on and off balance sheet commercial property exposure to land development and subdivision.
+     
+Commercial property exposure is defined according to the nature of the risk. An exposure should be classified as commercial property risk, if the exposure is subject to the performance of the property market.
+     
+For reporting purposes, an exposure exists when a facility has been provided for the development and/or subdivision of land, and the servicing and repayment of the facility is dependent on the cash flows generated through sale of the land, and/or from cash flows generated from other land development or subdivision activity owned by the borrower.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Market.ExposurePropertyLandDevelopment.Amount
+- classification=baf/bafot/bafot.02.06
+- period=instant

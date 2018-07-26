@@ -1,0 +1,17 @@
+# Assets Cash And Liquid Assets Deposits At Call Eligible Amount
+
+## identifier
+de7828
+
+## type
+float
+
+## definition
+This is the value, as at the relevant date, for deposits placed on a call, 11am or 24 hours basis.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.DepositsAtCallHQLA.Amount
+- classification=baf/bafpo/bafpo7.02.06
+- period=instant
