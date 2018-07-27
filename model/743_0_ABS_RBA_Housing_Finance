@@ -6,23 +6,18 @@ Lodgement
 	^IdentifiersAustralianBusinessNumberIdentifier:(http://definitions.ausdx.io/definition/trc/de26)
 	^ReportingConsolidationBasisDimension:(http://financialstatistics.pivotlab.io/define/dm916)=Domestic Books
 	newApplicationsForHousingLoans:NewLoan[]
-	newBorrowerAcceptedCommitments:newBorrowerCommitments[]
 
 NewLoan
 	^ActivityStatusDimension:(https://financialstatistics.pivotlab.io/define/dm888)=New
-	// Is the loan owner occupied or for investment
-	^LoanPurposeDimension:(https://financialstatistics.pivotlab.io/define/dm347)?
+	^ownerOccupiedOrInvestment:(https://financialstatistics.pivotlab.io/define/dm347)?
  loanApplicatoin:LoanApplication
 
 LoanApplication
 	AssetsLoansAndReceivablesLendingFacilitiesCount:(https://financialstatistics.pivotlab.io/define/de15085)
 	AssetsLoansAndReceivablesLoanAccountSwitchAmount:(https://financialstatistics.pivotlab.io/define/de15097)
-	// Resident or non resident
-	^InstitutionalUnitResidencyDimension:(https://financialstatistics.pivotlab.io/define/dm905)
-	// Foreign or Domestic income
-	^AllowableIncomeSourceDimension:(https://financialstatistics.pivotlab.io/define/dm936)?
-	// Fixed or Variable
-	^InterestRateTypeDimension:(https://financialstatistics.pivotlab.io/define/dm365)?
+	^residentOrNonResident:(https://financialstatistics.pivotlab.io/define/dm905)
+	^foreignOrDomestic:(https://financialstatistics.pivotlab.io/define/dm936)?
+	^fixedOrVariable:(https://financialstatistics.pivotlab.io/define/dm365)?
 	
 	
 	
