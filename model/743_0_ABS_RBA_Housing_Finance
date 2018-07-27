@@ -1,12 +1,30 @@
 package apra.arf
 743_0_ABS_RBA_Housing_Finance
 
+
 Lodgement
 	IdentifiersAustralianBusinessNumberIdentifier:(http://definitions.ausdx.io/definition/trc/de26)
 	// This must be set to "Domestic Books"
 	ReportingConsolidationBasisDimension:(http://financialstatistics.pivotlab.io/define/dm916)
-	newApplicationsForHousingLoans:HousingLoan[]
+	newApplicationsForHousingLoans:NewLoan[]
+
+
+NewLoan
+ // This must be set to 'New'
+	ActivityStatusDimension:(https://financialstatistics.pivotlab.io/define/dm888)
+ loanApplicatoin:LoanApplication
+
+LoanApplication
+	AssetsLoansAndReceivablesLendingFacilitiesCount:(https://financialstatistics.pivotlab.io/define/de15085)
+	AssetsLoansAndReceivablesLoanAccountSwitchAmount:(https://financialstatistics.pivotlab.io/define/de15097)
+	InstitutionalUnitResidencyDimension:(https://financialstatistics.pivotlab.io/define/dm905)
+	LoanPurposeDimension:(https://financialstatistics.pivotlab.io/define/dm347)?
+	InterestRateTypeDimension:(https://financialstatistics.pivotlab.io/define/dm365)?
 	
 	
-HousingLoan
- 
+	
+	
+	
+	
+	
+	
