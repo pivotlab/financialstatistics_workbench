@@ -3,20 +3,20 @@ package apra.arf
 
 
 Lodgement
-	IdentifiersAustralianBusinessNumberIdentifier:(http://definitions.ausdx.io/definition/trc/de26)
-	ReportingConsolidationBasisDimension:(http://financialstatistics.pivotlab.io/define/dm916)=Domestic Books
+	^IdentifiersAustralianBusinessNumberIdentifier:(http://definitions.ausdx.io/definition/trc/de26)
+	^ReportingConsolidationBasisDimension:(http://financialstatistics.pivotlab.io/define/dm916)=Domestic Books
 	newApplicationsForHousingLoans:NewLoan[]
 
 NewLoan
-	ActivityStatusDimension:(https://financialstatistics.pivotlab.io/define/dm888)=New
+	^ActivityStatusDimension:(https://financialstatistics.pivotlab.io/define/dm888)=New
  loanApplicatoin:LoanApplication
 
 LoanApplication
 	AssetsLoansAndReceivablesLendingFacilitiesCount:(https://financialstatistics.pivotlab.io/define/de15085)
 	AssetsLoansAndReceivablesLoanAccountSwitchAmount:(https://financialstatistics.pivotlab.io/define/de15097)
-	InstitutionalUnitResidencyDimension:(https://financialstatistics.pivotlab.io/define/dm905)
-	LoanPurposeDimension:(https://financialstatistics.pivotlab.io/define/dm347)?
-	InterestRateTypeDimension:(https://financialstatistics.pivotlab.io/define/dm365)?
+	^InstitutionalUnitResidencyDimension:(https://financialstatistics.pivotlab.io/define/dm905)
+	^LoanPurposeDimension:(https://financialstatistics.pivotlab.io/define/dm347)?
+	^InterestRateTypeDimension:(https://financialstatistics.pivotlab.io/define/dm365)?
 	
 	
 	
