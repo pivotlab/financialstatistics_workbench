@@ -7,7 +7,6 @@ Lodgement
 	ReportingConsolidationBasisDimension:(http://financialstatistics.pivotlab.io/define/dm916)=Domestic Books
 	newApplicationsForHousingLoans:NewLoan[]
 
-
 NewLoan
 	ActivityStatusDimension:(https://financialstatistics.pivotlab.io/define/dm888)=New
  loanApplicatoin:LoanApplication
