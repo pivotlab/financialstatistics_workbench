@@ -6,18 +6,43 @@ Lodgement
 	^IdentifiersAustralianBusinessNumberIdentifier:(http://definitions.ausdx.io/definition/trc/de26)
 	^ReportingConsolidationBasisDimension:(http://financialstatistics.pivotlab.io/define/dm916)=Domestic Books
 	newApplicationsForHousingLoans:NewLoan[]
+	newBorrowerAcceptedCommitments:BorrowerCommitments[]
+	firstHomeNewBorrowerAcceptedCommitments:FirstHomeBorrowerCommitments[]
 
 NewLoan
 	^ActivityStatusDimension:(https://financialstatistics.pivotlab.io/define/dm888)=New
-	^ownerOccupiedOrInvestment:(https://financialstatistics.pivotlab.io/define/dm347)?
+	^ownerOccupiedOrInvestment:(https://financialstatistics.pivotlab.io/define/dm347)
+	^residentOrNonResident:(https://financialstatistics.pivotlab.io/define/dm905)
+	^fixedOrVariable:(https://financialstatistics.pivotlab.io/define/dm365)
+ loanApplicatoin:LoanApplication
+ 
+BorrowerCommitments
+ ^ActivityStatusDimension:(https://financialstatistics.pivotlab.io/define/dm888)=New
+	^foreignOrDomestic:(https://financialstatistics.pivotlab.io/define/dm936)
+	^propertyLocation:(https://financialstatistics.pivotlab.io/define/dm909)
+	^ownerOccupiedOrInvestment:(https://financialstatistics.pivotlab.io/define/dm347)
+	^residentOrNonResident:(https://financialstatistics.pivotlab.io/define/dm905)
+	^TypeOfFundingCommitmentDimension:(https://financialstatistics.pivotlab.io/define/dm751)
+	// find this one
+	BorrowerAccepted:float
+ loanApplicatoin:LoanApplication
+ 
+FirstHomeBorrowerCommitments
+ ^ActivityStatusDimension:(https://financialstatistics.pivotlab.io/define/dm888)=New
+	^foreignOrDomestic:(https://financialstatistics.pivotlab.io/define/dm936)
+	^propertyLocation:(https://financialstatistics.pivotlab.io/define/dm909)
+	^ownerOccupiedOrInvestment:(https://financialstatistics.pivotlab.io/define/dm347)
+	^residentOrNonResident:(https://financialstatistics.pivotlab.io/define/dm905)
+	^TypeOfFundingCommitmentDimension:(https://financialstatistics.pivotlab.io/define/dm751)
+	// find this one
+	BorrowerAccepted:float
  loanApplicatoin:LoanApplication
 
 LoanApplication
 	AssetsLoansAndReceivablesLendingFacilitiesCount:(https://financialstatistics.pivotlab.io/define/de15085)
 	AssetsLoansAndReceivablesLoanAccountSwitchAmount:(https://financialstatistics.pivotlab.io/define/de15097)
-	^residentOrNonResident:(https://financialstatistics.pivotlab.io/define/dm905)
-	^foreignOrDomestic:(https://financialstatistics.pivotlab.io/define/dm936)?
-	^fixedOrVariable:(https://financialstatistics.pivotlab.io/define/dm365)?
+	
+	
 	
 	
 	
