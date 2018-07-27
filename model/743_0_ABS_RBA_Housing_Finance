@@ -4,8 +4,7 @@ package apra.arf
 
 Lodgement
 	IdentifiersAustralianBusinessNumberIdentifier:(http://definitions.ausdx.io/definition/trc/de26)
-	// This must be set to "Domestic Books"
-	ReportingConsolidationBasisDimension:(http://financialstatistics.pivotlab.io/define/dm916)
+	ReportingConsolidationBasisDimension:(http://financialstatistics.pivotlab.io/define/dm916)=Domestic Books
 	newApplicationsForHousingLoans:NewLoan[]
 
 
