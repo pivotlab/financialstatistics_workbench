@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Deposits Placed Amount
+
+## identifier
+de14999
+
+## type
+float
+
+## definition
+This is the value of any non-negotiable contracts that represent the placement of funds at other institutions available for later withdrawal.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.DepositsPlaced.Amount
+- classification=baf/bafpo/bafpo5.02.16
+- period=instant

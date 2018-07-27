@@ -1,0 +1,17 @@
+# Expense Rental Operating Lease Amount
+
+## identifier
+de15130
+
+## type
+float
+
+## definition
+The net rent (rental expense plus other rental related expense) for operating leases recognised as expense under the Australian Accounting Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.RentalOperatingLease.Amount
+- classification=baf/bafpr/bafpr1.02.35
+- period=duration

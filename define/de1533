@@ -7,7 +7,7 @@ de1533
 float
 
 ## definition
-Capital profits reserve represents the realised value of revaluations associated with an asset or class of assets that have been disposed of. 
+This is the realised value of revaluations associated with an asset or class of assets that have been disposed of. These assets have been subject to the fair value basis of measurement and revaluations accounted for in accordance with Accounting Standard Property, Plant and Equipment (AASB 116). Due to the disposal of these assets, the balance of the asset revaluation reserve (ARR) associated with these assets has been transferred to a capital profits reserve.
 
 ## syntax
 ### xbrl

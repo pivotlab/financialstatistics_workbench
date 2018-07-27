@@ -1,0 +1,17 @@
+# Assets Receivable Relating Securities Borrowed Or Purchased Under Repurchase Agreements Amount
+
+## identifier
+de15007
+
+## type
+float
+
+## definition
+This is the value of receivables relating to securities borrowed under securities lending arrangements or purchased under repurchase agreements.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.ReceivableRelatingSecuritiesBorrowedOrPurchasedUnderRepurchaseAgreements.Amount
+- classification=baf/bafpo/bafpo1.02.33
+- period=instant

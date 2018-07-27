@@ -1,4 +1,4 @@
-# Assets Loans And Receivables Term Scheduled Repayments Amount
+# Assets Loans And Receivables Scheduled Repayments Amount
 
 ## identifier
 de7627
@@ -7,7 +7,7 @@ de7627
 float
 
 ## definition
-This is the value of scheduled repayments (interest plus principal) during the relevant period in accordance with the conditions of term loans held by the reporting party.
+Scheduled repayments are contracted, agreed or minimum repayment amounts. They are the total (interest and any other fees or charges plus principal as appropriate) value of payments due in the relevant period, in accordance with the loan conditions. Scheduled repayments may exceed the minimum required repayment possible under the loan conditions.
 
 ## syntax
 ### xbrl

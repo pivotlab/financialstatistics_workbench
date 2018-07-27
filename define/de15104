@@ -1,0 +1,16 @@
+# Assets Loans And Receivables Average Loan To Valuation Ratio At Commitment Percent
+
+## identifier
+de15104
+
+## type
+float
+
+## definition
+This is the average loan-to-valuation ratio at commitment for loans funded during the period, weighted by loan size at commitment.
+
+## syntax
+### xbrl
+- name=Assets.LoansAndReceivables.AverageLoanToValuationRatioAtCommitment.Percent
+- classification=baf/bafpo/bafpo5.02.17
+- period=duration

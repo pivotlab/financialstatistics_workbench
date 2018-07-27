@@ -1,0 +1,17 @@
+# Expense Operating Amortisation And Impairment Of Intangibles Not Software Amount
+
+## identifier
+de15139
+
+## type
+float
+
+## definition
+This is the value for amortisation and impairment of intangible assets not software in accordance with the treatment of intangible assets other than computer software as outlined by AASB 138 Intangible Assets (AASB 138).
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.AmortisationAndImpairmentOfIntangiblesNotSoftware.Amount
+- classification=baf/bafpr/bafpr2.02.24
+- period=duration

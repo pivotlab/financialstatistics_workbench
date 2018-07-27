@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Drawdowns Existing Loans Amount
+
+## identifier
+de15094
+
+## type
+float
+
+## definition
+This is the value of drawdowns on existing loans that were not funded during the period. Include drawdowns from redraw facilities.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.DrawdownsExistingLoans.Amount
+- classification=baf/bafpo/bafpo5.02.17
+- period=duration

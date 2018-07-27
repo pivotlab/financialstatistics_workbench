@@ -1,0 +1,17 @@
+# Assets Other Financial Assets Securities Lending Market Amount
+
+## identifier
+de15161
+
+## type
+float
+
+## definition
+This is the market value of the securities loaned in a securities lending agreement.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.SecuritiesLendingMarket.Amount
+- classification=baf/bafpo/bafpo7.02.27
+- period=instant

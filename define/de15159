@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities Repurchase Agreements Principal Amount
+
+## identifier
+de15159
+
+## type
+float
+
+## definition
+This is the value of the principal amount of cash borrowed (post haircut) on the initial leg of a repo transaction, which is a contractual arrangement involving the provision of securities or other financial assets (collateral) in exchange for cash with a commitment to repurchase the same or similar collateral at a fixed price either on a specified future date or on demand.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.RepurchaseAgreementsPrincipal.Amount
+- classification=baf/bafpo/bafpo6.02.21
+- period=instant

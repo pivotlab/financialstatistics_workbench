@@ -1,0 +1,16 @@
+# Identification Details Counterparty Name Text
+
+## identifier
+de15187
+
+## type
+string
+
+## definition
+This is the legal name of the counterparty.
+
+## syntax
+### xbrl
+- name=IdentificationDetails.CounterpartyName.Text
+- classification=py/pyid/pyid.02.22
+- period=instant

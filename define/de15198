@@ -1,0 +1,19 @@
+# Financial Risk Market Haircut Rate Percent
+
+## identifier
+de15198
+
+## type
+float
+
+## definition
+The haircut rate is the difference between the market value of an asset and the purchase price paid at the start of a repo or reverse repo, or a securities lending or securities borrowing transaction. It is expressed as the percentage deduction from the market value of collateral.
+
+## guidance
+Report as a per cent to two decimal places.
+
+## syntax
+### xbrl
+- name=FinancialRisk.Market.HaircutRate.Percent
+- classification=baf/bafot/bafot.02.35
+- period=instant

@@ -1,0 +1,20 @@
+# Expense Capital Computer Software Amount
+
+## identifier
+de15148
+
+## type
+float
+
+## definition
+The value of all capital expenditure for computer software.
+
+## guidance
+It includes: capitalised computer software license fees; installation costs; purchase or development of large databases; computer software developed in-house; and capitalised payments to contractors and consultants for software development. It excludes: computer software expensed; and software maintenance.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.CapitalComputerSoftware.Amount
+- classification=baf/bafpr/bafpr1.02.35
+- period=duration

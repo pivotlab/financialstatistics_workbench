@@ -1,0 +1,18 @@
+# Expense Interest Incurred Amount
+
+## identifier
+de15127
+
+## type
+float
+
+## definition
+Payments of interest incurred during the period that are due to customers and holders of debt securities during the period, including coupon payments. 
+Report interest expense incurred in accordance with Australian Accounting Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Interest.Incurred.Amount
+- classification=baf/bafpr/bafpr2.02.24
+- period=duration

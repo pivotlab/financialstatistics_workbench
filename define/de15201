@@ -1,0 +1,19 @@
+# Regulatory Disclosures Security Sought Currency Text
+
+## identifier
+de15201
+
+## type
+string
+
+## definition
+This is the text that identifies the currency code of the security sought for the transaction.
+
+## guidance
+Please enter the text as a three-letter ISO 4217 currency code.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.SecuritySoughtCurrency.Text
+- classification=baf/bafot/bafot.02.35
+- period=instant

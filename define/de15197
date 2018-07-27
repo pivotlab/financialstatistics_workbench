@@ -1,0 +1,19 @@
+# Regulatory Disclosures Collateral Currency Text
+
+## identifier
+de15197
+
+## type
+string
+
+## definition
+This is the currency code that identifies the currency in which the collateral for the transaction is denominated.
+
+## guidance
+Please enter the text as a three-letter ISO 4217 currency code.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.CollateralCurrency.Text
+- classification=baf/bafot/bafot.02.35
+- period=instant

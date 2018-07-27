@@ -1,0 +1,19 @@
+# Regulatory Disclosures Available For Re Use Text
+
+## identifier
+de15195
+
+## type
+string
+
+## definition
+This is the text that flags whether or not the collateral is available for re-use, which means securities that are received as collateral for one transaction and also used as collateral for another transaction. This is distinct from re-hypothecation, which is a subset of re-use but for client assets only.
+
+## guidance
+Please enter either 'Y' or 'N'.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.AvailableForReUse.Text
+- classification=baf/bafot/bafot.02.35
+- period=instant

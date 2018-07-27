@@ -1,0 +1,17 @@
+# Expense Impairment Recoveries Amount
+
+## identifier
+de15145
+
+## type
+float
+
+## definition
+This is the value of reversals of impairment losses on financial assets as determined in accordance with Australian Accounting Standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Expense.ImpairmentRecoveries.Amount
+- classification=baf/bafpr/bafpr1.02.35
+- period=instant

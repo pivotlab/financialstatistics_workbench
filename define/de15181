@@ -1,0 +1,16 @@
+# Assets Weighted Average LVR Margin Loans LVR Less Than Equal 5 Percent Margin Call Percent
+
+## identifier
+de15181
+
+## type
+float
+
+## definition
+This is the weighted average loan to valuation ratio (LVR) for margin loans with a LVR that is less than or equal to 5 percentage points away from a margin call. The weighted average LVR is the sum of individual LVRs, where the weights used are the corresponding balances expressed as a share of the total balance.
+
+## syntax
+### xbrl
+- name=Assets.WeightedAverageLVRMarginLoansLVRLessThanEqual5PercentMarginCall.Percent
+- classification=baf/bafpo/bafpo1.02.34
+- period=instant

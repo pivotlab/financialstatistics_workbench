@@ -1,0 +1,20 @@
+# Miscellaneous Fees Charged Per Transaction Merchant Amount
+
+## identifier
+de15152
+
+## type
+float
+
+## definition
+This is the value, during the relevant period of amounts charged by the entity for all transaction-based merchant fees charged for acquiring card transactions, whether collected on an ad valorem or flat basis. Report income from merchants net of rebates and concessions.
+
+## guidance
+Include transactions involving cards issued to households or businesses, either in Australia or overseas.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Miscellaneous.FeesChargedPerTransactionMerchant.Amount
+- classification=baf/bafot/bafot.02.35
+- period=duration

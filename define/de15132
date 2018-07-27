@@ -1,0 +1,17 @@
+# Expense Real Estate Property Rates And Taxes Amount
+
+## identifier
+de15132
+
+## type
+float
+
+## definition
+The amounts paid for land tax, municipal rates and metropolitan improvement rates. Land tax consists of taxes on the ownership of land based on the assess value of the land; Municipal rates consist of levies imposed by local government authorities on the assessed value of property for the purpose of financing municipal services and, Metropolitan improvement rates consist of levies on property owners intended specifically for financing the planning and development of land within the metropolitan region.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.RealEstateProperty.RatesAndTaxes.Amount
+- classification=baf/bafpr/bafpr2.02.24
+- period=duration

@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Reinvestment Cash Collateral Amount
+
+## identifier
+de15170
+
+## type
+float
+
+## definition
+This is the value of reinvested cash collateral from securities lending activity.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.ReinvestmentCashCollateral.Amount
+- classification=baf/bafpo/bafpo5.02.18
+- period=instant

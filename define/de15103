@@ -1,0 +1,16 @@
+# Assets Loans And Receivables Cost Of Funds Weighted Average Percent
+
+## identifier
+de15103
+
+## type
+float
+
+## definition
+This is the weighted sum of individual costs of funds, where the weights used are the corresponding balances expressed as a share of the total balance. The cost of funds is the institution's internal funds transfer pricing rate for an asset. The price is established by the institution's treasury area and 'charged' to the relevant business area.
+
+## syntax
+### xbrl
+- name=Assets.LoansAndReceivables.CostOfFundsWeightedAverage.Percent
+- classification=baf/bafpo/bafpo5.02.17
+- period=instant

@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Interest Charged Amount
+
+## identifier
+de15088
+
+## type
+float
+
+## definition
+This is interest charged by the lender on outstanding loan balances, whether or not it is actually received from the borrower. This item is to be determined in accordance with Australian Accounting Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.InterestCharged.Amount
+- classification=baf/bafpo/bafpo5.02.17
+- period=duration

@@ -1,0 +1,16 @@
+# Assets Loans And Receivables Monthly Scheduled Repayments Weighted Average Percent
+
+## identifier
+de15096
+
+## type
+float
+
+## definition
+This is the weighted average number of monthly scheduled repayments that the stock of accumulated excess repayments and balances in associated redraw and offset accounts would be sufficient to cover for the loan.
+
+## syntax
+### xbrl
+- name=Assets.LoansAndReceivables.MonthlyScheduledRepaymentsWeightedAverage.Percent
+- classification=baf/bafpo/bafpo5.02.17
+- period=instant

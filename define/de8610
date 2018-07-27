@@ -18,5 +18,5 @@ The contracts can either be binding on both parties (e.g. as with a currency swa
 ### xbrl
 - balance=debit
 - name=Expense.Interest.DerivativeContracts.Amount
-- classification=baf/bafpr/bafpr2.02.06
+- classification=baf/bafpr/bafpr2.02.13
 - period=duration

@@ -1,0 +1,36 @@
+# Regulatory Disclosures Securities Sought Type Text
+
+## identifier
+de15200
+
+## type
+string
+
+## definition
+This is the text that identifies the type of security sought for the transaction.
+
+## guidance
+Please enter the security type from the list options below:
+'AGS' for Australian Government Securities;
+'SGS' for semi government securities;
+'Supra' for supra national and foreign agency-issued debt securities;
+'FI debt' for debt securities issued by resident financial institutions other than SPVs;
+'PNFC debt' for debt securities issued by resident private non-financial corporations other than SPVs;
+'ABS' for asset-backed securities issued by resident SPVs;
+'Other resident debt' for any debt securities issued by residents other than those reported above;
+'ADI equity' for equity securities issued by resident ADIs; 
+'Insurance equity' equity securities issued by resident insurance corporations; 
+'MMIF equity' for equity securities issued by resident money-market investment funds; 
+'NMMFIF equity' for equity securities issued by resident non-money-market financial investment funds; 
+'Other FI equity' for equity securities issued by any other resident financial institutions other than those reported above;
+'PNFIF equity' for equity securities issued by resident private non-financial investment funds; 
+'Other PNFC equity' for equity securities issued by resident other private non-financial corporations; 
+'Other resident equity' for any equity securities issued by residents other than those reported above; 
+'Non-resident equity' for equity securities issued by non-residents; and
+'Other' for any assets other than those reported above.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.SecuritiesSoughtType.Text
+- classification=baf/bafot/bafot.02.35
+- period=instant

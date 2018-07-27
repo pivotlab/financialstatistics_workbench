@@ -1,0 +1,17 @@
+# Expense Operating Postage Stationery Amount
+
+## identifier
+de15140
+
+## type
+float
+
+## definition
+This is the value of expenses related to postage, mailing and courier expenses and stationery expenses incurred for office supplies and printing carried out by or for the entity during the relevant period.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.PostageStationery.Amount
+- classification=baf/bafpr/bafpr2.02.24
+- period=duration

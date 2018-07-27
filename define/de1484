@@ -7,7 +7,10 @@ de1484
 float
 
 ## definition
-This is the value, as at the relevant date, for interest received but not yet earned e.g. interest received in advance on fixed interest loan portfolio.
+This is the value of interest received but not yet earned.
+
+## guidance
+For example, interest received in advance on fixed interest loan portfolios.
 
 ## syntax
 ### xbrl

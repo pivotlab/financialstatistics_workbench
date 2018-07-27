@@ -1,0 +1,17 @@
+# Assets Investment Short Sold Position Amount
+
+## identifier
+de15001
+
+## type
+float
+
+## definition
+This is the value of positions from the sale of a borrowed security in anticipation of making a profit by repurchasing it after its price has fallen, prior to maturity.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.Investment.ShortSoldPosition.Amount
+- classification=baf/bafpo/bafpo7.02.26
+- period=instant

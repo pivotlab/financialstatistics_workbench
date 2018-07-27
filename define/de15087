@@ -1,0 +1,16 @@
+# Assets Exposures Applications Received Finance Number
+
+## identifier
+de15087
+
+## type
+int
+
+## definition
+This is the number of genuine applications received for any finance facility made by a potential borrower. Sufficient information and/or relevant documentation have been submitted to allow for the application to be initially assessed.
+
+## syntax
+### xbrl
+- name=Assets.Exposures.ApplicationsReceivedFinance.Number
+- classification=baf/bafpo/bafpo3.02.19
+- period=duration

@@ -1,0 +1,17 @@
+# Income Interest Notes And Coins Amount
+
+## identifier
+de15119
+
+## type
+float
+
+## definition
+This is the value of the amount of interest income derived from holdings of physical currency both Australian and foreign currency notes and coins.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Interest.NotesAndCoins.Amount
+- classification=baf/bafpr/bafpr2.02.24
+- period=duration

@@ -1,0 +1,20 @@
+# Miscellaneous Fees Charged Statistical Other Amount
+
+## identifier
+de15154
+
+## type
+float
+
+## definition
+This is the value, during the relevant period for all banking-related fees charged other than fees charged associated with deposits, loans, finance leases, and merchant fees charged.
+
+## guidance
+It includes: export collection fees; fees from international telegraphic transfers and foreign currency drafts from customers without a deposit or loan account; guarantees; fees for the transmission of deed or documents for inspection, delivery or execution; safe custody and special clearances; short-term money-market transaction fees; coin and note handling services; fees from the supply of certificates; fees for legal, payroll and search services; charges for travellers' cheques or foreign currency purchased with cash, or with credit cards issued by another institution; fees for custodial and night safe services; and fees for legal and service services.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Miscellaneous.FeesChargedStatisticalOther.Amount
+- classification=baf/bafot/bafot.02.35
+- period=duration

@@ -1,0 +1,17 @@
+# Expense Operating Depreciation And Impairment For Information Technology Equipment Amount
+
+## identifier
+de15134
+
+## type
+float
+
+## definition
+This is the value of depreciation and impairment charged to profit and loss in respect of information technology equipment determined in accordance with accounting standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.DepreciationAndImpairmentForInformationTechnologyEquipment.Amount
+- classification=baf/bafpr/bafpr2.02.24
+- period=duration

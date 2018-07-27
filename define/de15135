@@ -1,0 +1,17 @@
+# Expense Telecommunications Services And Internet Services Amount
+
+## identifier
+de15135
+
+## type
+float
+
+## definition
+Telecommunications services and internet services expensed is payments (of a non-capital nature) for telecommunication and internet services that engage wire, cable or radio transmission.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.TelecommunicationsServicesAndInternetServices.Amount
+- classification=baf/bafpr/bafpr1.02.35
+- period=duration

@@ -1,0 +1,17 @@
+# Liabilities Provisions Individual Amount
+
+## identifier
+de15005
+
+## type
+float
+
+## definition
+This is the value for all provisions for impairment assessed by the entity on an individual basis as defined by the Australian Accounting Standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Provisions.Individual.Amount
+- classification=baf/bafpo/bafpo6.02.19
+- period=instant

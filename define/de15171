@@ -1,0 +1,16 @@
+# Assets Weighted Average Loan To Valuation Ratio Margin Loans Called Percent
+
+## identifier
+de15171
+
+## type
+float
+
+## definition
+This is the weighted average loan to valuation ratio (LVR) for margin loans where a margin call has been made during the relevant period. The weighted average LVR is the sum of individual LVRs, where the weights used are the corresponding balances expressed as a share of the total balance.
+
+## syntax
+### xbrl
+- name=Assets.WeightedAverageLoanToValuationRatioMarginLoansCalled.Percent
+- classification=baf/bafpo/bafpo1.02.34
+- period=duration

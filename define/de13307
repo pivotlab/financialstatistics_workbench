@@ -7,7 +7,7 @@ de13307
 float
 
 ## definition
-This is the value, as at the relevant date, for equity securities held in accordance with the Australian Accounting Standards, which are contracts that evidence a residual interest in the assets of an entity after deducting all its liabilities.
+This is equity securities held, which are contracts that evidence a residual interest in the assets of an entity after deducting all its liabilities. Securities are classified as debt or equity in accordance with the relevant accounting standards.
 
 ## syntax
 ### xbrl

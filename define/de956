@@ -1,4 +1,4 @@
-# Assets Investment Debt Securities Total Amount
+# Assets Investment Debt Securities Held Amount
 
 ## identifier
 de956
@@ -7,7 +7,7 @@ de956
 float
 
 ## definition
-This is the value, as at the relevant date, for the value of debt securities at the reporting date. These are transferable instruments evidencing a relationship of indebtedness. They are characterised by having a definable return that is not based on the economic performance of the issuing entity. The value of this item is to be determined in accordance with relevant Australian Accounting Standards.
+This is the value for debt securities held. These are transferable instruments evidencing a relationship of indebtedness. They are characterised by having a definable return that is not based on the economic performance of the issuing entity. Securities are classified as debt or equity in accordance with the relevant accounting standards.
 
 ## syntax
 ### xbrl

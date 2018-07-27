@@ -1,0 +1,16 @@
+# Regulatory Disclosures Core Banking System Other Description
+
+## identifier
+de15032
+
+## type
+string
+
+## definition
+Description of core banking system not otherwise listed.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.CoreBankingSystemOther.Description
+- classification=baf/bafot/bafot.02.33
+- period=instant

@@ -1,0 +1,17 @@
+# Liabilities Equity Securities Not Hybrids Issued Amount
+
+## identifier
+de15021
+
+## type
+float
+
+## definition
+This is the value of equity securities issued excluding hybrid securities treated as liabilities. Equity securities are contracts that evidence a residual interest in the assets of an entity after deducting all its liabilities. This is in accordance with the Australian Accounting Standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.EquitySecuritiesNotHybridsIssued.Amount
+- classification=baf/bafpo/bafpo1.02.33
+- period=instant

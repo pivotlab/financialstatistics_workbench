@@ -1,0 +1,21 @@
+# Regulatory Disclosures Financial Claims Scheme Single Customer View System Indicator
+
+## identifier
+de15029
+
+## type
+boolean
+
+## definition
+This indicates whether an entity uses an external system (core banking system or other) to generate the Financial Claims Scheme single customer view.
+
+## guidance
+A choice of TRUE/FALSE values.
+true=The entity uses an external system (core banking system or other) to generate the Financial Claims Scheme single customer view.
+false=The entity does not use an external system (core banking system or other) to generate the Financial Claims Scheme single customer view.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.FinancialClaimsSchemeSingleCustomerViewSystem.Indicator
+- classification=baf/bafot/bafot.02.33
+- period=instant

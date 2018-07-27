@@ -1,0 +1,16 @@
+# Assets Exposures Lending Facilities Count
+
+## identifier
+de15083
+
+## type
+int
+
+## definition
+This is the number of lending facilities during the period. These are one or more accounts/lending agreements that: are for the same borrower(s); are approved at the same point in time and/or as part of the same application; are for the same purpose class (and property purpose if housing); and differ only by characteristics relating to interest rate type (fixed interest rate or variable interest rate) and/or repayment type (interest-only or amortising). The accounts comprising a lending facility may or may not be linked.
+
+## syntax
+### xbrl
+- name=Assets.Exposures.LendingFacilities.Count
+- classification=baf/bafpo/bafpo3.02.19
+- period=duration

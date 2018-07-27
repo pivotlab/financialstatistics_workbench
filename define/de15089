@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Discharge Excess Repayments Net Of Scheduled Amount
+
+## identifier
+de15089
+
+## type
+float
+
+## definition
+Total value of loans, net of scheduled repayments that are repaid in full during the period due to the discharge of the loan. Include repayment due to internal and external refinancing and final repayments.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.LoansAndReceivables.DischargeExcessRepaymentsNetOfScheduled.Amount
+- classification=baf/bafpo/bafpo5.02.17
+- period=duration

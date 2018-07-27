@@ -1,0 +1,17 @@
+# Assets Trading Securities Trading Securities Amount
+
+## identifier
+de953
+
+## type
+float
+
+## definition
+This is the value of all trading securities. These assets must be acquired for principally for the purpose of short-term profit-taking. Trading securities are defined in accordance with AASB 9.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.TradingSecurities.TradingSecurities.Amount
+- classification=baf/bafpo/bafpo7.02.26
+- period=instant

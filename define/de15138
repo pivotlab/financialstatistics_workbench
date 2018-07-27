@@ -1,0 +1,17 @@
+# Expense Operating Amortisation And Impairment Of Software Amount
+
+## identifier
+de15138
+
+## type
+float
+
+## definition
+This is the value for amortisation and impairment of software in accordance with the treatment of computer software as outlined by AASB 138 Intangible Assets (AASB 138).
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.AmortisationAndImpairmentOfSoftware.Amount
+- classification=baf/bafpr/bafpr2.02.24
+- period=duration

@@ -1,0 +1,16 @@
+# Regulatory Disclosures Total Employees Working Number
+
+## identifier
+de15151
+
+## type
+int
+
+## definition
+The total number of employees that the entity has working during the relevant period.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.TotalEmployeesWorking.Number
+- classification=baf/bafot/bafot.02.35
+- period=duration

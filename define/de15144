@@ -1,0 +1,17 @@
+# Expense Impairment Write Backs Amount
+
+## identifier
+de15144
+
+## type
+float
+
+## definition
+This is the value for the impairment charged to profit and loss in respect of impairment losses on financial assets not measured at fair value through profit or loss, as determined in accordance with Australian Accounting Standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Expense.ImpairmentWriteBacks.Amount
+- classification=baf/bafpr/bafpr1.02.35
+- period=instant

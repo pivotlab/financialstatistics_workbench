@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities Trade Credit Amount
+
+## identifier
+de15022
+
+## type
+float
+
+## definition
+This is the value, for trade credit purchases of goods or services for which the corresponding payment is deferred past the date on which the good or service is received.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.TradeCredit.Amount
+- classification=baf/bafpo/bafpo6.02.19
+- period=instant

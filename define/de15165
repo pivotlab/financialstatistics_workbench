@@ -1,0 +1,16 @@
+# Assets Other Financial Assets Securities Lending Fee Or Premium Percent
+
+## identifier
+de15165
+
+## type
+float
+
+## definition
+This is the lending fee or premium, or rebate rate, of the securities loan contract. A securities lending fee is the fee/premium that the borrower of the security pays to the lender when the securities loan is backed by non-cash collateral. The lending fee/premium is predetermined in a securities lending agreement between the borrower and lender.  A securities lending rebate rate is the rate that the borrower of the security pays the lender when the securities loan is backed by cash collateral. The rebate fee is predetermined in a securities lending agreement between the borrower and lender (or the agent on the lender's behalf). The lending fee/premium or rebate rate should be expressed as an annualised percentage of the market value of the securities borrowed.
+
+## syntax
+### xbrl
+- name=Assets.OtherFinancialAssets.SecuritiesLendingFeeOrPremium.Percent
+- classification=baf/bafpo/bafpo7.02.27
+- period=instant

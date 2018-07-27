@@ -1,0 +1,19 @@
+# Identifiers Listed Company Exchange Code Identifier
+
+## identifier
+de15167
+
+## type
+string
+
+## definition
+This is a code that identifies a company on the relevant exchange where it is listed.
+
+## guidance
+For an Australian Securities Exchange (ASX) listed company, report the ASX ticker code; and for a foreign listed company, report the relevant exchange code followed by the company's listing code on that exchange.
+
+## syntax
+### xbrl
+- name=Identifiers.ListedCompanyExchangeCode.Identifier
+- classification=py/pyid/pyid.02.22
+- period=instant

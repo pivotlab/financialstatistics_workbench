@@ -1,0 +1,18 @@
+# Assets Intangible Loan And Finance Lease Servicing Rights Amount
+
+## identifier
+de15009
+
+## type
+float
+
+## definition
+This is the value for the servicing fee on the purchased loans (including credit card relationships) and finance leases when the entity purchases the right to receive existing loan or finance lease payments (including credit card receivables) in consideration for providing loan and finance lease services to those customers. 
+Also report any purchased loan and finance lease servicing rights arising in the acquisition of an entire financial institution. The carrying value consists of the cost of the servicing right less accumulated amortisation for the right.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Intangible.LoanAndFinanceLeaseServicingRights.Amount
+- classification=baf/bafpo/bafpo7.02.26
+- period=instant

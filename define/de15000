@@ -1,0 +1,18 @@
+# Assets Investment Securities Amount
+
+## identifier
+de15000
+
+## type
+float
+
+## definition
+This is the value of all investment securities which are securities purchased with the intent that they be held to maturity or held for a period of time though not necessarily to maturity this covers equity securities where it is not technically possible to hold to maturity.
+These are securities that are not trading securities as defined in accounting standards AASB 139 Financial Instruments: Recognition and Measurement.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Investment.Securities.Amount
+- classification=baf/bafpo/bafpo7.02.26
+- period=instant

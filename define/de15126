@@ -1,0 +1,17 @@
+# Expense Fees Commissions Amount
+
+## identifier
+de15126
+
+## type
+float
+
+## definition
+This is the value of any expense incurred for fees and commissions.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.FeesCommissions.Amount
+- classification=baf/bafpr/bafpr1.02.35
+- period=duration

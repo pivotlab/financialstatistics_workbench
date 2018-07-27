@@ -1,0 +1,20 @@
+# Assets Loans And Receivables Credit Outstanding Margin Loans Called Amount
+
+## identifier
+de15169
+
+## type
+float
+
+## definition
+This is the amount owed by borrowers on margin loans where a margin call has been made during the relevant period. Credit outstanding is the original loan amount, less any repayments, including any redraw facilities drawn. The balance should be reported gross of provisions.
+
+## guidance
+Do not net any deposit balances in offset accounts against the outstanding loan amount. Exclude finance that has been written off.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.CreditOutstandingMarginLoansCalled.Amount
+- classification=baf/bafpo/bafpo5.02.18
+- period=duration

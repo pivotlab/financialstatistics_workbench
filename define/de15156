@@ -1,0 +1,16 @@
+# Miscellaneous Margin Loan Customers Count
+
+## identifier
+de15156
+
+## type
+int
+
+## definition
+This is the number of customers with one or more margin loans.
+
+## syntax
+### xbrl
+- name=Miscellaneous.MarginLoanCustomers.Count
+- classification=baf/bafot/bafot.02.35
+- period=instant

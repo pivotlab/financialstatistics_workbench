@@ -1,0 +1,19 @@
+# Regulatory Disclosures Transaction Cash Currency Text
+
+## identifier
+de15193
+
+## type
+string
+
+## definition
+This is the text that identifies the cash currency code for the transaction, which is the currency in which the cash leg of a transaction is denominated.
+
+## guidance
+Please enter the text as a three-letter ISO 4217 currency code.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.TransactionCashCurrency.Text
+- classification=baf/bafot/bafot.02.35
+- period=instant

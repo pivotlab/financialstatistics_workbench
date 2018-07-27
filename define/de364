@@ -1,0 +1,17 @@
+# Remuneration Payments to Other Businesses For Staff Amount
+
+## identifier
+de364
+
+## type
+float
+
+## definition
+Payments made to other businesses (e.g. a contract labour hire business) for the supply of their own employees to this business on a fee or contract basis. Assignments are usually temporary and performed under the supervision of staff of this business.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Remuneration.PaymentstoOtherBusinessesForStaff.Amount
+- classification=lr/lrla/lrla.02.00
+- period=duration

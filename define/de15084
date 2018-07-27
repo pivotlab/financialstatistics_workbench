@@ -1,0 +1,17 @@
+# Assets Exposures Credit Limit Decrease Amount
+
+## identifier
+de15084
+
+## type
+float
+
+## definition
+This is the value of any cancellations or reductions in previously committed credit limits.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.Exposures.CreditLimitDecrease.Amount
+- classification=baf/bafpo/bafpo3.02.19
+- period=duration

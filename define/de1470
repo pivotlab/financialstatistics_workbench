@@ -7,10 +7,10 @@ de1470
 float
 
 ## definition
-This is the value, as at the relevant date, for all provisions raised for the restructuring of an organisation.
-Including:
-- severance, termination and redundancy payments; and
-- integration costs.
+This is the value, for all provisions raised for the restructuring of an organisation.
+
+## guidance
+This includes severance, termination and redundancy payments and integration costs.
 
 ## syntax
 ### xbrl

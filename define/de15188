@@ -1,0 +1,19 @@
+# Regulatory Disclosures Intermediated Status Text
+
+## identifier
+de15188
+
+## type
+string
+
+## definition
+This is the text that flags whether a transaction is concluded between two principals but facilitated by an agent on behalf of one or both principals (e.g. an agent lender in a securities lending program).
+
+## guidance
+Please enter either 'Y' or 'N'.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.IntermediatedStatus.Text
+- classification=baf/bafot/bafot.02.35
+- period=instant

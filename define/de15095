@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Facility Credit Limit Weighted Average Amount
+
+## identifier
+de15095
+
+## type
+float
+
+## definition
+This is the value of the weighted average of the credit limit available per lending facility.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.FacilityCreditLimitWeightedAverage.Amount
+- classification=baf/bafpo/bafpo5.02.17
+- period=instant

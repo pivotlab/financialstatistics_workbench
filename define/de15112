@@ -1,0 +1,16 @@
+# Liabilities Deposits Received In Period Count
+
+## identifier
+de15112
+
+## type
+int
+
+## definition
+This is the number of deposit accounts entered into during the reporting period. Deposits are non-negotiable contracts that represent the receipt of funds available for later withdrawal.
+
+## syntax
+### xbrl
+- name=Liabilities.Deposits.ReceivedInPeriod.Count
+- classification=baf/bafpo/bafpo6.02.20
+- period=duration

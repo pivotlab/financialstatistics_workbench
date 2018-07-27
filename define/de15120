@@ -1,0 +1,17 @@
+# Income Interest Deposits Amount
+
+## identifier
+de15120
+
+## type
+float
+
+## definition
+The amount of interest income earnt from deposits which are non-negotiable contracts that represent the placement of funds available for later withdrawal.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Interest.Deposits.Amount
+- classification=baf/bafpr/bafpr2.02.24
+- period=duration

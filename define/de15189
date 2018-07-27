@@ -1,0 +1,19 @@
+# Regulatory Disclosures Centrally Cleared Status Text
+
+## identifier
+de15189
+
+## type
+string
+
+## definition
+This is the text that flags whether a transaction is a principal-to-principal transactions novated by a central counterparty rather than settled on a bilateral basis.
+
+## guidance
+Please enter either 'Y' or 'N'.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.CentrallyClearedStatus.Text
+- classification=baf/bafot/bafot.02.35
+- period=instant

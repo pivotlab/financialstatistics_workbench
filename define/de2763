@@ -1,0 +1,19 @@
+# Expense Insurance Premiums Excluding Workers Compensation And Third Party Motor Vehicle Premiums Amount
+
+## identifier
+de2763
+
+## type
+float
+
+## definition
+Insurance premiums refer to payments made for a legal contract in which an insurer promises to pay a specified amount to a party, the insured, if a particular event (known as a peril) happens and the insured suffers a financial loss as a result. The insured's part of the contract is to promise to pay an amount of money, known as a premium, either at once or at regular intervals. In order for an insurance contract to be valid, the insured must have an insurable interest.
+
+Excludes workers' compensation insurance premiums/costs and compulsory third party motor vehicle insurance premiums.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Insurance.PremiumsExcludingWorkersCompensationAndThirdPartyMotorVehiclePremiums.Amount
+- classification=baf/bafpr/bafpr3.02.00
+- period=duration

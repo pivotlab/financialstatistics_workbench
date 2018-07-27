@@ -1,0 +1,17 @@
+# Expense Purchase Of Material For Capital Work By Own Employees Amount
+
+## identifier
+de15149
+
+## type
+float
+
+## definition
+The total cost of purchasing materials for capital work done by own employees for own use or for rental or lease.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.PurchaseOfMaterialForCapitalWorkByOwnEmployees.Amount
+- classification=baf/bafpr/bafpr1.02.35
+- period=duration

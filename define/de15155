@@ -1,0 +1,16 @@
+# Assets Loans Count
+
+## identifier
+de15155
+
+## type
+int
+
+## definition
+This is the number of loans. A loan is a financial asset that is created when a creditor lends funds directly to a debtor; and is evidenced by non-negotiable documents.
+
+## syntax
+### xbrl
+- name=Assets.Loans.Count
+- classification=baf/bafpo/bafpo1.02.34
+- period=instant

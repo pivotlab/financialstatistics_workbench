@@ -1,0 +1,18 @@
+# Assets Loans And Receivables Loan Account Switch Amount
+
+## identifier
+de15097
+
+## type
+float
+
+## definition
+Record the net value as at the end of the previous reporting period of any loans that switched between categories in the current reporting period. 
+Report the net value of loans that have moved into each category.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.LoanAccountSwitch.Amount
+- classification=baf/bafpo/bafpo5.02.17
+- period=instant

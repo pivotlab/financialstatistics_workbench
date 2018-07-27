@@ -1,0 +1,17 @@
+# Assets Other Financial Assets Fees And Commissions Receivable Amount
+
+## identifier
+de15011
+
+## type
+float
+
+## definition
+This is the value, for fees and commission receivable that is due but not yet paid.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.FeesAndCommissionsReceivable.Amount
+- classification=baf/bafpo/bafpo7.02.26
+- period=instant

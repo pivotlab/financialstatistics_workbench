@@ -1,0 +1,17 @@
+# Liabilities Exposures Debt Securities Issued In Period Amount
+
+## identifier
+de15111
+
+## type
+float
+
+## definition
+This is the value of debt securities issued during the relevant period. These are transferable instruments evidencing a relationship of indebtedness. They are characterised by having a definable return that is not based on the economic performance of the issuing entity. Securities are classified as debt or equity in accordance with the relevant accounting standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Exposures.DebtSecuritiesIssuedInPeriod.Amount
+- classification=baf/bafpo/bafpo3.02.19
+- period=duration

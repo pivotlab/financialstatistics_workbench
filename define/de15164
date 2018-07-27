@@ -1,0 +1,16 @@
+# Liabilities Other Financial Liabilities Securities Borrowing Weighted Average Rebate Rate Percent
+
+## identifier
+de15164
+
+## type
+float
+
+## definition
+This is the weighted average rebate rate of the securities borrowing contract. The parties negotiate a fee, quoted as an annualised percentage of the value of the borrowed securities.
+
+## syntax
+### xbrl
+- name=Liabilities.OtherFinancialLiabilities.SecuritiesBorrowingWeightedAverageRebateRate.Percent
+- classification=baf/bafpo/bafpo6.02.21
+- period=instant

@@ -1,0 +1,17 @@
+# Assets Exposures Applications Received Amount
+
+## identifier
+de15086
+
+## type
+float
+
+## definition
+This is the value of a genuine application received for a finance facility made by a potential borrower. Sufficient information and/or relevant documentation have been submitted to allow for the application to be initially assessed.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.ApplicationsReceived.Amount
+- classification=baf/bafpo/bafpo3.02.19
+- period=duration

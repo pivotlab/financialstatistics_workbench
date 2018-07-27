@@ -1,0 +1,17 @@
+# Liabilities Provisions Collective Amount
+
+## identifier
+de15004
+
+## type
+float
+
+## definition
+This is the value for all provisions for impairment assessed by the entity on a collective basis as defined by the Australian Accounting Standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.Provisions.Collective.Amount
+- classification=baf/bafpo/bafpo6.02.19
+- period=instant

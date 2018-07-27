@@ -1,0 +1,21 @@
+# Regulatory Disclosures Financial Claims Scheme Prescribed Account Indicator
+
+## identifier
+de15028
+
+## type
+boolean
+
+## definition
+This indicates whether an entity has any accounts prescribed under subsection 16AH(5) of the Banking Act.
+
+## guidance
+A choice of TRUE/FALSE values.
+true=The entity has Financial Claims Scheme prescribed accounts.
+false=The entity does not have Financial Claims Scheme prescribed accounts.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.FinancialClaimsSchemePrescribedAccount.Indicator
+- classification=baf/bafot/bafot.02.33
+- period=instant

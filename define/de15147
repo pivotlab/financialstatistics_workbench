@@ -1,0 +1,17 @@
+# Expense Capital Transport Vehicle Other Amount
+
+## identifier
+de15147
+
+## type
+float
+
+## definition
+This is the value of capital expenses for equipment and vehicles for moving people and objects other than vehicles that are primarily to be used on the road such as cars, trucks, motor cycles and utes.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.CapitalTransportVehicleOther.Amount
+- classification=baf/bafpr/bafpr1.02.35
+- period=duration

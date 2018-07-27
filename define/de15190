@@ -1,0 +1,39 @@
+# Regulatory Disclosures Counterparty Sector Text
+
+## identifier
+de15190
+
+## type
+string
+
+## definition
+This is the text that identifies the counterparty sector for the transaction.
+
+## guidance
+Please enter the counterparty sector from the list options below:
+'RBA' for RBA;
+'ADI' for resident ADIs;
+'RFC' for resident registered financial corporations;
+'CBA' for resident central borrowing authorities;
+'CCP' for resident clearing houses and central counterparties;
+'Auxiliary for any resident financial auxiliaries other than clearing houses and central counterparties;
+'Insurance' for resident insurance corporations;
+'Superannuation' for resident superannuation funds;
+'MMIF' for resident money-market investment funds;
+'ETF' for resident exchange-traded funds;
+'Other NMMIF' for any resident non-money-market financial investment funds other than exchange-traded funds;
+'Other FI' for any resident financial institutions other than those reported above;
+'REIT for resident REITs;
+'Other PNFIF' for any resident private non-financial investment funds other than REITs;
+'Other PNFC' for resident other private non-financial corporations;
+'Government' for Commonwealth general government;
+'Other resident' for any residents other than those reported above;
+'Non-resident bank' for non-resident banks;
+'Non-resident superannuation' for non-resident superannuation funds; and
+'Other non-resident' for any non-residents other than those reported above.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.CounterpartySector.Text
+- classification=baf/bafot/bafot.02.35
+- period=instant

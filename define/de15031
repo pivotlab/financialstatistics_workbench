@@ -1,0 +1,16 @@
+# Regulatory Disclosures Core Banking System Version Number
+
+## identifier
+de15031
+
+## type
+int
+
+## definition
+This is the version number of the core banking system.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.CoreBankingSystemVersion.Number
+- classification=baf/bafot/bafot.02.33
+- period=instant

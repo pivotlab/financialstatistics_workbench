@@ -1,0 +1,16 @@
+# Identification Details Group Counterparty Name Text
+
+## identifier
+de15186
+
+## type
+string
+
+## definition
+The group counterparty name is a name for a group of connected counterparties that includes the legal name of the principal counterparty in that group.
+
+## syntax
+### xbrl
+- name=IdentificationDetails.GroupCounterpartyName.Text
+- classification=py/pyid/pyid.02.22
+- period=instant

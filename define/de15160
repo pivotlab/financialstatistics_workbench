@@ -1,0 +1,17 @@
+# Assets Other Financial Assets Reverse Repurchase Agreements Principal Amount
+
+## identifier
+de15160
+
+## type
+float
+
+## definition
+This is the value of the principal amount of cash lent (post haircut) on the initial leg of a reverse repo, the buyer of the asset in a repo is referred to as conducting a reverse repo.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.OtherFinancialAssets.ReverseRepurchaseAgreementsPrincipal.Amount
+- classification=baf/bafpo/bafpo7.02.27
+- period=instant

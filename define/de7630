@@ -1,4 +1,4 @@
-# Assets Loans And Receivables Term Excess Repayment Deficiencies Amount
+# Assets Loans And Receivables Repayment Deficiencies Amount
 
 ## identifier
 de7630
@@ -7,9 +7,7 @@ de7630
 float
 
 ## definition
-This is the value by which scheduled interest payments and principal repayments exceeded actual repayments for term loans held by the reporting party that was in payment deficiency as at the relevant date.
-
-For the purposes of this item exclude term loans that did not record a payment deficiency.
+This is the total value by which scheduled repayments (interest and other charges plus principal as applicable) exceeded actual repayments for a loan.
 
 ## syntax
 ### xbrl

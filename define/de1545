@@ -7,7 +7,7 @@ de1545
 float
 
 ## definition
-Report the value of the reserve in relation to the effective portion of the gain or loss on the cash flow hedging instrument as determined in accordance with the accounting standards.
+This is the value of the reserve in relation to the effective portion of the gain or loss on the cash flow hedging instrument. The effective portion is calculated in accordance with Accounting Standards AASB 9, AASB 132 and AASB 7.
 
 ## syntax
 ### xbrl

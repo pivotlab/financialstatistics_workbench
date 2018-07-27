@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Excess Repayments Not In Redraw Facilities Amount
+
+## identifier
+de15099
+
+## type
+float
+
+## definition
+Report the total value of accumulated excess (advance) repayments not in redraw facilities that are accessible at a later date. This item represents the maximum amount that could be drawn down without bringing the balance of the loan account above that specified in the loan schedule.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.LoansAndReceivables.ExcessRepaymentsNotInRedrawFacilities.Amount
+- classification=baf/bafpo/bafpo5.02.17
+- period=instant

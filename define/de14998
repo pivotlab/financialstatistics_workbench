@@ -1,0 +1,17 @@
+# Assets Cash And Liquid Assets Unallocated Gold Amount
+
+## identifier
+de14998
+
+## type
+float
+
+## definition
+This is the value of an account that does not give the holder the title to physical gold but provides a claim against the account operator to deliver gold.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.CashAndLiquidAssets.UnallocatedGold.Amount
+- classification=baf/bafpo/bafpo7.02.26
+- period=instant

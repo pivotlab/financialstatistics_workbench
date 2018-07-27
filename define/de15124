@@ -1,0 +1,17 @@
+# Income Interest Earned Amount
+
+## identifier
+de15124
+
+## type
+float
+
+## definition
+Interest earned from customers and issuers of securities during the period, including coupon payments. Report interest income earned in accordance with Australian Accounting Standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Interest.Earned.Amount
+- classification=baf/bafpr/bafpr2.02.24
+- period=duration

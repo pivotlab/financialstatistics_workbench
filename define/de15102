@@ -1,0 +1,16 @@
+# Financial Risk Market Weighted Average Interest Rate Percent
+
+## identifier
+de15102
+
+## type
+float
+
+## definition
+This is the weighted sum of individual interest rates, where the weights used are the corresponding balances expressed as a share of the total balance. The interest rate is the contractual rate to be paid to or received by the customer/counterparty/debtholder. It excludes any fees charged to the customer/counterparty/debtholder.
+
+## syntax
+### xbrl
+- name=FinancialRisk.Market.WeightedAverageInterestRate.Percent
+- classification=baf/bafot/bafot.02.34
+- period=instant

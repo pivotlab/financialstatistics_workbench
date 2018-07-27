@@ -1,0 +1,16 @@
+# Liabilities Deposits Account Holders Count
+
+## identifier
+de15026
+
+## type
+int
+
+## definition
+This is the number of account holders that hold a deposit account.
+
+## syntax
+### xbrl
+- name=Liabilities.Deposits.AccountHolders.Count
+- classification=baf/bafpo/bafpo6.02.19
+- period=instant

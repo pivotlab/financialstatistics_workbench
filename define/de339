@@ -1,0 +1,21 @@
+# Capital Expenditure Dwellings Other Buildings And Structures Amount
+
+## identifier
+de339
+
+## type
+float
+
+## definition
+Capital expenditure is the expenditure by an entity of a significant amount for the purchase or improvement of a fixed asset; the amount expended would warrant the item being depreciated over an estimated useful life of a reasonably extended period. Capital expenditure is not charged against the profits of the entity when it takes place, but is regarded as an investment to be capitalised in the balance sheet as a fixed asset and subsequently charged against profits by depreciating the asset over its estimated useful life.
+
+Dwellings, other buildings and structures include industrial and commercial buildings, houses, flats, home units, water and sewerage installations, lifts, heating, ventilating and similar equipment forming an integral part of buildings and structures, land development and construction site development, roads, bridges, wharves, harbours, railway lines, pipelines, power and telephone lines. They also include mine development structures (e.g. construction of shafts in underground mines, preparation of mining and quarrying sites for open cut extraction and other developmental operations primarily for commencing or extending production including the construction of access roads). They exclude purchases of land, previously occupied buildings and speculatively built projects intended for sale before occupation.
+
+Capital expenditure for dwellings, other buildings and structures is limited to dwellings, other buildings and structures and associated capitalised costs only (e.g. legal fees) and does not include capital expenditure on any other asset types.
+
+## syntax
+### xbrl
+- balance=debit
+- name=CapitalExpenditure.DwellingsOtherBuildingsAndStructures.Amount
+- classification=baf/bafpo/bafpo7.02.00
+- period=duration

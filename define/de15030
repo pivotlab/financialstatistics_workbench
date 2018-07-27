@@ -1,0 +1,16 @@
+# Regulatory Disclosures Core Banking System Installation Date
+
+## identifier
+de15030
+
+## type
+string
+
+## definition
+This is the date on which the core banking system was originally installed.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.CoreBankingSystemInstallation.Date
+- classification=baf/bafot/bafot.02.33
+- period=instant

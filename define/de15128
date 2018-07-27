@@ -1,0 +1,17 @@
+# Expense Interest Debt Securities Net Amount
+
+## identifier
+de15128
+
+## type
+float
+
+## definition
+The amount of interest expense derived from investment in debt securities recognised as expense under the Australian Accounting Standards. Debt securities are transferable instruments evidencing a relationship of indebtedness.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Interest.DebtSecuritiesNet.Amount
+- classification=baf/bafpr/bafpr2.02.24
+- period=duration

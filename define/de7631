@@ -7,7 +7,7 @@ de7631
 float
 
 ## definition
-This is the value of term loans held by the reporting party which have been written-off during the relevant period. This is net of any amounts recovered from previously written-off term loans that were subsequently recovered during the period.
+This is the value of loans written-off during the relevant period less the amount recovered from any previously written-off loans. Exclude amounts recovered through sales of collateral.
 
 ## syntax
 ### xbrl

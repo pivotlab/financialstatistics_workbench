@@ -1,0 +1,20 @@
+# Miscellaneous Fees Charged Non Transaction Merchant Amount
+
+## identifier
+de15153
+
+## type
+float
+
+## definition
+This is the value, during the relevant period of amounts by the entity for all fees charged to merchants other than per-transaction merchant fees charged.
+
+## guidance
+It includes: joining and annual fees; terminal and imprinter hire fees; access fees; credit card authorisation request fees; and termination fees.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Miscellaneous.FeesChargedNonTransactionMerchant.Amount
+- classification=baf/bafot/bafot.02.35
+- period=duration

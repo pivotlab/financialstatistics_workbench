@@ -1,0 +1,17 @@
+# Financial Risk Exposures Off Balance Sheet Counterparty Amount
+
+## identifier
+de15205
+
+## type
+float
+
+## definition
+This is the value of off-balance sheet exposures. An exposure is the aggregate of all claims, commitments and contingent liabilities arising from on- and off-balance sheet transactions (in both the banking and trading books) with an individual counterparty or group of connected counterparties.
+
+## syntax
+### xbrl
+- balance=debit
+- name=FinancialRisk.Exposures.OffBalanceSheetCounterparty.Amount
+- classification=baf/bafot/bafot.02.35
+- period=instant

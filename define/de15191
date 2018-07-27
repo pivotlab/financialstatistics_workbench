@@ -1,0 +1,19 @@
+# Regulatory Disclosures Counterparty Jurisdiction Text
+
+## identifier
+de15191
+
+## type
+string
+
+## definition
+This is the text that identifies the counterparty jurisdiction for the transaction. Jurisdiction means the country in which the business entity is resident.
+
+## guidance
+Please enter the counterparty jurisdiction from the two-letter ISO 3166 country code.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.CounterpartyJurisdiction.Text
+- classification=baf/bafot/bafot.02.35
+- period=instant

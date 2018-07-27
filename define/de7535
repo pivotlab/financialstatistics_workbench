@@ -1,4 +1,4 @@
-# Assets Plant And Equipment Excluding IT Amount
+# Assets Plant And Equipment Excluding Information Technology Amount
 
 ## identifier
 de7535
@@ -7,7 +7,7 @@ de7535
 float
 
 ## definition
-This is the value of plant and equipment held by the reporting party as at the relevant date in accordance  with the classification and measurement basis defined by the accounting standards. This item excludes all Information technology costs, both tangible and intangible.
+This is the value of plant and equipment held by the entity excluding all information technology such as devices that have a primary function related to the collection, transfer, storage, or processing of data. This is in accordance with Accounting Standards AASB 116.
 
 ## syntax
 ### xbrl

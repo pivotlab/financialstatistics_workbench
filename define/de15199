@@ -1,0 +1,19 @@
+# Regulatory Disclosures Exclusive Contract Status Text
+
+## identifier
+de15199
+
+## type
+string
+
+## definition
+This is the text that flags whether a transaction is an arrangement where the lender or its agent negotiates an exclusive arrangement with a borrowing counterparty.  The borrower pays a set upfront fee for exclusive access to borrow from the lender's securities portfolio.
+
+## guidance
+Please enter either 'Y' or 'N'.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.ExclusiveContractStatus.Text
+- classification=baf/bafot/bafot.02.35
+- period=instant

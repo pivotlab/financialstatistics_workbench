@@ -1,0 +1,20 @@
+# Miscellaneous Fees Charged Statistical Amount
+
+## identifier
+de15150
+
+## type
+float
+
+## definition
+This is the value, during the relevant period of amounts charged by the entity to its customers excluding those relating to interest charges (where interest is defined in terms of the contractual interest rate). Report fees (such as establishment fees) that are recorded as interest income in statutory accounts. Report fees charged net of any waivers, exemptions or rebates. This is in accordance with the relevant statistical definition of fees charged.
+
+## guidance
+Do not deduct any expenses, including expenses relating to: commissions paid to mortgage brokers; valuation fees for housing and business loans; loyalty program costs; government taxes; and charges imposed by the bank's group treasury to various business units.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Miscellaneous.FeesChargedStatistical.Amount
+- classification=baf/bafot/bafot.02.35
+- period=duration

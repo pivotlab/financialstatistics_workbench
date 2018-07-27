@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Excess Repayments Redraw Facilities Amount
+
+## identifier
+de15098
+
+## type
+float
+
+## definition
+Report the total value of accumulated excess (advance) repayments in redraw facilities that are accessible at a later date. This item represents the maximum amount of redraw balances that could be drawn down without bringing the balance of the loan account above that specified in the loan schedule.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.LoansAndReceivables.ExcessRepaymentsRedrawFacilities.Amount
+- classification=baf/bafpo/bafpo5.02.17
+- period=instant

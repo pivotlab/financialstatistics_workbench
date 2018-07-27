@@ -1,0 +1,16 @@
+# Financial Risk Unique Transaction Identifier
+
+## identifier
+de15185
+
+## type
+string
+
+## definition
+The identifier assigned by the entity that uniquely identifies the repo, reverse repo, securities lending transaction or securities borrowing transaction.
+
+## syntax
+### xbrl
+- name=FinancialRisk.UniqueTransaction.Identifier
+- classification=baf/bafot/bafot.02.35
+- period=instant

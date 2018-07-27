@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Credit Outstanding Net Offset Amount
+
+## identifier
+de15100
+
+## type
+float
+
+## definition
+This is the value of credit outstanding for finance net of any linked offset account balances.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.CreditOutstandingNetOffset.Amount
+- classification=baf/bafpo/bafpo5.02.17
+- period=instant

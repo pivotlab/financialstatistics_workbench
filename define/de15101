@@ -1,0 +1,16 @@
+# Financial Risk Market Weighted Average Interest Rate Net Offset Percent
+
+## identifier
+de15101
+
+## type
+float
+
+## definition
+This is the weighted sum of individual interest rates, where the weights used are the corresponding balances expressed as a share of the total balance, net of any linked offset account balances.
+
+## syntax
+### xbrl
+- name=FinancialRisk.Market.WeightedAverageInterestRateNetOffset.Percent
+- classification=baf/bafot/bafot.02.34
+- period=instant

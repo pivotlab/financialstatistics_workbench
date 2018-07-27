@@ -1,0 +1,17 @@
+# Income Investment Rental Operating Lease Amount
+
+## identifier
+de15123
+
+## type
+float
+
+## definition
+The net rent (rental income plus other rental related income) for operating leases recognised as income under the Australian Accounting Standards.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Investment.RentalOperatingLease.Amount
+- classification=baf/bafpr/bafpr2.02.24
+- period=duration

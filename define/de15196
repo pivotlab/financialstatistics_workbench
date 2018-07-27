@@ -1,0 +1,42 @@
+# Regulatory Disclosures Collateral Type Text
+
+## identifier
+de15196
+
+## type
+string
+
+## definition
+This is the text that flags the type of collateral used, which means an asset provided by one party to be held by the counterparty in an agreement in order to provide cover against credit risk exposure taken in respect of the party providing collateral.
+
+## guidance
+The collateral type list options are:
+'ST AGS' for short-term Australian Government Securities;
+'LT AGS' for long-term Australian Government Securities;
+'ST SGS' for short-term semi government securities;
+'LT SGS' for long-term semi government securities;
+'NCD' for negotiable certificates of deposit (NCDs) issued by resident ADIs;
+'Other ST ADI' for commercial paper and other short-term debt securities (other than NCDs) issued by resident ADIs;
+'Covered bond' for covered bonds issued by resident ADIs;
+'Other LT ADI' for long-term debt securities other than covered bonds issued by resident ADIs; 
+'ST RFC' for short-term debt securities issued by resident registered financial corporations;
+'LT RFC' for long-term debt securities issued by resident registered financial corporations;
+'ST PNFC' for short-term debt securities issued by resident private non-financial corporations other than SPVs;
+'LT PNFC' for long-term debt securities issued by resident private non-financial corporations other than SPVs;
+'ST ABS' for short-term asset-backed securities issued by resident SPVs;
+'LT ABS' for long-term asset-backed securities issued by resident SPVs;
+'ST other resident' for any short-term debt securities issued by residents other than those reported above;
+'LT other resident' for any long-term debt securities issued in Australia by residents other than those reported above;
+'ST supra' for short-term supra national and foreign agency-issued debt securities;
+'LT supra' for long-term supra national and foreign agency-issued debt securities;
+'ST other non-resident' for any short-term debt securities issued by non-residents other than those reported above;
+'LT other non-resident in Australia' for any long-term debt securities issued in Australia by non-residents other than those reported above;
+'LT other non-resident offshore' for any long-term debt securities issued offshore by non-residents other than those reported above; 
+'Equity' for equity securities (including preference shares); and
+'Other' for any other assets not reported above.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.CollateralType.Text
+- classification=baf/bafot/bafot.02.35
+- period=instant

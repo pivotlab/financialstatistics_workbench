@@ -7,12 +7,7 @@ de1468
 float
 
 ## definition
-This is the value, as at the relevant date, for all the following:
-- provision for self insurance;
-- frauds;
-- litigation, fraud detection and prevention;
-- forgeries; and
-- non-transferred insurance risks.
+This is the value, of provisions for non-lending losses. For all the following:-self insurance; frauds; litigation, fraud detection and prevention; forgeries; and non-transferred insurance risks.
 
 ## syntax
 ### xbrl

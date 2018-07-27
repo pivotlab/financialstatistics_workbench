@@ -1,0 +1,16 @@
+# Assets Other Financial Assets Securities Lending Weighted Average Rebate Rate Percent
+
+## identifier
+de15203
+
+## type
+float
+
+## definition
+This is the weighted average rebate rate of the securities lending contract. The parties negotiate a fee, quoted as an annualised percentage of the value of the loaned securities.
+
+## syntax
+### xbrl
+- name=Assets.OtherFinancialAssets.SecuritiesLendingWeightedAverageRebateRate.Percent
+- classification=baf/bafpo/bafpo7.02.27
+- period=instant

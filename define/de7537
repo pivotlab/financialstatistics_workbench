@@ -1,4 +1,4 @@
-# Assets Information Technology Amount
+# Assets Information Technology Equipment Amount
 
 ## identifier
 de7537
@@ -7,7 +7,7 @@ de7537
 float
 
 ## definition
-This is the value of assets classified as information technology held by the reporting party as at the relevant date. This item is to be determined in accordance with accounting standards.
+This is the value of assets classified as information technology held by the entity. This item is to be determined in accordance with Accounting Standards AASB 116.
 
 ## syntax
 ### xbrl

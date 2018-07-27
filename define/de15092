@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Excess Repayments Not Discharge Amount
+
+## identifier
+de15092
+
+## type
+float
+
+## definition
+Total value of excess repayments not due to the discharge of the loan, including payments into redraw facilities. Exclude payments into offset accounts and loans for which scheduled repayments exceeded actual repayments.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Assets.LoansAndReceivables.ExcessRepaymentsNotDischarge.Amount
+- classification=baf/bafpo/bafpo5.02.17
+- period=duration

@@ -1,0 +1,16 @@
+# Assets Loans And Receivables Reinvestment Weighted Average Percent
+
+## identifier
+de15166
+
+## type
+float
+
+## definition
+This is the weighted sum of the rates of return earned on the reinvested cash collateral from securities lending activity.
+
+## syntax
+### xbrl
+- name=Assets.LoansAndReceivables.ReinvestmentWeightedAverage.Percent
+- classification=baf/bafpo/bafpo5.02.18
+- period=instant

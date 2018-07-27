@@ -1,0 +1,17 @@
+# Equity Dividends Income Amount
+
+## identifier
+de15122
+
+## type
+float
+
+## definition
+The amount of all profits incurred by corporations whether or not the distributions are called dividends. Exclude any issues of bonus shares in lieu of dividends (i.e. dividend reinvestment plans).
+
+## syntax
+### xbrl
+- balance=credit
+- name=Equity.Dividends.Income.Amount
+- classification=baf/bafpo/bafpo2.02.11
+- period=duration

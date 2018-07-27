@@ -13,5 +13,5 @@ This is the value, during the relevant period, of remuneration expenses relating
 ### xbrl
 - balance=debit
 - name=Expense.Operating.WagesAndSalaries.Amount
-- classification=baf/bafpr/bafpr2.02.06
+- classification=baf/bafpr/bafpr2.02.13
 - period=duration

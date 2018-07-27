@@ -1,0 +1,17 @@
+# Expense Utility Amount
+
+## identifier
+de15131
+
+## type
+float
+
+## definition
+This is the value of any expenses incurred that relate to utilities.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Utility.Amount
+- classification=baf/bafpr/bafpr1.02.35
+- period=duration

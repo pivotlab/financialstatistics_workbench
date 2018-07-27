@@ -1,0 +1,16 @@
+# Assets Margin Loans Called Count
+
+## identifier
+de15168
+
+## type
+int
+
+## definition
+This is the number of margin loans where a margin call was made during the relevant period.
+
+## syntax
+### xbrl
+- name=Assets.MarginLoansCalled.Count
+- classification=baf/bafpo/bafpo1.02.34
+- period=duration

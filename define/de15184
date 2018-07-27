@@ -1,0 +1,16 @@
+# Identifiers Legal Entity Identifier
+
+## identifier
+de15184
+
+## type
+string
+
+## definition
+The Legal Entity Identifier (LEI) is a 20-digit, alpha-numeric code based on the ISO 17442 standard developed by the International Organization for Standardization (ISO).
+
+## syntax
+### xbrl
+- name=Identifiers.LegalEntity.Identifier
+- classification=py/pyid/pyid.02.22
+- period=instant

@@ -1,0 +1,16 @@
+# Financial Risk Market Weighted Average Reverse Repo Rate Percent
+
+## identifier
+de15158
+
+## type
+float
+
+## definition
+This is the weighted sum of individual reverse repo rates, which is the percentage difference in price between buying the security and agreeing to sell price of that security in the future expressed as an annual rate.
+
+## syntax
+### xbrl
+- name=FinancialRisk.Market.WeightedAverageReverseRepoRate.Percent
+- classification=baf/bafot/bafot.02.35
+- period=instant

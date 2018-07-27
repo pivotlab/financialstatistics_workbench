@@ -1,0 +1,16 @@
+# Assets Loans And Receivables Weighted Average Residual Term Number
+
+## identifier
+de15105
+
+## type
+int
+
+## definition
+This means the weighted sum of individual residual terms, where the weights used are the corresponding balances expressed as a share of the total balance.
+
+## syntax
+### xbrl
+- name=Assets.LoansAndReceivables.WeightedAverageResidualTerm.Number
+- classification=baf/bafpo/bafpo5.02.17
+- period=instant

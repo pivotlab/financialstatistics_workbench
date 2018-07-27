@@ -1,0 +1,17 @@
+# Income Interest Loans And Advances Leases Amount
+
+## identifier
+de15121
+
+## type
+float
+
+## definition
+This is the value of the amount of interest income earned from loans and lease financing. Loans are financial assets that are: (1) created when a creditor lends funds directly to a debtor; and (2) are evidenced by non-negotiable documents. Finance leases are leases that transfer substantially all the risks and rewards incidental to the ownership of the asset. Title may or may not eventually be transferred.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.Interest.LoansAndAdvances.Leases.Amount
+- classification=baf/bafpr/bafpr2.02.24
+- period=duration

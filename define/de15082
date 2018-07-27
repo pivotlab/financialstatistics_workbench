@@ -1,0 +1,17 @@
+# Assets Exposures Finance Amount
+
+## identifier
+de15082
+
+## type
+float
+
+## definition
+This is the value of finance that has passed a specific stage in the provision of finance during the reporting period.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.Exposures.Finance.Amount
+- classification=baf/bafpo/bafpo3.02.19
+- period=duration

@@ -1,0 +1,20 @@
+# Regulatory Disclosures Transaction Residual Maturity Number
+
+## identifier
+de15192
+
+## type
+int
+
+## definition
+This is the number of days of residual maturity, which is the remaining term to contractual maturity.
+
+## guidance
+Please enter a whole number greater than or equal to zero to the nearest day for a transaction with a defined term or as "-1" for an undefined (open) transaction.
+Where the transaction collateral types are long-term asset-backed securities or equity securities, report the residual maturity of the collateral as "-1".
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.TransactionResidualMaturity.Number
+- classification=baf/bafot/bafot.02.35
+- period=instant

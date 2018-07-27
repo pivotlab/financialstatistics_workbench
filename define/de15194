@@ -1,0 +1,19 @@
+# Regulatory Disclosures Tri Party Agent Text
+
+## identifier
+de15194
+
+## type
+string
+
+## definition
+This is the text that flags whether or not the collateral is managed by a tri-party agent, which is a custodian bank to which collateral selection, payment and settlement, custody and management during a repurchase agreement is outsourced.
+
+## guidance
+Please enter either 'Y' or 'N'.
+
+## syntax
+### xbrl
+- name=RegulatoryDisclosures.TriPartyAgent.Text
+- classification=baf/bafot/bafot.02.35
+- period=instant

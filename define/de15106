@@ -1,0 +1,16 @@
+# Financial Risk Market Weighted Average Tenor Percent
+
+## identifier
+de15106
+
+## type
+float
+
+## definition
+This is the weighted sum of individual tenors, where tenor is the contractual term to maturity at issuance. The weights used are the corresponding balances expressed as a share of the total balance.
+
+## syntax
+### xbrl
+- name=FinancialRisk.Market.WeightedAverageTenor.Percent
+- classification=baf/bafot/bafot.02.34
+- period=instant

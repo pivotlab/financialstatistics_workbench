@@ -1,0 +1,20 @@
+# Assets Loans And Receivables Credit Outstanding Margin Loans LVR Greater Than 5 Less Than Equal 10 Percent Margin Call Amount
+
+## identifier
+de15178
+
+## type
+float
+
+## definition
+This is the amount owed by borrowers at the end of the reporting period for margin loans with a loan to valuation ratio (LVR) that is greater than 5 percentage points and less than or equal to 10 percentage points away from a margin call. Credit outstanding is the original loan amount, less any repayments, including any redraw facilities drawn. The balance should be reported gross of provisions.
+
+## guidance
+Do not net any deposit balances in offset accounts against the outstanding loan amount. Exclude finance that has been written off.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.CreditOutstandingMarginLoansLVRGreaterThan5LessThanEqual10PercentMarginCall.Amount
+- classification=baf/bafpo/bafpo5.02.18
+- period=instant

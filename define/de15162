@@ -1,0 +1,17 @@
+# Liabilities Other Financial Liabilities Securities Borrowing Market Amount
+
+## identifier
+de15162
+
+## type
+float
+
+## definition
+This is the market value of the securities borrowed in a securities lending agreement.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Liabilities.OtherFinancialLiabilities.SecuritiesBorrowingMarket.Amount
+- classification=baf/bafpo/bafpo6.02.21
+- period=instant

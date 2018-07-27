@@ -1,0 +1,17 @@
+# Income Fees Commissions Amount
+
+## identifier
+de15125
+
+## type
+float
+
+## definition
+This is the value of any income earned for fees and commissions.
+
+## syntax
+### xbrl
+- balance=credit
+- name=Income.FeesCommissions.Amount
+- classification=baf/bafpr/bafpr1.02.35
+- period=duration

@@ -1,0 +1,17 @@
+# Expense Dividend Extraordinary Special Amount
+
+## identifier
+de15146
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, for the amount of non-recurring, irregularly scheduled and declared dividends which are separate from the normal dividend cycle of the entity. The dividend is disproportionately large relative to the recent level of normal dividends paid.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.DividendExtraordinarySpecial.Amount
+- classification=baf/bafpr/bafpr1.02.35
+- period=duration

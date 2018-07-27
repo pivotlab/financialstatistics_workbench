@@ -1,0 +1,16 @@
+# Financial Risk Market Weighted Average Repo Rate Percent
+
+## identifier
+de15157
+
+## type
+float
+
+## definition
+This is the weighted sum of individual repo rates, which is the percentage difference between the purchase and repurchase price of a security expressed as an annual rate.
+
+## syntax
+### xbrl
+- name=FinancialRisk.Market.WeightedAverageRepoRate.Percent
+- classification=baf/bafot/bafot.02.35
+- period=instant

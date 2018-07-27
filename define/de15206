@@ -1,0 +1,16 @@
+# Financial Risk Exposures Counterparty Connection Text
+
+## identifier
+de15206
+
+## type
+string
+
+## definition
+A connection is the relationship between two counterparties in a group of connected counterparties. A connection can be any of the following: cross guarantees; common ownership or management; control; financial interdependency; or other connections or relationships.
+
+## syntax
+### xbrl
+- name=FinancialRisk.Exposures.CounterpartyConnection.Text
+- classification=baf/bafot/bafot.02.35
+- period=instant

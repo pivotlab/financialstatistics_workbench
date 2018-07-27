@@ -1,0 +1,16 @@
+# Liabilities Exposures Value Of Funds Weighted Average Percent
+
+## identifier
+de15110
+
+## type
+float
+
+## definition
+This is the weighted sum of individual values of funds, where the weights used are the corresponding balances expressed as a share of the total balance. The value of funds is the institution's internal funds transfer pricing rate for a liability. The price is established by the institution's treasury area and 'credited' to the relevant business area.
+
+## syntax
+### xbrl
+- name=Liabilities.Exposures.ValueOfFundsWeightedAverage.Percent
+- classification=baf/bafpo/bafpo3.02.19
+- period=instant

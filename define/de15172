@@ -1,0 +1,16 @@
+# Assets Margin Loans LVR Less Than Equal 5 Percent Margin Call Count
+
+## identifier
+de15172
+
+## type
+int
+
+## definition
+This is the number of margin loans with a loan to valuation ratio (LVR) that is less than or equal to 5 percentage points away from a margin call.
+
+## syntax
+### xbrl
+- name=Assets.MarginLoansLVRLessThanEqual5PercentMarginCall.Count
+- classification=baf/bafpo/bafpo1.02.34
+- period=instant

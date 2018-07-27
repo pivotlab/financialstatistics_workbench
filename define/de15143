@@ -1,0 +1,17 @@
+# Expense Impairment Individual Provision Amount
+
+## identifier
+de15143
+
+## type
+float
+
+## definition
+This is the value for all expense provisions for impairment assessed by the entity on an individual basis as defined by the Australian Accounting Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.ImpairmentIndividualProvision.Amount
+- classification=baf/bafpr/bafpr1.02.35
+- period=instant

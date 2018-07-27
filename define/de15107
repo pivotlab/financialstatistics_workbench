@@ -1,0 +1,16 @@
+# Financial Risk Market Benchmark Rate Percent
+
+## identifier
+de15107
+
+## type
+float
+
+## definition
+This is the base rate at which the entity can issue senior unsecured debt in the relevant currency as used in the calculation of internal transfer pricing. The benchmark rate is expressed as an outright rate (not a spread).
+
+## syntax
+### xbrl
+- name=FinancialRisk.Market.BenchmarkRate.Percent
+- classification=baf/bafot/bafot.02.34
+- period=instant

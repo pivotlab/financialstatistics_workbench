@@ -8,6 +8,7 @@ float
 
 ## definition
 The value of assets in cover pools used as collateral for covered bond issuance.
+Has the meaning of 'cover pool' as in the Banking Act 1959.
 
 ## syntax
 ### xbrl

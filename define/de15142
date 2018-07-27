@@ -1,0 +1,17 @@
+# Expense Impairment Collective Provision Amount
+
+## identifier
+de15142
+
+## type
+float
+
+## definition
+This is the value for all expense provisions for impairment assessed by the entity on a collective basis as defined by the Australian Accounting Standards.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.ImpairmentCollectiveProvision.Amount
+- classification=baf/bafpr/bafpr1.02.35
+- period=instant

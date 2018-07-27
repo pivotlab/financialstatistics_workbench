@@ -1,0 +1,17 @@
+# Expense Operating Other Outsourced Information Technology Services Amount
+
+## identifier
+de15137
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of other outsourced information technology services purchased from external services providers.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.OtherOutsourcedInformationTechnologyServices.Amount
+- classification=baf/bafpr/bafpr2.02.24
+- period=duration

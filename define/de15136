@@ -1,0 +1,17 @@
+# Expense Operating Rental Repairs And Maintenance Amount
+
+## identifier
+de15136
+
+## type
+float
+
+## definition
+This is the value, during the relevant period, of rental expense incurred for using rented equipment and the value of repair and maintenance expenses.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.Operating.RentalRepairsAndMaintenance.Amount
+- classification=baf/bafpr/bafpr2.02.24
+- period=duration

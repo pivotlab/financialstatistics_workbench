@@ -1,0 +1,17 @@
+# Assets Loans And Receivables Credit Purchased Amount
+
+## identifier
+de15091
+
+## type
+float
+
+## definition
+This is the value of the credit purchased during the period. This comprises loans that were not previously recorded as being on-balance sheet but are now recorded as on-balance sheet as a result of the purchase of credit, excluding any premium or discount.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Assets.LoansAndReceivables.CreditPurchased.Amount
+- classification=baf/bafpo/bafpo5.02.17
+- period=duration

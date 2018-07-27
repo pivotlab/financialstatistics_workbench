@@ -1,0 +1,17 @@
+# Expense Information Technology Incurred Amount
+
+## identifier
+de15133
+
+## type
+float
+
+## definition
+This is the value of the expenses incurred during the reporting period related to the use of information technology including equipment, software and services but not computer software capitalised.
+
+## syntax
+### xbrl
+- balance=debit
+- name=Expense.InformationTechnologyIncurred.Amount
+- classification=baf/bafpr/bafpr1.02.35
+- period=duration
