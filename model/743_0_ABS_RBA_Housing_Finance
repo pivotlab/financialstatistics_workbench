@@ -10,8 +10,7 @@ Lodgement
 
 
 NewLoan
- // This must be set to 'New'
-	ActivityStatusDimension:(https://financialstatistics.pivotlab.io/define/dm888)
+	ActivityStatusDimension:(https://financialstatistics.pivotlab.io/define/dm888)=New
  loanApplicatoin:LoanApplication
 
 LoanApplication
