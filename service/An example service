@@ -1,0 +1,11 @@
+name: An example service
+description: What this service is for
+methods:
+    Do something interesting:
+        description: The first interesting service
+        path: /resources/resource/{param1}
+        params:
+            param1: http://api.gov.au/definition/trc/de217
+            param2: http://api.gov.au/definition/trc/de218
+        body: https://tour.pivotlab.io/api/model/payment_reference_number_request
+        return: http://api.gov.au/definition/trc/de114
