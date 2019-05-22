@@ -3,7 +3,7 @@ package apra.arf
 
 
 Lodgement
-	^IdentifiersAustralianBusinessNumberIdentifier:(http://definitions.ausdx.io/definition/trc/de26)
+	^IdentifiersAustralianBusinessNumberIdentifier:(http://api.gov.au/definition/trc/de26)
 	^ReportingConsolidationBasisDimension:(http://financialstatistics.pivotlab.io/define/dm916)=Domestic Books
 	newApplicationsForHousingLoans:NewLoan[]
 	newBorrowerAcceptedCommitments:BorrowerCommitments[]
