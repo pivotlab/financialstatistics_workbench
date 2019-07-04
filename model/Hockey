@@ -1,0 +1,31 @@
+package io.pivotlab
+Hockey
+
+PlayoffRound
+ id:string
+ team1:Team
+ team2:Team
+ startTime:string
+ endTime:string
+ roundNumber:int
+ stats:RoundStats
+ 
+  
+RoundStats
+ shoutouts:int
+ goalLeader:Player
+ assistLeader:Player
+ penalityLeader:Player
+ plusMinusLeader:Player
+ facesOffLeader:Player
+ sogLeader:Player
+
+Team
+ name:string
+ players:Player[]
+ 
+Player
+ firstName:string
+ lastName:string
+ jerseyNumber:int
+ position:string
