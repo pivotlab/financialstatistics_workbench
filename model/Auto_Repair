@@ -1,0 +1,53 @@
+package io.pivotlab
+Auto_Repair
+
+User
+ Address1:string
+ Address2:string
+ City:string
+ Email:string
+ Latitude:float
+ Longditute:float
+ Name:string
+ Password:string
+ Role:string
+ State:string
+ Zip:string
+ Speciality:Speciality
+ Job:Job
+ Bid:Bid[]
+ 
+Speciality
+ Category:string
+ Description:string
+ Name:String
+ Job:Job
+ 
+Job
+ Comments:string
+ SumbmittedAt:string
+ Bid:Bid[]
+ Model:AutoModel
+ 
+Bid
+ Comments:string
+ LaborPrice:int
+ PartsPrice:int
+ SubmittedAt:string
+ Review:Review
+ 
+Review
+ Comments:string
+ Rating:int
+ Title:string
+ 
+AutoModel
+ Name:string
+ Make:AutoMake
+ 
+AutoMake
+ Name:string
+ Year:AutoYear
+
+AutoYear
+ Year:int
