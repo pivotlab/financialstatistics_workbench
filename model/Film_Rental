@@ -6,13 +6,47 @@ Store
  manager:Staff
  address:Address
  staff:Staff[]
+ customer:Customer[]
+ rental:Rental[]
+ inventory:Inventory[]
+ 
+Inventory
+ film:Film
+ quantity:int
+
+Rental
+ date:string
+ film:Film[]
+ customer:Customer
+ returnDate:string
+ servedBy:Staff
+ 
+Film
+ title:string
+ description:string
+ releaseYear:int
+ language:string
+ originalLanguage:string
+ duration:int
+ 
+Customer
+ person:Person
  
 Staff
+ person:Person
+ username:string
+ password:string
+ 
+Person
  firstName:string
  lastName:string
  address:Address
  email:string
- username:string
- password:string
  
+Address
+ line1:string
+ line2:string
+ state:string
+ suburb:string
+ postcode:string
  
