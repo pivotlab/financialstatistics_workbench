@@ -1,0 +1,18 @@
+package io.pivotlab
+Film_Rental
+
+Store
+ id:string
+ manager:Staff
+ address:Address
+ staff:Staff[]
+ 
+Staff
+ firstName:string
+ lastName:string
+ address:Address
+ email:string
+ username:string
+ password:string
+ 
+ 
