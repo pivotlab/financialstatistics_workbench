@@ -1,0 +1,82 @@
+package io.pivotlab
+meta_model
+
+root
+ ^ReportPartyTypeDimension:string
+ ^SuperannuationReportingLevelDimension:string
+ ^InsuranceActivityDimension:string
+ hc9_1:HC9_1
+ hc17_1:HC17_1
+ hc23_1:HC23_1
+ hc13_1:HC13_1
+ hc11_1:HC11_1
+ hc1_1:HC1_1
+ hc6_1:HC6_1
+ hc19_1:HC19_1
+ hc7_1:HC7_1
+ hc15_1:HC15_1
+ 
+HC9_1
+ ^ArrangementIdentifierDimension:string
+ SuperannuationFundDetails.EmployerFunded.Indicator:string
+ RegulatoryDisclosures.RecommendedSelfInsuranceFunding.Amount:string
+ SuperannuationFundDetails.SelfInsuranceArrangementCommencement.Indicator:string
+ RegulatoryDisclosures.FundingArrangement.Code:string
+ SuperannuationFundDetails.SelfInsuranceArrangementStatus.Indicator:string
+ RegulatoryDisclosures.ActualSelfInsuranceFundingHeld.Amount:string
+ SuperannuationRegulatoryInformation.GroupInsuranceArrangement.Indicator:string
+ Income.Insurance.PremiumGrossOfReinsurance.Amount:string
+ Income.Insurance.PremiumRebate.Amount:string
+
+HC17_1
+ ^ClassOfBusinessDimension:string
+ ^OrganisationNameOrABNDimension:string
+ SuperannuationRegulatoryInformation.InsurancePolicyArrangement.Code:string
+ SuperannuationRegulatoryInformation.InvestmentInRelatedParty.Indicator:string
+ hc1:HC1_1
+
+HC23_1
+ ^ArrangementIdentifierDimension:string
+ ^DateDescriptionDimension:string?
+ SuperannuationRegulatoryInformation.ActuarialReview.Date:string
+
+HC13_1
+ ^ArrangementIdentifierDimension:string
+ ^InsuranceTypeDimension:string?
+ Liabilities.Insurance.GrossPolicy.Amount:string
+ OrganisationControl.RegisteredMemberAccount.Count:string
+
+HC11_1
+ ^InsuranceTypeDimension:string
+ RegulatoryDisclosures.InsuranceClaims.Number:string
+ RegulatoryDisclosures.InsuranceClaimsAdmitted.Amount:string
+ RegulatoryDisclosures.InsuranceClaimsAdmitted.Count:string
+ hc15:HC15_1
+
+HC1_1
+ ^ProductGroupDimension:string?
+ FinancialRisk.InsuranceCoverLimit.Amount:string
+ OrganisationControl.RegisteredMemberAccount.Count:string
+
+HC6_1
+ ^OrganisationNameOrABNDimension:string
+ ^ClassOfBusinessDimension:string
+ ^ProductGroupDimension:string
+ OrganisationControl.RegisteredMemberAccount.Count:string
+ FinancialRisk.InsuranceCoverLimit.Amount:string
+
+HC19_1
+ ^ArrangementIdentifierDimension:string?
+ ^PeriodOffsetEffectivePeriodDimension:string?
+ Expense.InsurancePremiumPayments.Amount:string
+
+HC7_1
+ ^ClassOfBusinessDimension:string
+ ^OrganisationNameDimension:string
+ Income.Insurance.ClaimOutwardsReinsurance.Amount:string
+ Income.Insurance.PremiumGrossOfReinsurance.Amount:string
+
+HC15_1
+ ^ClaimsAdmittedPeriodDimension:string?
+ Expense.ClaimsPaidCashflowBasis.Amount:string
+ RegulatoryDisclosures.InsuranceClaimsPaid.Count:string
