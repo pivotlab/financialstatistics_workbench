@@ -1,0 +1,200 @@
+package io.pivotlab
+payroll
+
+Domain
+ organisation:Organisation 
+ 
+Organisation
+    payrollRun:PayrollRun
+    bankAccount:BankAccount
+    businessType:Code
+    name:OrganisationName
+    industryClassification:Code
+    abn:Identifier
+    employee:Employee
+
+TaxationPlan
+    nonResident:Indicator
+    taxFreeThresholdClaimed:Indicator
+    helpDebt:Indicator
+    payrolTaxExempt:Indicator
+    medicareLevyExempt:Indicator
+    taxScale:Code
+    financialSupplementDebt:Indicator
+
+
+EmploymentConditions
+    employmentContract:Code
+    employmentStatus:Code
+    wageBasis:Code
+    payCycle:Code
+    baseHourlyWage:Numeric
+    contractedHoursPerWeek:Numeric
+    employmentBasis:Code
+    baseAnnualSalary:Numeric
+
+Employee
+    terminationReasonCode:Code
+    wage:WagePlan
+    leaveEntitlement:LeaveEntitlement
+    tfn:Identifier
+    activityDetail:WorkActivityDetail
+    super:SuperannuationPlan
+    personDetails:Person
+    employmentJurisdiction:Code
+    payslip:Payslip
+    deduction:DeductionPlan
+    terminationReason:Text
+    taxationPlan:TaxationPlan
+    positionType:Code
+    terminationDate:Date
+    employmentStartDate:Date
+    conditions:EmploymentConditions
+    id:Identifier
+    allowance:AllowancePlan
+
+WageItem
+    amount:Numeric
+    hoursWorked:Numeric
+    type:Code
+    description:Text
+    ytdAmount:Numeric
+
+BankAccount
+    currency:Code
+    type:Code
+    name:Text
+    accountIdentification:AccountIdentification
+
+OrganisationName
+    type:Code
+    name:Text
+
+AllowancePlan
+    bankAccount:BankAccount
+    type:Code
+    description:Text
+    isTaxable:Indicator
+
+WorkActivityDetail
+    start:DateTime
+    hoursWorked:Numeric
+    activityType:Code
+    end:DateTime
+    projectCode:Code
+
+DeductionItem
+    variationReason:Code
+    amount:Numeric
+    type:Code
+    description:Text
+    ytdAmount:Numeric
+
+WagePlan
+    basisCode:Code
+    bankAccount:BankAccount
+    end:Date
+    description:Text
+    start:Date
+    amount:Numeric
+    multiplier:Numeric
+    type:Code
+
+Plan
+    end:Date
+    rate:Numeric
+    start:Date
+    limitBasis:Code
+    limitMethod:Code
+    rateBasis:Code
+    amount:Numeric
+    limit:Numeric
+    limitNumeric:Numeric
+    paymentMethod:Code
+
+PayrollRun
+    start:Date
+    payslip:Payslip
+    end:Date
+    posted:Date
+
+LeaveEntitlement
+    accrualRate:Numeric
+    type:Code
+    carryOver:Indicator
+    accuralPeriod:Code
+
+TaxationItem
+    ytdWitheld:Numeric
+    description:Text
+    withholdingType:Code
+    withheld:Numeric
+
+Payslip
+    wage:WageItem
+    gross:Numeric
+    ytdGross:Numeric
+    super:SuperannuationItem
+    ytdNet:Numeric
+    deduction:DeductionItem
+    expenseReimbursement:Numeric
+    tax:TaxationItem
+    leave:LeaveItem
+    date:Date
+    net:Numeric
+    paymentMethod:Code
+    terminationPayment:Indicator
+    allowance:AllowanceItem
+
+LeaveItem
+    end:Date
+    takenOrCashedIn:Indicator
+    start:Date
+    reason:Text
+    ytdBalance:Numeric
+    type:Code
+
+SuperannuationAccount
+    spin:Identifier
+    fundName:Text
+    id:Identifier
+
+DeductionPlan
+    type:Code
+    description:Text
+
+Person
+    name:PersonName
+    birthDate:Date
+    sex:Code
+    citizenshipCountry:Code
+    birthCountry:Code
+    deathDate:Date
+    occupation:Code
+
+AllowanceItem
+    ytdAmount:Numeric
+    amount:Numeric
+    type:Code
+    description:Text
+
+SuperannuationPlan
+    account:SuperannuationAccount
+    contributionDescription:Text
+    contributionType:Code
+
+SuperannuationItem
+    contributionAmount:Numeric
+    ytdContributionAmount:Numeric
+    description:Text
+    contributionType:Code
+
+AccountIdentification
+    iban:Identifier
+    bban:Identifier
+    bsb:Identifier
+    accountNumber:Identifier
+
+
+
+
